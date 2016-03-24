@@ -1185,6 +1185,12 @@
     "brand": "AllView",
     "name": "P6 Lite",
     "device": "P6_lite",
+    "model": "P6_lite"
+  },
+  {
+    "brand": "AllView",
+    "name": "P6 Lite",
+    "device": "P6_lite",
     "model": "P6_lite_TM"
   },
   {
@@ -7306,6 +7312,12 @@
     "name": "FunTab 2",
     "device": "FunTab2",
     "model": "FunTab2"
+  },
+  {
+    "brand": "Ematic",
+    "name": "FunTab 3",
+    "device": "Funtab3",
+    "model": "Funtab3"
   },
   {
     "brand": "Ematic",
@@ -19771,6 +19783,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI MediaPad T2 10.0 pro",
+    "device": "HWFDR",
+    "model": "FDR-A01w"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI MediaPad X1 7.0",
     "device": "hw7d501l",
     "model": "7D-501u"
@@ -24157,6 +24175,12 @@
   },
   {
     "brand": "LGE",
+    "name": "\\t LG X screen",
+    "device": "k5",
+    "model": "LG-F650K"
+  },
+  {
+    "brand": "LGE",
     "name": "070 touch",
     "device": "w3voip",
     "model": "LG-FL40L"
@@ -24946,6 +24970,12 @@
     "name": "L50 Sporty",
     "device": "luv50ssn",
     "model": "LG-D213"
+  },
+  {
+    "brand": "LGE",
+    "name": "L5000",
+    "device": "l5000",
+    "model": "LG-F590"
   },
   {
     "brand": "LGE",
@@ -25945,6 +25975,72 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-F700L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-F700S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H820"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H830"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H831"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H850"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H860"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LG-H868"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LGLS992"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "LGUS992"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "VS987"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Gpad X 10.1",
     "device": "t1lte",
     "model": "LG-V930"
@@ -26056,6 +26152,12 @@
     "name": "LG K4 LTE",
     "device": "me1ds",
     "model": "LG-K130"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K5",
+    "device": "d3",
+    "model": "LG-X220"
   },
   {
     "brand": "LGE",
@@ -27364,6 +27466,18 @@
     "name": "LG Wine Smart Jazz",
     "device": "cf",
     "model": "LG-F610S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X screen",
+    "device": "k5",
+    "model": "LG-F650L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X screen",
+    "device": "k5",
+    "model": "LG-F650S"
   },
   {
     "brand": "LGE",
@@ -29182,6 +29296,12 @@
     "name": "Le X507",
     "device": "X3_HK",
     "model": "Le X507"
+  },
+  {
+    "brand": "LeTV",
+    "name": "Le X507",
+    "device": "X3_HK",
+    "model": "Le X509"
   },
   {
     "brand": "LeTV",
@@ -38702,6 +38822,12 @@
   {
     "brand": "Philips",
     "name": "Philips S337",
+    "device": "S337_AG",
+    "model": "Philips S337"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips S337",
     "device": "S337_BG",
     "model": "Philips S337"
   },
@@ -43538,6 +43664,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J1 Ace",
+    "device": "j1acevelte",
+    "model": "SM-J111M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1 Ace",
     "device": "j1pop3g",
     "model": "SM-J110H"
   },
@@ -43666,6 +43798,12 @@
     "name": "Galaxy J3(2016)",
     "device": "j3ltetw",
     "model": "SM-J320YZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlteatt",
+    "model": "SAMSUNG-SM-J320A"
   },
   {
     "brand": "Samsung",
@@ -48238,6 +48376,12 @@
     "name": "Galaxy Tab A S 8.0",
     "device": "gt58ltebmc",
     "model": "SM-T357W"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab E 7.0",
+    "device": "gtexslte",
+    "model": "SM-T285"
   },
   {
     "brand": "Samsung",
@@ -59028,6 +59172,12 @@
     "model": "iRULU_V3"
   },
   {
+    "brand": "USA111",
+    "name": "iRULU_V4",
+    "device": "iRULU",
+    "model": "V4"
+  },
+  {
     "brand": "Ubiquiti",
     "name": "USS",
     "device": "grizzlies_telefi4wm",
@@ -59581,6 +59731,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo V3Max A",
+    "device": "PD1523",
+    "model": "vivo PD1523A"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo X5",
     "device": "X5",
     "model": "vivo X5"
@@ -59656,6 +59812,12 @@
     "name": "vivo X6SPlusA",
     "device": "PD1515BA",
     "model": "vivo PD1515BA"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Xplay5A",
+    "device": "PD1522A",
+    "model": "vivo PD1522A"
   },
   {
     "brand": "Vivo",

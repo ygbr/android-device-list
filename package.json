@@ -1,6 +1,6 @@
 {
   "name": "android-device-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "ava",
     "lint": "eslint index.js build.js",
-    "build": "node build.js"
+    "build": "node ./build.js"
   },
   "author": "Peter Bakondy",
   "license": "MIT",
