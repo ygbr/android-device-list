@@ -1165,6 +1165,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P5 Pro",
+    "device": "P5_Pro",
+    "model": "P5_Pro"
+  },
+  {
+    "brand": "AllView",
     "name": "P5 eMagic",
     "device": "P5_eMagic",
     "model": "P5_eMagic"
@@ -5680,6 +5686,12 @@
     "name": "Condor C6+",
     "device": "PGN_508",
     "model": "PGN-508"
+  },
+  {
+    "brand": "Condor",
+    "name": "Griffe G5",
+    "device": "PHQ520",
+    "model": "Griffe G5"
   },
   {
     "brand": "Condor",
@@ -37861,6 +37873,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga Icon 2",
+    "device": "ELUGA_Icon2",
+    "model": "Panasonic ELUGA Icon 2"
+  },
+  {
+    "brand": "Panasonic",
     "name": "FZ-A1",
     "device": "toughpad",
     "model": "FZ-A1B"
@@ -40294,6 +40312,12 @@
     "name": "LT700",
     "device": "GBL7325QM",
     "model": "LT700"
+  },
+  {
+    "brand": "QMobile",
+    "name": "NOIR A3",
+    "device": "A3",
+    "model": "QMobile A3"
   },
   {
     "brand": "QMobile",
@@ -43639,6 +43663,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J1",
+    "device": "j1xlteatt",
+    "model": "SAMSUNG-SM-J120A"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J1 Ace",
     "device": "j1acelte",
     "model": "SM-J110F"
@@ -43783,21 +43813,45 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy J3",
-    "device": "j3xlte",
-    "model": "SM-J320F"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy J3",
-    "device": "j3xlte",
-    "model": "SM-J320M"
+    "name": "Galaxy J3(2016)",
+    "device": "j3ltetw",
+    "model": "SM-J320Y"
   },
   {
     "brand": "Samsung",
     "name": "Galaxy J3(2016)",
     "device": "j3ltetw",
     "model": "SM-J320YZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlte",
+    "model": "SM-J320F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlte",
+    "model": "SM-J320G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlte",
+    "model": "SM-J320M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlteaio",
+    "model": "SAMSUNG-SM-J320AZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3xlteaio",
+    "model": "SAMSUNG-SM-J321AZ"
   },
   {
     "brand": "Samsung",
@@ -43867,6 +43921,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xltecmcc",
+    "model": "SM-J5108"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J7",
     "device": "j75ltektt",
     "model": "SM-J700K"
@@ -43894,6 +43954,24 @@
     "name": "Galaxy J7",
     "device": "j7ltechn",
     "model": "SM-J7008"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7(2016)",
+    "device": "j7ltespr",
+    "model": "SM-J700P"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7(2016)",
+    "device": "j7xeltecmcc",
+    "model": "SM-J7108"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7(2016)",
+    "device": "j7xltectc",
+    "model": "SM-J7109"
   },
   {
     "brand": "Samsung",
@@ -47590,6 +47668,12 @@
     "name": "Galaxy S7",
     "device": "herolteskt",
     "model": "SM-G930S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7",
+    "device": "heroqlteacg",
+    "model": "SM-G930R7"
   },
   {
     "brand": "Samsung",
@@ -67072,6 +67156,12 @@
     "name": "Irulu",
     "device": "octopus-masu",
     "model": "X10"
+  },
+  {
+    "brand": "iRulu",
+    "name": "iRULU X27",
+    "device": "X27",
+    "model": "X27"
   },
   {
     "brand": "iView",

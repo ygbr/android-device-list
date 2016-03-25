@@ -64,7 +64,7 @@ LGDevices = androidDevices.getDevicesByBrand('lg');
 console.log(LGDevices.length);
 // 0
 
-  LGDevices = androidDevices.getDevicesByBrand('LG');
+LGDevices = androidDevices.getDevicesByBrand('LG');
 console.log(LGDevices.length);
 // 0
 
