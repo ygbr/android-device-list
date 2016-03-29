@@ -1339,6 +1339,12 @@
   },
   {
     "brand": "AllView",
+    "name": "Viva H1001 LTE",
+    "device": "Viva_H1001_LTE",
+    "model": "Viva_H1001_LTE"
+  },
+  {
+    "brand": "AllView",
     "name": "Viva H7 LTE",
     "device": "Allview_VivaH7LTE_KK",
     "model": "VivaH7LTE"
@@ -5122,6 +5128,12 @@
     "name": "Carrefour CT820",
     "device": "M878LP",
     "model": "CT820"
+  },
+  {
+    "brand": "Casio",
+    "name": "Smart Outdoor Watch WSD-F10",
+    "device": "koi",
+    "model": "CASIO WSD-F10"
   },
   {
     "brand": "Casper",
@@ -14221,6 +14233,12 @@
   },
   {
     "brand": "Hipstreet",
+    "name": "Electron 2",
+    "device": "8DTB40",
+    "model": "8DTB40"
+  },
+  {
+    "brand": "Hipstreet",
     "name": "HS-10DTB12",
     "device": "Hipstreet",
     "model": "HS-10DTB12"
@@ -19792,6 +19810,12 @@
     "name": "HUAWEI MediaPad M1 8.0",
     "device": "hws8301l",
     "model": "S8-306L"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MediaPad T2 10.0 pro",
+    "device": "HWFDR",
+    "model": "FDR-A01L"
   },
   {
     "brand": "Huawei",
@@ -32353,6 +32377,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-5008",
+    "device": "P839F30",
+    "model": "LS-5008"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-5016",
     "device": "LS-5016",
     "model": "LS-5016"
@@ -37231,6 +37261,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A37m",
+    "device": "A37",
+    "model": "OPPO A37m"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Find5",
     "device": "FIND5",
     "model": "X909"
@@ -38667,6 +38703,12 @@
     "brand": "Philips",
     "name": "4K & Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
     "device": "philips_MT5593FHT_EU",
+    "model": "QM152E"
+  },
+  {
+    "brand": "Philips",
+    "name": "4K & Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
+    "device": "philips_MT5593HT_LT",
     "model": "QM152E"
   },
   {
@@ -40321,6 +40363,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "NOIR A6",
+    "device": "A6",
+    "model": "QMobile A6"
+  },
+  {
+    "brand": "QMobile",
     "name": "Pakistan",
     "device": "A1_sprout",
     "model": "QMobile A1"
@@ -41728,6 +41776,12 @@
     "name": "Galaxy A8",
     "device": "a8ltechn",
     "model": "SM-A800X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A9 Pro",
+    "device": "a9xproltechn",
+    "model": "SM-A9100"
   },
   {
     "brand": "Samsung",
@@ -56037,6 +56091,12 @@
     "brand": "TCT (Alcatel)",
     "name": "ALCATEL ONETOUCH PIXI 4 (4)",
     "device": "Pixi4-4",
+    "model": "4034D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
     "model": "4034G"
   },
   {
@@ -59926,6 +59986,12 @@
     "name": "vivo Y21",
     "device": "Y21",
     "model": "vivo Y21"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y21L",
+    "device": "Y21L",
+    "model": "vivo Y21L"
   },
   {
     "brand": "Vivo",
@@ -63949,6 +64015,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "VFD 200",
+    "device": "P731V35",
+    "model": "VFD 200"
+  },
+  {
+    "brand": "ZTE",
     "name": "Vip Racer III",
     "device": "atlas40",
     "model": "Vip Racer III"
@@ -64708,6 +64780,12 @@
     "name": "ZTE C310",
     "device": "P172D04",
     "model": "L8301"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE C310",
+    "device": "P172D04",
+    "model": "Movitel M8410"
   },
   {
     "brand": "ZTE",
