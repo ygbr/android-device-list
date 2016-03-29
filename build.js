@@ -133,14 +133,14 @@ function splitSpecial(data) {
 
   let start = 0;
   let end = data.length;
-  var cells = [];
-  var isQuoted = false;
-  var offset = start;
+  let cells = [];
+  let isQuoted = false;
+  let offset = start;
 
-  for (var i = start; i < end; i++) {
-    var isStartingQuote = !isQuoted && data[i] === CVS_QUOTE_CODE;
-    var isEndingQuote = isQuoted && data[i] === CVS_QUOTE_CODE && i + 1 <= end && data[i + 1] === CVS_SEPARATOR_CODE;
-    var isEscape = isQuoted && data[i] === CVS_ESCAPE_CODE && i + 1 < end && data[i + 1] === CVS_QUOTE_CODE;
+  for (let i = start; i < end; i++) {
+    let isStartingQuote = !isQuoted && data[i] === CVS_QUOTE_CODE;
+    let isEndingQuote = isQuoted && data[i] === CVS_QUOTE_CODE && i + 1 <= end && data[i + 1] === CVS_SEPARATOR_CODE;
+    let isEscape = isQuoted && data[i] === CVS_ESCAPE_CODE && i + 1 < end && data[i + 1] === CVS_QUOTE_CODE;
 
     if (isStartingQuote || isEndingQuote) {
       isQuoted = !isQuoted;
