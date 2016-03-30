@@ -5707,6 +5707,12 @@
   },
   {
     "brand": "Condor",
+    "name": "Griffe G5",
+    "device": "PHQ520",
+    "model": "PHQ520"
+  },
+  {
+    "brand": "Condor",
     "name": "HS-U939",
     "device": "u939e_6",
     "model": "HS-U939"
@@ -10846,6 +10852,12 @@
     "name": "HTC 0PK72",
     "device": "htc_hiaur_ml_tuhl",
     "model": "HTC One M9PLUS"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmeuhl",
+    "model": "HTC_M10h"
   },
   {
     "brand": "HTC",
