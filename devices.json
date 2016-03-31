@@ -4429,6 +4429,12 @@
   },
   {
     "brand": "Beeline",
+    "name": "Beeline_Tab_Fast",
+    "device": "Beeline_Tab_Fast",
+    "model": "Beeline_Tab_Fast"
+  },
+  {
+    "brand": "Beeline",
     "name": "Beeline\\xc2\\xa0Pro 4",
     "device": "Beeline_Pro_4",
     "model": "Beeline Pro 4"
@@ -10852,6 +10858,12 @@
     "name": "HTC 0PK72",
     "device": "htc_hiaur_ml_tuhl",
     "model": "HTC One M9PLUS"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmeuhl",
+    "model": "HTC 10"
   },
   {
     "brand": "HTC",
@@ -32401,6 +32413,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-5021",
+    "device": "ZTE_T920",
+    "model": "LS-5021"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-5503",
     "device": "P839F50",
     "model": "LS-5503"
@@ -37276,6 +37294,12 @@
     "name": "OPPO A37m",
     "device": "A37",
     "model": "OPPO A37m"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A37tm",
+    "device": "A37",
+    "model": "OPPO A37tm"
   },
   {
     "brand": "Oppo",
@@ -56701,6 +56725,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Nitro",
+    "device": "idol3",
+    "model": "6045O"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "ONE TOUCH 4007X",
     "device": "Pixo_GSM",
     "model": "ONE TOUCH 4007A"
@@ -59725,6 +59755,12 @@
   },
   {
     "brand": "ViewSonic",
+    "name": "Q5",
+    "device": "Q5",
+    "model": "Viewphone Q5"
+  },
+  {
+    "brand": "ViewSonic",
     "name": "VSD221",
     "device": "VSD221",
     "model": "VSD221"
@@ -59770,6 +59806,12 @@
     "name": "ViewPadi8Q",
     "device": "vsi8q_1_coho",
     "model": "vsi8q_1_coho"
+  },
+  {
+    "brand": "ViewSonic",
+    "name": "Viewsonic",
+    "device": "ViewPad_IR10Q",
+    "model": "IR10Q"
   },
   {
     "brand": "Visual Land",
