@@ -1159,6 +1159,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P4 eMagic",
+    "device": "P4_eMagic",
+    "model": "P4_eMagic_TM"
+  },
+  {
+    "brand": "AllView",
     "name": "P5 Energy",
     "device": "P5_Energy",
     "model": "P5_Energy"
@@ -1183,9 +1189,21 @@
   },
   {
     "brand": "AllView",
+    "name": "P5 eMagic",
+    "device": "P5_eMagic",
+    "model": "P5_eMagic_TM"
+  },
+  {
+    "brand": "AllView",
     "name": "P5Life",
     "device": "P5Life",
     "model": "P5Life"
+  },
+  {
+    "brand": "AllView",
+    "name": "P5_Pro",
+    "device": "P5_Pro",
+    "model": "P5_Pro_TM"
   },
   {
     "brand": "AllView",
@@ -1384,6 +1402,12 @@
     "name": "Viva i701G",
     "device": "Viva_H701_LTE",
     "model": "Viva_H701_LTE_CZ"
+  },
+  {
+    "brand": "AllView",
+    "name": "Viva i701G",
+    "device": "Viva_i701G",
+    "model": "Viva_i701G"
   },
   {
     "brand": "AllView",
@@ -4936,6 +4960,12 @@
     "name": "BM180",
     "device": "BM180",
     "model": "BM180"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "EF400",
+    "device": "EF400",
+    "model": "EF400"
   },
   {
     "brand": "Bluebird",
@@ -9685,6 +9715,12 @@
   },
   {
     "brand": "Gini",
+    "name": "e6_plus",
+    "device": "e6_plus",
+    "model": "e6_plus"
+  },
+  {
+    "brand": "Gini",
     "name": "s4",
     "device": "s4",
     "model": "s4"
@@ -14368,6 +14404,12 @@
     "name": "Phantom",
     "device": "Phantom",
     "model": "10DTB10"
+  },
+  {
+    "brand": "Hipstreet",
+    "name": "Phantom2",
+    "device": "10DTB44",
+    "model": "10DTB44"
   },
   {
     "brand": "Hipstreet",
@@ -22168,6 +22210,12 @@
     "name": "InFocus M430",
     "device": "HGO",
     "model": "InFocus M430"
+  },
+  {
+    "brand": "Infocus",
+    "name": "InFocus M460",
+    "device": "G3T",
+    "model": "InFocus M460"
   },
   {
     "brand": "Infocus",
@@ -35042,6 +35090,12 @@
   {
     "brand": "Motorola",
     "name": "Moto G (3rd Gen)",
+    "device": "osprey_u2",
+    "model": "MotoG3"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G (3rd Gen)",
     "device": "osprey_uds",
     "model": "MotoG3"
   },
@@ -37951,6 +38005,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga I3",
+    "device": "Eluga_I3",
+    "model": "Panasonic_Eluga_I3"
+  },
+  {
+    "brand": "Panasonic",
     "name": "Eluga Icon 2",
     "device": "ELUGA_Icon2",
     "model": "Panasonic ELUGA Icon 2"
@@ -38230,6 +38290,12 @@
     "name": "TAB-A01",
     "device": "TAB-A01",
     "model": "TAB-A01-SD"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "TH-49DX400C",
+    "device": "DX00C",
+    "model": "DX00C"
   },
   {
     "brand": "Panasonic",
@@ -38920,6 +38986,12 @@
     "name": "Philips S308",
     "device": "Philips_S308",
     "model": "Philips S308"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips S309",
+    "device": "Philips",
+    "model": "Philips S309"
   },
   {
     "brand": "Philips",
@@ -48608,6 +48680,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab E 8.0",
+    "device": "gtesltetmo",
+    "model": "SM-T377T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab E 8.0",
     "device": "gtesltetw",
     "model": "SM-T3777"
   },
@@ -49810,6 +49888,12 @@
     "name": "Galaxy View",
     "device": "gvltexsp",
     "model": "SM-T677"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy View",
+    "device": "gvwifijpn",
+    "model": "SM-T670"
   },
   {
     "brand": "Samsung",
@@ -59569,6 +59653,12 @@
   },
   {
     "brand": "Vestel",
+    "name": "V Tab 7010",
+    "device": "VTab7010",
+    "model": "V Tab 7010"
+  },
+  {
+    "brand": "Vestel",
     "name": "VP100+",
     "device": "ephesus",
     "model": "10.1Myros"
@@ -59734,6 +59824,12 @@
     "name": "VT785P2",
     "device": "VT785P2",
     "model": "VT785P2-Vestel"
+  },
+  {
+    "brand": "Vestel",
+    "name": "Venus V3 5020",
+    "device": "Arya",
+    "model": "Venus_V3_5020"
   },
   {
     "brand": "Vestel",
@@ -60190,6 +60286,12 @@
     "name": "Pluri M7",
     "device": "Pluri_M7",
     "model": "Pluri_M7"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Xavy_L8",
+    "device": "Xavy_L8",
+    "model": "Xavy_L8"
   },
   {
     "brand": "Vonino",
@@ -67192,6 +67294,12 @@
     "name": "CMP793",
     "device": "CMP793",
     "model": "CMP793"
+  },
+  {
+    "brand": "iCraig",
+    "name": "CMP798",
+    "device": "CMP798",
+    "model": "CMP798"
   },
   {
     "brand": "iCraig",
