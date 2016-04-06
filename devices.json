@@ -32269,6 +32269,12 @@
   },
   {
     "brand": "Logicom",
+    "name": "Connect503",
+    "device": "L-ite502",
+    "model": "Connect503"
+  },
+  {
+    "brand": "Logicom",
     "name": "E350",
     "device": "E350",
     "model": "E350"
@@ -32317,15 +32323,39 @@
   },
   {
     "brand": "Logicom",
+    "name": "L-EMENT501",
+    "device": "L-EMENT501",
+    "model": "L-EMENT501"
+  },
+  {
+    "brand": "Logicom",
     "name": "L-EMENT550",
     "device": "L-EMENT550",
     "model": "L-EMENT550"
   },
   {
     "brand": "Logicom",
+    "name": "L-EMENT551",
+    "device": "L-EMENT551",
+    "model": "L-EMENT551"
+  },
+  {
+    "brand": "Logicom",
+    "name": "L-EMENTTAB1042",
+    "device": "LEMENTTAB1042BTK",
+    "model": "L-EMENT_TAB1042BTK"
+  },
+  {
+    "brand": "Logicom",
     "name": "L-EMENT_TAB1040_BT",
     "device": "generic",
     "model": "L-EMENT_TAB1040_BT"
+  },
+  {
+    "brand": "Logicom",
+    "name": "L-ITE 502 PLUS",
+    "device": "L-ITE502PLUS",
+    "model": "L-ITE 502 PLUS"
   },
   {
     "brand": "Logicom",
@@ -32362,6 +32392,12 @@
     "name": "LEMENT TAB 740",
     "device": "LEMENTTAB740",
     "model": "L-EMENT 740"
+  },
+  {
+    "brand": "Logicom",
+    "name": "LEMENTTAB1042",
+    "device": "LEMENTTAB1042",
+    "model": "L-EMENT_TAB1042"
   },
   {
     "brand": "Logicom",
@@ -32443,6 +32479,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-4503",
+    "device": "LS-4503",
+    "model": "LS-4503"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-4505",
     "device": "LS-4505",
     "model": "LS-4505"
@@ -32458,6 +32500,12 @@
     "name": "LS-5008",
     "device": "P839F30",
     "model": "LS-5008"
+  },
+  {
+    "brand": "Lyf",
+    "name": "LS-5009",
+    "device": "LS-5009",
+    "model": "LS-5009"
   },
   {
     "brand": "Lyf",
@@ -39331,6 +39379,12 @@
   },
   {
     "brand": "Polaroid",
+    "name": "Polaroid P1000",
+    "device": "P1000",
+    "model": "P1000"
+  },
+  {
+    "brand": "Polaroid",
     "name": "Polaroid P900",
     "device": "P900",
     "model": "P900/Q900"
@@ -40021,6 +40075,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PGPS7795",
+    "device": "PMT3057_3G",
+    "model": "PGPS7795"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PMT3008_Wi",
     "device": "PMT3008_Wi_C",
     "model": "PMT3008_Wi_C"
@@ -40213,6 +40273,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP3457DUO",
+    "device": "KT45B01G",
+    "model": "PSP3457DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP3502DUO",
     "device": "PSP3502DUO",
     "model": "PSP3502DUO"
@@ -40267,6 +40333,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP5506DUO",
+    "device": "DW50A03G",
+    "model": "PSP5506DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP5507DUO",
     "device": "PSP5507DUO",
     "model": "PSP5507DUO"
@@ -40276,6 +40348,12 @@
     "name": "PSP5550DUO",
     "device": "PSP5550DUO",
     "model": "PSP5550DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP5551DUO",
+    "device": "DW55B02L",
+    "model": "PSP5551DUO"
   },
   {
     "brand": "Prestigio",
@@ -58738,6 +58816,12 @@
     "name": "MID 107",
     "device": "MID107",
     "model": "MID107"
+  },
+  {
+    "brand": "Takara",
+    "name": "MID210",
+    "device": "MID210",
+    "model": "MID210"
   },
   {
     "brand": "Technicolor",
