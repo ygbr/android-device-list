@@ -7143,6 +7143,12 @@
     "brand": "Doro",
     "name": "Liberto 822 / 8030",
     "device": "DSB0010",
+    "model": "Doro 8031"
+  },
+  {
+    "brand": "Doro",
+    "name": "Liberto 822 / 8030",
+    "device": "DSB0010",
     "model": "Doro Liberto 822"
   },
   {
@@ -13045,9 +13051,21 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC One X9",
+    "device": "htc_e56ml_tuhl",
+    "model": "HTC 2PS5200"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC One X9 dual sim",
     "device": "htc_e56ml_dtul",
     "model": "HTC X9u"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One X9 dual sim",
+    "device": "htc_e56ml_dtul",
+    "model": "HTC_X9u"
   },
   {
     "brand": "HTC",
@@ -13762,6 +13780,12 @@
     "name": "AD6B1H",
     "device": "AD6B1H",
     "model": "Smartfren Andromax AD6B1H"
+  },
+  {
+    "brand": "Haier",
+    "name": "AP54",
+    "device": "ts18_ap54_kliver",
+    "model": "AP54"
   },
   {
     "brand": "Haier",
@@ -27691,6 +27715,18 @@
   },
   {
     "brand": "LGE",
+    "name": "LG X screen",
+    "device": "k5n",
+    "model": "LG-K500"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X screen",
+    "device": "k5n",
+    "model": "LG-K500n"
+  },
+  {
+    "brand": "LGE",
     "name": "LG ZONE",
     "device": "d2",
     "model": "LG-X180g"
@@ -29242,6 +29278,12 @@
     "name": "ILIUM L1000",
     "device": "Ilium_L1000",
     "model": "Ilium_L1000"
+  },
+  {
+    "brand": "Lanix",
+    "name": "ILIUM L200",
+    "device": "ILIUM_L200",
+    "model": "ILIUM L200"
   },
   {
     "brand": "Lanix",
@@ -41035,6 +41077,12 @@
   },
   {
     "brand": "Reliance",
+    "name": "LS-5506",
+    "device": "LS-5506",
+    "model": "LS-5506"
+  },
+  {
+    "brand": "Reliance",
     "name": "Smartphone JS LS-5010",
     "device": "LS-5010",
     "model": "LS-5010"
@@ -51859,6 +51907,12 @@
   },
   {
     "brand": "Smartfren",
+    "name": "B16C2H",
+    "device": "B16C2H",
+    "model": "Andromax B16C2H"
+  },
+  {
+    "brand": "Smartfren",
     "name": "C2LEAD688G",
     "device": "C2LEAD688G",
     "model": "Smartfren Andromax AD688G"
@@ -60682,6 +60736,12 @@
     "name": "IGGY",
     "device": "s7521",
     "model": "IGGY"
+  },
+  {
+    "brand": "Walton",
+    "name": "LT750",
+    "device": "LT750",
+    "model": "LT750"
   },
   {
     "brand": "Walton",
