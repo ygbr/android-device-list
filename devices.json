@@ -4981,6 +4981,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Studio X Mini",
+    "device": "BLU_STUDIO_X_MINI",
+    "model": "BLU STUDIO X MINI"
+  },
+  {
+    "brand": "Blu",
     "name": "VIVO 5",
     "device": "BLU_VIVO_5",
     "model": "VIVO 5"
@@ -20695,6 +20701,54 @@
   },
   {
     "brand": "Huawei",
+    "name": "P9-AL00",
+    "device": "HWEVA",
+    "model": "EVA-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-AL10",
+    "device": "HWEVA",
+    "model": "EVA-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-CL00",
+    "device": "HWEVA",
+    "model": "EVA-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-DL00",
+    "device": "HWEVA",
+    "model": "EVA-DL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-L09",
+    "device": "HWEVA",
+    "model": "EVA-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-L19",
+    "device": "HWEVA",
+    "model": "EVA-L19"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-L29",
+    "device": "HWEVA",
+    "model": "EVA-L29"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9-TL00",
+    "device": "HWEVA",
+    "model": "EVA-TL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "PE-CL00",
     "device": "hwPE",
     "model": "PE-CL00"
@@ -22714,6 +22768,24 @@
     "name": "CN51",
     "device": "CN51_QN0",
     "model": "CN51 QN0"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1505",
+    "device": "itel_it1505",
+    "model": "itel_it1505"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1550",
+    "device": "itel_it1550",
+    "model": "itel_it1550"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1702",
+    "device": "itel_it1702",
+    "model": "itel it1702"
   },
   {
     "brand": "Itworks",
@@ -37351,6 +37423,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "A1603",
+    "device": "A1603",
+    "model": "A1603"
+  },
+  {
+    "brand": "Oppo",
     "name": "A31",
     "device": "A31t",
     "model": "A31"
@@ -38218,6 +38296,12 @@
     "name": "Elite 18",
     "device": "Elite18",
     "model": "Elite"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "Eluga A2",
+    "device": "Eluga_A2",
+    "model": "Eluga_A2"
   },
   {
     "brand": "Panasonic",
@@ -44414,8 +44498,20 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J5(2016)",
+    "device": "j5x3g",
+    "model": "SM-J510H"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
     "device": "j5xltecmcc",
     "model": "SM-J5108"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlte",
+    "model": "SM-J510FN"
   },
   {
     "brand": "Samsung",
@@ -50362,6 +50458,12 @@
     "name": "Galaxy Xcover3",
     "device": "xcover3lte",
     "model": "SM-G388F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Xcover3",
+    "device": "xcover3velte",
+    "model": "SM-G389F"
   },
   {
     "brand": "Samsung",
@@ -59089,6 +59191,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "DroiPad 8\\xe2\\x85\\xa1",
+    "device": "DP8D",
+    "model": "DP8D"
+  },
+  {
+    "brand": "Tecno",
     "name": "H5S",
     "device": "up09_tecno_h5s",
     "model": "TECNO H5S"
@@ -59140,6 +59248,12 @@
     "name": "TECNO-J7",
     "device": "TECNO-J7",
     "model": "TECNO-J7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-L5",
+    "device": "TECNO-L5",
+    "model": "TECNO-L5"
   },
   {
     "brand": "Tecno",
@@ -61504,6 +61618,12 @@
     "name": "Yureka",
     "device": "YUREKA",
     "model": "YU5510"
+  },
+  {
+    "brand": "YU",
+    "name": "Yureka",
+    "device": "YUREKA",
+    "model": "YU5510A"
   },
   {
     "brand": "YU",
