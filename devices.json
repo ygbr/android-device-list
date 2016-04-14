@@ -8413,6 +8413,18 @@
   },
   {
     "brand": "Fly",
+    "name": "Nimbus 7",
+    "device": "Nimbus_7",
+    "model": "FS505"
+  },
+  {
+    "brand": "Fly",
+    "name": "Stratus 3",
+    "device": "Stratus_3",
+    "model": "FS404"
+  },
+  {
+    "brand": "Fly",
     "name": "Tornado One",
     "device": "IQ4511_Octa",
     "model": "FLY IQ4511"
@@ -37483,6 +37495,18 @@
   },
   {
     "brand": "Oppo",
+    "name": "A37f",
+    "device": "A37f",
+    "model": "A37f"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A37fw",
+    "device": "A37f",
+    "model": "A37fw"
+  },
+  {
+    "brand": "Oppo",
     "name": "A37t",
     "device": "A37",
     "model": "OPPO A37t"
@@ -37672,6 +37696,12 @@
     "name": "OPPO Find5",
     "device": "FIND5",
     "model": "X909T"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9 Plus A",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plus A"
   },
   {
     "brand": "Oppo",
@@ -37981,6 +38011,42 @@
   },
   {
     "brand": "Oppo",
+    "name": "R9PlusmA",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plusm A"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9PlustA",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plust A"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9PlustmA",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plustm A"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9m",
+    "device": "R9",
+    "model": "OPPO R9m"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9t",
+    "device": "R9",
+    "model": "OPPO R9t"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9tm",
+    "device": "R9",
+    "model": "OPPO R9tm"
+  },
+  {
+    "brand": "Oppo",
     "name": "U3",
     "device": "U3",
     "model": "U3"
@@ -38011,9 +38077,27 @@
   },
   {
     "brand": "Oppo",
+    "name": "X9009",
+    "device": "X9009",
+    "model": "X9009"
+  },
+  {
+    "brand": "Oppo",
+    "name": "X9009fw",
+    "device": "X9009",
+    "model": "X9009fw"
+  },
+  {
+    "brand": "Oppo",
     "name": "X9077",
     "device": "FIND7",
     "model": "X9077"
+  },
+  {
+    "brand": "Oppo",
+    "name": "X9079",
+    "device": "X9079",
+    "model": "X9079"
   },
   {
     "brand": "Oppo",
@@ -56659,6 +56743,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 3 (4.5)",
+    "device": "PIXI3_45_4G",
+    "model": "5019D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "ALCATEL ONETOUCH PIXI 4 (4)",
     "device": "Pixi4-4",
     "model": "4034D"
@@ -59269,6 +59359,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-W4",
+    "device": "TECNO_W4",
+    "model": "TECNO_W4"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-Y3",
     "device": "TECNO-Y3",
     "model": "TECNO-Y3"
@@ -60496,6 +60592,12 @@
     "name": "vivo V1Max",
     "device": "Y37",
     "model": "vivo Y37"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo V3",
+    "device": "V3",
+    "model": "vivo V3"
   },
   {
     "brand": "Vivo",
@@ -67804,6 +67906,12 @@
     "name": "CMP793",
     "device": "CMP793",
     "model": "CMP793"
+  },
+  {
+    "brand": "iCraig",
+    "name": "CMP797",
+    "device": "CMP797",
+    "model": "CMP797"
   },
   {
     "brand": "iCraig",

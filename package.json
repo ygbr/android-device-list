@@ -1,6 +1,6 @@
 {
   "name": "android-device-list",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
@@ -22,7 +22,7 @@
     "list"
   ],
   "devDependencies": {
-    "ava": "^0.13.0",
+    "ava": "^0.14.0",
     "axios": "^0.9.1",
     "eslint": "^2.4.0",
     "iconv-lite": "^0.4.13",
