@@ -22195,6 +22195,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "SURF 2",
+    "device": "INFINIX_X511",
+    "model": "Infinix X511"
+  },
+  {
+    "brand": "Infinix",
     "name": "X405",
     "device": "up09_infinix_x405_gms",
     "model": "Infinix X405"
@@ -31507,6 +31513,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo K3 Note",
+    "device": "K50a40",
+    "model": "Lenovo K50a40"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo K30-E",
     "device": "Kraft-E",
     "model": "Lenovo K30-E"
@@ -31540,12 +31552,6 @@
     "name": "Lenovo K50",
     "device": "K50-t5",
     "model": "Lenovo K50-t5"
-  },
-  {
-    "brand": "Lenovo",
-    "name": "Lenovo K50",
-    "device": "K50a40",
-    "model": "Lenovo K50a40"
   },
   {
     "brand": "Lenovo",
@@ -44407,9 +44413,27 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J1 Mini",
+    "device": "j1minilte",
+    "model": "SM-J105Y"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J1(2016)",
     "device": "j1x3g",
     "model": "SM-J120H"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1(2016)",
+    "device": "j1xlte",
+    "model": "SM-J120G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1(2016)",
+    "device": "j1xlte",
+    "model": "SM-J120ZN"
   },
   {
     "brand": "Samsung",
@@ -44595,7 +44619,31 @@
     "brand": "Samsung",
     "name": "Galaxy J5(2016)",
     "device": "j5xnlte",
+    "model": "SM-J510F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlte",
     "model": "SM-J510FN"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlte",
+    "model": "SM-J510GN"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlte",
+    "model": "SM-J510MN"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlte",
+    "model": "SM-J510UN"
   },
   {
     "brand": "Samsung",
@@ -48398,6 +48446,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S7",
+    "device": "heroqltetfnvzw",
+    "model": "SM-G930VL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7",
     "device": "heroqltetmo",
     "model": "SM-G930T"
   },
@@ -49810,6 +49864,12 @@
     "name": "Galaxy Tab4 10.0",
     "device": "matisseltevzw",
     "model": "SM-T537V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab4 10.1",
+    "device": "matisse10wifikx",
+    "model": "SM-T536"
   },
   {
     "brand": "Samsung",
@@ -60484,6 +60544,12 @@
     "name": "Viewsonic",
     "device": "ViewPad_IR10Q",
     "model": "IR10Q"
+  },
+  {
+    "brand": "ViewSonic",
+    "name": "Viewsonic",
+    "device": "ViewPad_IR8Q",
+    "model": "IR8Q"
   },
   {
     "brand": "Visual Land",
