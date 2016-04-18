@@ -3943,6 +3943,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad 8.0 (Z380M)",
+    "device": "P00A_2",
+    "model": "P00A"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad C 7.0",
     "device": "P01Y_S",
     "model": "P01Y"
@@ -5035,6 +5041,12 @@
   },
   {
     "brand": "Boost",
+    "name": "Moova Soul",
+    "device": "Moova-Soul",
+    "model": "Moova-Soul"
+  },
+  {
+    "brand": "Boost",
     "name": "ShakerBeat",
     "device": "ShakerBeat",
     "model": "ShakerBeat"
@@ -5842,6 +5854,12 @@
     "name": "PGN514",
     "device": "PGN514",
     "model": "PGN514"
+  },
+  {
+    "brand": "Condor",
+    "name": "PGN515",
+    "device": "PGN515",
+    "model": "PGN515"
   },
   {
     "brand": "Condor",
@@ -12340,6 +12358,12 @@
     "name": "HTC J Z321e",
     "device": "valentewxc9",
     "model": "HTC J Z321e"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC M10",
+    "device": "htc_pmeuhl",
+    "model": "HTC 10"
   },
   {
     "brand": "HTC",
@@ -20713,6 +20737,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "P9 Plus-AL10",
+    "device": "HWVIE",
+    "model": "VIE-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9 Plus-L09",
+    "device": "HWVIE",
+    "model": "VIE-L09"
+  },
+  {
+    "brand": "Huawei",
     "name": "P9-AL00",
     "device": "HWEVA",
     "model": "EVA-AL00"
@@ -27787,6 +27823,18 @@
   },
   {
     "brand": "LGE",
+    "name": "LG X cam",
+    "device": "k7",
+    "model": "LG-F690L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X cam",
+    "device": "k7",
+    "model": "LG-F690S"
+  },
+  {
+    "brand": "LGE",
     "name": "LG X screen",
     "device": "k5",
     "model": "LG-F650L"
@@ -29488,6 +29536,18 @@
     "name": "X400",
     "device": "Ilium_X400",
     "model": "ILIUM X400"
+  },
+  {
+    "brand": "Lanix",
+    "name": "ilium PAD i7",
+    "device": "Ilium_PAD_i7",
+    "model": "Ilium_PAD_i7"
+  },
+  {
+    "brand": "Lanix",
+    "name": "ilium Pad E7",
+    "device": "ilium_Pad_E7",
+    "model": "ilium_Pad_E7"
   },
   {
     "brand": "Lanix",
@@ -31519,6 +31579,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo K3 Note",
+    "device": "aio_otfp",
+    "model": "Lenovo K50-T5"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K3 Note",
+    "device": "aio_otfp",
+    "model": "Lenovo K50-t5"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo K30-E",
     "device": "Kraft-E",
     "model": "Lenovo K30-E"
@@ -31558,24 +31630,6 @@
     "name": "Lenovo K50",
     "device": "aio_3m_otfp",
     "model": "Lenovo K50-t3s"
-  },
-  {
-    "brand": "Lenovo",
-    "name": "Lenovo K50",
-    "device": "aio_otfp",
-    "model": "Lenovo K50-T5"
-  },
-  {
-    "brand": "Lenovo",
-    "name": "Lenovo K50",
-    "device": "aio_otfp",
-    "model": "Lenovo K50-t5"
-  },
-  {
-    "brand": "Lenovo",
-    "name": "Lenovo K50-T5",
-    "device": "aio_otfp",
-    "model": "Lenovo K50-t5"
   },
   {
     "brand": "Lenovo",
@@ -32782,6 +32836,12 @@
     "name": "LS-5503",
     "device": "P839F50",
     "model": "LS-5503"
+  },
+  {
+    "brand": "M4tel",
+    "name": "M4 SS4451",
+    "device": "NOVA02A_S11A",
+    "model": "M4 SS4451"
   },
   {
     "brand": "MAD CATZ",
@@ -36853,6 +36913,12 @@
   },
   {
     "brand": "Nextbook",
+    "name": "NX16A11264",
+    "device": "NX16A11264",
+    "model": "NX16A11264"
+  },
+  {
+    "brand": "Nextbook",
     "name": "NX700QC",
     "device": "nxm7100lvd_wm",
     "model": "NX700QC"
@@ -36922,6 +36988,12 @@
     "name": "COOLPIX S810c",
     "device": "s810c",
     "model": "COOLPIX S810c"
+  },
+  {
+    "brand": "Njoy",
+    "name": "nJoy Kali 8",
+    "device": "Kali_8",
+    "model": "Kali_8"
   },
   {
     "brand": "Nobis",
@@ -37702,6 +37774,12 @@
     "name": "OPPO Find5",
     "device": "FIND5",
     "model": "X909T"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9",
+    "device": "R9",
+    "model": "OPPO R9"
   },
   {
     "brand": "Oppo",
@@ -40360,6 +40438,12 @@
     "name": "Grace X7",
     "device": "PSP7505DUO",
     "model": "PSP7505DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "MULTIPAD WIZE 3027",
+    "device": "HF80A01W",
+    "model": "PMT3027_Wi"
   },
   {
     "brand": "Prestigio",
@@ -54457,9 +54541,27 @@
   },
   {
     "brand": "Southern Telecom",
+    "name": "Polaroid Power P600",
+    "device": "P600",
+    "model": "P600"
+  },
+  {
+    "brand": "Southern Telecom",
+    "name": "Polaroid Snap S50",
+    "device": "S50",
+    "model": "S50"
+  },
+  {
+    "brand": "Southern Telecom",
     "name": "Polaroid Snap S55",
     "device": "S55",
     "model": "S55"
+  },
+  {
+    "brand": "Southern Telecom",
+    "name": "Polaroid Snap S60",
+    "device": "S60",
+    "model": "S60"
   },
   {
     "brand": "Southern Telecom",
@@ -55498,6 +55600,12 @@
     "name": "8050E",
     "device": "Pixi4-6_3G",
     "model": "8050E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "8050E",
+    "device": "Pixi4-6_3G",
+    "model": "T600M"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -58105,6 +58213,24 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "PIXI4 (3.5)",
+    "device": "PIXI4-35",
+    "model": "4017A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI4 (3.5)",
+    "device": "PIXI4-35",
+    "model": "4017F"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI4 (3.5)",
+    "device": "PIXI4-35",
+    "model": "4017X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "PLAY_P1",
     "device": "PLAY_P1",
     "model": "4024D"
@@ -59362,6 +59488,18 @@
     "name": "PHANTOM-Z-mini",
     "device": "PTM-Z-mini",
     "model": "PTM-Z-mini"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PhonePad 7 II",
+    "device": "PP7E-DLA1",
+    "model": "TECNO PP7E-DLA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PhonePad 7 II",
+    "device": "PP7E-DLA1",
+    "model": "TECNO PP7E-SLA1"
   },
   {
     "brand": "Tecno",
