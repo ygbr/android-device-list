@@ -14364,6 +14364,12 @@
     "model": "Prime L"
   },
   {
+    "brand": "HighScreen",
+    "name": "Tasty",
+    "device": "Tasty",
+    "model": "Tasty"
+  },
+  {
     "brand": "Hipstreet",
     "name": "785TB4",
     "device": "785TB4",
@@ -27709,6 +27715,24 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Stylo 2",
+    "device": "ph1",
+    "model": "LGL81AL"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylo 2",
+    "device": "ph1",
+    "model": "LGL82VL"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylo 2",
+    "device": "ph1",
+    "model": "LGLS775"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Stylus 2",
     "device": "ph1",
     "model": "LG-F720K"
@@ -27724,6 +27748,12 @@
     "name": "LG Stylus 2",
     "device": "ph1",
     "model": "LG-F720S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus 2",
+    "device": "ph1",
+    "model": "LG-K520"
   },
   {
     "brand": "LGE",
@@ -29581,6 +29611,12 @@
   },
   {
     "brand": "Lava",
+    "name": "Lava V2 3GB",
+    "device": "V23GB",
+    "model": "V23GB"
+  },
+  {
+    "brand": "Lava",
     "name": "P7",
     "device": "P7",
     "model": "P7"
@@ -29620,6 +29656,18 @@
     "name": "X10",
     "device": "X10",
     "model": "X10"
+  },
+  {
+    "brand": "Lava",
+    "name": "X11",
+    "device": "X11",
+    "model": "X11"
+  },
+  {
+    "brand": "Lava",
+    "name": "X3",
+    "device": "X3",
+    "model": "X3"
   },
   {
     "brand": "Lava",
@@ -41020,6 +41068,12 @@
     "name": "E8",
     "device": "GBL5805QM",
     "model": "E8"
+  },
+  {
+    "brand": "QMobile",
+    "name": "LT650",
+    "device": "LT650",
+    "model": "LT650"
   },
   {
     "brand": "QMobile",
@@ -61030,6 +61084,12 @@
     "name": "Epic P7",
     "device": "Epic_P7",
     "model": "Epic_P7"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Jax X",
+    "device": "Jax_X",
+    "model": "Jax X"
   },
   {
     "brand": "Vonino",
