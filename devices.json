@@ -3913,6 +3913,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad 10 (Z300M)",
+    "device": "P00C_2",
+    "model": "P00C"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad 7.0 (Z370C)",
     "device": "P01W",
     "model": "P01W"
@@ -7215,6 +7221,12 @@
     "brand": "ECS",
     "name": "TF10EA2",
     "device": "TF10EA2_2",
+    "model": "TF10EA2"
+  },
+  {
+    "brand": "ECS",
+    "name": "TF10EA2",
+    "device": "TF10EA2_5",
     "model": "TF10EA2"
   },
   {
@@ -25861,6 +25873,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
+    "device": "t8lte",
+    "model": "LG-UK495"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad II 10.1 FHD",
     "device": "t1wifi",
     "model": "LG-V940"
@@ -39931,6 +39949,18 @@
   },
   {
     "brand": "Positivo",
+    "name": "8MA-A",
+    "device": "ochoMA_A_3G",
+    "model": "8MA-A 3G"
+  },
+  {
+    "brand": "Positivo",
+    "name": "First",
+    "device": "S410",
+    "model": "First"
+  },
+  {
+    "brand": "Positivo",
     "name": "Positivo AB7",
     "device": "YPY_AB7D",
     "model": "YPY_AB7D"
@@ -39940,6 +39970,12 @@
     "name": "Positivo AB7D",
     "device": "YPY_AB7DC",
     "model": "YPY_AB7DC"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo BGH 7Di-A",
+    "device": "Y210",
+    "model": "Positivo BGH 7Di-A"
   },
   {
     "brand": "Positivo",
@@ -39961,6 +39997,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "Positivo BGH Y230",
+    "device": "T760",
+    "model": "Y230"
+  },
+  {
+    "brand": "Positivo",
     "name": "Positivo BGH Y400",
     "device": "Y400",
     "model": "Y400"
@@ -39979,9 +40021,27 @@
   },
   {
     "brand": "Positivo",
+    "name": "Positivo Next",
+    "device": "X500",
+    "model": "Positivo Next"
+  },
+  {
+    "brand": "Positivo",
     "name": "Positivo OCTA",
     "device": "OCTA",
     "model": "OCTA"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo One",
+    "device": "S420",
+    "model": "Positivo One"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo One",
+    "device": "S420",
+    "model": "S420"
   },
   {
     "brand": "Positivo",
@@ -40006,6 +40066,12 @@
     "name": "Positivo SX1000",
     "device": "SX1000",
     "model": "Positivo SX1000"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo Selfie",
+    "device": "S455",
+    "model": "S455"
   },
   {
     "brand": "Positivo",
@@ -40057,9 +40123,21 @@
   },
   {
     "brand": "Positivo",
+    "name": "Positivo T715",
+    "device": "T715",
+    "model": "Stilo T715"
+  },
+  {
+    "brand": "Positivo",
     "name": "Positivo T750",
     "device": "t750",
     "model": "Positivo T750"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo Union US2070",
+    "device": "US2070",
+    "model": "Positivo US2070"
   },
   {
     "brand": "Positivo",
@@ -40285,6 +40363,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "Y1000",
+    "device": "Y1000",
+    "model": "Y1000"
+  },
+  {
+    "brand": "Positivo",
     "name": "YPY 10 3G",
     "device": "YPY_10FTA",
     "model": "YPY_10FTA"
@@ -40402,6 +40486,12 @@
     "name": "Ypy S500",
     "device": "YPY_S500",
     "model": "YPY_S500"
+  },
+  {
+    "brand": "Positivo",
+    "name": "quattro",
+    "device": "X435",
+    "model": "quattro"
   },
   {
     "brand": "Prestige",
@@ -61864,6 +61954,12 @@
     "name": "MI PAD",
     "device": "mocha",
     "model": "MI PAD"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MIBOXPRO",
+    "device": "kungfupanda",
+    "model": "MiBOX_PRO"
   },
   {
     "brand": "Xiaomi",
