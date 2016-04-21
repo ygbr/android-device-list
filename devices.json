@@ -11617,6 +11617,18 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC Desire 530",
+    "device": "htc_a16ul",
+    "model": "HTC Desire 530"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 530",
+    "device": "htc_a16ul",
+    "model": "HTC_D530u"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC Desire 600",
     "device": "cp3dug",
     "model": "HTC Desire 600"
@@ -12250,6 +12262,12 @@
     "name": "HTC Desire815G",
     "device": "htc_a5mgp_u",
     "model": "HTC Desire 816G"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desrie D530",
+    "device": "htc_a16ul",
+    "model": "HTC Desire 530"
   },
   {
     "brand": "HTC",
@@ -19669,42 +19687,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "GRA-CL00",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-CL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "GRA-CL10",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-CL10"
-  },
-  {
-    "brand": "Huawei",
-    "name": "GRA-L09",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-L09"
-  },
-  {
-    "brand": "Huawei",
-    "name": "GRA-TL00",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-TL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "GRA-UL00",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-UL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "GRA-UL10",
-    "device": "HWGRA",
-    "model": "HUAWEI GRA-UL10"
-  },
-  {
-    "brand": "Huawei",
     "name": "Gran_Roraima",
     "device": "hws7721u",
     "model": "Orinoquia Gran Roraima + S7-722u"
@@ -19924,18 +19906,6 @@
     "name": "HUAWEI H871G",
     "device": "hwh871g",
     "model": "HUAWEI H871G"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI MT7-J1",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-J1"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI MT7-L09",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-L09"
   },
   {
     "brand": "Huawei",
@@ -20479,69 +20449,93 @@
   },
   {
     "brand": "Huawei",
-    "name": "MT7-CL00",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-CL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "MT7-TL00",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-TL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "MT7-TL10",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-TL10"
-  },
-  {
-    "brand": "Huawei",
-    "name": "MT7-UL00",
-    "device": "hwmt7",
-    "model": "HUAWEI MT7-UL00"
-  },
-  {
-    "brand": "Huawei",
     "name": "Mate",
     "device": "hwmt1-t00",
     "model": "HUAWEI MT1-T00"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-AL10",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-J1"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-TL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 7",
+    "device": "hwmt7",
+    "model": "HUAWEI MT7-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-AL10"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-CL00",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-CL00"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-DL00",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-DL00"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-L09",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-L09"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-L29",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-L29"
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8-TL00",
+    "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate S",
+    "device": "HWCRR",
+    "model": "HUAWEI CRR-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate S",
+    "device": "HWCRR",
+    "model": "HUAWEI CRR-CL20"
   },
   {
     "brand": "Huawei",
@@ -20551,31 +20545,19 @@
   },
   {
     "brand": "Huawei",
-    "name": "Mate S-CL00",
-    "device": "HWCRR",
-    "model": "HUAWEI CRR-CL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "Mate S-CL20",
-    "device": "HWCRR",
-    "model": "HUAWEI CRR-CL20"
-  },
-  {
-    "brand": "Huawei",
-    "name": "Mate S-TL00",
+    "name": "Mate S",
     "device": "HWCRR",
     "model": "HUAWEI CRR-TL00"
   },
   {
     "brand": "Huawei",
-    "name": "Mate S-UL00",
+    "name": "Mate S",
     "device": "HWCRR",
     "model": "HUAWEI CRR-UL00"
   },
   {
     "brand": "Huawei",
-    "name": "Mate S-UL20",
+    "name": "Mate S",
     "device": "HWCRR",
     "model": "HUAWEI CRR-UL20"
   },
@@ -20743,6 +20725,42 @@
   },
   {
     "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-CL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8",
+    "device": "HWGRA",
+    "model": "HUAWEI GRA-UL10"
+  },
+  {
+    "brand": "Huawei",
     "name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
     "device": "hwALE-H",
     "model": "ALE-TL00"
@@ -20755,63 +20773,63 @@
   },
   {
     "brand": "Huawei",
-    "name": "P9 Plus-AL10",
-    "device": "HWVIE",
-    "model": "VIE-AL10"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P9 Plus-L09",
-    "device": "HWVIE",
-    "model": "VIE-L09"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P9-AL00",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-AL00"
   },
   {
     "brand": "Huawei",
-    "name": "P9-AL10",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-AL10"
   },
   {
     "brand": "Huawei",
-    "name": "P9-CL00",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-CL00"
   },
   {
     "brand": "Huawei",
-    "name": "P9-DL00",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-DL00"
   },
   {
     "brand": "Huawei",
-    "name": "P9-L09",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-L09"
   },
   {
     "brand": "Huawei",
-    "name": "P9-L19",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-L19"
   },
   {
     "brand": "Huawei",
-    "name": "P9-L29",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-L29"
   },
   {
     "brand": "Huawei",
-    "name": "P9-TL00",
+    "name": "P9",
     "device": "HWEVA",
     "model": "EVA-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9 Plus",
+    "device": "HWVIE",
+    "model": "VIE-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9 Plus",
+    "device": "HWVIE",
+    "model": "VIE-L09"
   },
   {
     "brand": "Huawei",
@@ -34306,6 +34324,12 @@
     "name": "Samba",
     "device": "Samba",
     "model": "Samba"
+  },
+  {
+    "brand": "MobileTeleSystem",
+    "name": "MTC SMART Surf 4G",
+    "device": "MTC_SMART_Surf_4G",
+    "model": "MTC_SMART_Surf_4G"
   },
   {
     "brand": "MobileTeleSystem",
