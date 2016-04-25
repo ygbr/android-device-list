@@ -439,6 +439,12 @@
   },
   {
     "brand": "Acer",
+    "name": "B1-850",
+    "device": "Frenzy",
+    "model": "B1-850"
+  },
+  {
+    "brand": "Acer",
     "name": "B1-A71",
     "device": "B1-A71",
     "model": "B1-A71"
@@ -7221,12 +7227,6 @@
     "brand": "ECS",
     "name": "TF10EA2",
     "device": "TF10EA2_2",
-    "model": "TF10EA2"
-  },
-  {
-    "brand": "ECS",
-    "name": "TF10EA2",
-    "device": "TF10EA2_5",
     "model": "TF10EA2"
   },
   {
@@ -20011,6 +20011,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI MediaPad T2 10.0 pro",
+    "device": "HWFDR",
+    "model": "FDR-A03L"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI MediaPad X1 7.0",
     "device": "hw7d501l",
     "model": "7D-501u"
@@ -20830,6 +20836,12 @@
     "name": "P9 Plus",
     "device": "HWVIE",
     "model": "VIE-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P9 Plus",
+    "device": "HWVIE",
+    "model": "VIE-L29"
   },
   {
     "brand": "Huawei",
@@ -29605,6 +29617,12 @@
   },
   {
     "brand": "Lanix",
+    "name": "ilium PAD E9",
+    "device": "ilium_PAD_E9",
+    "model": "ilium Pad E9"
+  },
+  {
+    "brand": "Lanix",
     "name": "ilium PAD i7",
     "device": "Ilium_PAD_i7",
     "model": "Ilium_PAD_i7"
@@ -29626,6 +29644,12 @@
     "name": "llium Pad L8",
     "device": "llium_Pad_L8",
     "model": "llium Pad L8"
+  },
+  {
+    "brand": "Lava",
+    "name": "A67",
+    "device": "A67",
+    "model": "A67"
   },
   {
     "brand": "Lava",
@@ -37603,6 +37627,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "A1601",
+    "device": "A1601",
+    "model": "A1601"
+  },
+  {
+    "brand": "Oppo",
     "name": "A1603",
     "device": "A1603",
     "model": "A1603"
@@ -39595,6 +39625,12 @@
   },
   {
     "brand": "Philips",
+    "name": "Philips V377",
+    "device": "Philips_V377",
+    "model": "Philips V377"
+  },
+  {
+    "brand": "Philips",
     "name": "Philips V387",
     "device": "V387",
     "model": "Philips V387"
@@ -39688,6 +39724,12 @@
     "name": "XDP-100R",
     "device": "Fu_Zin_32",
     "model": "XDP-100R"
+  },
+  {
+    "brand": "Plaisio",
+    "name": "Coral II",
+    "device": "CoralII",
+    "model": "Turbo-X Coral II"
   },
   {
     "brand": "Plaisio",
@@ -55711,6 +55753,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "6055K",
+    "device": "idol4",
+    "model": "6055K"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "7040N",
     "device": "Yaris5TMO",
     "model": "7040N"
@@ -60414,6 +60462,12 @@
     "model": "UVP-X"
   },
   {
+    "brand": "Ubiquiti",
+    "name": "UVP-X",
+    "device": "grizzlies_telefi4xp",
+    "model": "UVP-X"
+  },
+  {
     "brand": "VAIO",
     "name": "VA-10J",
     "device": "VA-10J",
@@ -61066,6 +61120,12 @@
     "name": "vivo Xplay5A",
     "device": "PD1522A",
     "model": "vivo PD1522A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Xplay5A",
+    "device": "PD1522A",
+    "model": "vivo Xplay5A"
   },
   {
     "brand": "Vivo",
@@ -63736,6 +63796,12 @@
     "name": "Blade A475",
     "device": "ZTE_Blade_A475",
     "model": "Blade A475"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade A475",
+    "device": "ZTE_Blade_A475",
+    "model": "ZTE Blade A475"
   },
   {
     "brand": "ZTE",
