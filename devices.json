@@ -1231,6 +1231,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P6 Lite",
+    "device": "P6_lite",
+    "model": "P6_lite_mTEL"
+  },
+  {
+    "brand": "AllView",
     "name": "P6 Pro",
     "device": "P6_Pro",
     "model": "P6_Pro"
@@ -4126,6 +4132,12 @@
     "name": "ZOOTI PAD ZT-701",
     "device": "ZT-701",
     "model": "ZT-701"
+  },
+  {
+    "brand": "Auchan",
+    "name": "LI12210IN",
+    "device": "LI12210IN",
+    "model": "LI12210IN"
   },
   {
     "brand": "Auchan",
@@ -9313,6 +9325,12 @@
   },
   {
     "brand": "GSmart",
+    "name": "Classic_Pro",
+    "device": "Classic_Pro",
+    "model": "Classic_Pro"
+  },
+  {
+    "brand": "GSmart",
     "name": "GSmart Aku A1",
     "device": "Aku_A1",
     "model": "GSmart Aku A1"
@@ -13960,6 +13978,12 @@
     "name": "G30",
     "device": "G30",
     "model": "G30"
+  },
+  {
+    "brand": "Haier",
+    "name": "G31s",
+    "device": "G31s",
+    "model": "G31s"
   },
   {
     "brand": "Haier",
@@ -22432,6 +22456,12 @@
     "name": "InFocus M372",
     "device": "FOT",
     "model": "M372"
+  },
+  {
+    "brand": "Infocus",
+    "name": "InFocus M377",
+    "device": "FO7",
+    "model": "M377"
   },
   {
     "brand": "Infocus",
@@ -34375,6 +34405,12 @@
   },
   {
     "brand": "Mobistel",
+    "name": "Cynus F10",
+    "device": "Cynus_F10",
+    "model": "Cynus_F10"
+  },
+  {
+    "brand": "Mobistel",
     "name": "Cynus F9 4G",
     "device": "Cynus_F9_4G",
     "model": "Cynus_F9_4G"
@@ -36787,6 +36823,12 @@
   },
   {
     "brand": "NGM Italia SRL",
+    "name": "E506plus",
+    "device": "E506plus",
+    "model": "E506plus"
+  },
+  {
+    "brand": "NGM Italia SRL",
     "name": "Endurance",
     "device": "ForwardEndurance",
     "model": "ForwardEndurance"
@@ -37633,6 +37675,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "A1601fw",
+    "device": "A1601",
+    "model": "A1601fw"
+  },
+  {
+    "brand": "Oppo",
     "name": "A1603",
     "device": "A1603",
     "model": "A1603"
@@ -37882,6 +37930,12 @@
     "name": "OPPO A37tm",
     "device": "A37",
     "model": "OPPO A37tm"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A59m",
+    "device": "A59",
+    "model": "OPPO A59m"
   },
   {
     "brand": "Oppo",
@@ -41260,6 +41314,12 @@
     "name": "Qmobile L20",
     "device": "L20",
     "model": "QMobile L20"
+  },
+  {
+    "brand": "QMobile",
+    "name": "W70",
+    "device": "W70",
+    "model": "W70"
   },
   {
     "brand": "QMobile",
