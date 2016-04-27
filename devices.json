@@ -24577,12 +24577,6 @@
   },
   {
     "brand": "LGE",
-    "name": "\\t LG X screen",
-    "device": "k5",
-    "model": "LG-F650K"
-  },
-  {
-    "brand": "LGE",
     "name": "070 touch",
     "device": "w3voip",
     "model": "LG-FL40L"
@@ -27940,6 +27934,12 @@
     "name": "LG X cam",
     "device": "k7",
     "model": "LG-F690S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X screen",
+    "device": "k5",
+    "model": "LG-F650K"
   },
   {
     "brand": "LGE",
@@ -37236,6 +37236,12 @@
     "model": "X4"
   },
   {
+    "brand": "Nuu",
+    "name": "NUU Z8",
+    "device": "Z8",
+    "model": "Z8"
+  },
+  {
     "brand": "Nuvision",
     "name": "TM101A530L",
     "device": "TM101A530L",
@@ -37936,6 +37942,12 @@
     "name": "OPPO A59m",
     "device": "A59",
     "model": "OPPO A59m"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A59t",
+    "device": "A59",
+    "model": "OPPO A59t"
   },
   {
     "brand": "Oppo",
@@ -44864,6 +44876,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J3(2016)",
+    "device": "j3ltevzw",
+    "model": "SM-J320VPP"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
     "device": "j3xlte",
     "model": "SM-J320F"
   },
@@ -45001,6 +45019,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnltektt",
+    "model": "SM-J510K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnltelgt",
+    "model": "SM-J510L"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J7",
     "device": "j75ltektt",
     "model": "SM-J700K"
@@ -45028,6 +45058,18 @@
     "name": "Galaxy J7",
     "device": "j7ltechn",
     "model": "SM-J7008"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7(2016)",
+    "device": "j7eltemtr",
+    "model": "SM-J700T1"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7(2016)",
+    "device": "j7eltetmo",
+    "model": "SM-J700T"
   },
   {
     "brand": "Samsung",
@@ -49558,6 +49600,12 @@
     "name": "Galaxy Tab E 7.0",
     "device": "gtexslte",
     "model": "SM-T285M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab E 7.0",
+    "device": "gtexslte",
+    "model": "SM-T287"
   },
   {
     "brand": "Samsung",
@@ -57310,6 +57358,18 @@
     "name": "ALCATEL one touch J320",
     "device": "Iris",
     "model": "ALCATEL one touch J320"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL_ONETOUCH_7053D",
+    "device": "X1",
+    "model": "7053D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL_ONETOUCH_7053D",
+    "device": "X1",
+    "model": "ALCATEL_ONETOUCH_7053D"
   },
   {
     "brand": "TCT (Alcatel)",
