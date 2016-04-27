@@ -7,8 +7,9 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "ava && jscs *.js",
-    "lint": "eslint index.js build.js",
+    "test": "ava && npm run jscs && npm run lint",
+    "jscs": "node_modules/.bin/jscs *.js",
+    "lint": "node_modules/.bin/eslint index.js build.js",
     "build": "node ./build.js"
   },
   "author": "Peter Bakondy",
@@ -23,7 +24,7 @@
   ],
   "devDependencies": {
     "ava": "^0.14.0",
-    "axios": "^0.9.1",
+    "axios": "^0.11.0",
     "eslint": "^2.8.0",
     "iconv-lite": "^0.4.13",
     "jscs": "^3.0.3"
