@@ -38965,6 +38965,18 @@
   },
   {
     "brand": "Panasonic",
+    "name": "TH-55DR600C",
+    "device": "TH55DR600C",
+    "model": "TH55DR600C"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "TH-65DR800C",
+    "device": "TH-65DR800C",
+    "model": "TH-65DR800C"
+  },
+  {
+    "brand": "Panasonic",
     "name": "UN-MT300",
     "device": "A1",
     "model": "Panasonic UN-MT300"
@@ -44864,6 +44876,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J3(2016)",
+    "device": "j3ltekx",
+    "model": "SM-J320N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
     "device": "j3ltetw",
     "model": "SM-J320Y"
   },
@@ -44878,6 +44896,12 @@
     "name": "Galaxy J3(2016)",
     "device": "j3ltevzw",
     "model": "SM-J320VPP"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3ltexsa",
+    "model": "SM-J320ZN"
   },
   {
     "brand": "Samsung",
@@ -45028,6 +45052,12 @@
     "name": "Galaxy J5(2016)",
     "device": "j5xnltelgt",
     "model": "SM-J510L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5(2016)",
+    "device": "j5xnlteskt",
+    "model": "SM-J510S"
   },
   {
     "brand": "Samsung",
@@ -48937,6 +48967,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S7 edge",
+    "device": "SCV33",
+    "model": "SCV33"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Spica",
     "device": "GT-I5700",
     "model": "GT-I5700"
@@ -49936,6 +49972,12 @@
     "name": "Galaxy Tab S2 9.7",
     "device": "gts210ltevzw",
     "model": "SM-T817V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
+    "device": "gts210velte",
+    "model": "SM-T819"
   },
   {
     "brand": "Samsung",
@@ -51406,6 +51448,12 @@
     "name": "SC-02G",
     "device": "SC-02G",
     "model": "SC-02G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "SC-02H",
+    "device": "SC-02H",
+    "model": "SC-02H"
   },
   {
     "brand": "Samsung",
@@ -61138,6 +61186,12 @@
     "name": "vivo V1Max",
     "device": "Y37",
     "model": "vivo Y37"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo V3",
+    "device": "PD1524",
+    "model": "vivo V3"
   },
   {
     "brand": "Vivo",
