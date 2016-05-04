@@ -3733,6 +3733,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone 2 Laser (ZE550KLA)",
+    "device": "ASUS_Z00L_63C",
+    "model": "ASUS_Z00LD"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone 2 Laser (ZE551KL)",
     "device": "ASUS_Z00T",
     "model": "ASUS_Z00TD"
@@ -11047,6 +11053,12 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmewl",
+    "model": "HTC 10"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC 5060 dual sim",
     "device": "z4dug",
     "model": "HTC Desire 500 dual sim"
@@ -14572,6 +14584,18 @@
     "name": "LS-5013",
     "device": "LS-5013",
     "model": "LS-5013"
+  },
+  {
+    "brand": "Hipstreet",
+    "name": "LS-5017",
+    "device": "LS-5017",
+    "model": "LS-5017"
+  },
+  {
+    "brand": "Hipstreet",
+    "name": "LS-6001",
+    "device": "LS-6001",
+    "model": "LS-6001"
   },
   {
     "brand": "Hipstreet",
@@ -25951,6 +25975,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad X 8.0",
+    "device": "b3",
+    "model": "LG-V521"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad X 8.3",
     "device": "altev2",
     "model": "VK815"
@@ -26452,6 +26482,24 @@
     "name": "LG G5",
     "device": "h1",
     "model": "VS987"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5 SE",
+    "device": "alicee",
+    "model": "LG-H840"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5 SE",
+    "device": "alicee",
+    "model": "LG-H845"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5 SE",
+    "device": "alicee",
+    "model": "LG-H848"
   },
   {
     "brand": "LGE",
@@ -27826,6 +27874,18 @@
     "name": "LG Stylus 2",
     "device": "ph1",
     "model": "LG-K520"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2 4G",
+    "device": "ph2",
+    "model": "LG-K530"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2 4G",
+    "device": "ph2",
+    "model": "LG-K535"
   },
   {
     "brand": "LGE",
@@ -29898,12 +29958,6 @@
     "model": "FLOW"
   },
   {
-    "brand": "Lechpol",
-    "name": "Kruger_Matz_FLOW2",
-    "device": "Kruger_Matz_FLOW2",
-    "model": "FLOW2"
-  },
-  {
     "brand": "Lenovo",
     "name": "",
     "device": "18382AU",
@@ -31846,6 +31900,12 @@
     "name": "Lenovo N308",
     "device": "SmartAIO",
     "model": "Lenovo N308"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo P1",
+    "device": "P1a42",
+    "model": "Lenovo P1a41"
   },
   {
     "brand": "Lenovo",
@@ -34402,6 +34462,12 @@
     "name": "MDB342X",
     "device": "qnbml",
     "model": "MDB342X"
+  },
+  {
+    "brand": "Mobistel",
+    "name": "Cynus E7",
+    "device": "Cynus_E7",
+    "model": "Cynus E7"
   },
   {
     "brand": "Mobistel",
@@ -37939,6 +38005,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A59",
+    "device": "A59",
+    "model": "OPPO A59"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO A59m",
     "device": "A59",
     "model": "OPPO A59m"
@@ -37948,6 +38020,12 @@
     "name": "OPPO A59t",
     "device": "A59",
     "model": "OPPO A59t"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A59tm",
+    "device": "A59",
+    "model": "OPPO A59tm"
   },
   {
     "brand": "Oppo",
@@ -38455,6 +38533,12 @@
   },
   {
     "brand": "PC Smart",
+    "name": "PCSGOB10SF-A",
+    "device": "PCSGOB10SF-A",
+    "model": "PCSGOB10SF-A"
+  },
+  {
+    "brand": "PC Smart",
     "name": "PTSGOB8",
     "device": "PTSGOB8",
     "model": "PC_Smart_PTSGOB8"
@@ -38788,6 +38872,12 @@
     "name": "P-07C",
     "device": "pana1",
     "model": "P-07C"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "P75",
+    "device": "P75",
+    "model": "Panasonic P75"
   },
   {
     "brand": "Panasonic",
@@ -59533,6 +59623,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "TCL_Xess_P17AA",
+    "device": "Xess",
+    "model": "TCL Xess P17AA"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "Telekom_Puls",
     "device": "T-Tab",
     "model": "Telekom Puls"
@@ -60679,6 +60775,12 @@
   },
   {
     "brand": "Verizon Wireless",
+    "name": "ASUS ZenPad Z8",
+    "device": "P008",
+    "model": "P008"
+  },
+  {
+    "brand": "Verizon Wireless",
     "name": "Ellipsis 10",
     "device": "QTAIR7",
     "model": "QTAIR7"
@@ -61411,6 +61513,12 @@
   },
   {
     "brand": "Vizio",
+    "name": "XR6M10",
+    "device": "XR6M10",
+    "model": "XR6M10"
+  },
+  {
+    "brand": "Vizio",
     "name": "XR6P10",
     "device": "XR6P10",
     "model": "XR6P10"
@@ -61462,6 +61570,12 @@
     "name": "Xavy_T7",
     "device": "Xavy_T7",
     "model": "Xavy_T7"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Xylo X",
+    "device": "Xylo",
+    "model": "Xylo X"
   },
   {
     "brand": "Vonino",
