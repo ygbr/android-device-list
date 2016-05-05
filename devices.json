@@ -3757,6 +3757,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone 2(ZE551ML)",
+    "device": "Z00A_3",
+    "model": "ASUS_Z00AD"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone 4 (A400CG)",
     "device": "ASUS_T00I",
     "model": "ASUS_T00I"
@@ -10801,6 +10807,18 @@
   },
   {
     "brand": "HTC",
+    "name": "Desire 825",
+    "device": "htc_a56uhl",
+    "model": "HTC 2PUK2"
+  },
+  {
+    "brand": "HTC",
+    "name": "Desire 825",
+    "device": "htc_a56uhl",
+    "model": "HTC Desire 825"
+  },
+  {
+    "brand": "HTC",
     "name": "Desire 826",
     "device": "htc_a52dwgl",
     "model": "HTC D826d"
@@ -12070,6 +12088,18 @@
     "name": "HTC Desire 820s dual sim",
     "device": "htc_a50ml",
     "model": "HTC Desire 820s dual sim"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 825",
+    "device": "htc_a56uhl",
+    "model": "HTC Desire 825"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 825",
+    "device": "htc_a56uhl",
+    "model": "HTC_D825u"
   },
   {
     "brand": "HTC",
@@ -29746,6 +29776,12 @@
     "name": "A71",
     "device": "A71",
     "model": "A71"
+  },
+  {
+    "brand": "Lava",
+    "name": "Era 4G",
+    "device": "era_4G",
+    "model": "era_4G"
   },
   {
     "brand": "Lava",
@@ -68374,6 +68410,18 @@
     "name": "Zilo",
     "device": "Zilo",
     "model": "Zilo"
+  },
+  {
+    "brand": "Zuk",
+    "name": "ZUK Z1",
+    "device": "Z1",
+    "model": "Z1"
+  },
+  {
+    "brand": "Zuk",
+    "name": "ZUK Z1",
+    "device": "k9",
+    "model": "ZUK Z1"
   },
   {
     "brand": "bq",
