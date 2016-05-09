@@ -1,6 +1,6 @@
 {
   "name": "android-device-list",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "ava && npm run jscs && npm run lint",
-    "jscs": "node_modules/.bin/jscs *.js",
+    "jscs": "node_modules/.bin/jscs index.js build.js",
     "lint": "node_modules/.bin/eslint index.js build.js",
     "build": "node ./build.js"
   },
