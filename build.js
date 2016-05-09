@@ -21,7 +21,7 @@ const BRANDS_OUTPUT_FILE = path.join( __dirname, 'brands.json' );
 const CVS_SEPARATOR = ',';
 const CVS_QUOTE = '"';
 const CVS_ESCAPE = '"';
-const CVS_NEWLINE = '\r\n';
+const CVS_NEWLINE = '\n';
 
 const CVS_SEPARATOR_CODE = new Buffer( CVS_SEPARATOR )[0];
 const CVS_QUOTE_CODE = new Buffer( CVS_QUOTE )[0];
@@ -119,7 +119,7 @@ function splitRow ( row ) {
   if ( ( row.indexOf( CVS_QUOTE ) > -1 ) || ( row.indexOf( CVS_ESCAPE ) > -1 ) ) {
     parts = splitSpecial( row );
   } else {
-    parts = row.split( CVS_SEPARATOR );
+    parts = row.split( CVS_SEPARATOR ).map(cell => cell.replace(/\\t/g, '').trim());
   }
   if ( row.trim().length === 0 ) {
     // empty row
