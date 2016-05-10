@@ -114,12 +114,16 @@ function parseCVS ( data ) {
   return out;
 }
 
+function cleanup(str) {
+  return str.replace(/\\\'/g, '\'').replace(/\\t/g, '').trim();
+}
+
 function splitRow ( row ) {
   let parts;
   if ( ( row.indexOf( CVS_QUOTE ) > -1 ) || ( row.indexOf( CVS_ESCAPE ) > -1 ) ) {
-    parts = splitSpecial( row );
+    parts = splitSpecial( row ).map( cleanup );
   } else {
-    parts = row.split( CVS_SEPARATOR ).map(cell => cell.replace(/\\t/g, '').trim());
+    parts = row.split( CVS_SEPARATOR ).map( cleanup );
   }
   if ( row.trim().length === 0 ) {
     // empty row

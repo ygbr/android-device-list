@@ -2373,7 +2373,7 @@
     "brand": "Archos",
     "name": "Alba 4\" Android",
     "device": "ac40dti",
-    "model": "Alba 4\" Android"
+    "model": "\"Alba 4\" Android\""
   },
   {
     "brand": "Archos",
@@ -2679,31 +2679,31 @@
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac50heplus",
-    "model": "Bush 5\" 4G"
+    "model": "\"Bush 5\" 4G\""
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac50heplus",
-    "model": "Bush Spira C2 5\" Smartphone"
+    "model": "\"Bush Spira C2 5\" Smartphone\""
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac55heplus",
-    "model": "Bush 5.5\" 4G"
+    "model": "\"Bush 5.5\" 4G\""
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac55heplus",
-    "model": "Bush Spira D2 5.5\" Smartphone"
+    "model": "\"Bush Spira D2 5.5\" Smartphone\""
   },
   {
     "brand": "Archos",
     "name": "Bush 5\" Android",
     "device": "ac50cne",
-    "model": "Bush 5\" Android"
+    "model": "\"Bush 5\" Android\""
   },
   {
     "brand": "Archos",
@@ -4141,7 +4141,13 @@
   },
   {
     "brand": "Asus",
-    "name": "﷘⃽⠀吀㔀　　吀䰀吀⤀Ⰰ䄀匀唀匀开堀　　㈀Ⰰ䄀匀唀匀开堀　　㈀਀䄀猀甀猀Ⰰ頀ﵬ2 Plus(X550)",
+    "name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500TLT)",
+    "device": "ASUS_X002",
+    "model": "ASUS_X002"
+  },
+  {
+    "brand": "Asus",
+    "name": "\\xe9\\xa3\\x9e\\xe9\\xa9\\xac2 Plus(X550)",
     "device": "ASUS_X550",
     "model": "ASUS_X550"
   },
@@ -4501,13 +4507,13 @@
   },
   {
     "brand": "Barnes and Noble",
-    "name": "NOOKý HD",
+    "name": "NOOK\\xc2\\xae HD",
     "device": "hummingbird",
     "model": "BNTV400"
   },
   {
     "brand": "Barnes and Noble",
-    "name": "NOOKý HD+",
+    "name": "NOOK\\xc2\\xae HD+",
     "device": "ovation",
     "model": "BNTV600"
   },
@@ -4549,19 +4555,19 @@
   },
   {
     "brand": "Beeline",
-    "name": "BeelineýPro 4",
+    "name": "Beeline\\xc2\\xa0Pro 4",
     "device": "Beeline_Pro_4",
     "model": "Beeline Pro 4"
   },
   {
     "brand": "Beeline",
-    "name": "BeelineýTab Fast 2",
+    "name": "Beeline\\xc2\\xa0Tab Fast 2",
     "device": "z701",
     "model": "Beeline Tab Fast 2"
   },
   {
     "brand": "Beeline",
-    "name": "BeelineýTabýPro",
+    "name": "Beeline\\xc2\\xa0Tab\\xc2\\xa0Pro",
     "device": "BeelineTabPro",
     "model": "Beeline Tab Pro"
   },
@@ -5752,6 +5758,12 @@
     "name": "Cloudpad One 8.0",
     "device": "one8_0_1_coho",
     "model": "one8_0_1_coho"
+  },
+  {
+    "brand": "CoinComputers",
+    "name": "TF10EA2",
+    "device": "TF10EA2_5",
+    "model": "TF10EA2"
   },
   {
     "brand": "Compal",
@@ -9525,7 +9537,7 @@
     "brand": "Garmin",
     "name": "Nuvifone",
     "device": "a50",
-    "model": "nývifone A50"
+    "model": "n\\xc3\\xbcvifone A50"
   },
   {
     "brand": "Garmin",
@@ -12151,7 +12163,7 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC Desire 826 4G 秽勽公﷽版(叽卡叽忽)",
+    "name": "HTC Desire 826 4G \\xe7\\xa7\\xbb\\xe5\\x8b\\x95\\xe5\\x85\\xac\\xe9\\x96\\x8b\\xe7\\x89\\x88(\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85)",
     "device": "htc_a52dtul",
     "model": "HTC D826t"
   },
@@ -12745,19 +12757,19 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC One (E8) 旽尚版",
+    "name": "HTC One (E8) \\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88",
     "device": "htc_mectl",
     "model": "HTC M8St"
   },
   {
     "brand": "HTC",
-    "name": "HTC One (E8) 旽尚版   4G LTE叽卡叽忽ﵔﴚ版",
+    "name": "HTC One (E8) \\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88   4G LTE\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
     "device": "htc_mecdug",
     "model": "HTC M8Sw"
   },
   {
     "brand": "HTC",
-    "name": "HTC One (E8) 時尚版4G LTE 秽勽版",
+    "name": "HTC One (E8) \\xe6\\x99\\x82\\xe5\\xb0\\x9a\\xe7\\x89\\x884G LTE \\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe7\\x89\\x88",
     "device": "htc_mectl",
     "model": "HTC M8Ss"
   },
@@ -12847,7 +12859,7 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC One (M8) (4G LTE 叽卡叽忽 ﵔﴚ版)",
+    "name": "HTC One (M8) (4G LTE \\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85 \\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88)",
     "device": "htc_m8dug",
     "model": "HTC M8e"
   },
@@ -12955,13 +12967,13 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC One M8 eye 4G LTE 秽勽寽制版",
+    "name": "HTC One M8 eye 4G LTE \\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe5\\xae\\x9a\\xe5\\x88\\xb6\\xe7\\x89\\x88",
     "device": "htc_melstuhl",
     "model": "HTC M8Et"
   },
   {
     "brand": "HTC",
-    "name": "HTC One M8 eye 4G LTEﵔﴚ版",
+    "name": "HTC One M8 eye 4G LTE\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
     "device": "htc_melsuhl",
     "model": "HTC M8Ew"
   },
@@ -13027,7 +13039,7 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC One M9 – 0PJA2",
+    "name": "HTC One M9 \\xe2\\x80\\x93 0PJA2",
     "device": "htc_himawhl",
     "model": "0PJA2"
   },
@@ -14452,6 +14464,12 @@
     "name": "HSG1341",
     "device": "mid1024_e",
     "model": "HSG1341"
+  },
+  {
+    "brand": "HannSpree",
+    "name": "HSG1351",
+    "device": "rk3368_32",
+    "model": "HSG1351"
   },
   {
     "brand": "Harris",
@@ -20881,13 +20899,13 @@
   },
   {
     "brand": "Huawei",
-    "name": "P8 ﵒ春版",
+    "name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
     "device": "hwALE-H",
     "model": "ALE-TL00"
   },
   {
     "brand": "Huawei",
-    "name": "P8 ﵒ春版",
+    "name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
     "device": "hwALE-H",
     "model": "ALE-UL00"
   },
@@ -22165,31 +22183,31 @@
   },
   {
     "brand": "Huawei",
-    "name": "ﵣﴀ5X",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-AL10"
   },
   {
     "brand": "Huawei",
-    "name": "ﵣﴀ5X",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-CL00"
   },
   {
     "brand": "Huawei",
-    "name": "ﵣﴀ5X",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-TL00"
   },
   {
     "brand": "Huawei",
-    "name": "ﵣﴀ5X",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-UL00"
   },
   {
     "brand": "Huawei",
-    "name": "﷽﷽4",
+    "name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x924",
     "device": "hwRIO-AL00",
     "model": "HUAWEI RIO-AL00"
   },
@@ -22789,7 +22807,7 @@
   },
   {
     "brand": "Insignia",
-    "name": "INSIGNIA FLEX 8’’ LTE Android Tablet",
+    "name": "INSIGNIA FLEX 8\\xe2\\x80\\x99\\xe2\\x80\\x99 LTE Android Tablet",
     "device": "ns_15t8lte",
     "model": "NS-15T8LTE"
   },
@@ -22992,6 +23010,18 @@
     "model": "CN51 QN0"
   },
   {
+    "brand": "Intex",
+    "name": "Intex Aqua Pride",
+    "device": "AquaPride",
+    "model": "Aqua Pride"
+  },
+  {
+    "brand": "Intex",
+    "name": "Intex Aqua View",
+    "device": "AquaView",
+    "model": "Aqua View"
+  },
+  {
     "brand": "Itel",
     "name": "it1505",
     "device": "itel_it1505",
@@ -23047,7 +23077,7 @@
   },
   {
     "brand": "JVC",
-    "name": "DM65UXR\\DM65USR\\DM85UXR",
+    "name": "DM65UXR\\\\DM65USR\\\\DM85UXR",
     "device": "mstarnapoli_atsc",
     "model": "DM65UXR"
   },
@@ -24967,19 +24997,19 @@
   },
   {
     "brand": "LGE",
-    "name": "G Pad Ⅱ 10.1",
+    "name": "G Pad \\xe2\\x85\\xa1 10.1",
     "device": "t1lte",
     "model": "LGUK932"
   },
   {
     "brand": "LGE",
-    "name": "G Pad Ⅱ 10.1 FHD 4G LTE",
+    "name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
     "device": "t1lte",
     "model": "LG-V935"
   },
   {
     "brand": "LGE",
-    "name": "G Pad Ⅱ 10.1 FHD 4G LTE",
+    "name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
     "device": "t1lte",
     "model": "LG-V935T"
   },
@@ -26023,7 +26053,7 @@
   },
   {
     "brand": "LGE",
-    "name": "LG G Pad F™ 8.0 2nd Gen",
+    "name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
     "device": "t8lte",
     "model": "LG-UK495"
   },
@@ -26761,7 +26791,7 @@
   },
   {
     "brand": "LGE",
-    "name": "LG LEON™ LTE",
+    "name": "LG LEON\\xe2\\x84\\xa2 LTE",
     "device": "c50",
     "model": "LG-H345"
   },
@@ -26893,7 +26923,7 @@
   },
   {
     "brand": "LGE",
-    "name": "LG Mach™",
+    "name": "LG Mach\\xe2\\x84\\xa2",
     "device": "l2s",
     "model": "LG-LS860"
   },
@@ -26977,7 +27007,7 @@
   },
   {
     "brand": "LGE",
-    "name": "LG Optimus ELITE™",
+    "name": "LG Optimus ELITE\\xe2\\x84\\xa2",
     "device": "m3s",
     "model": "LG-VM696"
   },
@@ -27973,7 +28003,7 @@
   },
   {
     "brand": "LGE",
-    "name": "LG Tribute 2™",
+    "name": "LG Tribute 2\\xe2\\x84\\xa2",
     "device": "c50",
     "model": "LGLS665"
   },
@@ -32593,31 +32623,31 @@
   },
   {
     "brand": "Lenovo",
-    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1ﴛAQUOS 58U1; AQUOS 60LX765A",
+    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
     "device": "jazz",
     "model": "AQUOS 58U1"
   },
   {
     "brand": "Lenovo",
-    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1ﴛAQUOS 58U1; AQUOS 60LX765A",
+    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
     "device": "jazz",
     "model": "AQUOS 60LX765A"
   },
   {
     "brand": "Lenovo",
-    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1ﴛAQUOS 58U1; AQUOS 60LX765A",
+    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
     "device": "jazz",
     "model": "AQUOS 60UE20A"
   },
   {
     "brand": "Lenovo",
-    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1ﴛAQUOS 58U1; AQUOS 60LX765A",
+    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
     "device": "jazz",
     "model": "LenovoTV 40S9"
   },
   {
     "brand": "Lenovo",
-    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1ﴛAQUOS 58U1; AQUOS 60LX765A",
+    "name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
     "device": "jazz",
     "model": "LenovoTV 58S9"
   },
@@ -36475,7 +36505,7 @@
   },
   {
     "brand": "NEC",
-    "name": "101T 　MEDIAS",
+    "name": "101T \\xe3\\x80\\x80MEDIAS",
     "device": "NEC-101",
     "model": "NEC-101T"
   },
@@ -36529,7 +36559,7 @@
   },
   {
     "brand": "NEC",
-    "name": "G’zOne CA-201L",
+    "name": "G\\xe2\\x80\\x99zOne CA-201L",
     "device": "CA201L",
     "model": "CA-201L"
   },
@@ -37660,6 +37690,12 @@
     "name": "X909",
     "device": "FIND5",
     "model": "X909"
+  },
+  {
+    "brand": "Obi",
+    "name": "Obi MV1",
+    "device": "yam",
+    "model": "Obi MV1"
   },
   {
     "brand": "Odys",
@@ -39481,7 +39517,7 @@
   },
   {
     "brand": "Pantech",
-    "name": "SIRIUS Ͻ",
+    "name": "SIRIUS \\xce\\xb1",
     "device": "jmasai",
     "model": "IS06"
   },
@@ -39661,25 +39697,25 @@
   },
   {
     "brand": "Philips",
-    "name": "4K & Full HD Slim LED TV powered by Android™",
+    "name": "4K & Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
     "device": "philips_MT5593FHT_EU",
     "model": "QM152E"
   },
   {
     "brand": "Philips",
-    "name": "4K & Full HD Slim LED TV powered by Android™",
+    "name": "4K & Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
     "device": "philips_MT5593HT_LT",
     "model": "QM152E"
   },
   {
     "brand": "Philips",
-    "name": "4K Razor Slim LED TV powered by Android TV™",
+    "name": "4K Razor Slim LED TV powered by Android TV\\xe2\\x84\\xa2",
     "device": "MT5593Uplus",
     "model": "QM151E"
   },
   {
     "brand": "Philips",
-    "name": "4K UHD Razor Slim LED TV powered by Android™",
+    "name": "4K UHD Razor Slim LED TV powered by Android\\xe2\\x84\\xa2",
     "device": "QV151E",
     "model": "QV151E"
   },
@@ -40515,7 +40551,7 @@
     "brand": "Positivo",
     "name": "Positivo Ypy 07FTB",
     "device": "YPY_07FTB",
-    "model": "POSITIVO TABLET YPY 07FTB PM BELýM"
+    "model": "POSITIVO TABLET YPY 07FTB PM BEL\\xc3\\x89M"
   },
   {
     "brand": "Positivo",
@@ -41515,6 +41551,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "Qmobile i6 Metal ONE",
+    "device": "i6_Metal_ONE",
+    "model": "QMobile i6 Metal ONE"
+  },
+  {
+    "brand": "QMobile",
     "name": "W70",
     "device": "W70",
     "model": "W70"
@@ -42031,7 +42073,7 @@
   },
   {
     "brand": "STOREX",
-    "name": "eZee’Tab7D14-S",
+    "name": "eZee\\xe2\\x80\\x99Tab7D14-S",
     "device": "STOREX7526",
     "model": "NID_7010"
   },
@@ -52309,7 +52351,7 @@
   },
   {
     "brand": "Sharp",
-    "name": "AQUOS ヽヽヽヽ SH-06G",
+    "name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
     "device": "SH-06G",
     "model": "SH-06G"
   },
@@ -54265,109 +54307,109 @@
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4",
+    "name": "Xperia\\xe2\\x84\\xa2 C4",
     "device": "E5303",
     "model": "E5303"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4",
+    "name": "Xperia\\xe2\\x84\\xa2 C4",
     "device": "E5306",
     "model": "E5306"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4",
+    "name": "Xperia\\xe2\\x84\\xa2 C4",
     "device": "E5353",
     "model": "E5353"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4 Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
     "device": "E5333",
     "model": "E5333"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4 Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
     "device": "E5343",
     "model": "E5343"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ C4 Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
     "device": "E5363",
     "model": "E5363"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4",
+    "name": "Xperia\\xe2\\x84\\xa2 E4",
     "device": "E2104",
     "model": "E2104"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4",
+    "name": "Xperia\\xe2\\x84\\xa2 E4",
     "device": "E2105",
     "model": "E2105"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4 Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
     "device": "E2115",
     "model": "E2115"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4 Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
     "device": "E2124",
     "model": "E2124"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4g",
+    "name": "Xperia\\xe2\\x84\\xa2 E4g",
     "device": "E2003",
     "model": "E2003"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ E4g",
+    "name": "Xperia\\xe2\\x84\\xa2 E4g",
     "device": "E2006",
     "model": "E2006"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
     "device": "E2303",
     "model": "E2303"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
     "device": "E2306",
     "model": "E2306"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
     "device": "E2353",
     "model": "E2353"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
     "device": "E2312",
     "model": "E2312"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
     "device": "E2333",
     "model": "E2333"
   },
   {
     "brand": "Sony",
-    "name": "Xperia™ M4 Aqua Dual",
+    "name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
     "device": "E2363",
     "model": "E2363"
   },
@@ -57565,7 +57607,7 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "ALCATEL ONETOUCH PIXI™ 3 (4.5)",
+    "name": "ALCATEL ONETOUCH PIXI\\xe2\\x84\\xa2 3 (4.5)",
     "device": "PIXI3_45_4G",
     "model": "5017O"
   },
@@ -60127,7 +60169,7 @@
   },
   {
     "brand": "Tecno",
-    "name": "DroiPad 8Ⅱ",
+    "name": "DroiPad 8\\xe2\\x85\\xa1",
     "device": "DP8D",
     "model": "DP8D"
   },
@@ -64321,6 +64363,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade L5",
+    "device": "P172A40",
+    "model": "Blade L5"
+  },
+  {
+    "brand": "ZTE",
     "name": "Blade Q Lux",
     "device": "P816A12",
     "model": "Blade Q Lux"
@@ -66373,6 +66421,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade L5",
+    "device": "P172A40",
+    "model": "ZTE Blade L5"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade Q Lux",
     "device": "P632A10",
     "model": "BGH Joy Smart A7G"
@@ -67366,6 +67420,12 @@
     "name": "ZTE T28",
     "device": "bluetick",
     "model": "ZTE T28 Prepaid"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE T520",
+    "device": "P172A40",
+    "model": "ZTE T520"
   },
   {
     "brand": "ZTE",
@@ -69067,13 +69127,13 @@
   },
   {
     "brand": "nabi",
-    "name": "nabi Big Tab HD™ 20\"",
+    "name": "nabi Big Tab HD\\xe2\\x84\\xa2 20\"",
     "device": "DMTAB-NV20A",
     "model": "DMTAB-NV20A"
   },
   {
     "brand": "nabi",
-    "name": "nabi Big Tab HD™ 24\"",
+    "name": "nabi Big Tab HD\\xe2\\x84\\xa2 24\"",
     "device": "DMTAB-NV24A",
     "model": "DMTAB-NV24A"
   },
