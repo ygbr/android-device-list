@@ -17221,6 +17221,24 @@
   },
   {
     "brand": "Honeywell",
+    "name": "CT50",
+    "device": "CT50L0N-CS15S",
+    "model": "CT50"
+  },
+  {
+    "brand": "Honeywell",
+    "name": "CT50",
+    "device": "CT50L0N-CS16S",
+    "model": "CT50"
+  },
+  {
+    "brand": "Honeywell",
+    "name": "CT50",
+    "device": "CT50LUN-CS16S",
+    "model": "CT50"
+  },
+  {
+    "brand": "Honeywell",
     "name": "D75E",
     "device": "75E-L0N",
     "model": "D75E"
@@ -27862,6 +27880,12 @@
     "name": "LG Phoenix 2",
     "device": "m1v",
     "model": "LG-K373"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Phoenix 2",
+    "device": "m1v",
+    "model": "LGAS375"
   },
   {
     "brand": "LGE",
@@ -40102,12 +40126,6 @@
     "name": "Kiwami",
     "device": "FTJ152D",
     "model": "FTJ152D"
-  },
-  {
-    "brand": "Plusone",
-    "name": "Priori 3",
-    "device": "FTJ152A",
-    "model": "FTJ152A"
   },
   {
     "brand": "Plusone",
@@ -56059,6 +56077,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "5098O",
+    "device": "Pixi4-6_4G_CKT",
+    "model": "alcatel_5098O"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "5098S",
     "device": "Pixi4-6_4G",
     "model": "5098S"
@@ -61308,6 +61332,12 @@
     "model": "Venus_V3_5570"
   },
   {
+    "brand": "Vestel",
+    "name": "Venus_V3_5040",
+    "device": "Venus_V3_5045",
+    "model": "Venus_V3_5040_2GB"
+  },
+  {
     "brand": "ViewSonic",
     "name": "",
     "device": "v350",
@@ -61750,6 +61780,12 @@
     "name": "VTAB1008",
     "device": "VTAB1008",
     "model": "VTAB1008"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone Tab Prime 7",
+    "device": "VFD1400",
+    "model": "VFD1400"
   },
   {
     "brand": "Vonino",
