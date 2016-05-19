@@ -5071,6 +5071,12 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO SELFIE 2",
+    "device": "BLU_STUDIO_SELFIE_2",
+    "model": "BLU STUDIO SELFIE 2"
+  },
+  {
+    "brand": "Blu",
     "name": "SUTDIO ENERGY 2",
     "device": "BLU_STUDIO_ENERGY_2",
     "model": "STUDIO ENERGY 2"
@@ -19231,12 +19237,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "ALE-CL00",
-    "device": "hwALE-Q",
-    "model": "HUAWEI ALE-CL00"
-  },
-  {
-    "brand": "Huawei",
     "name": "ALE-L02",
     "device": "hwALE-H",
     "model": "503HW"
@@ -19252,12 +19252,6 @@
     "name": "ALE-L04",
     "device": "hwALE-Q",
     "model": "HUAWEI ALE-L04"
-  },
-  {
-    "brand": "Huawei",
-    "name": "ALE-L21",
-    "device": "hwALE-H",
-    "model": "ALE-L21"
   },
   {
     "brand": "Huawei",
@@ -20563,6 +20557,42 @@
   },
   {
     "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-L01"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-TL01H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 7",
+    "device": "HWPLK",
+    "model": "PLK-UL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "Honor 7i",
     "device": "HWATH",
     "model": "ATH-AL00"
@@ -20854,6 +20884,18 @@
     "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8 Lite",
+    "device": "hwALE-H",
+    "model": "ALE-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8 Lite",
+    "device": "hwALE-Q",
+    "model": "HUAWEI ALE-CL00"
   },
   {
     "brand": "Huawei",
@@ -21196,42 +21238,6 @@
     "name": "PE-UL00",
     "device": "hwPE",
     "model": "PE-UL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-AL10",
-    "device": "HWPLK",
-    "model": "PLK-AL10"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-CL00",
-    "device": "HWPLK",
-    "model": "PLK-CL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-L01",
-    "device": "HWPLK",
-    "model": "PLK-L01"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-TL00",
-    "device": "HWPLK",
-    "model": "PLK-TL00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-TL01H",
-    "device": "HWPLK",
-    "model": "PLK-TL01H"
-  },
-  {
-    "brand": "Huawei",
-    "name": "PLK-UL00",
-    "device": "HWPLK",
-    "model": "PLK-UL00"
   },
   {
     "brand": "Huawei",
@@ -23869,6 +23875,12 @@
   },
   {
     "brand": "Kyocera",
+    "name": "DuraForce XD",
+    "device": "E6790TM",
+    "model": "E6790TM"
+  },
+  {
+    "brand": "Kyocera",
     "name": "DuraScout",
     "device": "E6782L",
     "model": "E6782L"
@@ -24076,6 +24088,12 @@
     "name": "S301",
     "device": "KC-S301AE",
     "model": "KC-S301AE"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "SZJ201",
+    "device": "SZJ201",
+    "model": "SZJ-JS201"
   },
   {
     "brand": "Kyocera",
@@ -26751,6 +26769,12 @@
     "brand": "LGE",
     "name": "LG G5",
     "device": "h1",
+    "model": "LG-H820PR"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
     "model": "LG-H830"
   },
   {
@@ -26794,6 +26818,12 @@
     "name": "LG G5",
     "device": "h1",
     "model": "LGUS992"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G5",
+    "device": "h1",
+    "model": "RS988"
   },
   {
     "brand": "LGE",
@@ -28215,6 +28245,12 @@
     "brand": "LGE",
     "name": "LG Stylus2 4G",
     "device": "ph2",
+    "model": "LG-K535"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2 Plus",
+    "device": "ph2n",
     "model": "LG-K535"
   },
   {
@@ -39406,6 +39442,12 @@
     "name": "SmartTVBox",
     "device": "C01AS",
     "model": "SMARTTVBOX"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "T30",
+    "device": "T30",
+    "model": "Panasonic T30"
   },
   {
     "brand": "Panasonic",
@@ -69250,6 +69292,12 @@
     "name": "i-mobile i-note WiFi 1.1",
     "device": "M1703",
     "model": "i-mobile M1703"
+  },
+  {
+    "brand": "iCraig",
+    "name": "CLP293",
+    "device": "CLP293",
+    "model": "CLP293"
   },
   {
     "brand": "iCraig",
