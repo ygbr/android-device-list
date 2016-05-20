@@ -49,6 +49,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "AG Ultra2",
+    "device": "AG_Ultra2",
+    "model": "Ultra 2"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "AG_Go-Tab_Access",
     "device": "md789hwag",
     "model": "AG Go-Tab Access"
@@ -26023,6 +26029,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Escape 3",
+    "device": "m1v",
+    "model": "LG-K373"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Escape2",
     "device": "c70n",
     "model": "LG-H443"
@@ -28102,12 +28114,6 @@
     "name": "LG Phoenix 2",
     "device": "m1v",
     "model": "LG-K371"
-  },
-  {
-    "brand": "LGE",
-    "name": "LG Phoenix 2",
-    "device": "m1v",
-    "model": "LG-K373"
   },
   {
     "brand": "LGE",
