@@ -967,6 +967,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Zest 4G",
+    "device": "acer_t07",
+    "model": "T07"
+  },
+  {
+    "brand": "Acer",
     "name": "LiquidMT",
     "device": "a4",
     "model": "Acer Liquid Metal"
@@ -4006,6 +4012,12 @@
     "name": "ZenPad 7.0(Z370KL)",
     "device": "P002_1",
     "model": "P002"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenPad 8.0 (Z380M)",
+    "device": "P00A_1",
+    "model": "P00A"
   },
   {
     "brand": "Asus",
@@ -10459,6 +10471,12 @@
   },
   {
     "brand": "Gtel",
+    "name": "A713_Vivo_Pro",
+    "device": "A713_Vivo_Pro",
+    "model": "A713_Vivo_Pro"
+  },
+  {
+    "brand": "Gtel",
     "name": "A714 Vivo Play",
     "device": "A714_Vivo_Play",
     "model": "A714_Vivo_Play"
@@ -12322,6 +12340,18 @@
     "name": "HTC Desire 825",
     "device": "htc_a56uhl",
     "model": "HTC_D825u"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 825 dual sim",
+    "device": "htc_a56dugl",
+    "model": "HTC 2PUK1"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 825 dual sim",
+    "device": "htc_a56dugl",
+    "model": "HTC Desire 825 dual sim"
   },
   {
     "brand": "HTC",
@@ -39058,6 +39088,12 @@
     "name": "55AX600C",
     "device": "mst918_4k2k",
     "model": "55AX600C"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "55DX600C",
+    "device": "DX600C",
+    "model": "TH-55DX600C"
   },
   {
     "brand": "Panasonic",
