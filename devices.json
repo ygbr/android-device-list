@@ -79,6 +79,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "Freedom Plus LTE",
+    "device": "Freedom_Plus_LTE",
+    "model": "Freedom Plus LTE"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Ghost",
     "device": "Ghost",
     "model": "Ghost"
@@ -1138,6 +1144,12 @@
     "name": "AX4 Nano Plus",
     "device": "AX4Nano_plus",
     "model": "AX4Nano_plus"
+  },
+  {
+    "brand": "AllView",
+    "name": "AX501Q",
+    "device": "AX501Q",
+    "model": "AX501Q"
   },
   {
     "brand": "AllView",
@@ -10087,6 +10099,12 @@
   },
   {
     "brand": "Gionee",
+    "name": "F103 Pro",
+    "device": "GIONEE_GBL7360",
+    "model": "F103 Pro"
+  },
+  {
+    "brand": "Gionee",
     "name": "F103L",
     "device": "GiONEE_GBL7319",
     "model": "F103L"
@@ -11296,6 +11314,12 @@
     "name": "HTC 10",
     "device": "htc_pmewl",
     "model": "HTC 10"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmewl",
+    "model": "HTC6545LVW"
   },
   {
     "brand": "HTC",
@@ -26377,6 +26401,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad III 8.0 FHD",
+    "device": "b3",
+    "model": "LG-V525"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad X 8.0",
     "device": "b3",
     "model": "LG-V521"
@@ -31549,6 +31579,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A2020a40",
+    "device": "angus3A4",
+    "model": "Lenovo A2020a40"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A2105",
     "device": "Lenovo_A2105",
     "model": "Lenovo_A2105"
@@ -32266,6 +32302,24 @@
     "name": "Lenovo K32",
     "device": "K32c36",
     "model": "Lenovo K32c36"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K5",
+    "device": "A6020a40",
+    "model": "Lenovo A6020a40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K5",
+    "device": "A6020a41",
+    "model": "Lenovo A6020a41"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K5 Plus",
+    "device": "A6020a46",
+    "model": "Lenovo A6020a46"
   },
   {
     "brand": "Lenovo",
