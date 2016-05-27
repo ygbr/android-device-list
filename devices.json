@@ -1123,6 +1123,18 @@
   },
   {
     "brand": "AllView",
+    "name": "A5 Ready",
+    "device": "A5_Ready",
+    "model": "A5_Ready"
+  },
+  {
+    "brand": "AllView",
+    "name": "A5 Ready",
+    "device": "A5_Ready",
+    "model": "A5_Ready_TM"
+  },
+  {
+    "brand": "AllView",
     "name": "A6 Duo",
     "device": "A6_Duo",
     "model": "A6_Duo"
@@ -11312,6 +11324,12 @@
   {
     "brand": "HTC",
     "name": "HTC 10",
+    "device": "htc_pmewhl",
+    "model": "2PS64"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
     "device": "htc_pmewl",
     "model": "HTC 10"
   },
@@ -17450,6 +17468,12 @@
   {
     "brand": "Honda",
     "name": "MY15ADA",
+    "device": "koelsch",
+    "model": "MY15ADA"
+  },
+  {
+    "brand": "Honda",
+    "name": "NSX",
     "device": "koelsch",
     "model": "MY15ADA"
   },
@@ -33247,6 +33271,12 @@
   },
   {
     "brand": "Lexibook",
+    "name": "LexiTab 10''",
+    "device": "mfc511",
+    "model": "MFC511FR"
+  },
+  {
+    "brand": "Lexibook",
     "name": "MFC191",
     "device": "MFC191",
     "model": "S952"
@@ -33550,6 +33580,12 @@
     "name": "M4 SS4451",
     "device": "NOVA02A_S11A",
     "model": "M4 SS4451"
+  },
+  {
+    "brand": "M4tel",
+    "name": "M4 SS4455",
+    "device": "NOVA03A_S22A",
+    "model": "M4 SS4455"
   },
   {
     "brand": "MAD CATZ",
@@ -39313,9 +39349,21 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga_Note",
+    "device": "ELUGA_Note",
+    "model": "ELUGA Note"
+  },
+  {
+    "brand": "Panasonic",
     "name": "FZ-A1",
     "device": "toughpad",
     "model": "FZ-A1B"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "FZ-A2A",
+    "device": "fz_a2a",
+    "model": "FZ-A2A"
   },
   {
     "brand": "Panasonic",
@@ -49771,6 +49819,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy TAB3 Lite",
+    "device": "goyairis3g",
+    "model": "SM-T116IR"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab",
     "device": "GT-P1000",
     "model": "GT-P1000"
@@ -49948,6 +50002,12 @@
     "name": "Galaxy Tab 10.1 v",
     "device": "p3",
     "model": "GT-P7100"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab 3 Lite",
+    "device": "goyairis3g",
+    "model": "SM-T116IR"
   },
   {
     "brand": "Samsung",
@@ -50350,6 +50410,12 @@
     "name": "Galaxy Tab E 7.0",
     "device": "gtexswifi",
     "model": "SM-T280"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab E 8.0",
+    "device": "gteslteatt",
+    "model": "SAMSUNG-SM-T377A"
   },
   {
     "brand": "Samsung",
@@ -53260,6 +53326,12 @@
     "name": "Yahoo! Phone SoftBank 009SH Y",
     "device": "SBM009SHY",
     "model": "SBM009SHY"
+  },
+  {
+    "brand": "Sharp",
+    "name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+    "device": "SR01MW",
+    "model": "SR01MW"
   },
   {
     "brand": "SiAL",
@@ -62089,6 +62161,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo V3M A",
+    "device": "PD1524B",
+    "model": "vivo PD1524B"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo V3Max",
     "device": "V3Max",
     "model": "vivo V3Max"
@@ -62362,6 +62440,12 @@
     "name": "MusicPAD",
     "device": "MusicPAD",
     "model": "MusicPAD"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Navo QS",
+    "device": "Navo_QS",
+    "model": "Navo_QS"
   },
   {
     "brand": "Vonino",
@@ -62654,6 +62738,12 @@
   {
     "brand": "Wiko",
     "name": "K-KOOL",
+    "device": "T2800AN",
+    "model": "K-KOOL"
+  },
+  {
+    "brand": "Wiko",
+    "name": "K-KOOL",
     "device": "V2800AN",
     "model": "K-KOOL"
   },
@@ -62823,6 +62913,12 @@
     "brand": "Wiko",
     "name": "ROBBY",
     "device": "V3750AN",
+    "model": "ROBBY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "ROBBY",
+    "device": "V3750AN24K",
     "model": "ROBBY"
   },
   {
@@ -65283,7 +65379,19 @@
     "brand": "ZTE",
     "name": "K83",
     "device": "K83",
+    "model": "Amazing_P8"
+  },
+  {
+    "brand": "ZTE",
+    "name": "K83",
+    "device": "K83",
     "model": "K83"
+  },
+  {
+    "brand": "ZTE",
+    "name": "K85",
+    "device": "K85",
+    "model": "K85"
   },
   {
     "brand": "ZTE",
