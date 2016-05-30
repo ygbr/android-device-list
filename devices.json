@@ -5304,6 +5304,12 @@
     "model": "B15Q"
   },
   {
+    "brand": "CCC",
+    "name": "TSUTAYA Stick",
+    "device": "ts201",
+    "model": "TStick"
+  },
+  {
     "brand": "CHN TELECOM",
     "name": "CHN-UCAN MJ",
     "device": "lefhd",
@@ -6892,6 +6898,12 @@
     "name": "FT7",
     "device": "FT7_tw",
     "model": "Android Tablet FT7"
+  },
+  {
+    "brand": "Cubot",
+    "name": "Rainbow",
+    "device": "RAINBOW",
+    "model": "RAINBOW"
   },
   {
     "brand": "DEA Factory",
@@ -30427,6 +30439,12 @@
   },
   {
     "brand": "LeTV",
+    "name": "Le Max",
+    "device": "max1_in",
+    "model": "Le Max"
+  },
+  {
+    "brand": "LeTV",
     "name": "Le X507",
     "device": "X3_HK",
     "model": "Le X507"
@@ -36925,6 +36943,12 @@
   },
   {
     "brand": "Myphone",
+    "name": "Cube LTE",
+    "device": "CUBE_LTE_PLAY",
+    "model": "CUBE_LTE"
+  },
+  {
+    "brand": "Myphone",
     "name": "UNO",
     "device": "UNO_sprout",
     "model": "MyPhone UNO"
@@ -37774,6 +37798,12 @@
     "name": "COOLPIX S810c",
     "device": "s810c",
     "model": "COOLPIX S810c"
+  },
+  {
+    "brand": "Njoy",
+    "name": "Chronos_10",
+    "device": "Chronos_10",
+    "model": "Chronos_10"
   },
   {
     "brand": "Njoy",
@@ -69724,6 +69754,12 @@
     "name": "ZUK Z1",
     "device": "Z1",
     "model": "Z1"
+  },
+  {
+    "brand": "Zuk",
+    "name": "ZUK Z1",
+    "device": "Z1",
+    "model": "ZUK Z1"
   },
   {
     "brand": "Zuk",
