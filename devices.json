@@ -7429,6 +7429,12 @@
   },
   {
     "brand": "ECS",
+    "name": "TF10EA2",
+    "device": "TF10EA2_4",
+    "model": "TF10EA2"
+  },
+  {
+    "brand": "ECS",
     "name": "TI10RA1",
     "device": "TI10RA1_1",
     "model": "TI10RA1"
@@ -38221,6 +38227,12 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 3",
+    "device": "OnePlus3",
+    "model": "ONEPLUS A3000"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus One",
     "device": "A0001",
     "model": "A0001"
@@ -42094,6 +42106,12 @@
     "name": "Qmobile i6 Metal ONE",
     "device": "i6_Metal_ONE",
     "model": "QMobile i6 Metal ONE"
+  },
+  {
+    "brand": "QMobile",
+    "name": "S2 Plus",
+    "device": "S2_Plus",
+    "model": "QMobile S2 Plus"
   },
   {
     "brand": "QMobile",
@@ -69736,6 +69754,12 @@
     "name": "Zilo",
     "device": "Zilo",
     "model": "Zilo"
+  },
+  {
+    "brand": "Zuk",
+    "name": "Z2",
+    "device": "z2_plus",
+    "model": "ZUK Z2131"
   },
   {
     "brand": "Zuk",
