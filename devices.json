@@ -52963,6 +52963,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS ZETA SH-04H",
+    "device": "SH-04H",
+    "model": "SH-04H"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
     "device": "SH-06G",
     "model": "SH-06G"
@@ -56680,6 +56686,12 @@
     "name": "5065D",
     "device": "Pop35",
     "model": "5065D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5065N",
+    "device": "Pop35",
+    "model": "5065N"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -63004,6 +63016,12 @@
     "name": "SUNSET2",
     "device": "s4050ap",
     "model": "SUNSET2"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL",
+    "device": "P6601AE",
+    "model": "U FEEL"
   },
   {
     "brand": "Wiko",
