@@ -79,6 +79,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "Freedom E",
+    "device": "Freedom_E",
+    "model": "Freedom E"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Freedom Plus LTE",
     "device": "Freedom_Plus_LTE",
     "model": "Freedom Plus LTE"
@@ -5302,6 +5308,12 @@
     "name": "CAT B15Q",
     "device": "B15Q",
     "model": "B15Q"
+  },
+  {
+    "brand": "CCC",
+    "name": "LifeStick",
+    "device": "ts201",
+    "model": "LifeStick"
   },
   {
     "brand": "CCC",
@@ -33297,6 +33309,12 @@
     "brand": "Lexibook",
     "name": "LexiTab 10''",
     "device": "mfc511",
+    "model": "MFC511DE"
+  },
+  {
+    "brand": "Lexibook",
+    "name": "LexiTab 10''",
+    "device": "mfc511",
     "model": "MFC511FR"
   },
   {
@@ -49690,6 +49708,12 @@
     "name": "Galaxy S7",
     "device": "heroqltevzw",
     "model": "SM-G930V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7 Active",
+    "device": "poseidonlteatt",
+    "model": "SAMSUNG-SM-G891A"
   },
   {
     "brand": "Samsung",
