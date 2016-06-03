@@ -4063,6 +4063,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad C 7.0",
+    "device": "P01Y_S",
+    "model": "P01Y_S"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad C 7.0 (Z170C)",
     "device": "P01Z",
     "model": "P01Z"
@@ -4300,6 +4306,18 @@
     "name": "Q5S5IN4G",
     "device": "Q5S5IN4G",
     "model": "Q5S5IN4G"
+  },
+  {
+    "brand": "Auchan",
+    "name": "Q6T10IN4G",
+    "device": "Q6T10IN4G",
+    "model": "Q6T10IN4G"
+  },
+  {
+    "brand": "Auchan",
+    "name": "Q6T7IN",
+    "device": "Q6T7IN",
+    "model": "Q6T7IN"
   },
   {
     "brand": "Auchan",
@@ -5041,6 +5059,12 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU TOUCHBOOK M7",
+    "device": "BLU_TOUCHBOOK_M7",
+    "model": "BLU TOUCHBOOK M7"
+  },
+  {
+    "brand": "Blu",
     "name": "DASH X LTE",
     "device": "DASH_X_LTE",
     "model": "BLU DASH X LTE"
@@ -5053,9 +5077,27 @@
   },
   {
     "brand": "Blu",
+    "name": "Dash 4.5",
+    "device": "D730",
+    "model": "Dash 4.5"
+  },
+  {
+    "brand": "Blu",
     "name": "Dash X",
     "device": "BLU_DASH_X",
     "model": "BLU DASH X"
+  },
+  {
+    "brand": "Blu",
+    "name": "ENERGY  XL",
+    "device": "BLU_ENERGY_XL",
+    "model": "ENERGY XL"
+  },
+  {
+    "brand": "Blu",
+    "name": "ENERGY_DIAMOND_MINI",
+    "device": "ENERGY_DIAMOND_MINI",
+    "model": "ENERGY_DIAMOND_MINI"
   },
   {
     "brand": "Blu",
@@ -5158,6 +5200,12 @@
     "name": "Studio C HD",
     "device": "BLU_STUDIO_C_HD",
     "model": "BLU STUDIO C HD"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio G HD",
+    "device": "STUDIO_G_HD",
+    "model": "STUDIO_G_HD"
   },
   {
     "brand": "Blu",
@@ -7312,6 +7360,12 @@
     "name": "825A",
     "device": "825A",
     "model": "Doro Liberto 825"
+  },
+  {
+    "brand": "Doro",
+    "name": "Doro 822",
+    "device": "DSB0010",
+    "model": "Doro 8031"
   },
   {
     "brand": "Doro",
@@ -10402,6 +10456,12 @@
     "name": "S6",
     "device": "GiONEE_CBL7513",
     "model": "S6"
+  },
+  {
+    "brand": "Gionee",
+    "name": "S6s",
+    "device": "GIONEE_WBL7519",
+    "model": "S6s"
   },
   {
     "brand": "Gionee",
@@ -26455,6 +26515,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad III 8.0",
+    "device": "b3",
+    "model": "LG-V522"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad III 8.0 FHD",
     "device": "b3",
     "model": "LG-V525"
@@ -27050,6 +27116,18 @@
   {
     "brand": "LGE",
     "name": "LG K10",
+    "device": "m209n",
+    "model": "LG-K428"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K10",
+    "device": "m209n",
+    "model": "LGMS428"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K10",
     "device": "m216",
     "model": "LG-K420"
   },
@@ -27094,6 +27172,12 @@
     "name": "LG K10 LTE",
     "device": "m253n",
     "model": "LG-K430"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K4",
+    "device": "e1q",
+    "model": "LG-K120GT"
   },
   {
     "brand": "LGE",
@@ -33315,6 +33399,12 @@
     "brand": "Lexibook",
     "name": "LexiTab 10''",
     "device": "mfc511",
+    "model": "MFC511EN"
+  },
+  {
+    "brand": "Lexibook",
+    "name": "LexiTab 10''",
+    "device": "mfc511",
     "model": "MFC511FR"
   },
   {
@@ -34987,6 +35077,12 @@
   },
   {
     "brand": "Mobicell",
+    "name": "Candy",
+    "device": "Candy",
+    "model": "Candy"
+  },
+  {
+    "brand": "Mobicell",
     "name": "ECHO",
     "device": "ECHO",
     "model": "ECHO"
@@ -35038,6 +35134,12 @@
     "name": "Trendy",
     "device": "TREDNY",
     "model": "TREDNY"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Trendy",
+    "device": "TRENDY",
+    "model": "TRENDY"
   },
   {
     "brand": "MobileTeleSystem",
@@ -36278,6 +36380,12 @@
   {
     "brand": "Motorola",
     "name": "Moto G (3rd Gen)",
+    "device": "osprey_ud2",
+    "model": "MotoG3"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G (3rd Gen)",
     "device": "osprey_uds",
     "model": "MotoG3"
   },
@@ -36290,24 +36398,6 @@
   {
     "brand": "Motorola",
     "name": "Moto G (3rd Gen)",
-    "device": "osprey_umts",
-    "model": "MotoG3"
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G (gen3)",
-    "device": "osprey_u2",
-    "model": "MotoG3"
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G (gen3)",
-    "device": "osprey_ud2",
-    "model": "MotoG3"
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G (gen3)",
     "device": "osprey_umts",
     "model": "MotoG3"
   },
@@ -42085,6 +42175,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "LT680",
+    "device": "QMobile_LT680",
+    "model": "LT680"
+  },
+  {
+    "brand": "QMobile",
     "name": "LT700",
     "device": "GBL7325QM",
     "model": "LT700"
@@ -42418,6 +42514,12 @@
     "name": "FL7008",
     "device": "FL7008",
     "model": "FL7008"
+  },
+  {
+    "brand": "Reliance",
+    "name": "LS-4008",
+    "device": "LS-4008",
+    "model": "LS-4008"
   },
   {
     "brand": "Reliance",
@@ -50846,6 +50948,18 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab S2 9.7",
+    "device": "gts210velte",
+    "model": "SM-T819Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
+    "device": "gts210veltechn",
+    "model": "SM-T819C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
     "device": "gts210vewifi",
     "model": "SM-T813"
   },
@@ -52903,6 +53017,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS SERIE SHV34",
+    "device": "SHV34",
+    "model": "SHV34"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS SERIE mini SHV31",
     "device": "SHV31",
     "model": "SHV31"
@@ -52942,6 +53062,12 @@
     "name": "AQUOS Xx",
     "device": "SG404SH",
     "model": "404SH"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS Xx 3",
+    "device": "SG506SH",
+    "model": "506SH"
   },
   {
     "brand": "Sharp",
@@ -53449,13 +53575,13 @@
   },
   {
     "brand": "Sirin",
-    "name": "SOLARIN",
+    "name": "SIRIN LABS SOLARIN",
     "device": "solarin",
     "model": "SOLARIN"
   },
   {
     "brand": "Sirin",
-    "name": "SOLARIN",
+    "name": "SIRIN LABS SOLARIN",
     "device": "solarin",
     "model": "Solarin"
   },
@@ -54334,6 +54460,36 @@
     "name": "Xperia X",
     "device": "F5122",
     "model": "F5122"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA",
+    "device": "F3111",
+    "model": "F3111"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA",
+    "device": "F3112",
+    "model": "F3112"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA",
+    "device": "F3113",
+    "model": "F3113"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA",
+    "device": "F3115",
+    "model": "F3115"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA",
+    "device": "F3116",
+    "model": "F3116"
   },
   {
     "brand": "Sony",
@@ -55780,6 +55936,12 @@
     "name": "Web'Pad_1002_02",
     "device": "Webpad_1002_02",
     "model": "Webpad_1002_02"
+  },
+  {
+    "brand": "Sourcing Creation",
+    "name": "WoozeI45",
+    "device": "WoozeI45",
+    "model": "WoozeI45"
   },
   {
     "brand": "Sourcing Creation",
@@ -61501,6 +61663,18 @@
   },
   {
     "brand": "Trekstor",
+    "name": "SurfTab breeze 9.6 quad",
+    "device": "SurfTab",
+    "model": "TrekStor SurfTab breeze 9.6 quad"
+  },
+  {
+    "brand": "Trekstor",
+    "name": "SurfTab breeze 9.6 quad 3G",
+    "device": "ST9641602",
+    "model": "TrekStor SurfTab breeze 9.6 quad 3G"
+  },
+  {
+    "brand": "Trekstor",
     "name": "SurfTab xintron i 7.0",
     "device": "st70408_4_coho",
     "model": "st70408_4"
@@ -62566,6 +62740,12 @@
     "name": "ZUN XO",
     "device": "ZUN_XO",
     "model": "ZUN XO"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Zun X",
+    "device": "Zun_X",
+    "model": "Zun X"
   },
   {
     "brand": "Vulcan",
