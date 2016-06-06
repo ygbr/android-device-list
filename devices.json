@@ -33708,6 +33708,12 @@
     "model": "LS-5503"
   },
   {
+    "brand": "Lyf",
+    "name": "LT-8001",
+    "device": "LT-8001",
+    "model": "LT-8001"
+  },
+  {
     "brand": "M4tel",
     "name": "M4 SS4451",
     "device": "NOVA02A_S11A",
@@ -36472,6 +36478,12 @@
     "name": "Moto G with 4G LTE (2nd Gen)",
     "device": "thea_umtsds",
     "model": "XT1078"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G4",
+    "device": "athene",
+    "model": "Moto G (4)"
   },
   {
     "brand": "Motorola",
@@ -53821,6 +53833,12 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA 4K GB",
+    "device": "BRAVIA_ATV2",
+    "model": "BRAVIA 4K GB"
+  },
+  {
+    "brand": "Sony",
     "name": "BRAVIA Smart Stick",
     "device": "NSZGU1",
     "model": "NSZ-GU1"
@@ -62202,6 +62220,18 @@
     "model": "Venus_V3_5040_2GB"
   },
   {
+    "brand": "Vestel",
+    "name": "venus_v3_5010",
+    "device": "DynoLight",
+    "model": "Venus_V3_5010"
+  },
+  {
+    "brand": "Vestel",
+    "name": "venus_v3_5030",
+    "device": "Dyno",
+    "model": "Venus_V3_5030"
+  },
+  {
     "brand": "ViewSonic",
     "name": "",
     "device": "v350",
@@ -68296,6 +68326,12 @@
     "name": "ZTE N939Sc",
     "device": "zx55q05_64",
     "model": "ZTE N939Sc"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE N939Sc",
+    "device": "zx55q05_64",
+    "model": "ZTE N939St"
   },
   {
     "brand": "ZTE",
