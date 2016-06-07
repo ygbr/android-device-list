@@ -817,6 +817,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Jade 2",
+    "device": "acer_s58a",
+    "model": "S58A"
+  },
+  {
+    "brand": "Acer",
     "name": "Liquid Jade S",
     "device": "acer_S56",
     "model": "S56"
@@ -4150,6 +4156,18 @@
     "name": "Zenfone GO",
     "device": "ASUS_X014D_2",
     "model": "ASUS_X014D"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone Go",
+    "device": "ASUS_L001_1",
+    "model": "ASUS_L001"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone Go",
+    "device": "ASUS_L001_2",
+    "model": "ASUS_L001"
   },
   {
     "brand": "Asus",
@@ -32461,6 +32479,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo K5 Note",
+    "device": "A7020a48",
+    "model": "Lenovo A7020a48"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo K5 Plus",
     "device": "A6020a46",
     "model": "Lenovo A6020a46"
@@ -33406,6 +33430,12 @@
     "name": "LexiTab 10''",
     "device": "mfc511",
     "model": "MFC511FR"
+  },
+  {
+    "brand": "Lexibook",
+    "name": "LexiTab 7''",
+    "device": "MFC146DE",
+    "model": "MFC146DE"
   },
   {
     "brand": "Lexibook",
@@ -63520,6 +63550,12 @@
     "name": "MI 4s",
     "device": "aqua",
     "model": "MI 4S"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MI MAX",
+    "device": "hydrogen",
+    "model": "MI MAX"
   },
   {
     "brand": "Xiaomi",

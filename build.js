@@ -114,8 +114,8 @@ function parseCVS ( data ) {
   return out;
 }
 
-function cleanup(str) {
-  return str.replace(/\\\'/g, '\'').replace(/\\t/g, '').trim();
+function cleanup ( str ) {
+  return str.replace( /\\\'/g, '\'' ).replace( /\\t/g, '' ).trim();
 }
 
 function splitRow ( row ) {
