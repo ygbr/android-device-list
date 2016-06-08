@@ -32941,6 +32941,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TAB 3 850M",
+    "device": "TB3-850M",
+    "model": "Lenovo TB3-850M"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TAB A10-80HC",
     "device": "A10_80HC",
     "model": "TAB A10-80HC"
@@ -35008,6 +35014,12 @@
     "name": "P300",
     "device": "crane-M701C_mmx",
     "model": "P300"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Q327",
+    "device": "Q327",
+    "model": "Micromax Q327"
   },
   {
     "brand": "Micromax",
