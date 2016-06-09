@@ -6067,6 +6067,18 @@
   },
   {
     "brand": "Condor",
+    "name": "Condor TGW801G",
+    "device": "TGW801G",
+    "model": "TGW801G"
+  },
+  {
+    "brand": "Condor",
+    "name": "Condor TGW801L",
+    "device": "TGW801L",
+    "model": "TGW801L"
+  },
+  {
+    "brand": "Condor",
     "name": "Griffe G5",
     "device": "PHQ520",
     "model": "Griffe G5"
@@ -50437,6 +50449,30 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab A 7.0",
+    "device": "gtexslte",
+    "model": "SM-T285"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 7.0",
+    "device": "gtexslte",
+    "model": "SM-T285M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 7.0",
+    "device": "gtexslte",
+    "model": "SM-T287"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 7.0",
+    "device": "gtexswifi",
+    "model": "SM-T280"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab A 8.0",
     "device": "gt58lte",
     "model": "SM-T355"
@@ -50614,30 +50650,6 @@
     "name": "Galaxy Tab A S 8.0",
     "device": "gt58ltebmc",
     "model": "SM-T357W"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab E 7.0",
-    "device": "gtexslte",
-    "model": "SM-T285"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab E 7.0",
-    "device": "gtexslte",
-    "model": "SM-T285M"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab E 7.0",
-    "device": "gtexslte",
-    "model": "SM-T287"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab E 7.0",
-    "device": "gtexswifi",
-    "model": "SM-T280"
   },
   {
     "brand": "Samsung",
@@ -52732,6 +52744,12 @@
     "name": "ADS1",
     "device": "ADS1",
     "model": "SHARP-ADS1"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AN-NP40",
+    "device": "an_np40",
+    "model": "AN-NP40"
   },
   {
     "brand": "Sharp",
@@ -58509,6 +58527,12 @@
     "brand": "TCT (Alcatel)",
     "name": "ALCATEL ONETOUCH PIXI 4 (4)",
     "device": "Pixi4-4",
+    "model": "4034F"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
     "model": "4034G"
   },
   {
@@ -63295,6 +63319,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "TOMMY",
+    "device": "P4901AC",
+    "model": "TOMMY"
+  },
+  {
+    "brand": "Wiko",
     "name": "U FEEL",
     "device": "P6601AE",
     "model": "U FEEL"
@@ -63538,6 +63568,12 @@
     "name": "MI 3W",
     "device": "cancro",
     "model": "MI 3W"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MI 4LTE",
+    "device": "cancro",
+    "model": "MI 4C"
   },
   {
     "brand": "Xiaomi",

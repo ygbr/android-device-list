@@ -1,6 +1,6 @@
 {
   "name": "android-device-list",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
@@ -10,7 +10,8 @@
     "test": "ava && npm run jscs && npm run lint",
     "jscs": "node_modules/.bin/jscs index.js build.js",
     "lint": "node_modules/.bin/eslint index.js build.js",
-    "build": "node ./build.js"
+    "build": "node ./build.js",
+    "release": "npm test && npmversion -i patch --nogit-tag --git-push"
   },
   "author": "Peter Bakondy",
   "license": "MIT",
@@ -27,7 +28,8 @@
     "axios": "^0.12.0",
     "eslint": "^2.11.1",
     "iconv-lite": "^0.4.13",
-    "jscs": "^3.0.4"
+    "jscs": "^3.0.4",
+    "npmversion": "^1.2.0"
   },
   "repository": {
     "type": "git",
