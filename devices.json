@@ -145,6 +145,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "Style_2",
+    "device": "Style_2",
+    "model": "Style 2"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Swift",
     "device": "Swift",
     "model": "Swift"
@@ -2008,6 +2014,12 @@
     "name": "TM785CH",
     "device": "tm785ch",
     "model": "TM785CH"
+  },
+  {
+    "brand": "Arcelik",
+    "name": "B55L 9682 5AS",
+    "device": "arcelik_eu",
+    "model": "arcelik_uhd_powermax_at"
   },
   {
     "brand": "Archos",
@@ -4894,6 +4906,12 @@
     "name": "BenQ T47_09",
     "device": "T47",
     "model": "T47_09"
+  },
+  {
+    "brand": "BenQ",
+    "name": "BenQ T55",
+    "device": "T55",
+    "model": "T55"
   },
   {
     "brand": "BenQ",
@@ -24010,6 +24028,12 @@
     "name": "404KC",
     "device": "404KC",
     "model": "404KC"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "503KC",
+    "device": "503KC",
+    "model": "503KC"
   },
   {
     "brand": "Kyocera",
@@ -45861,6 +45885,12 @@
     "brand": "Samsung",
     "name": "Galaxy J3(2016)",
     "device": "j3ltevzw",
+    "model": "SM-J320V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3ltevzw",
     "model": "SM-J320VPP"
   },
   {
@@ -49328,6 +49358,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S5 Active",
+    "device": "kactiveltekx",
+    "model": "SM-G870F0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S5 Active",
     "device": "klteactive",
     "model": "SM-G870F"
   },
@@ -50446,6 +50482,30 @@
     "name": "Galaxy Tab 8.9",
     "device": "SHW-M305W",
     "model": "SHW-M305W"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtaxllte",
+    "model": "SM-T585"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtaxlltekx",
+    "model": "SM-T585N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtaxlwifi",
+    "model": "SM-T580"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtaxlwifichn",
+    "model": "SM-T580"
   },
   {
     "brand": "Samsung",
@@ -54538,6 +54598,12 @@
     "name": "Xperia X",
     "device": "F5122",
     "model": "F5122"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia X Performance",
+    "device": "502SO",
+    "model": "502SO"
   },
   {
     "brand": "Sony",
