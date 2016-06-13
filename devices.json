@@ -9367,6 +9367,12 @@
   },
   {
     "brand": "Fujitsu",
+    "name": "F-03H",
+    "device": "F03H",
+    "model": "F-03H"
+  },
+  {
+    "brand": "Fujitsu",
     "name": "F-04F",
     "device": "F04F",
     "model": "F-04F"
@@ -22155,6 +22161,12 @@
     "brand": "Huawei",
     "name": "Y360-U93",
     "device": "HWY360-U6572",
+    "model": "Delta Y360-U93"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Y360-U93",
+    "device": "HWY360-U6572",
     "model": "HUAWEI Y360-U93"
   },
   {
@@ -28497,6 +28509,12 @@
     "brand": "LGE",
     "name": "LG Stylo 2",
     "device": "ph1",
+    "model": "LG-K540"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylo 2",
+    "device": "ph1",
     "model": "LGL81AL"
   },
   {
@@ -28533,6 +28551,12 @@
     "brand": "LGE",
     "name": "LG Stylus 2",
     "device": "ph1",
+    "model": "LG-K520"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2",
+    "device": "ph1n",
     "model": "LG-K520"
   },
   {
@@ -36556,12 +36580,6 @@
     "name": "Moto G with 4G LTE (2nd Gen)",
     "device": "thea_umtsds",
     "model": "XT1078"
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G4",
-    "device": "athene",
-    "model": "Moto G (4)"
   },
   {
     "brand": "Motorola",
@@ -49922,6 +49940,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S7 Edge",
+    "device": "SCV33",
+    "model": "SCV33"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7 Edge",
     "device": "hero2lte",
     "model": "SM-G935F"
   },
@@ -49990,12 +50014,6 @@
     "name": "Galaxy S7 Edge",
     "device": "hero2qltevzw",
     "model": "SM-G935V"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S7 edge",
-    "device": "SCV33",
-    "model": "SCV33"
   },
   {
     "brand": "Samsung",
@@ -54241,6 +54259,18 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia E5",
+    "device": "F3311",
+    "model": "F3311"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E5",
+    "device": "F3313",
+    "model": "F3313"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia Go",
     "device": "ST27a",
     "model": "ST27a"
@@ -54607,6 +54637,18 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia X Performance",
+    "device": "F8131",
+    "model": "F8131"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia X Performance",
+    "device": "F8132",
+    "model": "F8132"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia XA",
     "device": "F3111",
     "model": "F3111"
@@ -54634,6 +54676,36 @@
     "name": "Xperia XA",
     "device": "F3116",
     "model": "F3116"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA Ultra",
+    "device": "F3211",
+    "model": "F3211"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA Ultra",
+    "device": "F3212",
+    "model": "F3212"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA Ultra",
+    "device": "F3213",
+    "model": "F3213"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA Ultra",
+    "device": "F3215",
+    "model": "F3215"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XA Ultra",
+    "device": "F3216",
+    "model": "F3216"
   },
   {
     "brand": "Sony",
@@ -67075,6 +67147,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "VFD 600",
+    "device": "P809V50",
+    "model": "VFD 600"
+  },
+  {
+    "brand": "ZTE",
     "name": "Vip Racer III",
     "device": "atlas40",
     "model": "Vip Racer III"
@@ -67546,6 +67624,12 @@
     "name": "ZTE Blade A470",
     "device": "P809A40",
     "model": "ZTE Blade A470"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A476",
+    "device": "ZTE_Blade_A476",
+    "model": "BLADE E01"
   },
   {
     "brand": "ZTE",
