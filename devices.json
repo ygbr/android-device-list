@@ -4411,6 +4411,12 @@
   },
   {
     "brand": "Auchan",
+    "name": "S4T10IN3G",
+    "device": "S4T10IN3G",
+    "model": "S4T10IN3G"
+  },
+  {
+    "brand": "Auchan",
     "name": "S4T7IN",
     "device": "S4T7IN",
     "model": "S4T7IN"
@@ -22855,6 +22861,18 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 3",
+    "device": "INFINIX-X554",
+    "model": "Infinix HOT 3 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 3 LTE",
+    "device": "INFINIX-X553",
+    "model": "Infinix HOT 3 LTE"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix X505",
     "device": "X505",
     "model": "Infinix X505"
@@ -23485,15 +23503,51 @@
   },
   {
     "brand": "Itel",
+    "name": "it1407",
+    "device": "itel_it1407",
+    "model": "itel it1407"
+  },
+  {
+    "brand": "Itel",
     "name": "it1505",
     "device": "itel_it1505",
     "model": "itel_it1505"
   },
   {
     "brand": "Itel",
+    "name": "it1506",
+    "device": "itel_it1506",
+    "model": "itel it1506"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1507",
+    "device": "itel_it1507",
+    "model": "itel it1507"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1508",
+    "device": "itel_it1508",
+    "model": "itel it1508"
+  },
+  {
+    "brand": "Itel",
     "name": "it1550",
     "device": "itel_it1550",
     "model": "itel_it1550"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1551",
+    "device": "itel_it1551",
+    "model": "itel it1551"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1556",
+    "device": "itel_it1556",
+    "model": "itel it1556"
   },
   {
     "brand": "Itel",
@@ -30666,6 +30720,18 @@
     "model": "FLOW"
   },
   {
+    "brand": "Leeco",
+    "name": "Le Max2",
+    "device": "le_x2",
+    "model": "Le X820"
+  },
+  {
+    "brand": "Leeco",
+    "name": "Le Max2",
+    "device": "le_x2",
+    "model": "Le X821"
+  },
+  {
     "brand": "Lenovo",
     "name": "",
     "device": "18382AU",
@@ -37144,6 +37210,12 @@
     "name": "MS50",
     "device": "MS50",
     "model": "MS50"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "MS60",
+    "device": "MS60",
+    "model": "MS60"
   },
   {
     "brand": "Multilaser",
@@ -52705,6 +52777,12 @@
   },
   {
     "brand": "Santok",
+    "name": "SYNC 5C",
+    "device": "STK_Sync_5c",
+    "model": "STK_Sync_5c"
+  },
+  {
+    "brand": "Santok",
     "name": "Storm 3",
     "device": "W230",
     "model": "STK Storm 3"
@@ -56304,6 +56382,12 @@
     "model": "Spice Mi-506"
   },
   {
+    "brand": "Spice",
+    "name": "Xlife-450Q",
+    "device": "Spice",
+    "model": "Xlife-450Q"
+  },
+  {
     "brand": "Sprint",
     "name": "AQT100",
     "device": "NKJ_AQT100",
@@ -56347,6 +56431,12 @@
   },
   {
     "brand": "Symphony",
+    "name": "H58",
+    "device": "H58",
+    "model": "H58"
+  },
+  {
+    "brand": "Symphony",
     "name": "P6 PRO",
     "device": "P6_PRO",
     "model": "P6 PRO"
@@ -56359,6 +56449,18 @@
   },
   {
     "brand": "Symphony",
+    "name": "SYMPHONY V75",
+    "device": "V75",
+    "model": "V75"
+  },
+  {
+    "brand": "Symphony",
+    "name": "SYMPHONY i10",
+    "device": "i10",
+    "model": "i10"
+  },
+  {
+    "brand": "Symphony",
     "name": "V100",
     "device": "V100",
     "model": "V100"
@@ -56368,6 +56470,12 @@
     "name": "V85",
     "device": "V85",
     "model": "V85"
+  },
+  {
+    "brand": "Symphony",
+    "name": "ZVII",
+    "device": "ZVII",
+    "model": "ZVII"
   },
   {
     "brand": "TA71CA5_JP",
@@ -57112,6 +57220,12 @@
     "name": "5070D",
     "device": "P3-5_4G",
     "model": "5070D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5098O",
+    "device": "Pixi4-6_4G_CKT",
+    "model": "Alcatel_5098O"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -59899,6 +60013,36 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "PIXI 4 (5)",
+    "device": "Pixi4-5",
+    "model": "5010D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI 4 (5)",
+    "device": "Pixi4-5",
+    "model": "5010E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI 4 (5)",
+    "device": "Pixi4-5",
+    "model": "5010G"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI 4 (5)",
+    "device": "Pixi4-5",
+    "model": "5010S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI 4 (5)",
+    "device": "Pixi4-5",
+    "model": "5010U"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "PIXI3(4)",
     "device": "Pixi3-4",
     "model": "4003A"
@@ -61261,6 +61405,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "DP7CPro-SGA1",
+    "device": "DP7CPro-SGA1",
+    "model": "DP7CPro-SGA1"
+  },
+  {
+    "brand": "Tecno",
     "name": "DroiPad 7C Pro",
     "device": "DP7CPRO",
     "model": "DP7CPRO"
@@ -61327,6 +61477,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-C9",
+    "device": "TECNO-C9",
+    "model": "TECNO-C9"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-J5",
     "device": "TECNO-J5",
     "model": "TECNO-J5"
@@ -61336,6 +61492,12 @@
     "name": "TECNO-J7",
     "device": "TECNO-J7",
     "model": "TECNO-J7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-J8",
+    "device": "TECNO-J8",
+    "model": "TECNO-J8"
   },
   {
     "brand": "Tecno",
@@ -61351,9 +61513,39 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-N2",
+    "device": "TECNO_N2S",
+    "model": "TECNO-N2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-N2S",
+    "device": "TECNO_N2S",
+    "model": "TECNO-N2S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-N6S",
+    "device": "TECNO-N6S",
+    "model": "TECNO-N6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-N8",
+    "device": "TECNO-N8",
+    "model": "TECNO-N8"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-PHANTOM5",
     "device": "TECNO-PHANTOM5",
     "model": "TECNO-PHANTOM5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-W3",
+    "device": "TECNO-W3",
+    "model": "TECNO-W3"
   },
   {
     "brand": "Tecno",
@@ -62650,6 +62842,12 @@
     "name": "vivo V3",
     "device": "V3",
     "model": "vivo V3"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo V3Lite",
+    "device": "V3Lite",
+    "model": "vivo V3Lite"
   },
   {
     "brand": "Vivo",
@@ -70702,6 +70900,12 @@
     "name": "X18",
     "device": "X18",
     "model": "X18"
+  },
+  {
+    "brand": "iRulu",
+    "name": "X47",
+    "device": "X47",
+    "model": "X47"
   },
   {
     "brand": "iRulu",
