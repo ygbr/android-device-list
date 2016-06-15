@@ -9930,6 +9930,12 @@
     "model": "Getac Z710"
   },
   {
+    "brand": "Getac",
+    "name": "MX50",
+    "device": "mx50",
+    "model": "mx50"
+  },
+  {
     "brand": "Gigabyte",
     "name": "",
     "device": "G1317S",
@@ -28585,6 +28591,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Stylo 2 Plus",
+    "device": "ph2n",
+    "model": "LG-K550"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Stylus 2",
     "device": "ph1",
     "model": "LG-F720K"
@@ -28630,6 +28642,18 @@
     "name": "LG Stylus2 Plus",
     "device": "ph2n",
     "model": "LG-K535"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2 Plus",
+    "device": "ph2n",
+    "model": "LG-K535n"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylus2 Plus",
+    "device": "ph2n",
+    "model": "LGMS550"
   },
   {
     "brand": "LGE",
@@ -36646,6 +36670,12 @@
     "name": "Moto G with 4G LTE (2nd Gen)",
     "device": "thea_umtsds",
     "model": "XT1078"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G4 Plus",
+    "device": "athene_f",
+    "model": "Moto G (4)"
   },
   {
     "brand": "Motorola",
@@ -45946,6 +45976,18 @@
     "name": "Galaxy J3",
     "device": "j3x3g",
     "model": "SM-J320H"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3 Pro",
+    "device": "j3xproltechn",
+    "model": "SM-J3110"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3 Pro",
+    "device": "j3xproltectc",
+    "model": "SM-J3119"
   },
   {
     "brand": "Samsung",
