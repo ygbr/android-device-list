@@ -997,6 +997,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Zest Plus",
+    "device": "acer_t08",
+    "model": "T08"
+  },
+  {
+    "brand": "Acer",
     "name": "LiquidMT",
     "device": "a4",
     "model": "Acer Liquid Metal"
@@ -4354,6 +4360,12 @@
     "name": "Q6T7INK",
     "device": "Q6T7INK",
     "model": "Q6T7INK"
+  },
+  {
+    "brand": "Auchan",
+    "name": "Q7T7INK",
+    "device": "Q7T7INK",
+    "model": "Q7T7INK"
   },
   {
     "brand": "Auchan",
@@ -23497,6 +23509,12 @@
   },
   {
     "brand": "Intex",
+    "name": "Intex Aqua Power 4G",
+    "device": "Intex_Aqua_Power_4G",
+    "model": "Aqua Power 4G"
+  },
+  {
+    "brand": "Intex",
     "name": "Intex Aqua Pride",
     "device": "AquaPride",
     "model": "Aqua Pride"
@@ -23506,6 +23524,12 @@
     "name": "Intex Aqua View",
     "device": "AquaView",
     "model": "Aqua View"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1355",
+    "device": "itel_it1355",
+    "model": "itel it1355"
   },
   {
     "brand": "Itel",
@@ -34135,6 +34159,12 @@
   },
   {
     "brand": "Mecer",
+    "name": "101P51D",
+    "device": "101P51D",
+    "model": "101P51D"
+  },
+  {
+    "brand": "Mecer",
     "name": "800P31C",
     "device": "800P31C",
     "model": "800P31C"
@@ -39691,6 +39721,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga Arc 2",
+    "device": "Eluga_Arc_2",
+    "model": "Eluga_Arc_2"
+  },
+  {
+    "brand": "Panasonic",
     "name": "Eluga I2",
     "device": "ELUGA_I2",
     "model": "ELUGA_I2"
@@ -39844,6 +39880,12 @@
     "name": "P75",
     "device": "P75",
     "model": "Panasonic P75"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "P77",
+    "device": "P77",
+    "model": "Panasonic P77"
   },
   {
     "brand": "Panasonic",
@@ -43861,6 +43903,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A9 Pro",
+    "device": "a9xproltesea",
+    "model": "SM-A910F"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A9(2016)",
     "device": "a9xltechn",
     "model": "SM-A9000"
@@ -47707,6 +47755,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy On5",
+    "device": "on5ltemtr",
+    "model": "SM-G550T1"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On5",
+    "device": "on5ltetmo",
+    "model": "SM-G550T"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy On7",
     "device": "o7lte",
     "model": "SM-G600FY"
@@ -50036,6 +50096,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S7",
+    "device": "heroqlteue",
+    "model": "SM-G930U"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7",
     "device": "heroqlteusc",
     "model": "SM-G930R4"
   },
@@ -50116,6 +50182,12 @@
     "name": "Galaxy S7 Edge",
     "device": "hero2qltetmo",
     "model": "SM-G935T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7 Edge",
+    "device": "hero2qlteue",
+    "model": "SM-G935U"
   },
   {
     "brand": "Samsung",
@@ -50624,6 +50696,18 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab A 10.1",
+    "device": "gtaxllte",
+    "model": "SM-T587"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtaxlltechn",
+    "model": "SM-T585C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
     "device": "gtaxlltekx",
     "model": "SM-T585N0"
   },
@@ -51106,6 +51190,12 @@
     "name": "Galaxy Tab S2 8.0",
     "device": "gts28velte",
     "model": "SM-T719"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 8.0",
+    "device": "gts28velte",
+    "model": "SM-T719Y"
   },
   {
     "brand": "Samsung",
@@ -57391,6 +57481,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "6055B",
+    "device": "idol4",
+    "model": "6055B"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "6055K",
     "device": "idol4",
     "model": "6055K"
@@ -61447,9 +61543,21 @@
   },
   {
     "brand": "Tecno",
+    "name": "DP10APro-SLA1",
+    "device": "DP10APro",
+    "model": "DP10APro"
+  },
+  {
+    "brand": "Tecno",
     "name": "DP7CPro-SGA1",
     "device": "DP7CPro-SGA1",
     "model": "DP7CPro-SGA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 10 Pro\\xe2\\x85\\xa1",
+    "device": "DP10APro",
+    "model": "DP10APro"
   },
   {
     "brand": "Tecno",
@@ -61462,6 +61570,12 @@
     "name": "DroiPad 8\\xe2\\x85\\xa1",
     "device": "DP8D",
     "model": "DP8D"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Droipad10",
+    "device": "DP10A",
+    "model": "DP10A"
   },
   {
     "brand": "Tecno",
@@ -62725,6 +62839,12 @@
   },
   {
     "brand": "ViewSonic",
+    "name": "VSD242",
+    "device": "VSD242",
+    "model": "VSD242"
+  },
+  {
+    "brand": "ViewSonic",
     "name": "ViewPad IR7Q",
     "device": "IR7Q",
     "model": "IR7Q"
@@ -63134,6 +63254,18 @@
   {
     "brand": "Vodafone",
     "name": "VDF 600",
+    "device": "P809V50",
+    "model": "VFD 600"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VFD 200",
+    "device": "P731V35",
+    "model": "VFD 200"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VFD 600",
     "device": "P809V50",
     "model": "VFD 600"
   },
@@ -67378,18 +67510,6 @@
     "name": "V9S",
     "device": "V9S",
     "model": "myPadP4"
-  },
-  {
-    "brand": "ZTE",
-    "name": "VFD 200",
-    "device": "P731V35",
-    "model": "VFD 200"
-  },
-  {
-    "brand": "ZTE",
-    "name": "VFD 600",
-    "device": "P809V50",
-    "model": "VFD 600"
   },
   {
     "brand": "ZTE",
