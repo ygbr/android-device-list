@@ -9973,6 +9973,12 @@
   },
   {
     "brand": "Gigabyte",
+    "name": "EL-20-3710",
+    "device": "TCV5",
+    "model": "EL-20-3710"
+  },
+  {
+    "brand": "Gigabyte",
     "name": "GSmart G1310",
     "device": "G1310",
     "model": "GSmart G1310"
@@ -22698,6 +22704,18 @@
     "model": "HUAWEI RIO-AL00"
   },
   {
+    "brand": "Hurricane",
+    "name": "Rush",
+    "device": "Hurricane",
+    "model": "Rush"
+  },
+  {
+    "brand": "Hurricane",
+    "name": "Volt",
+    "device": "Hurricane",
+    "model": "Volt"
+  },
+  {
     "brand": "Hyundai",
     "name": "CAR AVN SYSTEM",
     "device": "koecn",
@@ -28789,6 +28807,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG X cam",
+    "device": "k7",
+    "model": "LG-K580"
+  },
+  {
+    "brand": "LGE",
     "name": "LG X screen",
     "device": "k5",
     "model": "LG-F650K"
@@ -30700,6 +30724,12 @@
     "name": "MW6617",
     "device": "MW6617",
     "model": "MW6617"
+  },
+  {
+    "brand": "Le",
+    "name": "Le X522",
+    "device": "le_s2_na",
+    "model": "Le X522"
   },
   {
     "brand": "Le Pan",
