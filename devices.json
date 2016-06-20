@@ -5370,6 +5370,12 @@
     "model": "BT Home SmartPhone S II"
   },
   {
+    "brand": "Bullitt Group",
+    "name": "Cat S60",
+    "device": "CatS60",
+    "model": "S60"
+  },
+  {
     "brand": "Bunbungame",
     "name": "MiSS",
     "device": "MiSS",
@@ -9580,6 +9586,12 @@
     "name": "SZJ-JS101",
     "device": "SZJ101",
     "model": "SZJ-JS101"
+  },
+  {
+    "brand": "Fujitsu",
+    "name": "TM20",
+    "device": "STF",
+    "model": "TM20"
   },
   {
     "brand": "Fujitsu",
@@ -21172,6 +21184,18 @@
     "name": "Mate 8",
     "device": "HWNXT",
     "model": "HUAWEI NXT-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
+    "model": "NXT-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
+    "model": "NXT-L29"
   },
   {
     "brand": "Huawei",
@@ -39511,6 +39535,12 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange_Sego",
+    "device": "Orange_Sego",
+    "model": "Orange Sego"
+  },
+  {
+    "brand": "Orange",
     "name": "idol S",
     "device": "Diablo_LTE",
     "model": "Orange Niva"
@@ -40834,6 +40864,12 @@
     "name": "Philips S309",
     "device": "Philips",
     "model": "Philips S309"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips S326",
+    "device": "S326",
+    "model": "Philips_S326"
   },
   {
     "brand": "Philips",
@@ -44542,6 +44578,12 @@
     "name": "Galaxy Beam",
     "device": "GT-I8530",
     "model": "GT-I8530"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy C5",
+    "device": "c5pltechn",
+    "model": "SM-C5000"
   },
   {
     "brand": "Samsung",
@@ -53449,6 +53491,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS U SHV35",
+    "device": "SHV35",
+    "model": "SHV35"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS Xx",
     "device": "SG404SH",
     "model": "404SH"
@@ -54886,6 +54934,18 @@
     "name": "Xperia X Performance",
     "device": "F8132",
     "model": "F8132"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia X Performance",
+    "device": "SO-04H",
+    "model": "SO-04H"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia X Performance",
+    "device": "SOV33",
+    "model": "SOV33"
   },
   {
     "brand": "Sony",
@@ -56545,6 +56605,12 @@
   },
   {
     "brand": "Spice",
+    "name": "Xlife-441Q",
+    "device": "Spice",
+    "model": "Xlife-441Q"
+  },
+  {
+    "brand": "Spice",
     "name": "Xlife-450Q",
     "device": "Spice",
     "model": "Xlife-450Q"
@@ -56638,6 +56704,12 @@
     "name": "ZVII",
     "device": "ZVII",
     "model": "ZVII"
+  },
+  {
+    "brand": "T-Mobile",
+    "name": "Telekom_Puls",
+    "device": "T-Tab",
+    "model": "Telekom Puls"
   },
   {
     "brand": "TA71CA5_JP",
@@ -60139,12 +60211,6 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "Orange_Sego",
-    "device": "Orange_Sego",
-    "model": "Orange Sego"
-  },
-  {
-    "brand": "TCT (Alcatel)",
     "name": "P330X",
     "device": "Pop7_LTE",
     "model": "P330X"
@@ -61255,12 +61321,6 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "Telekom_Puls",
-    "device": "T-Tab",
-    "model": "Telekom Puls"
-  },
-  {
-    "brand": "TCT (Alcatel)",
     "name": "Telenor_Smart",
     "device": "one_touch_985_gsm",
     "model": "Telenor_Smart"
@@ -61279,57 +61339,9 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "VF-1296",
-    "device": "voda_tab",
-    "model": "Vodacom Power Tab 10"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VF-1296",
-    "device": "voda_tab",
-    "model": "Vodafone Tab grand 6"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VF-1397",
-    "device": "Vodafone_Tab_speed_6",
-    "model": "VF-1397"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VF-1497",
-    "device": "Vodafone_Tab_Prime",
-    "model": "VF-1497"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VF685",
-    "device": "VF685",
-    "model": "VF685"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VF695",
-    "device": "VF695",
-    "model": "VF695"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "VFD1100",
-    "device": "Tab7",
-    "model": "VFD 1100"
-  },
-  {
-    "brand": "TCT (Alcatel)",
     "name": "Vodafone 785",
     "device": "Vodafone_785",
     "model": "MTC 982"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "Vodafone 785",
-    "device": "Vodafone_785",
-    "model": "Vodafone 785"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -61366,24 +61378,6 @@
     "name": "Vodafone Smart III (with NFC)",
     "device": "Vodafone_975N",
     "model": "Vodafone 975N"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "Vodafone Smart Tab 4",
-    "device": "Vodafone_Smart_Tab_4",
-    "model": "Vodafone Smart Tab 4"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "Vodafone_Smart_Tab_3G",
-    "device": "Vodafone_Smart_Tab_3G",
-    "model": "Vodafone Smart Tab 3G"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "Vodafone_Smart_Tab_4G",
-    "device": "Vodafone_Smart_Tab_4G",
-    "model": "Vodafone Smart Tab 4G"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -63289,6 +63283,42 @@
   },
   {
     "brand": "Vodafone",
+    "name": "VF-1296",
+    "device": "voda_tab",
+    "model": "Vodacom Power Tab 10"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VF-1296",
+    "device": "voda_tab",
+    "model": "Vodafone Tab grand 6"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VF-1397",
+    "device": "Vodafone_Tab_speed_6",
+    "model": "VF-1397"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VF-1497",
+    "device": "Vodafone_Tab_Prime",
+    "model": "VF-1497"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VF685",
+    "device": "VF685",
+    "model": "VF685"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VF695",
+    "device": "VF695",
+    "model": "VF695"
+  },
+  {
+    "brand": "Vodafone",
     "name": "VFD 200",
     "device": "P731V35",
     "model": "VFD 200"
@@ -63301,6 +63331,24 @@
   },
   {
     "brand": "Vodafone",
+    "name": "VFD1100",
+    "device": "Tab7",
+    "model": "VFD 1100"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone 785",
+    "device": "Vodafone_785",
+    "model": "Vodafone 785"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone Smart Tab 4",
+    "device": "Vodafone_Smart_Tab_4",
+    "model": "Vodafone Smart Tab 4"
+  },
+  {
+    "brand": "Vodafone",
     "name": "Vodafone Tab Prime 7",
     "device": "VFD1400",
     "model": "VFD 1400"
@@ -63310,6 +63358,18 @@
     "name": "Vodafone Tab Prime 7",
     "device": "VFD1400",
     "model": "VFD1400"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone_Smart_Tab_3G",
+    "device": "Vodafone_Smart_Tab_3G",
+    "model": "Vodafone Smart Tab 3G"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone_Smart_Tab_4G",
+    "device": "Vodafone_Smart_Tab_4G",
+    "model": "Vodafone Smart Tab 4G"
   },
   {
     "brand": "Vonino",
