@@ -228,6 +228,12 @@
     "model": "G3SMNTA24"
   },
   {
+    "brand": "AT&T",
+    "name": "9020A",
+    "device": "tint8_att",
+    "model": "9020A"
+  },
+  {
     "brand": "AV",
     "name": "AV10",
     "device": "RCT6203W46",
@@ -5854,6 +5860,12 @@
     "name": "Touch HD",
     "device": "Touch_HD",
     "model": "Cherry_Mobile_Touch_HD"
+  },
+  {
+    "brand": "China Mobile",
+    "name": "n1 max",
+    "device": "m823_cmcc",
+    "model": "M823"
   },
   {
     "brand": "Cisco",
@@ -30619,6 +30631,12 @@
   },
   {
     "brand": "Lava",
+    "name": "Lava X12",
+    "device": "X12",
+    "model": "X12"
+  },
+  {
+    "brand": "Lava",
     "name": "P7",
     "device": "P7",
     "model": "P7"
@@ -38118,6 +38136,12 @@
     "model": "N3"
   },
   {
+    "brand": "Nextbase",
+    "name": "GoPlayer",
+    "device": "NBCGGP01",
+    "model": "NBCGGP01"
+  },
+  {
     "brand": "Nextbit",
     "name": "Robin",
     "device": "ether",
@@ -40126,6 +40150,12 @@
     "name": "TAB-A01",
     "device": "TAB-A01",
     "model": "TAB-A01-SD"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "TAB-A02",
+    "device": "TAB-A02",
+    "model": "TAB-A02-SD"
   },
   {
     "brand": "Panasonic",
@@ -57817,12 +57847,6 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "9020A",
-    "device": "tint8_att",
-    "model": "9020A"
-  },
-  {
-    "brand": "TCT (Alcatel)",
     "name": "9021A",
     "device": "Pop2-8_4G_Telus",
     "model": "9021A"
@@ -61357,12 +61381,6 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "Vodafone 895",
-    "device": "VF-895N",
-    "model": "VF-895N"
-  },
-  {
-    "brand": "TCT (Alcatel)",
     "name": "Vodafone 985N",
     "device": "Vodafone985N",
     "model": "Vodafone 985N"
@@ -61396,12 +61414,6 @@
     "name": "freebit PandA_m14",
     "device": "YARIS_55",
     "model": "freebit PandA_m14"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "n1 max",
-    "device": "m823_cmcc",
-    "model": "M823"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -63340,6 +63352,12 @@
     "name": "Vodafone 785",
     "device": "Vodafone_785",
     "model": "Vodafone 785"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone 895",
+    "device": "VF-895N",
+    "model": "VF-895N"
   },
   {
     "brand": "Vodafone",
