@@ -175,6 +175,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "Zone",
+    "device": "Zone",
+    "model": "Zone"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Zoom",
     "device": "Zoom",
     "model": "Zoom"
@@ -3166,6 +3172,12 @@
     "name": "ASUS_ Zenfone Max",
     "device": "ASUS_Z010_2",
     "model": "ASUS_Z010DD"
+  },
+  {
+    "brand": "Asus",
+    "name": "Asus Zenfone3 Ultra",
+    "device": "ASUS_A001",
+    "model": "ASUS_A001"
   },
   {
     "brand": "Asus",
@@ -17695,6 +17707,12 @@
   },
   {
     "brand": "Honeywell",
+    "name": "70eLGN",
+    "device": "dblack_go",
+    "model": "Dolphin 70e Black"
+  },
+  {
+    "brand": "Honeywell",
     "name": "70eLW0",
     "device": "dblack_wo",
     "model": "Dolphin 70e Black"
@@ -28849,6 +28867,18 @@
   },
   {
     "brand": "LGE",
+    "name": "LG X cam",
+    "device": "k7n",
+    "model": "LG-K580"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X cam",
+    "device": "k7n",
+    "model": "LG-K580Y"
+  },
+  {
+    "brand": "LGE",
     "name": "LG X screen",
     "device": "k5",
     "model": "LG-F650K"
@@ -39559,6 +39589,12 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange- Rise31",
+    "device": "Pixi4-4",
+    "model": "Orange-Rise31"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange_Sego",
     "device": "Orange_Sego",
     "model": "Orange Sego"
@@ -42832,6 +42868,12 @@
     "name": "RCT6773W42B",
     "device": "RCT6773W42B",
     "model": "RCT6773W42B"
+  },
+  {
+    "brand": "RCA",
+    "name": "XLD Series",
+    "device": "XLDRCAV1",
+    "model": "XLDRCAV1"
   },
   {
     "brand": "REACH",
@@ -62478,12 +62520,6 @@
     "model": "V.35"
   },
   {
-    "brand": "Vaxcare",
-    "name": "VAX114",
-    "device": "VAX114",
-    "model": "VAX114"
-  },
-  {
     "brand": "Venturer",
     "name": "i7",
     "device": "RCT6773W22",
@@ -71086,6 +71122,18 @@
     "name": "iDeaUSA CT7",
     "device": "CT7",
     "model": "CT7"
+  },
+  {
+    "brand": "iGet",
+    "name": "iGET_S100",
+    "device": "iGET_S100",
+    "model": "S100"
+  },
+  {
+    "brand": "iGet",
+    "name": "iGET_SMART",
+    "device": "iGET_SMART",
+    "model": "SMART"
   },
   {
     "brand": "iRiver",
