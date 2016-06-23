@@ -5383,6 +5383,12 @@
   },
   {
     "brand": "British Telecom",
+    "name": "BT Home SmartPhone III",
+    "device": "BT_Home_SmartPhone_III",
+    "model": "E81"
+  },
+  {
+    "brand": "British Telecom",
     "name": "HomeSmartphone d800",
     "device": "d800",
     "model": "BT Home SmartPhone S II"
@@ -37081,6 +37087,12 @@
   },
   {
     "brand": "Motorola",
+    "name": "Motorola HS1",
+    "device": "Motorola_HS1",
+    "model": "Motorola_HS1"
+  },
+  {
+    "brand": "Motorola",
     "name": "Motorola Master Touch",
     "device": "umts_primus",
     "model": "XT621"
@@ -47923,6 +47935,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy On7",
+    "device": "o7prolte",
+    "model": "SM-G600FY"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7",
+    "device": "on7elte",
+    "model": "SM-G600F"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Player",
     "device": "YP-GB70",
     "model": "YP-GB70"
@@ -51340,6 +51364,12 @@
     "name": "Galaxy Tab S2 8.0",
     "device": "gts28velte",
     "model": "SM-T719Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 8.0",
+    "device": "gts28veltechn",
+    "model": "SM-T719C"
   },
   {
     "brand": "Samsung",
@@ -62518,6 +62548,12 @@
     "name": "V.35",
     "device": "up11_h1_vsn",
     "model": "V.35"
+  },
+  {
+    "brand": "Vaxcare",
+    "name": "VAX114",
+    "device": "VAX114",
+    "model": "VAX114"
   },
   {
     "brand": "Venturer",
