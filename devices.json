@@ -4459,6 +4459,12 @@
   },
   {
     "brand": "Auchan",
+    "name": "S4T9IN",
+    "device": "S4T9IN",
+    "model": "S4T9IN"
+  },
+  {
+    "brand": "Auchan",
     "name": "Selecline X35T",
     "device": "X35T",
     "model": "X35T"
@@ -5215,6 +5221,12 @@
   },
   {
     "brand": "Blu",
+    "name": "NEO XL",
+    "device": "BLU_NEO_XL",
+    "model": "BLU NEO XL"
+  },
+  {
+    "brand": "Blu",
     "name": "PURE XL",
     "device": "BLU_PURE_XL",
     "model": "PURE XL"
@@ -5284,6 +5296,12 @@
     "name": "Studio One",
     "device": "BLU_STUDIO_ONE",
     "model": "BLU STUDIO ONE"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio Selfie LTE",
+    "device": "BLU_STUDIO_SELFIE_LTE",
+    "model": "BLU STUDIO SELFIE LTE"
   },
   {
     "brand": "Blu",
@@ -9724,6 +9742,12 @@
     "name": "Classic_Pro",
     "device": "Classic_Pro",
     "model": "Classic_Pro"
+  },
+  {
+    "brand": "GSmart",
+    "name": "Elite",
+    "device": "Elite",
+    "model": "Elite"
   },
   {
     "brand": "GSmart",
@@ -17779,6 +17803,12 @@
   },
   {
     "brand": "Honeywell",
+    "name": "EDA50",
+    "device": "eda50-111",
+    "model": "Glory50"
+  },
+  {
+    "brand": "Honeywell",
     "name": "Honeywell CN51",
     "device": "CN51_NC0",
     "model": "CN51 NC0"
@@ -22776,6 +22806,12 @@
     "model": "Volt"
   },
   {
+    "brand": "Hurricane",
+    "name": "Wave",
+    "device": "Hurricane",
+    "model": "Wave"
+  },
+  {
     "brand": "Hyundai",
     "name": "CAR AVN SYSTEM",
     "device": "koecn",
@@ -24010,6 +24046,12 @@
     "name": "Kurio Tab - Extrem",
     "device": "g03k",
     "model": "C14100"
+  },
+  {
+    "brand": "KDDI",
+    "name": "HTV32",
+    "device": "htc_pmeuhljapan",
+    "model": "HTV32"
   },
   {
     "brand": "KDDI",
@@ -37378,6 +37420,12 @@
     "name": "M7s Quad Core",
     "device": "astar-ococci",
     "model": "ML01-M7S-Quad-Core"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "MS45",
+    "device": "MS45",
+    "model": "MS45"
   },
   {
     "brand": "Multilaser",
@@ -56709,6 +56757,12 @@
     "brand": "Spice",
     "name": "Xlife-441Q",
     "device": "Spice",
+    "model": "Xlife-415"
+  },
+  {
+    "brand": "Spice",
+    "name": "Xlife-441Q",
+    "device": "Spice",
     "model": "Xlife-441Q"
   },
   {
@@ -61540,6 +61594,12 @@
     "name": "TG-L800S",
     "device": "PHX",
     "model": "TG-L800S"
+  },
+  {
+    "brand": "TG&Co.",
+    "name": "TG-L900S",
+    "device": "JGR",
+    "model": "TG-L900S"
   },
   {
     "brand": "THTF",
