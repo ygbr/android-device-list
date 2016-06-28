@@ -5233,6 +5233,12 @@
   },
   {
     "brand": "Blu",
+    "name": "R1 HD",
+    "device": "R1_HD",
+    "model": "R1 HD"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO 7.0 LTE",
     "device": "blu_s0010tw",
     "model": "BLU STUDIO 7.0 LTE"
@@ -7723,6 +7729,12 @@
   },
   {
     "brand": "ESI Enterprises",
+    "name": "EPIK_ELT0703",
+    "device": "ELT0703",
+    "model": "ELT0703"
+  },
+  {
+    "brand": "ESI Enterprises",
     "name": "Trinity T101",
     "device": "Trinity_T101",
     "model": "Trinity T101"
@@ -8146,6 +8158,12 @@
     "name": "One X",
     "device": "A65_sprout",
     "model": "EVERCOSS A65"
+  },
+  {
+    "brand": "Every",
+    "name": "E701",
+    "device": "E701",
+    "model": "E701"
   },
   {
     "brand": "EveryPad2",
@@ -14593,6 +14611,12 @@
   },
   {
     "brand": "Haier",
+    "name": "G40",
+    "device": "G40",
+    "model": "G40"
+  },
+  {
+    "brand": "Haier",
     "name": "G700",
     "device": "G700",
     "model": "G700"
@@ -14785,6 +14809,12 @@
   },
   {
     "brand": "Haier",
+    "name": "MD-01P",
+    "device": "MD-01P",
+    "model": "MD-01P"
+  },
+  {
+    "brand": "Haier",
     "name": "MD210",
     "device": "MD210",
     "model": "MD210"
@@ -14800,6 +14830,12 @@
     "name": "MT-700",
     "device": "MT-700",
     "model": "MT-700"
+  },
+  {
+    "brand": "Haier",
+    "name": "MXG308",
+    "device": "MXG308",
+    "model": "MXG308"
   },
   {
     "brand": "Haier",
@@ -15100,6 +15136,12 @@
     "name": "Electron 2",
     "device": "8DTB40",
     "model": "8DTB40"
+  },
+  {
+    "brand": "Hipstreet",
+    "name": "F100",
+    "device": "f100_65u",
+    "model": "f100_65u"
   },
   {
     "brand": "Hipstreet",
@@ -23736,6 +23778,12 @@
     "model": "Mini Mill v2"
   },
   {
+    "brand": "JP Sacouto",
+    "name": "mymaga CLASS Plus 2",
+    "device": "MG101A4T",
+    "model": "mymaga CLASS Plus 2"
+  },
+  {
     "brand": "JVC",
     "name": "DM65UXR\\\\DM65USR\\\\DM85UXR",
     "device": "mstarnapoli_atsc",
@@ -25480,6 +25528,12 @@
     "name": "DM-01G",
     "device": "DM-01G",
     "model": "DM-01G"
+  },
+  {
+    "brand": "LGE",
+    "name": "DM-02H",
+    "device": "DM-02H",
+    "model": "DM-02H"
   },
   {
     "brand": "LGE",
@@ -38401,6 +38455,12 @@
   },
   {
     "brand": "Nuu",
+    "name": "NUU A1",
+    "device": "NUU_A1",
+    "model": "NUU_A1"
+  },
+  {
+    "brand": "Nuu",
     "name": "NUU N4L",
     "device": "N4L",
     "model": "N4L"
@@ -41107,6 +41167,18 @@
   },
   {
     "brand": "Pioneer",
+    "name": "CyberNavi",
+    "device": "AVIC_CL900",
+    "model": "jupiter"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "CyberNavi",
+    "device": "AVIC_CZ900",
+    "model": "jupiter"
+  },
+  {
+    "brand": "Pioneer",
     "name": "PIONEER R1",
     "device": "RCK8726Y703H",
     "model": "R1"
@@ -41116,6 +41188,12 @@
     "name": "XDP-100R",
     "device": "Fu_Zin_32",
     "model": "XDP-100R"
+  },
+  {
+    "brand": "Plaisio",
+    "name": "CalltabII 10.1",
+    "device": "E1031H2C",
+    "model": "Calltab10.1"
   },
   {
     "brand": "Plaisio",
@@ -41143,9 +41221,21 @@
   },
   {
     "brand": "Plaisio",
+    "name": "I4G",
+    "device": "I4G",
+    "model": "TURBOX_I4G"
+  },
+  {
+    "brand": "Plaisio",
     "name": "Rainbow II 3G 8\"",
     "device": "mr801",
     "model": "RainbowII 3G"
+  },
+  {
+    "brand": "Plaisio",
+    "name": "RainbowIII3G",
+    "device": "RainbowIII3G",
+    "model": "RainbowIII3G"
   },
   {
     "brand": "Plaisio",
@@ -42031,6 +42121,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "MT3237_3G",
+    "device": "JP70A1W",
+    "model": "PMT3237_3G"
+  },
+  {
+    "brand": "Prestigio",
     "name": "MULTIPAD WIZE 3027",
     "device": "HF80A01W",
     "model": "PMT3027_Wi"
@@ -42127,6 +42223,18 @@
   },
   {
     "brand": "Prestigio",
+    "name": "Multipad Wize 3408 4G",
+    "device": "LS80A1L",
+    "model": "PMT3408_4G"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "Multipad Wize 3508 4G",
+    "device": "LS80A1L",
+    "model": "PMT3508_4G"
+  },
+  {
+    "brand": "Prestigio",
     "name": "Multipad Wize 3757 3G",
     "device": "PMT3777_3G",
     "model": "PMT3757_3G"
@@ -42199,6 +42307,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PMT3137_3G",
+    "device": "JP70A1W",
+    "model": "PMT3137_3G"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PMT3177_3G",
     "device": "PMT3177_3G",
     "model": "PMT3177_3G"
@@ -42217,6 +42331,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PMT3608_4G",
+    "device": "LS80A1L",
+    "model": "PMT3608_4G"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PMT3677_Wi",
     "device": "PMT3677",
     "model": "PMT3677_Wi"
@@ -42232,6 +42352,12 @@
     "name": "PMT3777_3G",
     "device": "PMT3777_3G",
     "model": "PMT3777_3G"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PMT3797_3G",
+    "device": "JU70A1G",
+    "model": "PMT3797_3G"
   },
   {
     "brand": "Prestigio",
@@ -42319,6 +42445,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP3403DUO",
+    "device": "GF40B1G",
+    "model": "PSP3403DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP3404DUO",
     "device": "PSP3404DUO",
     "model": "PSP3404DUO"
@@ -42328,6 +42460,18 @@
     "name": "PSP3405DUO",
     "device": "PSP3405DUO",
     "model": "PSP3405DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3413DUO",
+    "device": "GF40B1G",
+    "model": "PSP3413DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3423DUO",
+    "device": "GF40B1G",
+    "model": "PSP3423DUO"
   },
   {
     "brand": "Prestigio",
@@ -42346,6 +42490,18 @@
     "name": "PSP3457DUO",
     "device": "KT45B01G",
     "model": "PSP3457DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3458DUO",
+    "device": "TE45B3G",
+    "model": "PSP3458DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3459DUO",
+    "device": "TE45B3G",
+    "model": "PSP3459DUO"
   },
   {
     "brand": "Prestigio",
@@ -42370,6 +42526,30 @@
     "name": "PSP3505DUO",
     "device": "PSP3503DUO",
     "model": "PSP3505DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3506DUO",
+    "device": "TE50B2G",
+    "model": "PSP3506DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3507DUO",
+    "device": "TE50B2G",
+    "model": "PSP3507DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3516DUO",
+    "device": "TE50B2G",
+    "model": "PSP3516DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3517DUO",
+    "device": "TE50B2G",
+    "model": "PSP3517DUO"
   },
   {
     "brand": "Prestigio",
@@ -42403,6 +42583,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP5502DUO",
+    "device": "TE50B3G",
+    "model": "PSP5502DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP5506DUO",
     "device": "DW50A03G",
     "model": "PSP5506DUO"
@@ -42415,6 +42601,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP5512DUO",
+    "device": "TE50B3G",
+    "model": "PSP5512DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP5550DUO",
     "device": "PSP5550DUO",
     "model": "PSP5550DUO"
@@ -42424,6 +42616,12 @@
     "name": "PSP5551DUO",
     "device": "DW55B02L",
     "model": "PSP5551DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP7530DUO",
+    "device": "DW53B3G",
+    "model": "PSP7530DUO"
   },
   {
     "brand": "Prestigio",
@@ -42904,6 +43102,12 @@
     "name": "RCT6573W23",
     "device": "RCT6573W23",
     "model": "RCT6573W23"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCT6603W47",
+    "device": "RCT6603W47DK",
+    "model": "RCT6603W47DK"
   },
   {
     "brand": "RCA",
@@ -44569,6 +44773,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Active neo",
+    "device": "SC-01H",
+    "model": "SC-01H"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Admire",
     "device": "SCH-R820",
     "model": "SCH-R820"
@@ -46210,6 +46420,12 @@
     "name": "Galaxy J2",
     "device": "j2ltedtv",
     "model": "SM-J200BT"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J2(2016)",
+    "device": "j2xlte",
+    "model": "SM-J210F"
   },
   {
     "brand": "Samsung",
@@ -50419,6 +50635,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S7 edge",
+    "device": "SC-02H",
+    "model": "SC-02H"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Spica",
     "device": "GT-I5700",
     "model": "GT-I5700"
@@ -52999,21 +53221,9 @@
   },
   {
     "brand": "Samsung",
-    "name": "SC-01H",
-    "device": "SC-01H",
-    "model": "SC-01H"
-  },
-  {
-    "brand": "Samsung",
     "name": "SC-02G",
     "device": "SC-02G",
     "model": "SC-02G"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-02H",
-    "device": "SC-02H",
-    "model": "SC-02H"
   },
   {
     "brand": "Samsung",
@@ -53296,6 +53506,12 @@
     "name": "AQUOS K SHF32",
     "device": "SHF32",
     "model": "SHF32"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS P1",
+    "device": "P1X",
+    "model": "P1X"
   },
   {
     "brand": "Sharp",
@@ -54190,6 +54406,12 @@
     "name": "Smartab STJR76",
     "device": "STJR76",
     "model": "STJR76"
+  },
+  {
+    "brand": "Smartfren",
+    "name": "A16C3H",
+    "device": "A16C3H",
+    "model": "Andromax A16C3H"
   },
   {
     "brand": "Smartfren",
@@ -70765,6 +70987,12 @@
   },
   {
     "brand": "Zebra",
+    "name": "MC40",
+    "device": "MC40",
+    "model": "MC40N0"
+  },
+  {
+    "brand": "Zebra",
     "name": "Pollux",
     "device": "TC70",
     "model": "TC700H"
@@ -70786,6 +71014,12 @@
     "name": "TC8000",
     "device": "TC8000",
     "model": "TC8000"
+  },
+  {
+    "brand": "Zebra",
+    "name": "WT6000",
+    "device": "WT6000",
+    "model": "WT6000"
   },
   {
     "brand": "Zeki",
