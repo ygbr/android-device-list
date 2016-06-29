@@ -79,6 +79,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "Freedom Access",
+    "device": "Freedom_Access",
+    "model": "Freedom Access"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Freedom E",
     "device": "Freedom_E",
     "model": "Freedom E"
@@ -106,6 +112,12 @@
     "name": "HASHTAG",
     "device": "Hashtag",
     "model": "Hashtag"
+  },
+  {
+    "brand": "AG Mobile",
+    "name": "Hype",
+    "device": "Hype",
+    "model": "Hype"
   },
   {
     "brand": "AG Mobile",
@@ -6163,6 +6175,12 @@
   },
   {
     "brand": "Condor",
+    "name": "Condor T705",
+    "device": "TGW710G",
+    "model": "TGW710G"
+  },
+  {
+    "brand": "Condor",
     "name": "Condor TGW801G",
     "device": "TGW801G",
     "model": "TGW801G"
@@ -6208,6 +6226,12 @@
     "name": "PGN410",
     "device": "PGN410",
     "model": "PGN410"
+  },
+  {
+    "brand": "Condor",
+    "name": "PGN507",
+    "device": "PGN507",
+    "model": "PGN-507"
   },
   {
     "brand": "Condor",
@@ -6259,6 +6283,12 @@
   },
   {
     "brand": "Condor",
+    "name": "PGN521",
+    "device": "PGN521",
+    "model": "PGN521"
+  },
+  {
+    "brand": "Condor",
     "name": "PGN605",
     "device": "PGN605",
     "model": "PGN605"
@@ -6280,6 +6310,12 @@
     "name": "PGN608",
     "device": "PGN608",
     "model": "PGN608"
+  },
+  {
+    "brand": "Condor",
+    "name": "PGN609",
+    "device": "PGN609",
+    "model": "PGN609"
   },
   {
     "brand": "Coolpad",
@@ -10357,6 +10393,18 @@
   },
   {
     "brand": "Gionee",
+    "name": "F100",
+    "device": "GIONEE_GBL7358",
+    "model": "F100"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100A",
+    "device": "GIONEE_GBL7358",
+    "model": "F100A"
+  },
+  {
+    "brand": "Gionee",
     "name": "F103",
     "device": "GiONEE_GBL7319",
     "model": "F103"
@@ -10414,6 +10462,24 @@
     "name": "GN152",
     "device": "GiONEE_CBL7320",
     "model": "GN152"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3001",
+    "device": "GiONEE_GBL7523",
+    "model": "GN3001"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3002",
+    "device": "GIONEE_GBL7356",
+    "model": "GN3002"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3003",
+    "device": "GIONEE_GBL7359",
+    "model": "GN3003"
   },
   {
     "brand": "Gionee",
@@ -10627,9 +10693,21 @@
   },
   {
     "brand": "Gionee",
+    "name": "S6 Pro",
+    "device": "GIONEE_GBL7529",
+    "model": "GN9012"
+  },
+  {
+    "brand": "Gionee",
     "name": "S6s",
     "device": "GIONEE_WBL7519",
     "model": "S6s"
+  },
+  {
+    "brand": "Gionee",
+    "name": "S8",
+    "device": "GIONEE_WBL7517",
+    "model": "GN9011"
   },
   {
     "brand": "Gionee",
@@ -22837,6 +22915,12 @@
   },
   {
     "brand": "Hurricane",
+    "name": "Bolt",
+    "device": "Bolt",
+    "model": "Hurricane_Bolt"
+  },
+  {
+    "brand": "Hurricane",
     "name": "Rush",
     "device": "Hurricane",
     "model": "Rush"
@@ -23008,6 +23092,12 @@
     "name": "HOT NOTE",
     "device": "Infinix-X551",
     "model": "Infinix-X551"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521",
+    "model": "Infinix-X521"
   },
   {
     "brand": "Infinix",
@@ -23692,6 +23782,12 @@
     "name": "it1407",
     "device": "itel_it1407",
     "model": "itel it1407"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1408",
+    "device": "itel_it1408",
+    "model": "itel it1408"
   },
   {
     "brand": "Itel",
@@ -30643,15 +30739,39 @@
   },
   {
     "brand": "Lanix",
+    "name": "Ilium Pad L8X",
+    "device": "Ilium_Pad_L8X",
+    "model": "Ilium Pad L8X"
+  },
+  {
+    "brand": "Lanix",
+    "name": "Ilium Pad T7X",
+    "device": "Ilium_Pad_T7X",
+    "model": "Ilium Pad T7X"
+  },
+  {
+    "brand": "Lanix",
     "name": "Ilium X200",
     "device": "Ilium_X200",
     "model": "Ilium X200"
   },
   {
     "brand": "Lanix",
+    "name": "Ilium X210",
+    "device": "Ilium_X210",
+    "model": "Ilium X210"
+  },
+  {
+    "brand": "Lanix",
     "name": "Ilium X500B",
     "device": "Ilium_X500B",
     "model": "Ilium X500B"
+  },
+  {
+    "brand": "Lanix",
+    "name": "Ilium X510",
+    "device": "Ilium_X510",
+    "model": "Ilium X510"
   },
   {
     "brand": "Lanix",
@@ -30676,6 +30796,12 @@
     "name": "Ilium_S520",
     "device": "Ilium_S520",
     "model": "ILIUM S520"
+  },
+  {
+    "brand": "Lanix",
+    "name": "Llium L910",
+    "device": "Ilium_L910",
+    "model": "Ilium L910"
   },
   {
     "brand": "Lanix",
@@ -42541,6 +42667,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP3508DUO",
+    "device": "TE50B4G",
+    "model": "PSP3508DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP3516DUO",
     "device": "TE50B2G",
     "model": "PSP3516DUO"
@@ -42550,6 +42682,12 @@
     "name": "PSP3517DUO",
     "device": "TE50B2G",
     "model": "PSP3517DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3518DUO",
+    "device": "TE50B4G",
+    "model": "PSP3518DUO"
   },
   {
     "brand": "Prestigio",
@@ -56863,6 +57001,12 @@
   },
   {
     "brand": "Southern Telecom",
+    "name": "Polaroid M11",
+    "device": "M11",
+    "model": "M11"
+  },
+  {
+    "brand": "Southern Telecom",
     "name": "Polaroid P700/A700",
     "device": "P700",
     "model": "P700/A700"
@@ -63343,6 +63487,12 @@
   },
   {
     "brand": "Visual Land",
+    "name": "Prestige Prime10SE",
+    "device": "Prime10SE",
+    "model": "Prime10SE"
+  },
+  {
+    "brand": "Visual Land",
     "name": "Prestige Prime11E",
     "device": "Prime11E",
     "model": "Prime11E"
@@ -63832,6 +63982,12 @@
     "name": "TA71CA2",
     "device": "TA71CA2_1",
     "model": "TA71CA2"
+  },
+  {
+    "brand": "Vulcan",
+    "name": "Vulcan Pulse 7",
+    "device": "VT0701A08",
+    "model": "VT0701A08"
   },
   {
     "brand": "W.e.",
