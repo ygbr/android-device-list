@@ -1591,6 +1591,12 @@
   },
   {
     "brand": "AllView",
+    "name": "X3 Soul Lite",
+    "device": "X3_Soul_Lite",
+    "model": "X3_Soul_Lite"
+  },
+  {
+    "brand": "AllView",
     "name": "X3 Soul Pro",
     "device": "X3_Soul_PRO",
     "model": "X3_Soul_PRO"
@@ -4027,6 +4033,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone3",
+    "device": "ASUS_Z017D_1",
+    "model": "ASUS_Z017D"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad 10 (Z300C)",
     "device": "P023_1",
     "model": "P023"
@@ -4180,6 +4192,12 @@
     "name": "ZenPadC 7.0 (Z170MG)",
     "device": "P001_2",
     "model": "P001_2"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone 3",
+    "device": "ASUS_Z012D",
+    "model": "ASUS_Z012D"
   },
   {
     "brand": "Asus",
@@ -6316,6 +6334,12 @@
     "name": "PGN609",
     "device": "PGN609",
     "model": "PGN609"
+  },
+  {
+    "brand": "Connectce",
+    "name": "Connect Alpha",
+    "device": "CNT07002",
+    "model": "CNT07002"
   },
   {
     "brand": "Coolpad",
@@ -10090,6 +10114,12 @@
     "name": "E9771",
     "device": "E9771",
     "model": "E9771"
+  },
+  {
+    "brand": "Gigabyte",
+    "name": "EL-20-3710",
+    "device": "TCV5",
+    "model": "EL-20-3050"
   },
   {
     "brand": "Gigabyte",
@@ -30337,6 +30367,12 @@
   },
   {
     "brand": "LGE",
+    "name": "Qua phone PX",
+    "device": "JSG",
+    "model": "LGV33"
+  },
+  {
+    "brand": "LGE",
     "name": "Shine Plus with Google",
     "device": "alohag",
     "model": "LG-C710h"
@@ -32245,8 +32281,20 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A2016a40",
+    "device": "A2016a40",
+    "model": "Lenovo A2016a40"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A2020a40",
     "device": "angus3A4",
+    "model": "Lenovo A2020a40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A2020a40",
+    "device": "angus3A41",
     "model": "Lenovo A2020a40"
   },
   {
@@ -32635,6 +32683,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A6010",
+    "device": "A6010",
+    "model": "Lenovo A6010"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A606",
     "device": "A606",
     "model": "Lenovo A606"
@@ -32980,6 +33034,12 @@
     "name": "Lenovo K5",
     "device": "A6020a41",
     "model": "Lenovo A6020a41"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K5",
+    "device": "A6020l36",
+    "model": "Lenovo A6020l36"
   },
   {
     "brand": "Lenovo",
@@ -33481,6 +33541,24 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TAB3 730F",
+    "device": "TB3-730F",
+    "model": "Lenovo TB3-730F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB3 730M",
+    "device": "TB3-730M",
+    "model": "Lenovo TB3-730M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB3 730X",
+    "device": "TB3-730X",
+    "model": "Lenovo TB3-730X"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TB2-X30F",
     "device": "TB2-X30F",
     "model": "Lenovo TB2-X30F"
@@ -33493,9 +33571,27 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TB2-X30M",
+    "device": "TB2-X30M",
+    "model": "Lenovo TB2-X30M"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TB3-710F",
     "device": "TB3-710F",
     "model": "Lenovo TB3-710F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB3-710I",
+    "device": "TB3-710I",
+    "model": "Lenovo TB3-710I"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo VIBE K10",
+    "device": "K10a40",
+    "model": "Lenovo K10a40"
   },
   {
     "brand": "Lenovo",
@@ -33742,6 +33838,12 @@
     "name": "Lenvo S960",
     "device": "S960_ROW",
     "model": "Lenovo S960"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Moto E3 Power",
+    "device": "taido_row",
+    "model": "XT1706"
   },
   {
     "brand": "Lenovo",
@@ -34396,6 +34498,12 @@
     "name": "MTN Smart S730",
     "device": "MTN-S730",
     "model": "MTN-S730"
+  },
+  {
+    "brand": "MTN Group",
+    "name": "MTN Smart S735",
+    "device": "MTN-S735",
+    "model": "MTN-S735"
   },
   {
     "brand": "MTN Group",
@@ -42877,6 +42985,12 @@
   },
   {
     "brand": "Proscan",
+    "name": "PLT7770G",
+    "device": "PLT7770G",
+    "model": "PLT7770G"
+  },
+  {
+    "brand": "Proscan",
     "name": "PLT7803G",
     "device": "PLT7803G",
     "model": "PLT7803G"
@@ -43006,6 +43120,12 @@
     "name": "S2 Plus",
     "device": "S2_Plus",
     "model": "QMobile S2 Plus"
+  },
+  {
+    "brand": "QMobile",
+    "name": "S2 Pro",
+    "device": "S2_Pro",
+    "model": "S2 Pro"
   },
   {
     "brand": "QMobile",
@@ -64435,6 +64555,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "SUNNY",
+    "device": "V2504AN",
+    "model": "SUNNY"
+  },
+  {
+    "brand": "Wiko",
     "name": "SUNSET",
     "device": "s4011",
     "model": "SUNSET"
@@ -67849,6 +67975,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "TURKCELL T70",
+    "device": "P809T70",
+    "model": "TURKCELL T70"
+  },
+  {
+    "brand": "ZTE",
     "name": "Telenor Touch Plus",
     "device": "blade2",
     "model": "Telenor Touch Plus"
@@ -68397,6 +68529,12 @@
     "brand": "ZTE",
     "name": "Z955L",
     "device": "leo",
+    "model": "Z955A"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z955L",
+    "device": "leo",
     "model": "Z955L"
   },
   {
@@ -68527,6 +68665,18 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE A310",
+    "device": "P809A50",
+    "model": "ZTE BLADE A310"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A510",
+    "device": "P635A50",
+    "model": "ZTE BLADE A510"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE III",
     "device": "atlas40",
     "model": "Skate Pro"
@@ -68554,6 +68704,12 @@
     "name": "ZTE BLADE V0720",
     "device": "ZTE_BLADE_V0720",
     "model": "ZTE BLADE V0720"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A410",
+    "device": "P635E40",
+    "model": "ZTE Blade A410"
   },
   {
     "brand": "ZTE",
@@ -68602,6 +68758,12 @@
     "name": "ZTE Blade A470",
     "device": "P809A40",
     "model": "ZTE Blade A470"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A475",
+    "device": "ZTE_Blade_A475",
+    "model": "ZTE Blade A475"
   },
   {
     "brand": "ZTE",
@@ -71098,6 +71260,12 @@
     "name": "blade S",
     "device": "blade2",
     "model": "Blade S"
+  },
+  {
+    "brand": "ZTE",
+    "name": "dtac phone M1",
+    "device": "P635A50",
+    "model": "dtac phone M1"
   },
   {
     "brand": "ZTE",
