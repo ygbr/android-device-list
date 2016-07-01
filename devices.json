@@ -49,6 +49,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "AG Flair",
+    "device": "AG_Flair",
+    "model": "Flair"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "AG Ultra2",
     "device": "AG_Ultra2",
     "model": "Ultra 2"
@@ -4173,6 +4179,12 @@
     "brand": "Asus",
     "name": "ZenPad S 8.0 (Z580C)",
     "device": "P01M_2",
+    "model": "P01M"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenPad S 8.0 (Z580C)",
+    "device": "P01M_4",
     "model": "P01M"
   },
   {
@@ -8554,6 +8566,12 @@
     "name": "FWTA-T1000",
     "device": "FWTA-T1000",
     "model": "FWTA-T1000"
+  },
+  {
+    "brand": "FirstNationalBank",
+    "name": "FNB",
+    "device": "SP5045V",
+    "model": "SP5045V"
   },
   {
     "brand": "Fly",
@@ -31062,12 +31080,6 @@
     "model": "MW6617"
   },
   {
-    "brand": "Le",
-    "name": "Le X522",
-    "device": "le_s2_na",
-    "model": "Le X522"
-  },
-  {
     "brand": "Le Pan",
     "name": "Le Pan TC1010",
     "device": "FG6A-LP",
@@ -31084,6 +31096,12 @@
     "name": "Le Pan TC802A",
     "device": "UY8",
     "model": "Le Pan TC802A"
+  },
+  {
+    "brand": "LeTV",
+    "name": "Le 2",
+    "device": "le_s2",
+    "model": "Le X520"
   },
   {
     "brand": "LeTV",
@@ -31132,6 +31150,12 @@
     "name": "FLOW",
     "device": "Kruger_Matz_FLOW",
     "model": "FLOW"
+  },
+  {
+    "brand": "Leeco",
+    "name": "Le 2",
+    "device": "le_s2_na",
+    "model": "Le X522"
   },
   {
     "brand": "Leeco",
@@ -41908,6 +41932,18 @@
     "name": "Positivo T750",
     "device": "t750",
     "model": "Positivo T750"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo Twist",
+    "device": "S520",
+    "model": "Positivo Twist M"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo Twist",
+    "device": "S520",
+    "model": "Positivo Twist S"
   },
   {
     "brand": "Positivo",
@@ -58237,6 +58273,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "6055P",
+    "device": "idol4",
+    "model": "6055P"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "7040N",
     "device": "Yaris5TMO",
     "model": "7040N"
@@ -64110,6 +64152,12 @@
     "model": "VT0701A08"
   },
   {
+    "brand": "Vulcan",
+    "name": "Vulcan Pulse 7S",
+    "device": "VT0702A16",
+    "model": "VT0702A16"
+  },
+  {
     "brand": "W.e.",
     "name": "WETAB700DG",
     "device": "WETAB700DG",
@@ -68344,6 +68392,12 @@
     "name": "Z716BL",
     "device": "baffin",
     "model": "Z716BL"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z717VL",
+    "device": "lavender",
+    "model": "Z717VL"
   },
   {
     "brand": "ZTE",
