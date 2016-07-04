@@ -4087,6 +4087,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad 3 8.0",
+    "device": "P008_1",
+    "model": "P008"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad 7.0 (Z370C)",
     "device": "P01W",
     "model": "P01W"
@@ -10702,6 +10708,12 @@
     "name": "P6",
     "device": "P6",
     "model": "P6"
+  },
+  {
+    "brand": "Gionee",
+    "name": "P7 Max",
+    "device": "GIONEE_WBL5708",
+    "model": "P7 Max"
   },
   {
     "brand": "Gionee",
@@ -30391,6 +30403,12 @@
   },
   {
     "brand": "LGE",
+    "name": "Qua tab PX",
+    "device": "b3",
+    "model": "LGT31"
+  },
+  {
+    "brand": "LGE",
     "name": "Shine Plus with Google",
     "device": "alohag",
     "model": "LG-C710h"
@@ -34387,9 +34405,21 @@
   },
   {
     "brand": "M4tel",
+    "name": "M4 SS4452",
+    "device": "UDON02A_S10A",
+    "model": "M4 SS4452"
+  },
+  {
+    "brand": "M4tel",
     "name": "M4 SS4455",
     "device": "NOVA03A_S22A",
     "model": "M4 SS4455"
+  },
+  {
+    "brand": "M4tel",
+    "name": "M4 SS4456",
+    "device": "UDON04A_S19A",
+    "model": "M4 SS4456"
   },
   {
     "brand": "MAD CATZ",
@@ -45223,6 +45253,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy C7",
+    "device": "c7ltechn",
+    "model": "SM-C7000"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Camera",
     "device": "gd1",
     "model": "EK-GC100"
@@ -46719,6 +46755,12 @@
     "brand": "Samsung",
     "name": "Galaxy J2(2016)",
     "device": "j2xlte",
+    "model": "SM-J210F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J2(2016)",
+    "device": "j2xlteins",
     "model": "SM-J210F"
   },
   {
@@ -48481,6 +48523,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy On5",
+    "device": "on5ltetmo",
+    "model": "SM-G550T2"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy On7",
     "device": "o7lte",
     "model": "SM-G600FY"
@@ -48502,6 +48550,12 @@
     "name": "Galaxy On7",
     "device": "on7elte",
     "model": "SM-G600F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7",
+    "device": "on7nlteskt",
+    "model": "SM-G600S"
   },
   {
     "brand": "Samsung",
@@ -57292,6 +57346,12 @@
     "name": "Xlife-450Q",
     "device": "Spice",
     "model": "Xlife-450Q"
+  },
+  {
+    "brand": "Spice",
+    "name": "Xlife-M44Q",
+    "device": "Spice",
+    "model": "Xlife-M44Q"
   },
   {
     "brand": "Sprint",
@@ -67171,6 +67231,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "MF97B_T",
+    "device": "msm8974",
+    "model": "MF97B_T"
+  },
+  {
+    "brand": "ZTE",
     "name": "MF97E",
     "device": "msm8974",
     "model": "MF97E"
@@ -67972,6 +68038,12 @@
     "name": "Spro 2",
     "device": "msm8974",
     "model": "ZKB2A"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Spro2",
+    "device": "msm8974",
+    "model": "Spro2"
   },
   {
     "brand": "ZTE",
