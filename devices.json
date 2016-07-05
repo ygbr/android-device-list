@@ -49,9 +49,21 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "AG BOOST 2",
+    "device": "BOOST2",
+    "model": "E4010"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "AG Flair",
     "device": "AG_Flair",
     "model": "Flair"
+  },
+  {
+    "brand": "AG Mobile",
+    "name": "AG Go Tab Access 2",
+    "device": "AG_Go_Tab_Access_2",
+    "model": "AG_Go_Tab_Access_2"
   },
   {
     "brand": "AG Mobile",
@@ -2968,6 +2980,12 @@
     "name": "TV Connect",
     "device": "LUDO",
     "model": "ARCHOS LUDOG10"
+  },
+  {
+    "brand": "Ark",
+    "name": "ARK Benefit M503",
+    "device": "Benefit_M503",
+    "model": "Benefit_M503"
   },
   {
     "brand": "Ashna",
@@ -6076,6 +6094,18 @@
     "name": "My first Clempad 4.4 Plus",
     "device": "MFC2_Plus",
     "model": "MFC2_Plus"
+  },
+  {
+    "brand": "Click",
+    "name": "M9021G",
+    "device": "M9021G",
+    "model": "M9021G"
+  },
+  {
+    "brand": "Click",
+    "name": "S7043G",
+    "device": "S7043G",
+    "model": "S7043G"
   },
   {
     "brand": "ClickN Kids",
@@ -18070,6 +18100,12 @@
     "name": "Honeywell Dolphin 70e Black",
     "device": "dblack_wo",
     "model": "Dolphin 70e Black"
+  },
+  {
+    "brand": "How",
+    "name": "HT-704",
+    "device": "HT704",
+    "model": "HT-704"
   },
   {
     "brand": "Huawei",
@@ -53688,6 +53724,18 @@
     "model": "SMT-E5015"
   },
   {
+    "brand": "Sansui",
+    "name": "ETAB M9021G",
+    "device": "ETAB_M9021G",
+    "model": "ETAB_M9021G"
+  },
+  {
+    "brand": "Sansui",
+    "name": "ETAB S7042G",
+    "device": "S7042G",
+    "model": "ETAB_S7042G"
+  },
+  {
     "brand": "Santok",
     "name": "SYNC 5C",
     "device": "STK_Sync_5c",
@@ -57376,6 +57424,12 @@
     "name": "eZeeTab7D15-M",
     "device": "eZeeTab7D15-M",
     "model": "eZeeTab7D15-M"
+  },
+  {
+    "brand": "Stylis",
+    "name": "FUNDA",
+    "device": "ETAB_I7041G",
+    "model": "ETAB_I7041G"
   },
   {
     "brand": "Sugar",
