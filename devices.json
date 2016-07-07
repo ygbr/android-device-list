@@ -2988,6 +2988,12 @@
     "model": "Benefit_M503"
   },
   {
+    "brand": "Ark",
+    "name": "ARK Impulse P2",
+    "device": "Impulse_P2",
+    "model": "Impulse_P2"
+  },
+  {
     "brand": "Ashna",
     "name": "X55",
     "device": "X55",
@@ -5716,6 +5722,24 @@
     "name": "TC80RA6",
     "device": "TC80RA6_1",
     "model": "TC80RA6"
+  },
+  {
+    "brand": "Cell_C",
+    "name": "Fantasy",
+    "device": "Cell_C",
+    "model": "Fantasy"
+  },
+  {
+    "brand": "Cell_C",
+    "name": "Summit",
+    "device": "Cell_C",
+    "model": "Summit"
+  },
+  {
+    "brand": "Cell_C",
+    "name": "deluxe",
+    "device": "Cell_C",
+    "model": "Deluxe"
   },
   {
     "brand": "Cellon",
@@ -23911,6 +23935,12 @@
   },
   {
     "brand": "Itel",
+    "name": "it1508 Plus",
+    "device": "itel_it1508Plus",
+    "model": "itel it1508 Plus"
+  },
+  {
+    "brand": "Itel",
     "name": "it1550",
     "device": "itel_it1550",
     "model": "itel_it1550"
@@ -27633,6 +27663,12 @@
     "brand": "LGE",
     "name": "LG K10",
     "device": "m209n",
+    "model": "LG-K425"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K10",
+    "device": "m209n",
     "model": "LG-K428"
   },
   {
@@ -27742,6 +27778,12 @@
     "name": "LG K8",
     "device": "m1v",
     "model": "LGUS375"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K8",
+    "device": "m1v",
+    "model": "RS500"
   },
   {
     "brand": "LGE",
@@ -28984,6 +29026,12 @@
     "name": "LG Stylo 2 Plus",
     "device": "ph2n",
     "model": "LG-K550"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylo 2 Plus",
+    "device": "ph2n",
+    "model": "LG-K557"
   },
   {
     "brand": "LGE",
@@ -35156,6 +35204,12 @@
   {
     "brand": "Micromax",
     "name": "Bolt",
+    "device": "D304",
+    "model": "Micromax D304"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
     "device": "D320",
     "model": "Micromax D320"
   },
@@ -35164,6 +35218,12 @@
     "name": "Bolt",
     "device": "D321",
     "model": "Micromax D321"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
+    "device": "D333",
+    "model": "Micromax D333"
   },
   {
     "brand": "Micromax",
@@ -35608,6 +35668,12 @@
     "name": "Canvas Tab",
     "device": "P690",
     "model": "Micromax P690"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Tab",
+    "device": "P702",
+    "model": "MicromaxP702"
   },
   {
     "brand": "Micromax",
@@ -40648,6 +40714,12 @@
     "name": "TH-55DR600C",
     "device": "TH55DR600C",
     "model": "TH55DR600C"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "TH-55DX700C",
+    "device": "TH_55DX700C",
+    "model": "TH_55DX700C"
   },
   {
     "brand": "Panasonic",
@@ -46910,6 +46982,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J3(2016)",
+    "device": "j3xltebmc",
+    "model": "SM-J320W8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
     "device": "j3xnlte",
     "model": "SM-J320FN"
   },
@@ -48544,6 +48622,12 @@
     "name": "Galaxy On5",
     "device": "o5ltechn",
     "model": "SM-G5500"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On5",
+    "device": "o5prolte",
+    "model": "SM-G550FY"
   },
   {
     "brand": "Samsung",
@@ -50870,6 +50954,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S7",
+    "device": "heroqltecctvzw",
+    "model": "SM-G930VC"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7",
     "device": "heroqltechn",
     "model": "SM-G9300"
   },
@@ -50980,6 +51070,12 @@
     "name": "Galaxy S7 Edge",
     "device": "hero2qlteatt",
     "model": "SAMSUNG-SM-G935A"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7 Edge",
+    "device": "hero2qltecctvzw",
+    "model": "SM-G935VC"
   },
   {
     "brand": "Samsung",
@@ -60127,6 +60223,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Alcatel_6055U",
+    "device": "idol4",
+    "model": "Alcatel_6055U"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "Alcatel_7049D",
     "device": "Lion-5",
     "model": "Alcatel_7049D"
@@ -62437,6 +62539,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-C7",
+    "device": "TECNO-C7",
+    "model": "TECNO-C7"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-C8",
     "device": "TECNO-C8",
     "model": "TECNO-C8"
@@ -62503,6 +62611,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-N8S",
+    "device": "TECNO-N8S",
+    "model": "TECNO-N8S"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-PHANTOM5",
     "device": "TECNO-PHANTOM5",
     "model": "TECNO-PHANTOM5"
@@ -62512,6 +62626,12 @@
     "name": "TECNO-W3",
     "device": "TECNO-W3",
     "model": "TECNO-W3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-W3LTE",
+    "device": "TECNO-W3LTE",
+    "model": "TECNO-W3LTE"
   },
   {
     "brand": "Tecno",
@@ -63364,6 +63484,12 @@
     "name": "Farabi",
     "device": "frb3g",
     "model": "Farabi"
+  },
+  {
+    "brand": "Vestel",
+    "name": "V TAB 7\" LITE II",
+    "device": "V_TAB_7_LITE_II",
+    "model": "VTAB7LITEII"
   },
   {
     "brand": "Vestel",
@@ -64390,6 +64516,12 @@
     "name": "Primo RM2 mini",
     "device": "WBW5616WA",
     "model": "Primo RM2 mini"
+  },
+  {
+    "brand": "Walton",
+    "name": "Primo RX5",
+    "device": "Primo_RX5",
+    "model": "Primo RX5"
   },
   {
     "brand": "Walton",
@@ -66619,6 +66751,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "BLADE A310",
+    "device": "P809A50",
+    "model": "Blade A310"
+  },
+  {
+    "brand": "ZTE",
     "name": "BLADE A510",
     "device": "P635A50",
     "model": "BLADE A510"
@@ -67318,6 +67456,12 @@
     "name": "MS4A",
     "device": "roundtop",
     "model": "MS4A"
+  },
+  {
+    "brand": "ZTE",
+    "name": "MTC SMART Run 4G",
+    "device": "P632T31",
+    "model": "MTC SMART Run 4G"
   },
   {
     "brand": "ZTE",
@@ -68872,6 +69016,18 @@
     "name": "ZTE BLADE III",
     "device": "atlas40",
     "model": "ZTE Blade III"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE L0510",
+    "device": "P680A20",
+    "model": "ZTE BLADE L0510"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE L0510",
+    "device": "P680A20",
+    "model": "ZTE Blade L5 Plus"
   },
   {
     "brand": "ZTE",
