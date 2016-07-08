@@ -5383,6 +5383,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Studio Touch",
+    "device": "BLU_Studio_Touch",
+    "model": "BLU Studio Touch"
+  },
+  {
+    "brand": "Blu",
     "name": "Studio X Mini",
     "device": "BLU_STUDIO_X_MINI",
     "model": "BLU STUDIO X MINI"
@@ -7216,6 +7222,12 @@
     "name": "FT7",
     "device": "FT7_tw",
     "model": "Android Tablet FT7"
+  },
+  {
+    "brand": "Cubot",
+    "name": "DINOSAUR",
+    "device": "x5623_h6013_cubot",
+    "model": "CUBOT DINOSAUR"
   },
   {
     "brand": "Cubot",
@@ -20815,6 +20827,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI GR3",
+    "device": "HWTAG-L6753",
+    "model": "HUAWEI TAG-L21"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI GX8",
     "device": "hwRIO-L01",
     "model": "HUAWEI"
@@ -23908,6 +23926,12 @@
     "name": "it1408",
     "device": "itel_it1408",
     "model": "itel it1408"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1409",
+    "device": "itel_it1409",
+    "model": "itel it1409"
   },
   {
     "brand": "Itel",
@@ -40075,6 +40099,12 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange Dive 71",
+    "device": "Orange_Dive_71",
+    "model": "Orange Dive 71"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange Nura",
     "device": "M812",
     "model": "Orange Nura"
@@ -43210,6 +43240,12 @@
     "name": "PLT9650G",
     "device": "PLT9650G",
     "model": "PLT9650G"
+  },
+  {
+    "brand": "Proscan",
+    "name": "PLT9999G",
+    "device": "PLT9999G",
+    "model": "PLT9999G"
   },
   {
     "brand": "Proscan",
@@ -54001,6 +54037,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS K SHF33",
+    "device": "SHF33",
+    "model": "SHF33"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS P1",
     "device": "P1X",
     "model": "P1X"
@@ -58603,6 +58645,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "8062",
+    "device": "Pixi4-7_WIFI",
+    "model": "8062"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "8063",
     "device": "Pixi4-7_WIFI",
     "model": "8063"
@@ -58630,6 +58678,12 @@
     "name": "9001D",
     "device": "Pixi4-6_4G",
     "model": "9001D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "9001I",
+    "device": "Pixi4-6_4G",
+    "model": "9001I"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -60232,6 +60286,12 @@
     "name": "Alcatel_7049D",
     "device": "Lion-5",
     "model": "Alcatel_7049D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel_9001X",
+    "device": "Pixi4-6_4G",
+    "model": "Alcatel_9001X"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -66697,6 +66757,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Amazing_X3s",
+    "device": "Amazing_X3s",
+    "model": "Amazing_X3s"
+  },
+  {
+    "brand": "ZTE",
     "name": "Android edition by sfr STARADDICT",
     "device": "skate",
     "model": "Android edition by sfr STARADDICT"
@@ -66751,6 +66817,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "BLADE A110",
+    "device": "ZTE_BLADE_A110",
+    "model": "BLADE A110"
+  },
+  {
+    "brand": "ZTE",
     "name": "BLADE A310",
     "device": "P809A50",
     "model": "Blade A310"
@@ -66772,6 +66844,12 @@
     "name": "BLADE III_IL",
     "device": "atlas40",
     "model": "BLADE III_IL"
+  },
+  {
+    "brand": "ZTE",
+    "name": "BLADE V7",
+    "device": "P653A10",
+    "model": "BLADE V7"
   },
   {
     "brand": "ZTE",
@@ -66991,6 +67069,18 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade A511",
+    "device": "ZTE_Blade_A511",
+    "model": "Blade A511"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade A511",
+    "device": "ZTE_Blade_A511",
+    "model": "ZTE Blade A511"
+  },
+  {
+    "brand": "ZTE",
     "name": "Blade Apex",
     "device": "coeus",
     "model": "Blade Apex"
@@ -67021,6 +67111,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade L110",
+    "device": "ZTE_BLADE_L110",
+    "model": "Blade L110"
+  },
+  {
+    "brand": "ZTE",
     "name": "Blade L2 Plus",
     "device": "ZTE_Blade_L2_PLUS",
     "model": "Blade L2 Plus"
@@ -67036,6 +67132,12 @@
     "name": "Blade L5",
     "device": "P172A40",
     "model": "Blade L5"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade L5 Plus",
+    "device": "P680A20",
+    "model": "Blade L5 Plus"
   },
   {
     "brand": "ZTE",
@@ -67144,6 +67246,12 @@
     "name": "Blade V6",
     "device": "P635A20",
     "model": "ZTE T663"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade V6 Plus",
+    "device": "ZTE_BLADE_V0720",
+    "model": "Blade V6 Plus"
   },
   {
     "brand": "ZTE",
@@ -67333,6 +67441,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "K88",
+    "device": "jasmine",
+    "model": "K88"
+  },
+  {
+    "brand": "ZTE",
     "name": "K97",
     "device": "K97",
     "model": "K97"
@@ -67420,6 +67534,18 @@
     "name": "MF97A",
     "device": "MF97A",
     "model": "MF97A"
+  },
+  {
+    "brand": "ZTE",
+    "name": "MF97B",
+    "device": "msm8974",
+    "model": "MF97B"
+  },
+  {
+    "brand": "ZTE",
+    "name": "MF97B",
+    "device": "msm8974",
+    "model": "MF97B_ROGERS"
   },
   {
     "brand": "ZTE",
@@ -67759,6 +67885,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "NOS NEVA 80",
+    "device": "P852F52",
+    "model": "NOS NEVA 80"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX402",
     "device": "NX40X",
     "model": "NX402"
@@ -67903,15 +68035,45 @@
   },
   {
     "brand": "ZTE",
+    "name": "NX523J_V1",
+    "device": "NX523J_V1",
+    "model": "NX523J_V1"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX527J_V1",
+    "device": "NX527J_V1",
+    "model": "NX527J_V1"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX529J",
     "device": "NX529J",
     "model": "NX529J"
   },
   {
     "brand": "ZTE",
+    "name": "NX531J",
+    "device": "NX531J",
+    "model": "NX531J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX541J",
+    "device": "NX541J",
+    "model": "NX541J"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX601J",
     "device": "NX601J",
     "model": "NX601J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "OWN One Plus",
+    "device": "ZTE_Blade_V580",
+    "model": "OWN One Plus"
   },
   {
     "brand": "ZTE",
@@ -68002,6 +68164,12 @@
     "name": "Orange Zali",
     "device": "nice",
     "model": "Orange Zali"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Own One",
+    "device": "P635A20",
+    "model": "Own One"
   },
   {
     "brand": "ZTE",
@@ -68128,6 +68296,12 @@
     "name": "S8Q",
     "device": "MT8123",
     "model": "S8Q"
+  },
+  {
+    "brand": "ZTE",
+    "name": "SMART Start 3",
+    "device": "ZTE_BLADE_L110",
+    "model": "SMART Start 3"
   },
   {
     "brand": "ZTE",
@@ -68833,6 +69007,18 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z861BL",
+    "device": "benz",
+    "model": "Z861BL"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z862VL",
+    "device": "captain",
+    "model": "Z862VL"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z930L",
     "device": "coeus",
     "model": "Z930L"
@@ -68947,6 +69133,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE A2017G",
+    "device": "ailsa_ii",
+    "model": "ZTE A2017G"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE A880",
     "device": "ZTE-A880",
     "model": "ZTE A880"
@@ -68983,6 +69175,54 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BA510",
+    "device": "P635T39",
+    "model": "ZTE BA510"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA601",
+    "device": "ZTE_BA601",
+    "model": "ZTE BA601"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA610C",
+    "device": "P635N36",
+    "model": "ZTE BA610C"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA610T",
+    "device": "P635T36",
+    "model": "ZTE BA610T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA610T",
+    "device": "V_P635T36",
+    "model": "ZTE BA610T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA910",
+    "device": "P653N31",
+    "model": "ZTE BA910"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA910",
+    "device": "V_P653N31",
+    "model": "ZTE BA910"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA910T",
+    "device": "T_P653N31",
+    "model": "ZTE BA910T"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A110",
     "device": "ZTE_BLADE_A110",
     "model": "ZTE BLADE A110"
@@ -68995,9 +69235,39 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE A506",
+    "device": "P809F52",
+    "model": "ZTE BLADE A506"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A510",
     "device": "P635A50",
     "model": "ZTE BLADE A510"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A512",
+    "device": "P817E52",
+    "model": "ZTE BLADE A512"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A601",
+    "device": "ZTE_BLADE_A601",
+    "model": "ZTE BLADE A601"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A610",
+    "device": "ZTE_BLADE_A610",
+    "model": "ZTE BLADE A610"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A910",
+    "device": "P635A31",
+    "model": "ZTE BLADE A910"
   },
   {
     "brand": "ZTE",
@@ -69037,9 +69307,63 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE V0710",
+    "device": "ZTE_BLADE_V0710",
+    "model": "ZTE BLADE V0710"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE V0720",
     "device": "ZTE_BLADE_V0720",
     "model": "ZTE BLADE V0720"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE V7",
+    "device": "P653A10",
+    "model": "ZTE BLADE V7"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE V7 LITE",
+    "device": "ZTE_BLADE_V0720",
+    "model": "ZTE BLADE V7 LITE"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0701",
+    "device": "P653N11",
+    "model": "ZTE BV0701"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0710",
+    "device": "P655A30",
+    "model": "ZTE BV0710"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0710T",
+    "device": "P655A30",
+    "model": "ZTE BV0710T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0720",
+    "device": "P650A30",
+    "model": "ZTE BV0720"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A210",
+    "device": "ZTE_Blade_A210",
+    "model": "ZTE Blade A210"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A315",
+    "device": "ZTE_Blade_A315",
+    "model": "ZTE Blade A315"
   },
   {
     "brand": "ZTE",
@@ -69112,6 +69436,12 @@
     "name": "ZTE Blade A476",
     "device": "ZTE_Blade_A476",
     "model": "ZTE Blade A476"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A515",
+    "device": "ZTE_Blade_A511",
+    "model": "ZTE Blade A515"
   },
   {
     "brand": "ZTE",
@@ -69355,6 +69685,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade L315",
+    "device": "ZTE_Blade_L315",
+    "model": "ZTE Blade L315"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade L370",
     "device": "ZTE_Blade_C370",
     "model": "ZTE Blade L370"
@@ -69457,6 +69793,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade S6 Flex",
+    "device": "P839T60",
+    "model": "ZTE Blade S6 Flex"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade V",
     "device": "ZTE-Blade-V",
     "model": "Vodafone Blade V"
@@ -69484,6 +69826,12 @@
     "name": "ZTE Blade V580",
     "device": "ZTE_Blade_V580",
     "model": "ZTE Blade V580"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade V6 Plus",
+    "device": "ZTE_BLADE_V0720",
+    "model": "ZTE Blade V6 Plus"
   },
   {
     "brand": "ZTE",
@@ -69568,6 +69916,12 @@
     "name": "ZTE C880A",
     "device": "P635B32",
     "model": "ZTE C880A"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE C880D",
+    "device": "P635D32",
+    "model": "ZTE C880D"
   },
   {
     "brand": "ZTE",
