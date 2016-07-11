@@ -5209,6 +5209,12 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU STUIDIO SELFIE 2",
+    "device": "BLU_STUDIO_SELFIE_2",
+    "model": "BLU STUDIO SELFIE 2"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU TOUCHBOOK M7",
     "device": "BLU_TOUCHBOOK_M7",
     "model": "BLU TOUCHBOOK M7"
@@ -9622,6 +9628,12 @@
     "name": "F-04G",
     "device": "F04G",
     "model": "F-04G"
+  },
+  {
+    "brand": "Fujitsu",
+    "name": "F-04H",
+    "device": "F04H",
+    "model": "F-04H"
   },
   {
     "brand": "Fujitsu",
@@ -20827,6 +20839,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI G9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "device": "HWVNS-Q",
+    "model": "HUAWEI VNS-AL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI GR3",
     "device": "HWTAG-L6753",
     "model": "HUAWEI TAG-L21"
@@ -21004,6 +21022,36 @@
     "name": "HUAWEI P7-L11",
     "device": "hwp7",
     "model": "HUAWEI P7-L11"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-L31"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-L53"
   },
   {
     "brand": "Huawei",
@@ -23047,6 +23095,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+    "device": "HWCAM-Q",
+    "model": "CAM-AL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x924",
     "device": "hwRIO-AL00",
     "model": "HUAWEI RIO-AL00"
@@ -23908,6 +23962,12 @@
     "name": "Intex Aqua View",
     "device": "AquaView",
     "model": "Aqua View"
+  },
+  {
+    "brand": "Irbis",
+    "name": "TZ55",
+    "device": "TZ55",
+    "model": "TZ55"
   },
   {
     "brand": "Itel",
@@ -31113,6 +31173,12 @@
     "brand": "Lava",
     "name": "X10",
     "device": "X10",
+    "model": "LavaX10"
+  },
+  {
+    "brand": "Lava",
+    "name": "X10",
+    "device": "X10",
     "model": "X10"
   },
   {
@@ -35962,6 +36028,12 @@
     "name": "Mobicel",
     "device": "Venus",
     "model": "Venus"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Mobicel ICE",
+    "device": "ICE",
+    "model": "ICE"
   },
   {
     "brand": "Mobicell",
@@ -53869,6 +53941,12 @@
   },
   {
     "brand": "Santok",
+    "name": "Hero X",
+    "device": "STK_Hero_X",
+    "model": "STK_Hero_X"
+  },
+  {
+    "brand": "Santok",
     "name": "SYNC 5C",
     "device": "STK_Sync_5c",
     "model": "STK_Sync_5c"
@@ -55036,6 +55114,12 @@
     "name": "Smartfren AndromaxNC36B1H",
     "device": "NC36B1H",
     "model": "Smartfren Andromax NC36B1H"
+  },
+  {
+    "brand": "Smartron",
+    "name": "t-phone",
+    "device": "rimo01a",
+    "model": "T5511"
   },
   {
     "brand": "Sonim",
@@ -62502,6 +62586,12 @@
     "model": "T-Hub2"
   },
   {
+    "brand": "Technicolor",
+    "name": "LMT viedtelev\\xc4\\xabzijas iek\\xc4\\x81rta",
+    "device": "dwt765lmt",
+    "model": "skipper"
+  },
+  {
     "brand": "Techno",
     "name": "H7S",
     "device": "qp16_tecno_h7s",
@@ -63250,6 +63340,30 @@
     "name": "tolino tab 8",
     "device": "tolino8",
     "model": "tolino tab 8"
+  },
+  {
+    "brand": "Trimble Navigation",
+    "name": "MM50",
+    "device": "EE773X_4G",
+    "model": "MobileMapper50_4G"
+  },
+  {
+    "brand": "Trimble Navigation",
+    "name": "MM50",
+    "device": "EE773X_4G",
+    "model": "TDC100_4G"
+  },
+  {
+    "brand": "Trimble Navigation",
+    "name": "MM50",
+    "device": "EE773X_WiFi",
+    "model": "MobileMapper50_WiFi"
+  },
+  {
+    "brand": "Trimble Navigation",
+    "name": "MM50",
+    "device": "EE773X_WiFi",
+    "model": "TDC100_WiFi"
   },
   {
     "brand": "Trimble Navigation",
@@ -70372,30 +70486,6 @@
     "name": "ZTE N928Dt",
     "device": "N928Dt",
     "model": "ZTE N928Dt"
-  },
-  {
-    "brand": "ZTE",
-    "name": "ZTE N939Sc",
-    "device": "zx55q05_64",
-    "model": "LS-5504"
-  },
-  {
-    "brand": "ZTE",
-    "name": "ZTE N939Sc",
-    "device": "zx55q05_64",
-    "model": "ZTE Blade X9"
-  },
-  {
-    "brand": "ZTE",
-    "name": "ZTE N939Sc",
-    "device": "zx55q05_64",
-    "model": "ZTE N939Sc"
-  },
-  {
-    "brand": "ZTE",
-    "name": "ZTE N939Sc",
-    "device": "zx55q05_64",
-    "model": "ZTE N939St"
   },
   {
     "brand": "ZTE",
