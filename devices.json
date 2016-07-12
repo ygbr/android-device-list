@@ -5209,12 +5209,6 @@
   },
   {
     "brand": "Blu",
-    "name": "BLU STUIDIO SELFIE 2",
-    "device": "BLU_STUDIO_SELFIE_2",
-    "model": "BLU STUDIO SELFIE 2"
-  },
-  {
-    "brand": "Blu",
     "name": "BLU TOUCHBOOK M7",
     "device": "BLU_TOUCHBOOK_M7",
     "model": "BLU TOUCHBOOK M7"
@@ -5353,6 +5347,18 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO TOUCH",
+    "device": "BLU_Studio_Touch",
+    "model": "BLU Studio Touch"
+  },
+  {
+    "brand": "Blu",
+    "name": "STUIDIO SELFIE 2",
+    "device": "BLU_STUDIO_SELFIE_2",
+    "model": "BLU STUDIO SELFIE 2"
+  },
+  {
+    "brand": "Blu",
     "name": "SUTDIO ENERGY 2",
     "device": "BLU_STUDIO_ENERGY_2",
     "model": "STUDIO ENERGY 2"
@@ -5386,12 +5392,6 @@
     "name": "Studio Selfie LTE",
     "device": "BLU_STUDIO_SELFIE_LTE",
     "model": "BLU STUDIO SELFIE LTE"
-  },
-  {
-    "brand": "Blu",
-    "name": "Studio Touch",
-    "device": "BLU_Studio_Touch",
-    "model": "BLU Studio Touch"
   },
   {
     "brand": "Blu",
@@ -10609,9 +10609,21 @@
   },
   {
     "brand": "Gionee",
+    "name": "GN3002L",
+    "device": "GIONEE_GBL7356L",
+    "model": "GN3002L"
+  },
+  {
+    "brand": "Gionee",
     "name": "GN3003",
     "device": "GIONEE_GBL7359",
     "model": "GN3003"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3003L",
+    "device": "GIONEE_GBL7359L",
+    "model": "GN3003L"
   },
   {
     "brand": "Gionee",
@@ -20851,6 +20863,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI GT3",
+    "device": "HWNMO-H",
+    "model": "HUAWEI NMO-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GT3",
+    "device": "HWNMO-H",
+    "model": "HUAWEI NMO-L31"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI GX8",
     "device": "hwRIO-L01",
     "model": "HUAWEI"
@@ -21169,6 +21193,36 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
+    "model": "CAM-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
+    "model": "CAM-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
+    "model": "HUAWEI CAM-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
+    "model": "HUAWEI CAM-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
+    "model": "HUAWEI CAM-L23"
+  },
+  {
+    "brand": "Huawei",
     "name": "HW-03E",
     "device": "HW-03E",
     "model": "HW-03E"
@@ -21220,6 +21274,24 @@
     "name": "Honor 4A",
     "device": "hnSCL-Q",
     "model": "SCL-TL00H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 5C",
+    "device": "HNNEM-H",
+    "model": "NEM-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 5C",
+    "device": "HNNEM-H",
+    "model": "NEM-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 5C",
+    "device": "HNNEM-H",
+    "model": "NEM-L51"
   },
   {
     "brand": "Huawei",
@@ -23096,8 +23168,50 @@
   {
     "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+    "device": "HWCAM-H",
+    "model": "CAM-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+    "device": "HWCAM-H",
+    "model": "CAM-TL00H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+    "device": "HWCAM-H",
+    "model": "CAM-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
     "device": "HWCAM-Q",
     "model": "CAM-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+    "device": "HNNEM-H",
+    "model": "NEM-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+    "device": "HNNEM-H",
+    "model": "NEM-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+    "device": "HNNEM-H",
+    "model": "NEM-TL00H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+    "device": "HNNEM-H",
+    "model": "NEM-UL10"
   },
   {
     "brand": "Huawei",
@@ -72646,6 +72760,12 @@
     "name": "Irulu",
     "device": "octopus-masu",
     "model": "X10"
+  },
+  {
+    "brand": "iRulu",
+    "name": "L20",
+    "device": "L20",
+    "model": "L20"
   },
   {
     "brand": "iRulu",
