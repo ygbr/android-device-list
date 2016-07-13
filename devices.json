@@ -5215,6 +5215,12 @@
   },
   {
     "brand": "Blu",
+    "name": "DASH L2",
+    "device": "BLU_DASH_L2",
+    "model": "BLU DASH L2"
+  },
+  {
+    "brand": "Blu",
     "name": "DASH X LTE",
     "device": "DASH_X_LTE",
     "model": "BLU DASH X LTE"
@@ -5236,6 +5242,12 @@
     "name": "Dash X",
     "device": "BLU_DASH_X",
     "model": "BLU DASH X"
+  },
+  {
+    "brand": "Blu",
+    "name": "Diamond M",
+    "device": "BLU_DIAMOND_M",
+    "model": "DIAMOND M"
   },
   {
     "brand": "Blu",
@@ -12418,6 +12430,12 @@
     "name": "HTC Desire 530",
     "device": "htc_a16ul",
     "model": "HTC 2PST1"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 530",
+    "device": "htc_a16ul",
+    "model": "HTC 2PST2"
   },
   {
     "brand": "HTC",
@@ -23143,6 +23161,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xbaG9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-DL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xbaG9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "device": "HWVNS-H",
+    "model": "HUAWEI VNS-TL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-AL10"
@@ -29386,6 +29416,24 @@
     "name": "LG Wine Smart Jazz",
     "device": "cf",
     "model": "LG-F610S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X Skin",
+    "device": "k6b",
+    "model": "LG-F740L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X Style",
+    "device": "k6b",
+    "model": "LGL53BL"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X Style",
+    "device": "k6b",
+    "model": "LGL56VL"
   },
   {
     "brand": "LGE",
@@ -38122,6 +38170,12 @@
     "name": "UNO",
     "device": "UNO_sprout",
     "model": "MyPhone UNO"
+  },
+  {
+    "brand": "Myphone",
+    "name": "myPhone C-Smart IIIS",
+    "device": "C_Smart_IIIS",
+    "model": "C-Smart IIIS"
   },
   {
     "brand": "NAXA",
@@ -54646,6 +54700,12 @@
     "name": "AQUOS ZETA SH-04H",
     "device": "SH-04H",
     "model": "SH-04H"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS mini SH-M03",
+    "device": "SH-M03",
+    "model": "SH-M03"
   },
   {
     "brand": "Sharp",
