@@ -1621,6 +1621,12 @@
   },
   {
     "brand": "AllView",
+    "name": "X3 Soul Style",
+    "device": "X3_Soul_Style",
+    "model": "X3_Soul_Style"
+  },
+  {
+    "brand": "AllView",
     "name": "X3 Soul mini",
     "device": "X3_Soul_mini",
     "model": "X3_Soul_mini"
@@ -2989,6 +2995,12 @@
   },
   {
     "brand": "Ark",
+    "name": "ARK Benefit_M8",
+    "device": "Benefit_M8",
+    "model": "Benefit_M8"
+  },
+  {
+    "brand": "Ark",
     "name": "ARK Impulse P2",
     "device": "Impulse_P2",
     "model": "Impulse_P2"
@@ -3178,6 +3190,12 @@
     "name": "ASUS Transformer Pad TF600T",
     "device": "TF600T",
     "model": "ASUS Transformer Pad TF600T"
+  },
+  {
+    "brand": "Asus",
+    "name": "ASUS ZenPad 3S 10",
+    "device": "P027",
+    "model": "P027"
   },
   {
     "brand": "Asus",
@@ -4231,6 +4249,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad S 8.0 (Z580CA)",
+    "device": "P01M_5",
+    "model": "P01MA"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPadC 7.0 (Z170MG)",
     "device": "P001_2",
     "model": "P001_2"
@@ -5187,6 +5211,12 @@
     "brand": "BlackBerry",
     "name": "PRIV by BlackBerry",
     "device": "venice",
+    "model": "STV100-2"
+  },
+  {
+    "brand": "BlackBerry",
+    "name": "PRIV by BlackBerry",
+    "device": "venice",
     "model": "STV100-3"
   },
   {
@@ -5209,6 +5239,12 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU STUDIO G",
+    "device": "BLU_STUDIO_G",
+    "model": "BLU STUDIO G"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU TOUCHBOOK M7",
     "device": "BLU_TOUCHBOOK_M7",
     "model": "BLU TOUCHBOOK M7"
@@ -5218,6 +5254,12 @@
     "name": "DASH L2",
     "device": "BLU_DASH_L2",
     "model": "BLU DASH L2"
+  },
+  {
+    "brand": "Blu",
+    "name": "DASH M2",
+    "device": "BLU_DASH_M2",
+    "model": "BLU DASH M2"
   },
   {
     "brand": "Blu",
@@ -6292,6 +6334,12 @@
     "name": "Condor T705",
     "device": "TGW710G",
     "model": "TGW710G"
+  },
+  {
+    "brand": "Condor",
+    "name": "Condor TGW102L",
+    "device": "TGW102L",
+    "model": "TGW102L"
   },
   {
     "brand": "Condor",
@@ -11035,6 +11083,12 @@
   },
   {
     "brand": "Gtel",
+    "name": "A728_XP2",
+    "device": "A728_XP2",
+    "model": "A728_XP2"
+  },
+  {
+    "brand": "Gtel",
     "name": "A770_XL7",
     "device": "A770_XL7",
     "model": "A770_XL7"
@@ -11800,6 +11854,24 @@
     "name": "HTC 0PK72",
     "device": "htc_hiaur_ml_tuhl",
     "model": "HTC One M9PLUS"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmec2tuhl",
+    "model": "HTC 10"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmec2tuhl",
+    "model": "HTC 10 Lifestyle"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10",
+    "device": "htc_pmec2tuhl",
+    "model": "HTC 2PS63"
   },
   {
     "brand": "HTC",
@@ -15085,6 +15157,12 @@
   },
   {
     "brand": "Haier",
+    "name": "MXG408",
+    "device": "MXG408",
+    "model": "MXG408"
+  },
+  {
+    "brand": "Haier",
     "name": "NEO10-1",
     "device": "NEO10-1",
     "model": "NEO10-1"
@@ -15925,6 +16003,12 @@
   },
   {
     "brand": "Hisense",
+    "name": "E10",
+    "device": "HS8909QC",
+    "model": "E10"
+  },
+  {
+    "brand": "Hisense",
     "name": "E100T",
     "device": "E100T",
     "model": "Hisense E100T"
@@ -16108,6 +16192,18 @@
     "name": "F270BW",
     "device": "F270BW",
     "model": "F270BW"
+  },
+  {
+    "brand": "Hisense",
+    "name": "F31",
+    "device": "HS8937QC",
+    "model": "Hisense F31"
+  },
+  {
+    "brand": "Hisense",
+    "name": "F31M",
+    "device": "HS8937QC",
+    "model": "Hisense F31M"
   },
   {
     "brand": "Hisense",
@@ -16780,6 +16876,24 @@
     "name": "K220_FHD",
     "device": "mst628",
     "model": "K220_FHD"
+  },
+  {
+    "brand": "Hisense",
+    "name": "L635E_1",
+    "device": "HS8916QC",
+    "model": "Trekker-M1"
+  },
+  {
+    "brand": "Hisense",
+    "name": "L671",
+    "device": "HS8929QC",
+    "model": "HS-L671"
+  },
+  {
+    "brand": "Hisense",
+    "name": "L671",
+    "device": "HS8929QC",
+    "model": "Hisense L671"
   },
   {
     "brand": "Hisense",
@@ -17932,6 +18046,12 @@
     "name": "c20fe-3",
     "device": "HS8929QC",
     "model": "Hisense C20"
+  },
+  {
+    "brand": "Hisense",
+    "name": "l676be",
+    "device": "HS8929QC",
+    "model": "Hisense L676"
   },
   {
     "brand": "Hisense",
@@ -23139,6 +23259,12 @@
     "brand": "Huawei",
     "name": "t1_8p0lte",
     "device": "hwt1821l",
+    "model": "Honor T1 8.0"
+  },
+  {
+    "brand": "Huawei",
+    "name": "t1_8p0lte",
+    "device": "hwt1821l",
     "model": "MediaPad T1 8.0 Pro"
   },
   {
@@ -24133,6 +24259,12 @@
   },
   {
     "brand": "Itel",
+    "name": "it1408",
+    "device": "itel_it1408C",
+    "model": "itel it1408"
+  },
+  {
+    "brand": "Itel",
     "name": "it1409",
     "device": "itel_it1409",
     "model": "itel it1409"
@@ -24153,6 +24285,12 @@
     "brand": "Itel",
     "name": "it1507",
     "device": "itel_it1507",
+    "model": "itel it1507"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1507",
+    "device": "itel_it1507C",
     "model": "itel it1507"
   },
   {
@@ -24181,6 +24319,12 @@
   },
   {
     "brand": "Itel",
+    "name": "it1551",
+    "device": "itel_it1551C",
+    "model": "itel it1551"
+  },
+  {
+    "brand": "Itel",
     "name": "it1556",
     "device": "itel_it1556",
     "model": "itel it1556"
@@ -24190,6 +24334,24 @@
     "name": "it1702",
     "device": "itel_it1702",
     "model": "itel it1702"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel it1355M",
+    "device": "itel_it1355M",
+    "model": "itel it1355M"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel it1508",
+    "device": "itel_it1508C",
+    "model": "itel it1508"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel it1655",
+    "device": "itel_it1655",
+    "model": "itel it1655"
   },
   {
     "brand": "Itworks",
@@ -27313,6 +27475,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
+    "device": "b3",
+    "model": "LG-V520"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Stylo",
     "device": "g4stylusc",
     "model": "LGLS770"
@@ -27952,6 +28120,12 @@
     "name": "LG K10 LTE",
     "device": "m253n",
     "model": "LG-K430"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K3 LTE",
+    "device": "mme0n",
+    "model": "LG-K100"
   },
   {
     "brand": "LGE",
@@ -29464,6 +29638,24 @@
     "name": "LG X cam",
     "device": "k7n",
     "model": "LG-K580Y"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X max",
+    "device": "mk6m",
+    "model": "LG-K240"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "k6p",
+    "model": "LG-K450"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "mk6p",
+    "model": "LG-K220"
   },
   {
     "brand": "LGE",
@@ -34717,6 +34909,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-5018",
+    "device": "HL-L51P",
+    "model": "LS-5018"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-5021",
     "device": "ZTE_T920",
     "model": "LS-5021"
@@ -36166,6 +36364,12 @@
     "name": "HERO X",
     "device": "HERO_X",
     "model": "HERO_X"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Icon",
+    "device": "Mobicel_Icon",
+    "model": "Icon"
   },
   {
     "brand": "Mobicell",
@@ -42073,6 +42277,12 @@
   },
   {
     "brand": "Polaroid",
+    "name": "PRO5584PHE01",
+    "device": "PRO5584PHE01",
+    "model": "PRO5584PHE01"
+  },
+  {
+    "brand": "Polaroid",
     "name": "PTAB1051-PTAB1055",
     "device": "RCT6203W46",
     "model": "PTAB1051_PTAB1055"
@@ -42148,6 +42358,12 @@
     "name": "Polaroid V7",
     "device": "nuclear-M7021",
     "model": "V7"
+  },
+  {
+    "brand": "Polaroid",
+    "name": "SIGMA 5",
+    "device": "SIGMA-5",
+    "model": "SIGMA-5"
   },
   {
     "brand": "Polaroid",
@@ -43864,6 +44080,12 @@
     "name": "P10",
     "device": "P10",
     "model": "P10"
+  },
+  {
+    "brand": "Reeder",
+    "name": "P10S",
+    "device": "P10S",
+    "model": "P10S"
   },
   {
     "brand": "Reeder",
@@ -45628,6 +45850,12 @@
     "name": "Galaxy Beam",
     "device": "GT-I8530",
     "model": "GT-I8530"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy C5",
+    "device": "c5ltechn",
+    "model": "SM-C5000"
   },
   {
     "brand": "Samsung",
@@ -51302,6 +51530,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S7 Edge",
+    "device": "SC-02H",
+    "model": "SC-02H"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S7 Edge",
     "device": "SCV33",
     "model": "SCV33"
   },
@@ -51388,12 +51622,6 @@
     "name": "Galaxy S7 Edge",
     "device": "hero2qltevzw",
     "model": "SM-G935V"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S7 edge",
-    "device": "SC-02H",
-    "model": "SC-02H"
   },
   {
     "brand": "Samsung",
@@ -51934,6 +52162,12 @@
     "name": "Galaxy Tab A 7.0",
     "device": "gtexslte",
     "model": "SM-T287"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 7.0",
+    "device": "gtexslteswa",
+    "model": "SM-T285YD"
   },
   {
     "brand": "Samsung",
@@ -60213,7 +60447,19 @@
     "brand": "TCT (Alcatel)",
     "name": "ALCATEL ONETOUCH PIXI 4 (4)",
     "device": "Pixi4-4",
+    "model": "4034A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
     "model": "4034D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
+    "model": "4034E"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -60226,6 +60472,24 @@
     "name": "ALCATEL ONETOUCH PIXI 4 (4)",
     "device": "Pixi4-4",
     "model": "4034G"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
+    "model": "4034X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
+    "model": "Alcatel_4034F"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL ONETOUCH PIXI 4 (4)",
+    "device": "Pixi4-4",
+    "model": "DIGICEL DL 1 lite"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -61669,6 +61933,18 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "POP 4S",
+    "device": "shine_plus",
+    "model": "5095I"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "POP 4S",
+    "device": "shine_plus",
+    "model": "5095K"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "POP S3",
     "device": "RIO4G_TF",
     "model": "ALCATEL A845L"
@@ -61978,6 +62254,12 @@
     "name": "TCL 302U",
     "device": "Festa5_CU",
     "model": "TCL 302U"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "TCL 562",
+    "device": "shine_plus",
+    "model": "562"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -64273,6 +64555,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo  X7",
+    "device": "PD1602",
+    "model": "vivo X7"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo V1",
     "device": "V1",
     "model": "vivo V1"
@@ -65498,6 +65786,12 @@
   {
     "brand": "Xiaomi",
     "name": "MI MAX",
+    "device": "helium",
+    "model": "MI MAX"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MI MAX",
     "device": "hydrogen",
     "model": "MI MAX"
   },
@@ -65656,6 +65950,12 @@
     "name": "Yureka",
     "device": "YUREKA",
     "model": "YUREKA"
+  },
+  {
+    "brand": "Yes",
+    "name": "M631Y",
+    "device": "M631Y",
+    "model": "M631Y"
   },
   {
     "brand": "Yota Devices",
@@ -69610,6 +69910,12 @@
     "name": "ZTE BLADE V7",
     "device": "P653A10",
     "model": "ZTE BLADE V7"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE V7 LITE",
+    "device": "ZTE_BLADE_V0720",
+    "model": "ZTE BLADE V0720"
   },
   {
     "brand": "ZTE",
