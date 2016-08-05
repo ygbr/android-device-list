@@ -1,6 +1,6 @@
 {
   "name": "android-device-list",
-  "version": "1.0.69",
+  "version": "1.0.70",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "ava && npm run jscs && npm run lint",
-    "jscs": "node_modules/.bin/jscs index.js build.js",
-    "lint": "node_modules/.bin/eslint index.js build.js",
+    "jscs": "jscs index.js build.js",
+    "lint": "eslint index.js build.js",
     "build": "node ./build.js",
     "release": "npm test && npmversion -i patch --nogit-tag --git-push"
   },
@@ -25,10 +25,10 @@
   ],
   "devDependencies": {
     "ava": "^0.15.2",
-    "axios": "^0.12.0",
-    "eslint": "^2.11.1",
+    "axios": "^0.13.1",
+    "eslint": "^3.2.2",
     "iconv-lite": "^0.4.13",
-    "jscs": "^3.0.4",
+    "jscs": "^3.0.7",
     "npmversion": "^1.2.0"
   },
   "repository": {

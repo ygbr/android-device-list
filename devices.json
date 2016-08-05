@@ -637,6 +637,18 @@
   },
   {
     "brand": "Acer",
+    "name": "Iconia One 10",
+    "device": "corona",
+    "model": "B3-A20"
+  },
+  {
+    "brand": "Acer",
+    "name": "Iconia One 10",
+    "device": "corona",
+    "model": "B3-A20B"
+  },
+  {
+    "brand": "Acer",
     "name": "Iconia One 7",
     "device": "G1-725",
     "model": "G1-725"
@@ -4333,6 +4345,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone Go",
+    "device": "ASUS_X009D_2",
+    "model": "ASUS_X009DB"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone Go (ASUS_X00BD)",
     "device": "ASUS_X00BD_1",
     "model": "ASUS_X00BD"
@@ -5386,6 +5404,12 @@
     "name": "Energy X LTE",
     "device": "BLU_Energy_X_LTE",
     "model": "Energy X LTE"
+  },
+  {
+    "brand": "Blu",
+    "name": "GRAND 5.5 HD",
+    "device": "BLU_GRAND_5_5_HD",
+    "model": "BLU GRAND 5.5 HD"
   },
   {
     "brand": "Blu",
@@ -15948,6 +15972,12 @@
     "model": "LMC-1000"
   },
   {
+    "brand": "Helio",
+    "name": "S2",
+    "device": "WBL7519SY",
+    "model": "S2"
+  },
+  {
     "brand": "HighScreen",
     "name": "Bay",
     "device": "Bay",
@@ -21753,6 +21783,12 @@
     "brand": "Huawei",
     "name": "HUAWEI GT3",
     "device": "HWNMO-H",
+    "model": "HUAWEI NMO-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GT3",
+    "device": "HWNMO-H",
     "model": "HUAWEI NMO-L23"
   },
   {
@@ -24934,6 +24970,12 @@
     "name": "T3000",
     "device": "P7M",
     "model": "T3000"
+  },
+  {
+    "brand": "Inhon",
+    "name": "L35",
+    "device": "L35",
+    "model": "L35"
   },
   {
     "brand": "Inhon",
@@ -32713,6 +32755,12 @@
   },
   {
     "brand": "LeTV",
+    "name": "Le 2",
+    "device": "le_s2_ww",
+    "model": "Le X527"
+  },
+  {
+    "brand": "LeTV",
     "name": "Le Max",
     "device": "max1_in",
     "model": "Le Max"
@@ -34363,6 +34411,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A6600",
+    "device": "A6600d40",
+    "model": "Lenovo A6600d40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A6600 Plus",
+    "device": "A6600a40",
+    "model": "Lenovo A6600a40"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A680",
     "device": "A680",
     "model": "Lenovo A680"
@@ -34630,6 +34690,12 @@
     "name": "Lenovo B8080-HV",
     "device": "B8080",
     "model": "Lenovo B8080-HV"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo K10e70",
+    "device": "K10e70",
+    "model": "Lenovo K10e70"
   },
   {
     "brand": "Lenovo",
@@ -34915,6 +34981,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo PB2",
+    "device": "PB2",
+    "model": "Lenovo PB2-650M"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo S1",
     "device": "S1a40",
     "model": "Lenovo S1a40"
@@ -35131,6 +35203,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TAB 10",
+    "device": "TB-X103F",
+    "model": "Lenovo TB-X103F"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TAB 2 A10",
     "device": "A10-70F",
     "model": "Lenovo TAB 2 A10-70F"
@@ -35236,6 +35314,12 @@
     "name": "Lenovo TAB S8-50LC",
     "device": "S8-50LC",
     "model": "Lenovo TAB S8-50LC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB3 7 Plus",
+    "device": "TB-7703F",
+    "model": "Lenovo TB-7703F"
   },
   {
     "brand": "Lenovo",
@@ -35566,6 +35650,12 @@
     "name": "Lenvo S960",
     "device": "S960_ROW",
     "model": "Lenovo S960"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Moto E3",
+    "device": "taidos_row",
+    "model": "XT1700"
   },
   {
     "brand": "Lenovo",
@@ -36529,6 +36619,12 @@
   },
   {
     "brand": "Medion",
+    "name": "LIFETAB_S1036X",
+    "device": "lifetab_s1036x",
+    "model": "LIFETAB_S1036X"
+  },
+  {
+    "brand": "Medion",
     "name": "Lifetab P9514",
     "device": "LIFETAB_P9514",
     "model": "LIFETAB_P9514"
@@ -36544,6 +36640,12 @@
     "name": "MEDION E5004",
     "device": "E5004",
     "model": "MEDION E5004"
+  },
+  {
+    "brand": "Medion",
+    "name": "P1032X",
+    "device": "P1032X",
+    "model": "P1032X"
   },
   {
     "brand": "Medion",
@@ -42018,6 +42120,12 @@
     "model": "T72HM3G"
   },
   {
+    "brand": "Oysters",
+    "name": "T72HMs 3G",
+    "device": "T72HM3G",
+    "model": "T72HMs_3G"
+  },
+  {
     "brand": "PC Smart",
     "name": "PCSGOB10SF-A",
     "device": "PCSGOB10SF-A",
@@ -43426,6 +43534,12 @@
     "name": "Philips W8510",
     "device": "Topaz",
     "model": "Philips W8510"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips X818",
+    "device": "X818_RU",
+    "model": "Philips X818"
   },
   {
     "brand": "Philips",
@@ -49976,6 +50090,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Note Edge",
+    "device": "SC-01G",
+    "model": "SC-01G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note Edge",
     "device": "SCL24",
     "model": "SCL24"
   },
@@ -50272,6 +50392,12 @@
     "name": "Galaxy Note2",
     "device": "t0ltevzw",
     "model": "SCH-I605"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note3",
+    "device": "SC-01F",
+    "model": "SC-01F"
   },
   {
     "brand": "Samsung",
@@ -50734,6 +50860,96 @@
     "name": "Galaxy Note5",
     "device": "nobleltevzw",
     "model": "SM-N920V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "gracelte",
+    "model": "SM-N930F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "gracelte",
+    "model": "SM-N930X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceltektt",
+    "model": "SM-N930K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceltelgt",
+    "model": "SM-N930L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "gracelteskt",
+    "model": "SM-N930S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqlteacg",
+    "model": "SM-N930R7"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqlteatt",
+    "model": "SAMSUNG-SM-N930A"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltebmc",
+    "model": "SM-N930W8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltechn",
+    "model": "SM-N9300"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltelra",
+    "model": "SM-N930R6"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltespr",
+    "model": "SM-N930P"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltetfnvzw",
+    "model": "SM-N930VL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltetmo",
+    "model": "SM-N930T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqlteusc",
+    "model": "SM-N930R4"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqltevzw",
+    "model": "SM-N930V"
   },
   {
     "brand": "Samsung",
@@ -52400,6 +52616,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S5",
+    "device": "SC-04F",
+    "model": "SC-04F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S5",
     "device": "SCL23",
     "model": "SCL23"
   },
@@ -52574,6 +52796,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S5 Active",
+    "device": "SC-02G",
+    "model": "SC-02G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S5 Active",
     "device": "kactiveltekx",
     "model": "SM-G870F0"
   },
@@ -52690,6 +52918,12 @@
     "name": "Galaxy S5 mini LTE",
     "device": "kminilte",
     "model": "SM-G800Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S6",
+    "device": "SC-05G",
+    "model": "SC-05G"
   },
   {
     "brand": "Samsung",
@@ -52822,6 +53056,12 @@
     "name": "Galaxy S6 Edge",
     "device": "404SC",
     "model": "404SC"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S6 Edge",
+    "device": "SC-04G",
+    "model": "SC-04G"
   },
   {
     "brand": "Samsung",
@@ -55837,42 +56077,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "SC-01F",
-    "device": "SC-01F",
-    "model": "SC-01F"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-01G",
-    "device": "SC-01G",
-    "model": "SC-01G"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-02G",
-    "device": "SC-02G",
-    "model": "SC-02G"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-04F",
-    "device": "SC-04F",
-    "model": "SC-04F"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-04G",
-    "device": "SC-04G",
-    "model": "SC-04G"
-  },
-  {
-    "brand": "Samsung",
-    "name": "SC-05G",
-    "device": "SC-05G",
-    "model": "SC-05G"
-  },
-  {
-    "brand": "Samsung",
     "name": "SM-G9198",
     "device": "philippeltechn",
     "model": "SM-G9198"
@@ -56854,6 +57058,24 @@
     "name": "LCD-V3A",
     "device": "v3a",
     "model": "LCD-V3A"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LCD-xxBEL6A",
+    "device": "lcd_xxbel6a",
+    "model": "LCD-xxBEL6A"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LCD-xxBEL8A",
+    "device": "lcd_xxbel8a",
+    "model": "LCD-xxBEL8A"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LCD-xxCAE5A",
+    "device": "lcd_xxcae5a",
+    "model": "LCD-xxCAE5A"
   },
   {
     "brand": "Sharp",
@@ -59503,6 +59725,12 @@
   },
   {
     "brand": "Sourcing Creation",
+    "name": "Wooze I 5",
+    "device": "Wooze_I5",
+    "model": "Wooze_I5"
+  },
+  {
+    "brand": "Sourcing Creation",
     "name": "WoozeI45",
     "device": "WoozeI45",
     "model": "WoozeI45"
@@ -60481,6 +60709,48 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "5051",
+    "device": "POP45",
+    "model": "5051"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051A",
+    "device": "POP45",
+    "model": "5051A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051D",
+    "device": "POP45",
+    "model": "5051D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051J",
+    "device": "POP45",
+    "model": "5051J"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051M",
+    "device": "POP45",
+    "model": "5051M"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051T",
+    "device": "POP45",
+    "model": "5051T"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5051X",
+    "device": "POP45",
+    "model": "5051X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "5054A",
     "device": "Pop355",
     "model": "5054A"
@@ -60514,6 +60784,48 @@
     "name": "5054X",
     "device": "Pop355",
     "model": "5054X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056",
+    "device": "POP455C",
+    "model": "5056"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056A",
+    "device": "POP455C",
+    "model": "5056A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056D",
+    "device": "POP455C",
+    "model": "5056D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056E",
+    "device": "POP455C",
+    "model": "5056E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056E",
+    "device": "POP455C",
+    "model": "5056M"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056N",
+    "device": "POP455C",
+    "model": "5056N"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056X",
+    "device": "POP455C",
+    "model": "5056X"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -62596,6 +62908,12 @@
     "name": "DL900",
     "device": "YARISXL",
     "model": "DL900"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "DLGICELDL1 plus",
+    "device": "POP455C",
+    "model": "DIGICELDL1plus"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -67129,6 +67447,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "FREDDY",
+    "device": "V3903BN",
+    "model": "FREDDY"
+  },
+  {
+    "brand": "Wiko",
     "name": "GETAWAY",
     "device": "s8812",
     "model": "GETAWAY"
@@ -67426,6 +67750,12 @@
     "name": "U FEEL",
     "device": "P6609BCD",
     "model": "U FEEL"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL FAB",
+    "device": "V3991AN",
+    "model": "U FEEL FAB"
   },
   {
     "brand": "Wiko",
