@@ -5371,6 +5371,12 @@
   },
   {
     "brand": "Blu",
+    "name": "DASH X2",
+    "device": "BLU_DASH_X2",
+    "model": "BLU DASH X2"
+  },
+  {
+    "brand": "Blu",
     "name": "Dash 4.5",
     "device": "D730",
     "model": "Dash 4.5"
@@ -25207,6 +25213,12 @@
   },
   {
     "brand": "Intex",
+    "name": "Aqua Ring",
+    "device": "Aqua_Ring",
+    "model": "Aqua_Ring"
+  },
+  {
+    "brand": "Intex",
     "name": "Intex Aqua Power 4G",
     "device": "Intex_Aqua_Power_4G",
     "model": "Aqua Power 4G"
@@ -41407,6 +41419,18 @@
   },
   {
     "brand": "Oppo",
+    "name": "CPH1605",
+    "device": "CPH1605",
+    "model": "OPPO CPH1605"
+  },
+  {
+    "brand": "Oppo",
+    "name": "CPH1605fw",
+    "device": "CPH1605",
+    "model": "CPH1605fw"
+  },
+  {
+    "brand": "Oppo",
     "name": "F1f",
     "device": "F1f",
     "model": "F1f"
@@ -56389,6 +56413,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS M1",
+    "device": "MS1",
+    "model": "FS8001"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS P1",
     "device": "P1X",
     "model": "P1X"
@@ -60712,6 +60742,12 @@
     "name": "4024X",
     "device": "PLAY_P1",
     "model": "4024X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5023F",
+    "device": "Pixi4PlusPower",
+    "model": "5023F"
   },
   {
     "brand": "TCT (Alcatel)",
