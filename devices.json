@@ -1423,6 +1423,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P8 eMagic",
+    "device": "P8_eMagic",
+    "model": "P8_eMagic"
+  },
+  {
+    "brand": "AllView",
     "name": "V1 Viper E",
     "device": "V1_Viper_E",
     "model": "V1_Viper_E"
@@ -7435,8 +7441,20 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Coolpad Y83-I00",
+    "device": "CPY83_I00",
+    "model": "Coolpad Y83-I00"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolpad Y83_S00",
     "device": "CPY83_S00",
+    "model": "Coolpad E502"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad Y83_U00",
+    "device": "CPY83_U00",
     "model": "Coolpad E502"
   },
   {
@@ -7474,6 +7492,12 @@
     "name": "Coolpad i1-01",
     "device": "i1-01",
     "model": "ivvi i1-01"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad i3-M1",
+    "device": "i3-M1",
+    "model": "ivvi i3-M1"
   },
   {
     "brand": "Coolpad",
@@ -22417,6 +22441,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "Honor Box Pro",
+    "device": "hwHiTV-M1",
+    "model": "HiTV-M1"
+  },
+  {
+    "brand": "Huawei",
     "name": "Honor Box voice",
     "device": "HWM311",
     "model": "M311"
@@ -25210,6 +25240,12 @@
     "name": "CN51",
     "device": "CN51_QN0",
     "model": "CN51 QN0"
+  },
+  {
+    "brand": "Intex",
+    "name": "Aqua Aura 2GB",
+    "device": "Aqua_Aura_2GB",
+    "model": "Aqua Aura 2GB"
   },
   {
     "brand": "Intex",
@@ -32527,6 +32563,12 @@
   },
   {
     "brand": "Lava",
+    "name": "A68",
+    "device": "A68",
+    "model": "A68"
+  },
+  {
+    "brand": "Lava",
     "name": "A71",
     "device": "A71",
     "model": "A71"
@@ -32593,6 +32635,12 @@
   },
   {
     "brand": "Lava",
+    "name": "Lava X17",
+    "device": "X17",
+    "model": "X17"
+  },
+  {
+    "brand": "Lava",
     "name": "Lava X38",
     "device": "X38",
     "model": "X38"
@@ -32602,6 +32650,12 @@
     "name": "Lava X38 2GB",
     "device": "X382GB",
     "model": "X38 2GB"
+  },
+  {
+    "brand": "Lava",
+    "name": "Lava X50",
+    "device": "X50",
+    "model": "X50"
   },
   {
     "brand": "Lava",
@@ -36565,6 +36619,12 @@
   },
   {
     "brand": "Medion",
+    "name": "E731x",
+    "device": "LIFETAB_E731X",
+    "model": "LIFETAB_E731X"
+  },
+  {
+    "brand": "Medion",
     "name": "LIFETAB E10316",
     "device": "LIFETAB_E10316",
     "model": "BOSCH_E10316"
@@ -36586,6 +36646,12 @@
     "name": "LIFETAB E10320",
     "device": "LIFETAB_E10320",
     "model": "MICROSTAR_E10319"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB E723X",
+    "device": "LIFETAB_E723X",
+    "model": "LIFETAB_E723X"
   },
   {
     "brand": "Medion",
@@ -36613,15 +36679,51 @@
   },
   {
     "brand": "Medion",
+    "name": "LIFETAB E732X",
+    "device": "LIFETAB_E733X",
+    "model": "LIFETAB_E733X"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB E732X",
+    "device": "LIFETAB_E733X",
+    "model": "LIFETAB_S733X"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB P1034X",
+    "device": "lifetab_p1034x",
+    "model": "LIFETAB_P1034X"
+  },
+  {
+    "brand": "Medion",
     "name": "LIFETAB P733x",
     "device": "lifetab_p733x",
     "model": "LIFETAB_P733X"
   },
   {
     "brand": "Medion",
+    "name": "LIFETAB P831X",
+    "device": "lifetab_p831x",
+    "model": "LIFETAB_P831X"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB P831X",
+    "device": "lifetab_p831x",
+    "model": "LIFETAB_P831X.2"
+  },
+  {
+    "brand": "Medion",
     "name": "LIFETAB P891X",
     "device": "lifetab_p891x",
     "model": "LIFETAB_P891X"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB S1032X",
+    "device": "S1032X",
+    "model": "S1032X"
   },
   {
     "brand": "Medion",
@@ -36640,6 +36742,12 @@
     "name": "LIFETAB S785X",
     "device": "LIFETAB_S785X",
     "model": "LIFETAB_S785X"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB S786x",
+    "device": "LIFETAB_S786X",
+    "model": "LIFETAB_S786X"
   },
   {
     "brand": "Medion",
@@ -36673,9 +36781,33 @@
   },
   {
     "brand": "Medion",
+    "name": "Media Base P740X",
+    "device": "P740X",
+    "model": "P740X"
+  },
+  {
+    "brand": "Medion",
     "name": "P1032X",
     "device": "P1032X",
     "model": "P1032X"
+  },
+  {
+    "brand": "Medion",
+    "name": "P1035X",
+    "device": "P1035X",
+    "model": "P1035X"
+  },
+  {
+    "brand": "Medion",
+    "name": "P1050X",
+    "device": "P1050X",
+    "model": "P1040X"
+  },
+  {
+    "brand": "Medion",
+    "name": "P1050X",
+    "device": "P1050X",
+    "model": "P1050X"
   },
   {
     "brand": "Medion",
@@ -36703,6 +36835,18 @@
   },
   {
     "brand": "Medion",
+    "name": "P850X",
+    "device": "P850X",
+    "model": "P850X"
+  },
+  {
+    "brand": "Medion",
+    "name": "S1035X",
+    "device": "S1035X",
+    "model": "S1035X"
+  },
+  {
+    "brand": "Medion",
     "name": "S5004",
     "device": "S5004",
     "model": "MEDION S5004"
@@ -36712,6 +36856,12 @@
     "name": "S5504",
     "device": "B5531",
     "model": "B5531"
+  },
+  {
+    "brand": "Medion",
+    "name": "S7322",
+    "device": "LIFETAB_S732X",
+    "model": "LIFETAB_S732X"
   },
   {
     "brand": "Medion",
@@ -57067,6 +57217,30 @@
   },
   {
     "brand": "Sharp",
+    "name": "LC-U35T",
+    "device": "lc_u35t",
+    "model": "LC-U35T"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LC-XU35T",
+    "device": "lc_xu35t",
+    "model": "LC-XU35T"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LC-XU930X_830X",
+    "device": "lc_xu930x_830x",
+    "model": "LC-XU930X_830X"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LC-xxUE630X",
+    "device": "lc_ue630x",
+    "model": "LC-UE630X"
+  },
+  {
+    "brand": "Sharp",
     "name": "LCD-LX460A",
     "device": "lx460a",
     "model": "LCD-LX460A"
@@ -59889,6 +60063,12 @@
     "brand": "Spectralink",
     "name": "PIVOT 8741/8753",
     "device": "thor_6dq",
+    "model": "8742"
+  },
+  {
+    "brand": "Spectralink",
+    "name": "PIVOT 8741/8753",
+    "device": "thor_6dq",
     "model": "8753"
   },
   {
@@ -59932,6 +60112,12 @@
     "name": "Stellar Mi-506",
     "device": "SpiceMi506",
     "model": "Spice Mi-506"
+  },
+  {
+    "brand": "Spice",
+    "name": "Victor5",
+    "device": "Spice",
+    "model": "Xlife-Victor5"
   },
   {
     "brand": "Spice",
@@ -61288,6 +61474,24 @@
     "name": "9010X",
     "device": "Pixi3-10_3G",
     "model": "9010X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "9015B",
+    "device": "Pixi4-7_4G_Bell",
+    "model": "9015B"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "9015B",
+    "device": "Pixi4-7_4G_Bell",
+    "model": "ALCATEL ONETOUCH POP 7 LTE"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "9015Q",
+    "device": "PIXI4-7_4G",
+    "model": "9015Q"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -62992,6 +63196,12 @@
     "name": "EVO7",
     "device": "EVO7",
     "model": "starTIM tab 7"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "FL03",
+    "device": "FLASH3",
+    "model": "FL03"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -66334,6 +66544,12 @@
     "name": "Farabi",
     "device": "frb3g",
     "model": "Farabi"
+  },
+  {
+    "brand": "Vestel",
+    "name": "S7252",
+    "device": "BCM7252S",
+    "model": "S7252"
   },
   {
     "brand": "Vestel",
