@@ -4710,6 +4710,12 @@
     "model": "A40C"
   },
   {
+    "brand": "Azumi",
+    "name": "azumi_A50LT",
+    "device": "A50LT",
+    "model": "A50LT"
+  },
+  {
     "brand": "BKAV",
     "name": "Bphone",
     "device": "Bphone",
@@ -18716,6 +18722,12 @@
   {
     "brand": "Hisense",
     "name": "VIDAA_TV",
+    "device": "MSD6A828",
+    "model": "VIDAA_TV"
+  },
+  {
+    "brand": "Hisense",
+    "name": "VIDAA_TV",
     "device": "mt5861",
     "model": "VIDAA_TV"
   },
@@ -22093,6 +22105,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI WATCH",
+    "device": "sturgeon",
+    "model": "HUAWEI-WATCH"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI Y3II",
     "device": "HWLUA-L6735",
     "model": "HUAWEI LUA-L01"
@@ -24490,6 +24508,12 @@
     "name": "i4901",
     "device": "i4901",
     "model": "i4901"
+  },
+  {
+    "brand": "IMO(In My Opinion)",
+    "name": "IMO Q",
+    "device": "IMO_Q",
+    "model": "IMO Q"
   },
   {
     "brand": "INQ Mobile",
@@ -41503,6 +41527,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "A37fw-International",
+    "device": "A37fs",
+    "model": "A37f"
+  },
+  {
+    "brand": "Oppo",
     "name": "A37t",
     "device": "A37",
     "model": "OPPO A37t"
@@ -41686,6 +41716,12 @@
     "name": "OPPO A37",
     "device": "A37",
     "model": "OPPO A37"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A37fw",
+    "device": "A37fs",
+    "model": "A37fw"
   },
   {
     "brand": "Oppo",
@@ -42208,6 +42244,12 @@
     "name": "H-27",
     "device": "H-27",
     "model": "H-27"
+  },
+  {
+    "brand": "Orange",
+    "name": "ALCATEL PIXI 4 (5)",
+    "device": "PIXI4_5_4G",
+    "model": "Orange-Rise51"
   },
   {
     "brand": "Orange",
@@ -49135,6 +49177,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J1",
+    "device": "j1xqltetfnvzw",
+    "model": "SM-S120VL"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J1 Ace",
     "device": "j1acelte",
     "model": "SM-J110F"
@@ -49324,6 +49372,12 @@
     "name": "Galaxy J3(2016)",
     "device": "j3ltekx",
     "model": "SM-J320N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3(2016)",
+    "device": "j3ltetfnvzw",
+    "model": "SM-S320VL"
   },
   {
     "brand": "Samsung",
@@ -51166,6 +51220,12 @@
     "name": "Galaxy On5",
     "device": "on5ltemtr",
     "model": "SM-G550T1"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On5",
+    "device": "on5ltetfntmo",
+    "model": "SM-S550TL"
   },
   {
     "brand": "Samsung",
@@ -59377,12 +59437,6 @@
   },
   {
     "brand": "Sony Ericsson",
-    "name": "Xperia A",
-    "device": "SO-04E",
-    "model": "SO-04E"
-  },
-  {
-    "brand": "Sony Ericsson",
     "name": "Xperia AX",
     "device": "SO-01E",
     "model": "SO-01E"
@@ -62913,6 +62967,12 @@
     "brand": "TCT (Alcatel)",
     "name": "ALCATEL PIXI 4 (5)",
     "device": "PIXI4_5_4G",
+    "model": "5045Y"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ALCATEL PIXI 4 (5)",
+    "device": "PIXI4_5_4G",
     "model": "DIGICELDL1"
   },
   {
@@ -64474,6 +64534,12 @@
     "name": "SMART 4G 5.5 Enterprise",
     "device": "M812",
     "model": "SMART 4G 5.5 Enterprise"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "SOLO Aspire M",
+    "device": "PIXI3-5",
+    "model": "SOLO Aspire M"
   },
   {
     "brand": "TCT (Alcatel)",
