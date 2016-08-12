@@ -4747,8 +4747,20 @@
   },
   {
     "brand": "BMobile",
+    "name": "AX1010",
+    "device": "Bmobile_AX1010",
+    "model": "Bmobile AX1010"
+  },
+  {
+    "brand": "BMobile",
     "name": "AX1020",
     "device": "Bmobile",
+    "model": "AX1020"
+  },
+  {
+    "brand": "BMobile",
+    "name": "AX1020",
+    "device": "Bmobile_AX1020",
     "model": "AX1020"
   },
   {
@@ -4759,8 +4771,20 @@
   },
   {
     "brand": "BMobile",
+    "name": "AX1035",
+    "device": "Bmobile_AX1035",
+    "model": "AX1035"
+  },
+  {
+    "brand": "BMobile",
     "name": "AX1055",
     "device": "Bmobile",
+    "model": "AX1055"
+  },
+  {
+    "brand": "BMobile",
+    "name": "AX1055",
+    "device": "Bmobile_AX1055",
     "model": "AX1055"
   },
   {
@@ -4771,9 +4795,21 @@
   },
   {
     "brand": "BMobile",
+    "name": "AX1065",
+    "device": "Bmobile_AX1065",
+    "model": "AX1065"
+  },
+  {
+    "brand": "BMobile",
     "name": "AX660",
     "device": "Bmobile",
     "model": "AX660"
+  },
+  {
+    "brand": "BMobile",
+    "name": "AX685",
+    "device": "Bmobile_AX685",
+    "model": "AX685"
   },
   {
     "brand": "BMobile",
@@ -9493,9 +9529,21 @@
   },
   {
     "brand": "Fly",
+    "name": "Fly Stratus",
+    "device": "Stratus_6",
+    "model": "FS407"
+  },
+  {
+    "brand": "Fly",
     "name": "Fly Stratus 1",
     "device": "Stratus1",
     "model": "FS401"
+  },
+  {
+    "brand": "Fly",
+    "name": "Fly Stratus 5",
+    "device": "Stratus_5",
+    "model": "FS406"
   },
   {
     "brand": "Fly",
@@ -24637,6 +24685,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 3",
+    "device": "INFINIX-X554",
+    "model": "Infinix-X554"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix HOT 3 LTE",
     "device": "INFINIX-X553",
     "model": "Infinix HOT 3 LTE"
@@ -30759,6 +30813,18 @@
     "brand": "LGE",
     "name": "LG X power",
     "device": "mk6p",
+    "model": "LG-F750K"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "mk6p",
+    "model": "LG-K220"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "mk6pn",
     "model": "LG-K220"
   },
   {
@@ -34348,6 +34414,12 @@
     "name": "Lenovo A3860",
     "device": "A3580",
     "model": "Lenovo A3580"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A3860",
+    "device": "A3860",
+    "model": "Lenovo A3860"
   },
   {
     "brand": "Lenovo",
@@ -59974,6 +60046,12 @@
     "name": "Connect551",
     "device": "Connect551",
     "model": "Connect551"
+  },
+  {
+    "brand": "Sourcing Creation",
+    "name": "Key'TAB 1001",
+    "device": "MB979T9",
+    "model": "Smarttab_9701"
   },
   {
     "brand": "Sourcing Creation",
