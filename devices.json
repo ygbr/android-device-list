@@ -5671,6 +5671,12 @@
   },
   {
     "brand": "Blu",
+    "name": "VIVO 5R",
+    "device": "BLU_Vivo_5R",
+    "model": "Vivo 5R"
+  },
+  {
+    "brand": "Blu",
     "name": "VIVO XL",
     "device": "BLU_VIVO_XL",
     "model": "VIVO XL"
@@ -15457,6 +15463,18 @@
   },
   {
     "brand": "HTC",
+    "name": "hTC Desire 530",
+    "device": "htc_a16wl",
+    "model": "HTCD160LVW"
+  },
+  {
+    "brand": "HTC",
+    "name": "hTC Desire 530",
+    "device": "htc_a16wl",
+    "model": "HTCD160LVWPP"
+  },
+  {
+    "brand": "HTC",
     "name": "hTC Desire 601",
     "device": "zara",
     "model": "HTC Desire 601"
@@ -16912,6 +16930,12 @@
     "name": "EG981",
     "device": "EG981",
     "model": "HS-EG981"
+  },
+  {
+    "brand": "Hisense",
+    "name": "F20",
+    "device": "HS8909QC",
+    "model": "F20"
   },
   {
     "brand": "Hisense",
@@ -32779,6 +32803,12 @@
   },
   {
     "brand": "Lava",
+    "name": "V2s",
+    "device": "V2s",
+    "model": "V2s M"
+  },
+  {
+    "brand": "Lava",
     "name": "V5",
     "device": "V5",
     "model": "LAVA V5"
@@ -40716,13 +40746,13 @@
     "model": "ForwardRuby"
   },
   {
-    "brand": "NVidia",
+    "brand": "NVIDIA",
     "name": "SHIELD Android TV",
     "device": "foster",
     "model": "SHIELD Android TV"
   },
   {
-    "brand": "NVidia",
+    "brand": "NVIDIA",
     "name": "SHIELD Android TV",
     "device": "foster",
     "model": "SHIELD Console"
@@ -75244,6 +75274,30 @@
     "name": "tmn smart a7",
     "device": "sailboat",
     "model": "tmn smart a7"
+  },
+  {
+    "brand": "Zebra",
+    "name": "ET5X",
+    "device": "ET50E",
+    "model": "ET5X"
+  },
+  {
+    "brand": "Zebra",
+    "name": "ET5X",
+    "device": "ET50T",
+    "model": "ET5X"
+  },
+  {
+    "brand": "Zebra",
+    "name": "ET5X",
+    "device": "ET55E",
+    "model": "ET5X"
+  },
+  {
+    "brand": "Zebra",
+    "name": "ET5X",
+    "device": "ET55T",
+    "model": "ET5X"
   },
   {
     "brand": "Zebra",
