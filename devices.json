@@ -35197,6 +35197,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo PB2-650Y",
+    "device": "PB2",
+    "model": "Lenovo PB2-650Y"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo PHAB 2 Plus",
+    "device": "PB2-670Y",
+    "model": "Lenovo PB2-670Y"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo S1",
     "device": "S1a40",
     "model": "Lenovo S1a40"
