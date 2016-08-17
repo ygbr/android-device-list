@@ -4333,6 +4333,18 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone 3 Deluxe (ZS570KL)",
+    "device": "Z016",
+    "model": "ASUS_Z016D"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone 3 Laser",
+    "device": "Z01B_1",
+    "model": "ASUS_Z01BD"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone GO",
     "device": "ASUS_X013D_1",
     "model": "ASUS_X013DA"
@@ -4474,6 +4486,12 @@
     "name": "ZOOTI PAD ZT-701",
     "device": "ZT-701",
     "model": "ZT-701"
+  },
+  {
+    "brand": "Auchan",
+    "name": "AUCHAN",
+    "device": "Q7T9INK",
+    "model": "Q7T9INK"
   },
   {
     "brand": "Auchan",
@@ -24355,6 +24373,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+    "device": "HWNCE-L6750",
+    "model": "NCE-AL10"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-AL10"
@@ -40075,9 +40099,21 @@
   },
   {
     "brand": "Multilaser",
+    "name": "MS45S",
+    "device": "MS45S",
+    "model": "MS45S"
+  },
+  {
+    "brand": "Multilaser",
     "name": "MS50",
     "device": "MS50",
     "model": "MS50"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "MS50_4G",
+    "device": "MS50_4G",
+    "model": "MS50_4G"
   },
   {
     "brand": "Multilaser",
@@ -44311,6 +44347,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "AB10PGN",
+    "device": "AB10PGN",
+    "model": "AB10PGN"
+  },
+  {
+    "brand": "Positivo",
     "name": "First",
     "device": "S410",
     "model": "First"
@@ -44506,6 +44548,12 @@
     "name": "Positivo Twist",
     "device": "S520",
     "model": "Positivo Twist S"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Positivo Twist 4G",
+    "device": "S520_4G",
+    "model": "Positivo Twist 4G"
   },
   {
     "brand": "Positivo",
@@ -54374,6 +54422,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab A 10.1",
+    "device": "gtaxlwifi",
+    "model": "SM-T580X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
     "device": "gtaxlwifichn",
     "model": "SM-T580"
   },
@@ -60127,6 +60181,12 @@
   },
   {
     "brand": "Sourcing Creation",
+    "name": "Wooze I 5.5 Gris",
+    "device": "Wooze_I55",
+    "model": "Wooze_I55"
+  },
+  {
+    "brand": "Sourcing Creation",
     "name": "WoozeI45",
     "device": "WoozeI45",
     "model": "WoozeI45"
@@ -64059,7 +64119,19 @@
     "brand": "TCT (Alcatel)",
     "name": "ONETOUCH PIXI 3 (8)",
     "device": "pixi384g",
+    "model": "9022S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ONETOUCH PIXI 3 (8)",
+    "device": "pixi384g",
     "model": "9022X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "ONETOUCH PIXI 3 (8)",
+    "device": "pixi384g",
+    "model": "Alcatel9022S"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -64816,6 +64888,12 @@
     "name": "TCL 562",
     "device": "shine_plus",
     "model": "562"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "TCL 580",
+    "device": "idol4_mini",
+    "model": "TCL 580"
   },
   {
     "brand": "TCT (Alcatel)",
