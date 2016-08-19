@@ -4950,6 +4950,12 @@
     "model": "Vexia Zippers"
   },
   {
+    "brand": "Bang & Olufsen",
+    "name": "BeoVision 14",
+    "device": "bno_MT5593Uplus_EU",
+    "model": "QM153E"
+  },
+  {
     "brand": "Barnes and Noble",
     "name": "NOOK\\xc2\\xae HD",
     "device": "hummingbird",
@@ -5593,9 +5599,21 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO G HD LTE",
+    "device": "Studio_G_HD_LTE",
+    "model": "Studio G HD LTE"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO G PLUS",
     "device": "Studio_G_Plus",
     "model": "BLU STUDIO G PLUS"
+  },
+  {
+    "brand": "Blu",
+    "name": "STUDIO G2",
+    "device": "BLU_STUDIO_G2",
+    "model": "BLU STUDIO G2"
   },
   {
     "brand": "Blu",
@@ -5758,6 +5776,12 @@
     "name": "StrikaPlay",
     "device": "StrikaPlay",
     "model": "StrikaPlay"
+  },
+  {
+    "brand": "Boost",
+    "name": "X4503",
+    "device": "X4503",
+    "model": "X4503"
   },
   {
     "brand": "Boost",
@@ -20863,36 +20887,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "ALE-L02",
-    "device": "hwALE-H",
-    "model": "503HW"
-  },
-  {
-    "brand": "Huawei",
-    "name": "ALE-L02",
-    "device": "hwALE-H",
-    "model": "ALE-L02"
-  },
-  {
-    "brand": "Huawei",
-    "name": "ALE-L04",
-    "device": "hwALE-Q",
-    "model": "HUAWEI ALE-L04"
-  },
-  {
-    "brand": "Huawei",
-    "name": "ALE-L23",
-    "device": "hwALE-H",
-    "model": "ALE-L23"
-  },
-  {
-    "brand": "Huawei",
-    "name": "ALE-L23",
-    "device": "hwALE-H",
-    "model": "Autana LTE"
-  },
-  {
-    "brand": "Huawei",
     "name": "ATH-TL00",
     "device": "HWATH",
     "model": "ATH-TL00"
@@ -22855,18 +22849,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "Mate 8 Lite",
-    "device": "hwALE-H",
-    "model": "ALE-L21"
-  },
-  {
-    "brand": "Huawei",
-    "name": "Mate 8 Lite",
-    "device": "hwALE-Q",
-    "model": "HUAWEI ALE-CL00"
-  },
-  {
-    "brand": "Huawei",
     "name": "Mate S",
     "device": "HWCRR",
     "model": "HUAWEI CRR-CL00"
@@ -23098,6 +23080,48 @@
     "name": "P8",
     "device": "HWGRA",
     "model": "HUAWEI GRA-UL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-H",
+    "model": "503HW"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-H",
+    "model": "ALE-L02"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-H",
+    "model": "ALE-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-H",
+    "model": "ALE-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-H",
+    "model": "Autana LTE"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-Q",
+    "model": "HUAWEI ALE-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P8 Lite",
+    "device": "hwALE-Q",
+    "model": "HUAWEI ALE-L04"
   },
   {
     "brand": "Huawei",
@@ -24703,6 +24727,18 @@
   },
   {
     "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521-3G",
+    "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521-Pro",
+    "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
     "name": "INFINIX-X551",
     "device": "INFINIX-X551",
     "model": "INFINIX-X551"
@@ -24718,6 +24754,18 @@
     "name": "INFINIX-X600",
     "device": "INFINIX-X600",
     "model": "INFINIX-X600"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X600",
+    "device": "INFINIX-X600-5M",
+    "model": "INFINIX-X600"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X600",
+    "device": "INFINIX-X600-5M",
+    "model": "Infinix-X600"
   },
   {
     "brand": "Infinix",
@@ -24748,6 +24796,12 @@
     "name": "Infinix X505",
     "device": "X505",
     "model": "Infinix X505"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X521",
+    "device": "Infinix-X521-Pro",
+    "model": "Infinix-X521"
   },
   {
     "brand": "Infinix",
@@ -25471,6 +25525,12 @@
   },
   {
     "brand": "Itel",
+    "name": "it1516 Plus",
+    "device": "itel_it1516Plus",
+    "model": "itel it1516 Plus"
+  },
+  {
+    "brand": "Itel",
     "name": "it1550",
     "device": "itel_it1550",
     "model": "itel_it1550"
@@ -25528,6 +25588,12 @@
     "name": "itel it1703",
     "device": "itel_it1703",
     "model": "itel it1703"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel-it1553",
+    "device": "itel-it1553",
+    "model": "itel-it1553"
   },
   {
     "brand": "Itworks",
@@ -29324,6 +29390,12 @@
   {
     "brand": "LGE",
     "name": "LG K3 LTE",
+    "device": "mme0",
+    "model": "LG-K100"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K3 LTE",
     "device": "mme0n",
     "model": "LG-K100"
   },
@@ -32374,6 +32446,18 @@
     "name": "Wine Smart",
     "device": "vfp",
     "model": "LG-F480S"
+  },
+  {
+    "brand": "LGE",
+    "name": "Wine Smart 3G",
+    "device": "vfp3g",
+    "model": "LG-T480K"
+  },
+  {
+    "brand": "LGE",
+    "name": "Wine Smart 3G",
+    "device": "vfp3g",
+    "model": "LG-T480S"
   },
   {
     "brand": "LGE",
@@ -39517,6 +39601,24 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto G4 Play",
+    "device": "harpia",
+    "model": "Moto G Play"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G4 Play",
+    "device": "harpia_n",
+    "model": "Moto G Play"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G4 Play",
+    "device": "harpia_t",
+    "model": "Moto G Play"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto G4 Plus",
     "device": "athene_f",
     "model": "Moto G (4)"
@@ -40036,6 +40138,18 @@
     "name": "XT627",
     "device": "umts_irock",
     "model": "XT627"
+  },
+  {
+    "brand": "Motorola Solutions",
+    "name": "LEX L10g",
+    "device": "lexl10g",
+    "model": "LEX L10g"
+  },
+  {
+    "brand": "Motorola Solutions",
+    "name": "LEX L10ig",
+    "device": "lexl10ig",
+    "model": "LEX L10ig"
   },
   {
     "brand": "Motorola Solutions",
@@ -55424,6 +55538,18 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab4 7.0",
+    "device": "degas2wifi",
+    "model": "SM-T230NW"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab4 7.0",
+    "device": "degas2wifibmwchn",
+    "model": "SM-T230NW"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab4 7.0",
     "device": "degas3g",
     "model": "SM-T231"
   },
@@ -60262,6 +60388,12 @@
     "name": "Polaroid Snap S60",
     "device": "S60",
     "model": "S60"
+  },
+  {
+    "brand": "Southern Telecom",
+    "name": "ST1009",
+    "device": "ST1009",
+    "model": "ST1009"
   },
   {
     "brand": "Southern Telecom",
