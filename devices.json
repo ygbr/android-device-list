@@ -2547,7 +2547,7 @@
     "brand": "Archos",
     "name": "Alba 4\" Android",
     "device": "ac40dti",
-    "model": "\"Alba 4\" Android\""
+    "model": "Alba 4\" Android"
   },
   {
     "brand": "Archos",
@@ -2853,31 +2853,31 @@
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac50heplus",
-    "model": "\"Bush 5\" 4G\""
+    "model": "Bush 5\" 4G"
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac50heplus",
-    "model": "\"Bush Spira C2 5\" Smartphone\""
+    "model": "Bush Spira C2 5\" Smartphone"
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac55heplus",
-    "model": "\"Bush 5.5\" 4G\""
+    "model": "Bush 5.5\" 4G"
   },
   {
     "brand": "Archos",
     "name": "Bush 5 4G",
     "device": "ac55heplus",
-    "model": "\"Bush Spira D2 5.5\" Smartphone\""
+    "model": "Bush Spira D2 5.5\" Smartphone"
   },
   {
     "brand": "Archos",
     "name": "Bush 5\" Android",
     "device": "ac50cne",
-    "model": "\"Bush 5\" Android\""
+    "model": "Bush 5\" Android"
   },
   {
     "brand": "Archos",
@@ -18948,25 +18948,25 @@
     "model": "vision2_1"
   },
   {
-    "brand": "Hon Hai Precision Industry Co., Ltd",
+    "brand": "Hon Hai Precision Industry Co., Ltd.",
     "name": "",
     "device": "EP10_wifi",
     "model": "PocketBook A10"
   },
   {
-    "brand": "Hon Hai Precision Industry Co., Ltd",
+    "brand": "Hon Hai Precision Industry Co., Ltd.",
     "name": "",
     "device": "EP5A_wifi",
     "model": "PocketBook A7"
   },
   {
-    "brand": "Hon Hai Precision Industry Co., Ltd",
+    "brand": "Hon Hai Precision Industry Co., Ltd.",
     "name": "Germany",
     "device": "S9714",
     "model": "LIFETAB_S9714"
   },
   {
-    "brand": "Hon Hai Precision Industry Co., Ltd",
+    "brand": "Hon Hai Precision Industry Co., Ltd.",
     "name": "nabi_XD",
     "device": "XD",
     "model": "NABIXD-NV10C"
@@ -25644,7 +25644,7 @@
     "model": "DM65UXR"
   },
   {
-    "brand": "JVC KENWOOD Holdings, Inc",
+    "brand": "JVC KENWOOD Holdings, Inc.",
     "name": "",
     "device": "gener",
     "model": "RY-AP1"
@@ -33757,43 +33757,43 @@
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "AQUOS 50U3A"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "AQUOS 65UR30A"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "AQUOS 70UD30A"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "AQUOS 70UG30A"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "AQUOS 70XU30A"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "LenovoTV 49E82"
   },
   {
     "brand": "Lenovo",
-    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30",
+    "name": "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A",
     "device": "sun",
     "model": "LenovoTV 55E82"
   },
@@ -36241,7 +36241,7 @@
   },
   {
     "brand": "LifeWatch",
-    "name": "LifeWatch V , FGL-0000",
+    "name": "LifeWatch V , FGL-00004",
     "device": "hp6577_cts",
     "model": "LifeWatch V"
   },
@@ -60631,7 +60631,7 @@
   },
   {
     "brand": "TA71CA5_JP",
-    "name": "JP SA COUTO, S.A. _MG070A2",
+    "name": "JP SA COUTO, S.A. _MG070A2T",
     "device": "TA71CA5_1",
     "model": "TA71CA5"
   },
@@ -65737,7 +65737,7 @@
   },
   {
     "brand": "THTF",
-    "name": "TSINGHUA TONGFANG CO., LTD",
+    "name": "TSINGHUA TONGFANG CO., LTD.",
     "device": "TR10CD1_3",
     "model": "TR10CD1"
   },
@@ -67668,7 +67668,7 @@
     "model": "XR6P10"
   },
   {
-    "brand": "Vizio, Inc",
+    "brand": "Vizio, Inc.",
     "name": "VTAB1008",
     "device": "VTAB1008",
     "model": "VTAB1008"
