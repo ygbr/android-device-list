@@ -1309,6 +1309,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P41 eMagic",
+    "device": "P41_eMagic",
+    "model": "P41_eMagic"
+  },
+  {
+    "brand": "AllView",
     "name": "P5 Energy",
     "device": "P5_Energy",
     "model": "P5_Energy"
@@ -10381,6 +10387,12 @@
   },
   {
     "brand": "Fujitsu",
+    "name": "M555",
+    "device": "M555",
+    "model": "M555"
+  },
+  {
+    "brand": "Fujitsu",
     "name": "Patio100",
     "device": "Patio100",
     "model": "Patio100"
@@ -11464,6 +11476,12 @@
     "name": "M5L",
     "device": "M5",
     "model": "M5L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6 Lite",
+    "device": "GIONEE_WBL7361",
+    "model": "M6 lite"
   },
   {
     "brand": "Gionee",
@@ -24397,6 +24415,24 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+    "device": "hwple703l",
+    "model": "PLE-701L"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+    "device": "hwple703l",
+    "model": "PLE-703L"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+    "device": "HWNCE-L6750",
+    "model": "NCE-AL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
     "device": "HWNCE-L6750",
     "model": "NCE-AL10"
@@ -37168,6 +37204,12 @@
     "name": "CP-D403",
     "device": "CP-D403",
     "model": "CP-D403"
+  },
+  {
+    "brand": "Meitu",
+    "name": "Meitu  M6",
+    "device": "M6",
+    "model": "MP1503"
   },
   {
     "brand": "Meitu",
