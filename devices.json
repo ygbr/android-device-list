@@ -16777,6 +16777,12 @@
   },
   {
     "brand": "Hisense",
+    "name": "C20S",
+    "device": "C20S",
+    "model": "Hisense C20S"
+  },
+  {
+    "brand": "Hisense",
     "name": "C20W",
     "device": "HS8929QC",
     "model": "Hisense C20"
@@ -23155,6 +23161,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "P8max",
+    "device": "HWP8max",
+    "model": "HUAWEI P8max"
+  },
+  {
+    "brand": "Huawei",
     "name": "P9",
     "device": "HWEVA",
     "model": "EVA-AL00"
@@ -23326,6 +23338,18 @@
     "name": "SC-UL10",
     "device": "HWSC-UL10",
     "model": "HUAWEI SC-UL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Sensa LTE",
+    "device": "HWH710VL-Q",
+    "model": "H710VL"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Sensa LTE",
+    "device": "HWH715BL-Q",
+    "model": "H715BL"
   },
   {
     "brand": "Huawei",
@@ -24460,6 +24484,18 @@
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+    "device": "hwedison",
+    "model": "EDI-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+    "device": "hwedison",
+    "model": "EDI-DL00"
   },
   {
     "brand": "Huawei",
@@ -34297,6 +34333,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A10-70LC",
+    "device": "A10-70LC",
+    "model": "Lenovo TAB 2 A10-70LC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A1000",
     "device": "A1000",
     "model": "Lenovo A1000"
@@ -34336,6 +34378,18 @@
     "name": "Lenovo A2016a40",
     "device": "A2016a40",
     "model": "Lenovo A2016a40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A2016b30",
+    "device": "A2016b30",
+    "model": "Lenovo A2016b30"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A2016b31",
+    "device": "A2016b31",
+    "model": "Lenovo A2016b31"
   },
   {
     "brand": "Lenovo",
@@ -34885,6 +34939,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo A7700",
+    "device": "A7700",
+    "model": "A7700"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo A7700",
+    "device": "A7700",
+    "model": "Lenovo A7700"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo A780e",
     "device": "A780e",
     "model": "LNV-Lenovo A780e"
@@ -35341,6 +35407,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo PB2 plus",
+    "device": "PB2-670M",
+    "model": "Lenovo PB2-670M"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo PB2-650Y",
     "device": "PB2",
     "model": "Lenovo PB2-650Y"
@@ -35686,6 +35758,12 @@
     "name": "Lenovo TAB3 7 Plus",
     "device": "TB-7703F",
     "model": "Lenovo TB-7703F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB3 7 Plus",
+    "device": "TB-7703X",
+    "model": "Lenovo TB-7703X"
   },
   {
     "brand": "Lenovo",
@@ -40267,9 +40345,21 @@
   },
   {
     "brand": "Multilaser",
+    "name": "MS50M",
+    "device": "MS50M",
+    "model": "MS50M"
+  },
+  {
+    "brand": "Multilaser",
     "name": "MS50_4G",
     "device": "MS50_4G",
     "model": "MS50_4G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "MS55",
+    "device": "MS55",
+    "model": "MS55"
   },
   {
     "brand": "Multilaser",
@@ -63349,6 +63439,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "ALCATEL_ 4034A",
+    "device": "Pixi4-4",
+    "model": "ALCATEL_4034A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "ALCATEL_ONETOUCH_7053D",
     "device": "X1",
     "model": "7053D"
@@ -64873,6 +64969,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Pixi4-4 3G Telus",
+    "device": "PIXI4_4TF",
+    "model": "A466T"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "Pixo 7",
     "device": "PIXO7",
     "model": "I211"
@@ -64900,6 +65002,12 @@
     "name": "SMART 4G 5.5 Enterprise",
     "device": "M812",
     "model": "SMART 4G 5.5 Enterprise"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "SMART_ PLUS",
+    "device": "PIXI4_55_3G",
+    "model": "SMART_PLUS"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -71620,6 +71728,12 @@
     "name": "NX531J",
     "device": "NX531J",
     "model": "NX531J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX535J",
+    "device": "NX535J",
+    "model": "NX535J"
   },
   {
     "brand": "ZTE",
