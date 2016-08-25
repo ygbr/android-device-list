@@ -1651,6 +1651,12 @@
   },
   {
     "brand": "AllView",
+    "name": "X3 Soul Plus",
+    "device": "X3_Soul_PLUS",
+    "model": "X3_Soul_PLUS"
+  },
+  {
+    "brand": "AllView",
     "name": "X3 Soul Pro",
     "device": "X3_Soul_PRO",
     "model": "X3_Soul_PRO"
@@ -9322,6 +9328,12 @@
     "name": "FS402",
     "device": "Stratus_2",
     "model": "FS402"
+  },
+  {
+    "brand": "Fly",
+    "name": "Fly",
+    "device": "porridgek3",
+    "model": "Wileyfox Spark X"
   },
   {
     "brand": "Fly",
@@ -22401,6 +22413,12 @@
     "brand": "Huawei",
     "name": "HUAWEI Y6II",
     "device": "HWCAM-H",
+    "model": "CAM-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-H",
     "model": "CAM-U22"
   },
   {
@@ -24868,6 +24886,12 @@
     "name": "Infinix X505",
     "device": "X505",
     "model": "Infinix X505"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X521",
+    "device": "Infinix-X521",
+    "model": "Infinix-X521"
   },
   {
     "brand": "Infinix",
@@ -38281,6 +38305,12 @@
   },
   {
     "brand": "Mobicell",
+    "name": "COSMO",
+    "device": "COSMO",
+    "model": "COSMO"
+  },
+  {
+    "brand": "Mobicell",
     "name": "Candy",
     "device": "Candy",
     "model": "Candy"
@@ -38341,6 +38371,12 @@
   },
   {
     "brand": "Mobicell",
+    "name": "NEO",
+    "device": "NEO",
+    "model": "NEO"
+  },
+  {
+    "brand": "Mobicell",
     "name": "ONYX",
     "device": "ONYX",
     "model": "ONYX"
@@ -38350,6 +38386,12 @@
     "name": "PLAY",
     "device": "PLAY",
     "model": "PLAY"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "PLUM",
+    "device": "PLUM",
+    "model": "PLUM"
   },
   {
     "brand": "Mobicell",
@@ -42889,6 +42931,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "ELUGA Turbo",
+    "device": "ELUGA_Turbo",
+    "model": "ELUGA Turbo"
+  },
+  {
+    "brand": "Panasonic",
     "name": "ELUGA U",
     "device": "ELUGA_U",
     "model": "Panasonic ELUGA U"
@@ -43144,6 +43192,12 @@
     "name": "P55 Novo",
     "device": "P55_Novo_4G",
     "model": "P55 Novo 4G"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "P66",
+    "device": "P66",
+    "model": "P66"
   },
   {
     "brand": "Panasonic",
@@ -68578,6 +68632,12 @@
     "name": "U FEEL LITE",
     "device": "P4601AN",
     "model": "U FEEL LITE"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL PRIME",
+    "device": "p7201",
+    "model": "U FEEL PRIME"
   },
   {
     "brand": "Wiko",
