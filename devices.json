@@ -4963,7 +4963,7 @@
   },
   {
     "brand": "Bang & Olufsen",
-    "name": "BeoVision 14",
+    "name": "BeoVision",
     "device": "bno_MT5593Uplus_EU",
     "model": "QM153E"
   },
@@ -22183,6 +22183,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI P9 lite",
+    "device": "HWVNS-Q",
+    "model": "HUAWEI VNS-L62"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI RIO-CL00",
     "device": "hwRIO-CL00",
     "model": "HUAWEI RIO-CL00"
@@ -37640,6 +37646,12 @@
   {
     "brand": "Micromax",
     "name": "Bolt",
+    "device": "Q326",
+    "model": "Micromax Q326"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
     "device": "Q331",
     "model": "Micromax Q331"
   },
@@ -37660,6 +37672,12 @@
     "name": "Bolt",
     "device": "Q336",
     "model": "Micromax Q336"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
+    "device": "Q383",
+    "model": "Micromax Q383"
   },
   {
     "brand": "Micromax",
@@ -37921,6 +37939,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas Juice 4",
+    "device": "Q382",
+    "model": "Micromax Q382"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas Juice2",
     "device": "AQ5001",
     "model": "Micromax AQ5001"
@@ -37966,6 +37990,12 @@
     "name": "Canvas Mega",
     "device": "Q417",
     "model": "Micromax Q417"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Mega 2",
+    "device": "Q426",
+    "model": "Micromax Q426"
   },
   {
     "brand": "Micromax",
@@ -38053,6 +38083,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas Spark 3",
+    "device": "Q380N",
+    "model": "Micromax Q380N"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas Tab",
     "device": "P480",
     "model": "MicromaxP480"
@@ -38072,6 +38108,12 @@
   {
     "brand": "Micromax",
     "name": "Canvas Tab",
+    "device": "P701",
+    "model": "Micromax P701"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Tab",
     "device": "P702",
     "model": "MicromaxP702"
   },
@@ -38080,6 +38122,12 @@
     "name": "Canvas Tab",
     "device": "P70221",
     "model": "P70221"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Tab",
+    "device": "P810",
+    "model": "Micromax P810"
   },
   {
     "brand": "Micromax",
@@ -38104,6 +38152,12 @@
     "name": "Canvas Xpress",
     "device": "A99",
     "model": "Micromax A99"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Xpress 4g",
+    "device": "Q413",
+    "model": "Micromax Q413"
   },
   {
     "brand": "Micromax",
@@ -55927,6 +55981,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
+    "device": "gtanotexlltekx",
+    "model": "SM-P585N0"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy TabS 10.5",
     "device": "SCT21",
     "model": "SCT21"
@@ -69058,6 +69118,12 @@
     "name": "RangerX",
     "device": "iX101T1_2G",
     "model": "iX101T1-2G"
+  },
+  {
+    "brand": "YU",
+    "name": "YUNIQUE",
+    "device": "YU4711",
+    "model": "YU4711"
   },
   {
     "brand": "YU",
