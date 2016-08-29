@@ -5695,6 +5695,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Studio M LTE",
+    "device": "BLU_STUDIO_M_LTE",
+    "model": "STUDIO M LTE"
+  },
+  {
+    "brand": "Blu",
     "name": "Studio One",
     "device": "BLU_STUDIO_ONE",
     "model": "BLU STUDIO ONE"
@@ -21963,6 +21969,12 @@
     "brand": "Huawei",
     "name": "HUAWEI GT3",
     "device": "HWNMO-H",
+    "model": "HUAWEI NMO-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GT3",
+    "device": "HWNMO-H",
     "model": "HUAWEI NMO-L22"
   },
   {
@@ -22582,6 +22594,12 @@
     "name": "Honor 7i",
     "device": "HWATH",
     "model": "ATH-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 8",
+    "device": "HWFRD",
+    "model": "FRD-L04"
   },
   {
     "brand": "Huawei",
@@ -37676,6 +37694,12 @@
   {
     "brand": "Micromax",
     "name": "Bolt",
+    "device": "Q381",
+    "model": "Micromax Q381"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
     "device": "Q383",
     "model": "Micromax Q383"
   },
@@ -37849,6 +37873,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas 6 Pro",
+    "device": "E484",
+    "model": "Micromax E484"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas A1",
     "device": "AQ4501_sprout",
     "model": "Micromax AQ4501"
@@ -37876,6 +37906,12 @@
     "name": "Canvas Doodle4",
     "device": "Q391",
     "model": "Micromax Q391"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Evok",
+    "device": "E483",
+    "model": "Micromax E483"
   },
   {
     "brand": "Micromax",
@@ -38083,9 +38119,21 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas Spark 2 Plus",
+    "device": "Q350",
+    "model": "Micromax Q350"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas Spark 3",
     "device": "Q380N",
     "model": "Micromax Q380N"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Spark 3",
+    "device": "Q385",
+    "model": "Micromax Q385"
   },
   {
     "brand": "Micromax",
@@ -39463,6 +39511,12 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto 360 Sport",
+    "device": "carp",
+    "model": "Moto 360"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto Defy XT",
     "device": "XT535",
     "model": "XT535"
@@ -39805,14 +39859,20 @@
   },
   {
     "brand": "Motorola",
-    "name": "Moto G4",
+    "name": "Moto G(4)",
     "device": "athene",
     "model": "Moto G (4)"
   },
   {
     "brand": "Motorola",
-    "name": "Moto G4",
+    "name": "Moto G(4)",
     "device": "athene_t",
+    "model": "Moto G (4)"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G(4) Plus",
+    "device": "athene_f",
     "model": "Moto G (4)"
   },
   {
@@ -39832,12 +39892,6 @@
     "name": "Moto G4 Play",
     "device": "harpia_t",
     "model": "Moto G Play"
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G4 Plus",
-    "device": "athene_f",
-    "model": "Moto G (4)"
   },
   {
     "brand": "Motorola",
@@ -45127,6 +45181,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "Quantum MUV PRO",
+    "device": "Q5",
+    "model": "Quantum MUV PRO"
+  },
+  {
+    "brand": "Positivo",
     "name": "Quantum Muv",
     "device": "Q3",
     "model": "MUV"
@@ -46780,6 +46840,24 @@
     "name": "SOSMART T5",
     "device": "SOSMART_T5",
     "model": "SOSMART_T5"
+  },
+  {
+    "brand": "STK(Santok)",
+    "name": "Hero X",
+    "device": "STK_Hero_X",
+    "model": "STK_Hero_X"
+  },
+  {
+    "brand": "STK(Santok)",
+    "name": "SYNC 5C",
+    "device": "STK_Sync_5c",
+    "model": "STK_Sync_5c"
+  },
+  {
+    "brand": "STK(Santok)",
+    "name": "Storm 3",
+    "device": "W230",
+    "model": "STK Storm 3"
   },
   {
     "brand": "STOREX",
@@ -56974,24 +57052,6 @@
     "name": "ETAB S7042G",
     "device": "S7042G",
     "model": "ETAB_S7042G"
-  },
-  {
-    "brand": "Santok",
-    "name": "Hero X",
-    "device": "STK_Hero_X",
-    "model": "STK_Hero_X"
-  },
-  {
-    "brand": "Santok",
-    "name": "SYNC 5C",
-    "device": "STK_Sync_5c",
-    "model": "STK_Sync_5c"
-  },
-  {
-    "brand": "Santok",
-    "name": "Storm 3",
-    "device": "W230",
-    "model": "STK Storm 3"
   },
   {
     "brand": "Sanyo",
@@ -68281,6 +68341,12 @@
   },
   {
     "brand": "Walton",
+    "name": "Primo NX4 mini",
+    "device": "Primo_NX4_mini",
+    "model": "Primo NX4 mini"
+  },
+  {
+    "brand": "Walton",
     "name": "Primo R4",
     "device": "Primo_R4",
     "model": "Primo R4"
@@ -69102,6 +69168,12 @@
     "model": "Redmi Note 3"
   },
   {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 4",
+    "device": "nikel",
+    "model": "Redmi Note 4"
+  },
+  {
     "brand": "Xplore Technologies",
     "name": "XSLATE_D10",
     "device": "XSLATE_D10",
@@ -69136,6 +69208,12 @@
     "name": "YUPHORIA",
     "device": "YUPHORIA",
     "model": "YU5010A"
+  },
+  {
+    "brand": "YU",
+    "name": "YUREKAS",
+    "device": "YUREKAS",
+    "model": "YU5200"
   },
   {
     "brand": "YU",
