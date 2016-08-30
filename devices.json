@@ -64579,6 +64579,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "ONETOUCH PIXI 3 (8)",
+    "device": "pixi384g",
+    "model": "Alcatel_9022S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "ONETOUCH PIXI3(7)",
     "device": "pixi37",
     "model": "9007A"
