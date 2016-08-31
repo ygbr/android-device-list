@@ -1327,6 +1327,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P5 Lite",
+    "device": "P5_Lite",
+    "model": "P5_Lite"
+  },
+  {
+    "brand": "AllView",
     "name": "P5 Pro",
     "device": "P5_Pro",
     "model": "P5_Pro"
@@ -1360,6 +1366,12 @@
     "name": "P6 Energy",
     "device": "P6_Energy",
     "model": "P6_Energy_TM"
+  },
+  {
+    "brand": "AllView",
+    "name": "P6 Energy Lite",
+    "device": "P6_Energy_Lite",
+    "model": "P6_Energy_Lite"
   },
   {
     "brand": "AllView",
@@ -1432,6 +1444,12 @@
     "name": "P8 eMagic",
     "device": "P8_eMagic",
     "model": "P8_eMagic"
+  },
+  {
+    "brand": "AllView",
+    "name": "P8 eMagic",
+    "device": "P8_eMagic",
+    "model": "P8_eMagic_TM"
   },
   {
     "brand": "AllView",
@@ -1519,6 +1537,12 @@
   },
   {
     "brand": "AllView",
+    "name": "Viva 1001G",
+    "device": "Viva_1001G",
+    "model": "Viva_1001G"
+  },
+  {
+    "brand": "AllView",
     "name": "Viva C701",
     "device": "Viva_C701",
     "model": "Viva_C701"
@@ -1558,6 +1582,12 @@
     "name": "Viva H801",
     "device": "Viva_H801",
     "model": "Viva_H801"
+  },
+  {
+    "brand": "AllView",
+    "name": "Viva H801 LTE",
+    "device": "Viva_H801_LTE",
+    "model": "Viva_H801_LTE"
   },
   {
     "brand": "AllView",
@@ -1648,6 +1678,12 @@
     "name": "X3 Soul Lite",
     "device": "X3_Soul_Lite",
     "model": "X3_Soul_Lite"
+  },
+  {
+    "brand": "AllView",
+    "name": "X3 Soul Lite",
+    "device": "X3_Soul_Lite",
+    "model": "X3_Soul_Lite_TM"
   },
   {
     "brand": "AllView",
@@ -3054,6 +3090,24 @@
     "model": "Impulse_P2"
   },
   {
+    "brand": "Ascom Wireless Solutions",
+    "name": "Ascom Myco Cellular",
+    "device": "ACBA",
+    "model": "SH1"
+  },
+  {
+    "brand": "Ascom Wireless Solutions",
+    "name": "Ascom Myco Cellular",
+    "device": "myco_gms",
+    "model": "SH1"
+  },
+  {
+    "brand": "Ascom Wireless Solutions",
+    "name": "Ascom Myco Wi-Fi",
+    "device": "ABBA",
+    "model": "SH1"
+  },
+  {
     "brand": "Ashna",
     "name": "X55",
     "device": "X55",
@@ -3835,6 +3889,12 @@
   },
   {
     "brand": "Asus",
+    "name": "X008D",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008D"
+  },
+  {
+    "brand": "Asus",
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
@@ -3988,6 +4048,12 @@
     "name": "ZenFone 2(ZE551ML)",
     "device": "Z00A_3",
     "model": "ASUS_Z00AD"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Deluxe",
+    "device": "ASUS_Z01F_1",
+    "model": "ASUS_Z01FD"
   },
   {
     "brand": "Asus",
@@ -4288,6 +4354,12 @@
     "name": "ZenPad S 8.0 (Z580C)",
     "device": "P01M_4",
     "model": "P01M"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenPad S 8.0 (Z580C)",
+    "device": "P01M_5",
+    "model": "P01MA"
   },
   {
     "brand": "Asus",
@@ -11548,6 +11620,12 @@
     "name": "P6",
     "device": "P6",
     "model": "P6"
+  },
+  {
+    "brand": "Gionee",
+    "name": "P7",
+    "device": "GIONEE_WBL7365",
+    "model": "P7"
   },
   {
     "brand": "Gionee",
@@ -24697,6 +24775,12 @@
   },
   {
     "brand": "Hyundai",
+    "name": "Ultra Dream",
+    "device": "Ultra_Dream",
+    "model": "Ultra Dream"
+  },
+  {
+    "brand": "Hyundai",
     "name": "Ultra Energy Lite",
     "device": "Ultra_Energy_Lite",
     "model": "Ultra Energy Lite"
@@ -37652,6 +37736,12 @@
   {
     "brand": "Micromax",
     "name": "Bolt",
+    "device": "Q303",
+    "model": "Micromax Q303"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
     "device": "Q324",
     "model": "Micromax Q324"
   },
@@ -37873,6 +37963,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas 6",
+    "device": "E485",
+    "model": "Micromax E485"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas 6 Pro",
     "device": "E484",
     "model": "Micromax E484"
@@ -37930,6 +38026,12 @@
     "name": "Canvas Fire",
     "device": "A104",
     "model": "Micromax A104"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Fire 5",
+    "device": "Q386",
+    "model": "Micromax Q386"
   },
   {
     "brand": "Micromax",
@@ -38059,6 +38161,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas Pace MIni",
+    "device": "Q401",
+    "model": "Micromax Q401"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas Pep",
     "device": "Q370",
     "model": "Micromax Q370"
@@ -38104,6 +38212,12 @@
     "name": "Canvas Selfie",
     "device": "A255",
     "model": "Micromax A255"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Selfie 4",
+    "device": "Q349",
+    "model": "Micromax Q349"
   },
   {
     "brand": "Micromax",
@@ -38188,6 +38302,12 @@
     "name": "Canvas Turbo",
     "device": "A250",
     "model": "Micromax A250"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Unite 4",
+    "device": "Q427",
+    "model": "Micromax Q427"
   },
   {
     "brand": "Micromax",
@@ -40087,6 +40207,12 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto Z",
+    "device": "griffin",
+    "model": "XT1650"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto Z Droid",
     "device": "griffin",
     "model": "XT1650"
@@ -40552,6 +40678,12 @@
     "name": "myPhone C-Smart IIIS",
     "device": "C_Smart_IIIS",
     "model": "C-Smart IIIS"
+  },
+  {
+    "brand": "Myphone",
+    "name": "myPhone Luna II",
+    "device": "LUNA_II_OPM",
+    "model": "LUNA_II"
   },
   {
     "brand": "NAXA",
@@ -41239,9 +41371,33 @@
   },
   {
     "brand": "Nabi",
+    "name": "American Girl Tablet",
+    "device": "NBTY07SMKG",
+    "model": "NBTY07SMKG"
+  },
+  {
+    "brand": "Nabi",
+    "name": "Barbie Tablet",
+    "device": "NBTY07SMKG",
+    "model": "NBTY07SMKG"
+  },
+  {
+    "brand": "Nabi",
     "name": "Fisher Price Learning Tablet",
     "device": "NBFP07PMKG",
     "model": "NBFP07PMKG"
+  },
+  {
+    "brand": "Nabi",
+    "name": "Hot Wheels Tablet",
+    "device": "NBTY07SMKG",
+    "model": "NBTY07SMKG"
+  },
+  {
+    "brand": "Nabi",
+    "name": "TOY 7",
+    "device": "NBTY07SMKG",
+    "model": "NBTY07SMKG"
   },
   {
     "brand": "NanoTech",
@@ -43298,6 +43454,12 @@
   {
     "brand": "Panasonic",
     "name": "P55 Novo",
+    "device": "P55_Novo",
+    "model": "Panasonic P55 Novo"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "P55 Novo",
     "device": "P55_Novo_4G",
     "model": "P55 Novo 4G"
   },
@@ -43306,6 +43468,12 @@
     "name": "P66",
     "device": "P66",
     "model": "P66"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "P71",
+    "device": "P71",
+    "model": "P71"
   },
   {
     "brand": "Panasonic",
@@ -46288,6 +46456,12 @@
     "name": "S4",
     "device": "QMobile_S4",
     "model": "S4"
+  },
+  {
+    "brand": "QMobile",
+    "name": "S6",
+    "device": "QMobileS6",
+    "model": "QMobile S6"
   },
   {
     "brand": "QMobile",
@@ -58081,6 +58255,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "SHARP Z2",
+    "device": "TSP",
+    "model": "FS8002"
+  },
+  {
+    "brand": "Sharp",
     "name": "SoftBank 007SH KT",
     "device": "SBM007SHK",
     "model": "SBM007SHK"
@@ -58108,6 +58288,12 @@
     "name": "Yahoo! Phone SoftBank 009SH Y",
     "device": "SBM009SHY",
     "model": "SBM009SHY"
+  },
+  {
+    "brand": "Sharp",
+    "name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x93",
+    "device": "SG509SH",
+    "model": "509SH"
   },
   {
     "brand": "Sharp",
@@ -61603,9 +61789,21 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "4060W",
+    "device": "Pixi445",
+    "model": "4060W"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "5023F",
     "device": "Pixi4PlusPower",
     "model": "5023F"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5027B",
+    "device": "Pixi445SPR",
+    "model": "5027B"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -61732,6 +61930,12 @@
     "name": "5056N",
     "device": "POP455C",
     "model": "5056N"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056U",
+    "device": "POP455C",
+    "model": "5056U"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -62158,6 +62362,12 @@
     "name": "9015B",
     "device": "Pixi4-7_4G_Bell",
     "model": "ALCATEL ONETOUCH POP 7 LTE"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "9015B",
+    "device": "Pixi4-7_4G_NA",
+    "model": "9015B"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -64159,6 +64369,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Mirage",
+    "device": "feijao",
+    "model": "5057M"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "Moov2",
     "device": "move_2_gsm",
     "model": "move 2"
@@ -64939,6 +65155,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "PIXI\\xe2\\x84\\xa24",
+    "device": "Pixi445CAN",
+    "model": "4060S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "PLAY_P1",
     "device": "PLAY_P1",
     "model": "4024D"
@@ -65170,6 +65392,12 @@
     "name": "Pixo 7",
     "device": "PIXO7",
     "model": "I213"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "Pop4",
+    "device": "POP455C",
+    "model": "Pop4"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -67291,6 +67519,12 @@
   },
   {
     "brand": "Vestel",
+    "name": "V TAB 7025",
+    "device": "V_TAB_7025",
+    "model": "V_TAB_7025"
+  },
+  {
+    "brand": "Vestel",
     "name": "V TAB 9.7'' PRO",
     "device": "VT97PRO",
     "model": "VT97PRO"
@@ -68347,6 +68581,12 @@
   },
   {
     "brand": "Walton",
+    "name": "Primo NX4",
+    "device": "Primo_NX4",
+    "model": "Primo NX4"
+  },
+  {
+    "brand": "Walton",
     "name": "Primo NX4 mini",
     "device": "Primo_NX4_mini",
     "model": "Primo NX4 mini"
@@ -68377,6 +68617,12 @@
   },
   {
     "brand": "Walton",
+    "name": "Primo X4",
+    "device": "WALTON_Primo_X4",
+    "model": "Primo X4"
+  },
+  {
+    "brand": "Walton",
     "name": "Primo ZX2",
     "device": "GBL5805WA",
     "model": "Primo_ZX2"
@@ -68392,6 +68638,12 @@
     "name": "Primo ZX2 mini",
     "device": "Primo_ZX2_mini",
     "model": "Primo ZX2 mini"
+  },
+  {
+    "brand": "Walton",
+    "name": "Primo_RM3",
+    "device": "Primo_RM3",
+    "model": "Primo RM3"
   },
   {
     "brand": "WeTek",
@@ -69180,6 +69432,12 @@
     "model": "Redmi Note 4"
   },
   {
+    "brand": "Xiaomi",
+    "name": "Redmi Pro",
+    "device": "omega",
+    "model": "Redmi Pro"
+  },
+  {
     "brand": "Xplore Technologies",
     "name": "XSLATE_D10",
     "device": "XSLATE_D10",
@@ -69199,6 +69457,12 @@
   },
   {
     "brand": "YU",
+    "name": "YUNICORN",
+    "device": "YUNICORN",
+    "model": "YU5530"
+  },
+  {
+    "brand": "YU",
     "name": "YUNIQUE",
     "device": "YU4711",
     "model": "YU4711"
@@ -69214,6 +69478,12 @@
     "name": "YUPHORIA",
     "device": "YUPHORIA",
     "model": "YU5010A"
+  },
+  {
+    "brand": "YU",
+    "name": "YUREKA",
+    "device": "YUREKA",
+    "model": "YU5510"
   },
   {
     "brand": "YU",
