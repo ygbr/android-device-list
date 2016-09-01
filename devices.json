@@ -5683,6 +5683,12 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO G HD",
+    "device": "Studio_G_HD",
+    "model": "BLU Studio G HD"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO G HD LTE",
     "device": "Studio_G_HD_LTE",
     "model": "Studio G HD LTE"
@@ -6418,6 +6424,12 @@
     "name": "H220",
     "device": "ctih220_sprout",
     "model": "H220"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Omega HD 3S",
+    "device": "H115",
+    "model": "OMEGA HD 3S"
   },
   {
     "brand": "Cherry Mobile",
@@ -8773,6 +8785,12 @@
   },
   {
     "brand": "Ematic",
+    "name": "PBS Kids PlayPad",
+    "device": "PBSKD12",
+    "model": "PBSKD12"
+  },
+  {
+    "brand": "Ematic",
     "name": "Sprout Channel Cubby",
     "device": "Cubby",
     "model": "SproutChannelCubby"
@@ -9814,6 +9832,12 @@
     "name": "Fossil Q Founder",
     "device": "grant",
     "model": "Q Founder"
+  },
+  {
+    "brand": "Fossil",
+    "name": "Fossil Q Wander / Fossil Q Founder / Michael Kors Access",
+    "device": "gar",
+    "model": "Q Marshal"
   },
   {
     "brand": "Foxconn",
@@ -26320,6 +26344,12 @@
     "name": "SP4",
     "device": "SP4",
     "model": "SP4"
+  },
+  {
+    "brand": "Kogan",
+    "name": "Agora 6 Plus",
+    "device": "Kogan_Agora_6Plus",
+    "model": "Kogan Agora 6Plus"
   },
   {
     "brand": "Konrow",
@@ -44689,6 +44719,18 @@
   },
   {
     "brand": "Plusone",
+    "name": "FREETEL Priori3S",
+    "device": "FTU152A",
+    "model": "FTU152A"
+  },
+  {
+    "brand": "Plusone",
+    "name": "FREETEL Samurai Rei",
+    "device": "FTJ161B",
+    "model": "FTJ161B"
+  },
+  {
+    "brand": "Plusone",
     "name": "FTJ152C",
     "device": "FTJ152C",
     "model": "FTJ152C"
@@ -61006,6 +61048,12 @@
     "name": "Xlife-M44Q",
     "device": "Spice",
     "model": "Xlife-M44Q"
+  },
+  {
+    "brand": "Spice",
+    "name": "Xlife-Proton 5 pro",
+    "device": "Spice",
+    "model": "Xlife-Proton5 Pro"
   },
   {
     "brand": "Sprint",
