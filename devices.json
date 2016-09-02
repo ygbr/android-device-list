@@ -44743,6 +44743,18 @@
   },
   {
     "brand": "Plusone",
+    "name": "FTU152D",
+    "device": "FTU152D",
+    "model": "FTU152D"
+  },
+  {
+    "brand": "Plusone",
+    "name": "Fun +",
+    "device": "FTU161G",
+    "model": "Fun +"
+  },
+  {
+    "brand": "Plusone",
     "name": "Kiwami",
     "device": "FTJ152D",
     "model": "FTJ152D"
@@ -46645,9 +46657,33 @@
   },
   {
     "brand": "RCA",
+    "name": "10 Viking II",
+    "device": "RCT6603W47M7",
+    "model": "RCT6603W47M7"
+  },
+  {
+    "brand": "RCA",
+    "name": "10 Viking II Pro",
+    "device": "RCT6603W87M7",
+    "model": "RCT6603W87M7"
+  },
+  {
+    "brand": "RCA",
     "name": "10 Viking Pro",
     "device": "RCT6303W87DK",
     "model": "RCT6303W87DK"
+  },
+  {
+    "brand": "RCA",
+    "name": "10 Viking Pro",
+    "device": "RCT6303W87M",
+    "model": "RCT6303W87M"
+  },
+  {
+    "brand": "RCA",
+    "name": "10 Viking Pro",
+    "device": "RCT6303W87M7",
+    "model": "RCT6303W87M7"
   },
   {
     "brand": "RCA",
@@ -46657,9 +46693,27 @@
   },
   {
     "brand": "RCA",
+    "name": "7 Mercury",
+    "device": "RCT6673W23M",
+    "model": "RCT6673W23M"
+  },
+  {
+    "brand": "RCA",
+    "name": "7 Mercury",
+    "device": "RCT6673W43M",
+    "model": "RCT6673W43M"
+  },
+  {
+    "brand": "RCA",
     "name": "7 Voyager II",
     "device": "RCT6773W22B",
     "model": "RCT6773W22B"
+  },
+  {
+    "brand": "RCA",
+    "name": "7 Voyager II",
+    "device": "RCT6773W22BM",
+    "model": "RCT6773W22BM"
   },
   {
     "brand": "RCA",
@@ -46741,9 +46795,21 @@
   },
   {
     "brand": "RCA",
+    "name": "RCT6223W97",
+    "device": "RCT6223W97",
+    "model": "RCT6223W97"
+  },
+  {
+    "brand": "RCA",
     "name": "RCT6273W26",
     "device": "RCT6273W26",
     "model": "RCT6273W26"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCT6283W27",
+    "device": "RCT6283W27",
+    "model": "RCT6283W27"
   },
   {
     "brand": "RCA",
