@@ -5485,6 +5485,12 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU ENERGY X PLUS 2",
+    "device": "BLU_ENERGY_X_PLUS_2",
+    "model": "BLU ENERGY X PLUS 2"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU LIFE XL",
     "device": "BLU_LIFE_XL",
     "model": "BLU LIFE XL"
@@ -42031,6 +42037,12 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 2",
+    "device": "OnePlus2",
+    "model": "ONE A2003"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 3",
     "device": "OnePlus3",
     "model": "ONEPLUS A3000"
@@ -59365,6 +59377,12 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia X Compact",
+    "device": "F5321",
+    "model": "F5321"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia X Performance",
     "device": "502SO",
     "model": "502SO"
@@ -59752,6 +59770,12 @@
     "name": "Xperia Z3 Compact",
     "device": "SO-02G",
     "model": "SO-02G"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Z3 Compact",
+    "device": "aries",
+    "model": "D5803"
   },
   {
     "brand": "Sony",
@@ -66628,6 +66652,12 @@
     "name": "TECNO-C9",
     "device": "TECNO-C9",
     "model": "TECNO-C9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-C9S",
+    "device": "TECNO-C9",
+    "model": "TECNO-C9S"
   },
   {
     "brand": "Tecno",
@@ -73660,6 +73690,12 @@
     "name": "ZTE Blade A452",
     "device": "P635F33",
     "model": "ZTE Blade A452"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A460",
+    "device": "P809A20",
+    "model": "A460-T"
   },
   {
     "brand": "ZTE",
