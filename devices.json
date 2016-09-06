@@ -6421,6 +6421,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare J3",
+    "device": "H680",
+    "model": "Flare_J3"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare X",
     "device": "Flare_X",
     "model": "Flare_X_V2"
@@ -40711,6 +40717,12 @@
   },
   {
     "brand": "Myphone",
+    "name": "my85 DTV",
+    "device": "MyPhone_my85_DTV",
+    "model": "MyPhone my85 DTV"
+  },
+  {
+    "brand": "Myphone",
     "name": "myPhone C-Smart IIIS",
     "device": "C_Smart_IIIS",
     "model": "C-Smart IIIS"
@@ -58375,6 +58387,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "SHARP C1",
+    "device": "MS1",
+    "model": "FS8001"
+  },
+  {
+    "brand": "Sharp",
     "name": "SHARP Z2",
     "device": "TSP",
     "model": "FS8002"
@@ -68846,6 +68864,12 @@
   {
     "brand": "Wiko",
     "name": "FREDDY",
+    "device": "T3903BN",
+    "model": "FREDDY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "FREDDY",
     "device": "V3903BN",
     "model": "FREDDY"
   },
@@ -69100,6 +69124,12 @@
     "name": "SLIDE",
     "device": "s8321",
     "model": "SLIDE"
+  },
+  {
+    "brand": "Wiko",
+    "name": "SUNNY",
+    "device": "T2504AN",
+    "model": "SUNNY"
   },
   {
     "brand": "Wiko",
