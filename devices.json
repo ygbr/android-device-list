@@ -4255,6 +4255,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenPad 3 8.0",
+    "device": "P008_2",
+    "model": "P008"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenPad 7.0 (Z370C)",
     "device": "P01W",
     "model": "P01W"
@@ -4423,6 +4429,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone 3 Deluxe (ZS570KL)",
+    "device": "Z016_1",
+    "model": "ASUS_Z016D"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone 3 Laser",
     "device": "Z01B_1",
     "model": "ASUS_Z01BD"
@@ -4468,6 +4480,12 @@
     "name": "Zenfone Go",
     "device": "ASUS_X009D_2",
     "model": "ASUS_X009DB"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone Go (ASUS_X005)",
+    "device": "ASUS_X005",
+    "model": "ASUS_X005"
   },
   {
     "brand": "Asus",
@@ -7327,6 +7345,12 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Coolpad 5367C",
+    "device": "Coolpad5367C",
+    "model": "Coolpad 5367C"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolpad 5891",
     "device": "Coolpad5891",
     "model": "Coolpad 5891"
@@ -7570,6 +7594,12 @@
     "name": "Coolpad B770",
     "device": "B770",
     "model": "Coolpad B770"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad B770S",
+    "device": "CoolpadB770S",
+    "model": "Coolpad B770S"
   },
   {
     "brand": "Coolpad",
@@ -36163,6 +36193,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo YT3-X90F/YOGA3 Tablet Pro",
+    "device": "YT3",
+    "model": "Lenovo YT3-X90F"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo YogaTablet2 -1050F",
     "device": "YT2",
     "model": "YOGA Tablet 2-1050F"
@@ -62551,6 +62587,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "9025Q",
+    "device": "POP4-7_4G",
+    "model": "9025Q"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "9030G",
     "device": "POP4-10_4G",
     "model": "9030G"
@@ -71013,12 +71055,6 @@
     "brand": "ZTE",
     "name": "A1R",
     "device": "billy",
-    "model": "A1"
-  },
-  {
-    "brand": "ZTE",
-    "name": "A1R",
-    "device": "billy",
     "model": "A1R"
   },
   {
@@ -71575,6 +71611,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade V6 Max",
+    "device": "ZTE_BLADE_A610",
+    "model": "Blade V6 Max"
+  },
+  {
+    "brand": "ZTE",
     "name": "Blade V6 Plus",
     "device": "ZTE_BLADE_V0720",
     "model": "Blade V6 Plus"
@@ -71899,6 +71941,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "MO-01J",
+    "device": "MO-01J",
+    "model": "MO-01J"
+  },
+  {
+    "brand": "ZTE",
     "name": "MS4A",
     "device": "kiska",
     "model": "MS4A"
@@ -72217,6 +72265,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "NOS NOVU II",
+    "device": "P680A20",
+    "model": "NOS NOVU II"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX402",
     "device": "NX40X",
     "model": "NX402"
@@ -72346,18 +72400,6 @@
     "name": "NX513J",
     "device": "NX513J",
     "model": "NX513J"
-  },
-  {
-    "brand": "ZTE",
-    "name": "NX521J",
-    "device": "NX521J",
-    "model": "BGH Joy Smart AXS II"
-  },
-  {
-    "brand": "ZTE",
-    "name": "NX521J",
-    "device": "NX521J",
-    "model": "NX521J"
   },
   {
     "brand": "ZTE",
@@ -73141,6 +73183,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z353VL",
+    "device": "oldman",
+    "model": "Z353VL"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z660G",
     "device": "nice",
     "model": "Z660G"
@@ -73465,6 +73513,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE A2017",
+    "device": "ailsa_ii",
+    "model": "ZTE A2017"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE A2017G",
     "device": "ailsa_ii",
     "model": "ZTE A2017G"
@@ -73690,6 +73744,12 @@
     "name": "ZTE BV0720",
     "device": "P650A30",
     "model": "ZTE BV0720"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0720T",
+    "device": "P650A30",
+    "model": "ZTE BV0720T"
   },
   {
     "brand": "ZTE",
@@ -73942,6 +74002,12 @@
     "name": "ZTE Blade III Pro",
     "device": "Blade-III-Pro",
     "model": "ZTE Blade III Pro"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade L110",
+    "device": "ZTE_BLADE_L110",
+    "model": "ZTE Blade L110"
   },
   {
     "brand": "ZTE",
@@ -76264,6 +76330,12 @@
     "name": "ZXY-ZTE_V6700",
     "device": "V6700",
     "model": "ZXY-ZTE_V6700"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Zmax Pro",
+    "device": "urd",
+    "model": "Z981"
   },
   {
     "brand": "ZTE",
