@@ -6607,6 +6607,12 @@
   },
   {
     "brand": "Click",
+    "name": "Click Tab 7\\xe2\\x80\\x9d",
+    "device": "I7043G",
+    "model": "I7043G"
+  },
+  {
+    "brand": "Click",
     "name": "M9021G",
     "device": "M9021G",
     "model": "M9021G"
@@ -6904,6 +6910,12 @@
     "name": "Connect Alpha",
     "device": "CNT07002",
     "model": "CNT07002"
+  },
+  {
+    "brand": "Connectce",
+    "name": "Connect Core 6",
+    "device": "Connect_Core_6",
+    "model": "CP6001A"
   },
   {
     "brand": "Coolpad",
@@ -9112,6 +9124,12 @@
     "name": "EVC8Q",
     "device": "EVIANT_EVC8Q",
     "model": "EVC8Q"
+  },
+  {
+    "brand": "Evolio",
+    "name": "M6",
+    "device": "Evolio_M6",
+    "model": "Evolio_M6"
   },
   {
     "brand": "Evolio",
@@ -28003,6 +28021,12 @@
   },
   {
     "brand": "LGE",
+    "name": "G Vista",
+    "device": "x10",
+    "model": "VS880PP"
+  },
+  {
+    "brand": "LGE",
     "name": "G Watch",
     "device": "dory",
     "model": "G Watch"
@@ -28255,9 +28279,9 @@
   },
   {
     "brand": "LGE",
-    "name": "K4",
-    "device": "e1q",
-    "model": "LG-K121"
+    "name": "K10 LTE",
+    "device": "m209",
+    "model": "LG-K420PR"
   },
   {
     "brand": "LGE",
@@ -28669,6 +28693,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Classic",
+    "device": "y30tc",
+    "model": "LGL18VC"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Connect 4G",
     "device": "cayman",
     "model": "LG-MS840"
@@ -28891,6 +28921,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad 8.0 L Edition",
+    "device": "e8lte",
+    "model": "LGT01"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad 8.0 LTE",
     "device": "e8lte",
     "model": "LG-P490L"
@@ -28975,6 +29011,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad II 10.1 FHD",
+    "device": "t1wifin",
+    "model": "LG-V940n"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad II 8.0LTE",
     "device": "t8lte",
     "model": "LG-V497"
@@ -29014,6 +29056,12 @@
     "name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
     "device": "b3",
     "model": "LG-V520"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G Stylo",
+    "device": "g4stylus",
+    "model": "LG-H634"
   },
   {
     "brand": "LGE",
@@ -29665,6 +29713,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG K3",
+    "device": "me0",
+    "model": "LGLS450"
+  },
+  {
+    "brand": "LGE",
     "name": "LG K3 LTE",
     "device": "mme0",
     "model": "LG-K100"
@@ -29800,6 +29854,12 @@
     "name": "LG LEON\\xe2\\x84\\xa2 LTE",
     "device": "c50",
     "model": "LG-H345"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Lancet",
+    "device": "c50",
+    "model": "VS820"
   },
   {
     "brand": "LGE",
@@ -31132,6 +31192,12 @@
     "name": "LG Wine Smart",
     "device": "cf",
     "model": "LG-H410"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Wine Smart Jazz",
+    "device": "cf",
+    "model": "LG-F610K"
   },
   {
     "brand": "LGE",
@@ -32497,6 +32563,18 @@
   },
   {
     "brand": "LGE",
+    "name": "Premier",
+    "device": "m209",
+    "model": "LGL61AL"
+  },
+  {
+    "brand": "LGE",
+    "name": "Premier",
+    "device": "m209",
+    "model": "LGL62VL"
+  },
+  {
+    "brand": "LGE",
     "name": "Qua phone PX",
     "device": "JSG",
     "model": "LGV33"
@@ -32673,6 +32751,12 @@
     "brand": "LGE",
     "name": "V10",
     "device": "pplus",
+    "model": "RS987"
+  },
+  {
+    "brand": "LGE",
+    "name": "V10",
+    "device": "pplus",
     "model": "VS990"
   },
   {
@@ -32734,6 +32818,12 @@
     "name": "Wine Smart 3G",
     "device": "vfp3g",
     "model": "LG-T480S"
+  },
+  {
+    "brand": "LGE",
+    "name": "X Mach",
+    "device": "sjr",
+    "model": "LG-K600"
   },
   {
     "brand": "LGE",
@@ -32842,6 +32932,12 @@
     "name": "Glow",
     "device": "Glow",
     "model": "Glow"
+  },
+  {
+    "brand": "Laiq",
+    "name": "STARTRAIL 8",
+    "device": "STARTRAIL",
+    "model": "STARTRAIL 8"
   },
   {
     "brand": "Lanix",
@@ -33312,6 +33408,12 @@
     "model": "MW6617"
   },
   {
+    "brand": "Le",
+    "name": "LeTV X40",
+    "device": "X4_40",
+    "model": "X4-40"
+  },
+  {
     "brand": "Le Pan",
     "name": "Le Pan TC1010",
     "device": "FG6A-LP",
@@ -33418,6 +33520,12 @@
     "name": "Le Max2",
     "device": "le_x2",
     "model": "Le X821"
+  },
+  {
+    "brand": "Leeco",
+    "name": "Le Max2",
+    "device": "le_x2_na",
+    "model": "Le X829"
   },
   {
     "brand": "Leeco",
@@ -40291,9 +40399,39 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto Z",
+    "device": "griffin",
+    "model": "XT1650-05"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto Z Droid",
     "device": "griffin",
     "model": "XT1650"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z Play",
+    "device": "addison",
+    "model": "XT1563"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z Play",
+    "device": "addison",
+    "model": "XT1635-02"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z Play",
+    "device": "addison",
+    "model": "XT1635-03"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z Play Droid",
+    "device": "addison",
+    "model": "XT1635-01"
   },
   {
     "brand": "Motorola",
@@ -40744,6 +40882,12 @@
     "name": "Cube LTE",
     "device": "CUBE_LTE_PLAY",
     "model": "CUBE_LTE"
+  },
+  {
+    "brand": "Myphone",
+    "name": "My92 DTV",
+    "device": "MyPhone_my92_DTV",
+    "model": "MyPhone my92 DTV"
   },
   {
     "brand": "Myphone",
@@ -41530,6 +41674,12 @@
     "name": "Neffos C5 Max",
     "device": "C5_Max",
     "model": "Neffos C5 Max"
+  },
+  {
+    "brand": "Neffos",
+    "name": "Neffos Y5",
+    "device": "Y5",
+    "model": "Neffos Y5"
   },
   {
     "brand": "Neffos",
@@ -43072,6 +43222,18 @@
     "name": "Nura2",
     "device": "m823_orange",
     "model": "Nura 2"
+  },
+  {
+    "brand": "Orange",
+    "name": "Orange Dive 30",
+    "device": "P635E40",
+    "model": "Orange Dive 30"
+  },
+  {
+    "brand": "Orange",
+    "name": "Orange Dive 30",
+    "device": "P635E40",
+    "model": "ZTE Blade A410"
   },
   {
     "brand": "Orange",
@@ -46483,6 +46645,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "J5",
+    "device": "J5",
+    "model": "J5"
+  },
+  {
+    "brand": "QMobile",
     "name": "LT650",
     "device": "LT650",
     "model": "LT650"
@@ -49486,6 +49654,12 @@
     "name": "Galaxy Folder",
     "device": "novellteskt",
     "model": "SM-G150NS"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Folder2",
+    "device": "eliteltechn",
+    "model": "SM-G1600"
   },
   {
     "brand": "Samsung",
@@ -54218,6 +54392,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S6",
+    "device": "zerofltetfnvzw",
+    "model": "SM-S907VL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S6",
     "device": "zerofltetmo",
     "model": "SM-G920T"
   },
@@ -55156,6 +55336,12 @@
     "name": "Galaxy Tab 8.9",
     "device": "SHW-M305W",
     "model": "SHW-M305W"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1",
+    "device": "gtanotexlwifikx",
+    "model": "SM-P580"
   },
   {
     "brand": "Samsung",
@@ -58420,6 +58606,12 @@
     "name": "SH825wi",
     "device": "SH825Wi",
     "model": "SH825Wi"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP A1",
+    "device": "TSL",
+    "model": "FS8002"
   },
   {
     "brand": "Sharp",
@@ -72457,18 +72649,6 @@
   },
   {
     "brand": "ZTE",
-    "name": "Orange Dive 30",
-    "device": "P635E40",
-    "model": "Orange Dive 30"
-  },
-  {
-    "brand": "ZTE",
-    "name": "Orange Dive 30",
-    "device": "P635E40",
-    "model": "ZTE Blade A410"
-  },
-  {
-    "brand": "ZTE",
     "name": "Orange Hi 4G",
     "device": "Orange_Hi_4G",
     "model": "Orange Hi 4G"
@@ -76510,6 +76690,12 @@
     "name": "Zilo",
     "device": "Zilo",
     "model": "Zilo"
+  },
+  {
+    "brand": "Zuk",
+    "name": "Lenovo Z2 Plus",
+    "device": "z2_plus_hw",
+    "model": "ZUK Z2132"
   },
   {
     "brand": "Zuk",
