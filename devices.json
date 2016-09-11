@@ -151,6 +151,12 @@
   },
   {
     "brand": "AG Mobile",
+    "name": "STYLE PLUS",
+    "device": "STYLE_PLUS",
+    "model": "STYLE_PLUS"
+  },
+  {
+    "brand": "AG Mobile",
     "name": "Shine",
     "device": "Shine",
     "model": "Shine"
@@ -3307,12 +3313,6 @@
   },
   {
     "brand": "Asus",
-    "name": "ASUS ZenWatch 2",
-    "device": "sparrow",
-    "model": "ASUS ZenWatch 2"
-  },
-  {
-    "brand": "Asus",
     "name": "ASUSPRO Tablet (M1000C)",
     "device": "P023_M",
     "model": "P023"
@@ -3895,6 +3895,18 @@
   },
   {
     "brand": "Asus",
+    "name": "X008DA",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008DA"
+  },
+  {
+    "brand": "Asus",
+    "name": "X008DB",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008DB"
+  },
+  {
+    "brand": "Asus",
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
@@ -4201,6 +4213,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone Zoom (ZX551ML)",
+    "device": "Z00X_2",
+    "model": "ASUS_Z00XS"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone3",
     "device": "ASUS_Z017D_1",
     "model": "ASUS_Z017D"
@@ -4396,6 +4414,12 @@
     "name": "ZenPadC 7.0 (Z170MG)",
     "device": "P001_2",
     "model": "P001_2"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenWatch 2",
+    "device": "sparrow",
+    "model": "ASUS ZenWatch 2"
   },
   {
     "brand": "Asus",
@@ -5599,6 +5623,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Energy Diamond Mini",
+    "device": "ENERGY_DIAMOND_MINI",
+    "model": "ENERGY_DIAMOND_MINI"
+  },
+  {
+    "brand": "Blu",
     "name": "Energy X 2",
     "device": "BLU_Energy_X_2",
     "model": "Energy X 2"
@@ -5794,6 +5824,12 @@
     "name": "Studio G HD",
     "device": "STUDIO_G_HD",
     "model": "STUDIO_G_HD"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio G Plus HD",
+    "device": "Studio_G_Plus_HD",
+    "model": "Studio G Plus HD"
   },
   {
     "brand": "Blu",
@@ -26551,6 +26587,12 @@
   },
   {
     "brand": "Kyocera",
+    "name": "DuraForce PRO",
+    "device": "E6820",
+    "model": "KYOCERA-E6820"
+  },
+  {
+    "brand": "Kyocera",
     "name": "DuraForce XD",
     "device": "E6790",
     "model": "KYOCERA-E6790"
@@ -42256,6 +42298,12 @@
     "name": "OnePlus One",
     "device": "A0001",
     "model": "One"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus X",
+    "device": "OnePlus",
+    "model": "ONE E1003"
   },
   {
     "brand": "OnePlus",
@@ -59013,6 +59061,12 @@
     "brand": "Sony",
     "name": "NW-ZX1",
     "device": "icx1240",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-ZX2",
+    "device": "icx1265",
     "model": "WALKMAN"
   },
   {
