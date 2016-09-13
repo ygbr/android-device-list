@@ -5101,6 +5101,12 @@
   },
   {
     "brand": "Beeline",
+    "name": "Beeline Pro5",
+    "device": "Beeline_Pro_5",
+    "model": "A451"
+  },
+  {
+    "brand": "Beeline",
     "name": "Beeline Smart 6",
     "device": "Beeline_Smart_6",
     "model": "Beeline Smart 6"
@@ -18853,6 +18859,18 @@
   },
   {
     "brand": "Hisense",
+    "name": "PX510",
+    "device": "PX510",
+    "model": "PX510"
+  },
+  {
+    "brand": "Hisense",
+    "name": "PX530",
+    "device": "PX8",
+    "model": "PX8"
+  },
+  {
+    "brand": "Hisense",
     "name": "S1",
     "device": "HS8937QC",
     "model": "S1"
@@ -22357,12 +22375,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "HUAWEI P7-L11",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L11"
-  },
-  {
-    "brand": "Huawei",
     "name": "HUAWEI P9 lite",
     "device": "HWVNS-H",
     "model": "HUAWEI VNS-L21"
@@ -23269,45 +23281,51 @@
   },
   {
     "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L05"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L07"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L11"
+  },
+  {
+    "brand": "Huawei",
+    "name": "P7",
+    "device": "hwp7",
+    "model": "HUAWEI P7-L12"
+  },
+  {
+    "brand": "Huawei",
     "name": "P7 mini",
     "device": "hwP7Mini",
     "model": "HUAWEI P7 mini"
   },
   {
     "brand": "Huawei",
-    "name": "P7-L00",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L00"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P7-L05",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L05"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P7-L07",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L07"
-  },
-  {
-    "brand": "Huawei",
     "name": "P7-L09",
     "device": "hwp7",
     "model": "HUAWEI P7-L09"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P7-L10",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L10"
-  },
-  {
-    "brand": "Huawei",
-    "name": "P7-L12",
-    "device": "hwp7",
-    "model": "HUAWEI P7-L12"
   },
   {
     "brand": "Huawei",
@@ -29647,6 +29665,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Gentle",
+    "device": "cfm",
+    "model": "LG-F660L"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Gpad X 10.1",
     "device": "t1lte",
     "model": "LG-V930"
@@ -31153,6 +31177,18 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Treasure",
+    "device": "m1",
+    "model": "LGL51AL"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Treasure",
+    "device": "m1",
+    "model": "LGL52VL"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Tribute 2\\xe2\\x84\\xa2",
     "device": "c50",
     "model": "LGLS665"
@@ -31273,6 +31309,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG X Style",
+    "device": "k6b",
+    "model": "LGLS676"
+  },
+  {
+    "brand": "LGE",
     "name": "LG X cam",
     "device": "k7",
     "model": "LG-F690L"
@@ -31311,7 +31353,19 @@
     "brand": "LGE",
     "name": "LG X power",
     "device": "k6p",
+    "model": "LG-K212"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "k6p",
     "model": "LG-K450"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "k6p",
+    "model": "LGUS610"
   },
   {
     "brand": "LGE",
@@ -31324,6 +31378,12 @@
     "name": "LG X power",
     "device": "mk6p",
     "model": "LG-K220"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X power",
+    "device": "mk6p55",
+    "model": "LGLS755"
   },
   {
     "brand": "LGE",
@@ -36116,6 +36176,12 @@
   {
     "brand": "Lenovo",
     "name": "Lenovo TAB3 7 Plus",
+    "device": "TB-7703N",
+    "model": "Lenovo TB-7703N"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB3 7 Plus",
     "device": "TB-7703X",
     "model": "Lenovo TB-7703X"
   },
@@ -36172,6 +36238,18 @@
     "name": "Lenovo TB2-X30M",
     "device": "TB2-X30M",
     "model": "Lenovo TB2-X30M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB3-601LV",
+    "device": "601LV",
+    "model": "601LV"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB3-602LV",
+    "device": "602LV",
+    "model": "602LV"
   },
   {
     "brand": "Lenovo",
@@ -36349,6 +36427,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Yoga TAB3 Plus",
+    "device": "YT-X703F",
+    "model": "Lenovo YT-X703F"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo YogaTablet2 -1050F",
     "device": "YT2",
     "model": "YOGA Tablet 2-1050F"
@@ -36454,6 +36538,12 @@
     "name": "Lenvo S960",
     "device": "S960_ROW",
     "model": "Lenovo S960"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Leovo VIBE K6 Note",
+    "device": "K53a48",
+    "model": "Lenovo K53a48"
   },
   {
     "brand": "Lenovo",
@@ -36955,6 +37045,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-4004",
+    "device": "LS-4004",
+    "model": "LS-4004"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-4006",
     "device": "LS-4006",
     "model": "LYF_LS-4006"
@@ -36997,6 +37093,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-5013",
+    "device": "LS-5013",
+    "model": "LS-5013"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-5016",
     "device": "LS-5016",
     "model": "LS-5016"
@@ -37030,6 +37132,12 @@
     "name": "LS-5503",
     "device": "P839F50",
     "model": "LS-5503"
+  },
+  {
+    "brand": "Lyf",
+    "name": "LS-6001",
+    "device": "LS-6001",
+    "model": "LS-6001"
   },
   {
     "brand": "Lyf",
@@ -40927,9 +41035,15 @@
   },
   {
     "brand": "Myphone",
-    "name": "My92 DTV",
+    "name": "MyPhone My92 DTV",
     "device": "MyPhone_my92_DTV",
     "model": "MyPhone my92 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my81DTV",
+    "device": "MyPhone_my87_DTV",
+    "model": "MyPhone my87 DTV"
   },
   {
     "brand": "Myphone",
@@ -40942,6 +41056,12 @@
     "name": "my85 DTV",
     "device": "MyPhone_my85_DTV",
     "model": "MyPhone my85 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "my86 DTV",
+    "device": "MyPhone_my86_DTV",
+    "model": "MyPhone_my86_DTV"
   },
   {
     "brand": "Myphone",
@@ -43612,6 +43732,12 @@
     "name": "Eluga Icon 2",
     "device": "ELUGA_Icon2",
     "model": "Panasonic ELUGA Icon 2"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "Eluga Tapp",
+    "device": "Eluga_TAPP",
+    "model": "Panasonic ELUGA Tapp"
   },
   {
     "brand": "Panasonic",
@@ -46699,6 +46825,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "JazzX JS7 PRO",
+    "device": "JS7_PRO",
+    "model": "JazzX JS7 PRO"
+  },
+  {
+    "brand": "QMobile",
     "name": "LT650",
     "device": "LT650",
     "model": "LT650"
@@ -46840,6 +46972,12 @@
     "name": "Z12 PRO",
     "device": "Z12_PRO",
     "model": "Z12 PRO"
+  },
+  {
+    "brand": "QMobile",
+    "name": "Z14",
+    "device": "Z14",
+    "model": "Z14"
   },
   {
     "brand": "QMobile",
@@ -57630,6 +57768,12 @@
     "model": "ETAB_S7042G"
   },
   {
+    "brand": "Sansui",
+    "name": "SANSUI Tab 7\"",
+    "device": "ETAB_I7043G_VP3",
+    "model": "ETAB_I7043G_VP3"
+  },
+  {
     "brand": "Sanyo",
     "name": "55CE6139M1",
     "device": "CEM1",
@@ -60152,6 +60296,12 @@
   {
     "brand": "Sony",
     "name": "Xperia Z4 Tablet",
+    "device": "SGP712",
+    "model": "SGP712"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Z4 Tablet",
     "device": "SGP771",
     "model": "SGP771"
   },
@@ -60166,12 +60316,6 @@
     "name": "Xperia Z4 Tablet",
     "device": "SOT31",
     "model": "SOT31"
-  },
-  {
-    "brand": "Sony",
-    "name": "Xperia Z4 tablet",
-    "device": "SGP712",
-    "model": "SGP712"
   },
   {
     "brand": "Sony",
@@ -66049,6 +66193,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "TCL 950",
+    "device": "idol4s_cn",
+    "model": "TCL 950"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "TCL A506",
     "device": "TCL_A506",
     "model": "TCL A506"
@@ -68542,6 +68692,12 @@
     "name": "vivo X6SPlusA",
     "device": "PD1515BA",
     "model": "vivo PD1515BA"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X7Plus",
+    "device": "PD1603",
+    "model": "vivo X7Plus"
   },
   {
     "brand": "Vivo",
