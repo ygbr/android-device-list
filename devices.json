@@ -5545,6 +5545,12 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU NEO XL",
+    "device": "BLU_NEO_XL",
+    "model": "BLU NEO XL"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU STUDIO G",
     "device": "BLU_STUDIO_G",
     "model": "BLU STUDIO G"
@@ -5656,6 +5662,12 @@
     "name": "LIFE ONE X",
     "device": "BLU_LIFE_ONE_X",
     "model": "BLU LIFE ONE X"
+  },
+  {
+    "brand": "Blu",
+    "name": "LIFE ONE X2",
+    "device": "Life_One_X2",
+    "model": "Life One X2"
   },
   {
     "brand": "Blu",
@@ -7318,6 +7330,12 @@
     "name": "Coolpad 3320A",
     "device": "cp3320a",
     "model": "Coolpad 3320A"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad 3600i",
+    "device": "CP3600I",
+    "model": "Coolpad 3600I"
   },
   {
     "brand": "Coolpad",
@@ -9502,6 +9520,12 @@
     "name": "Cirrus 2",
     "device": "Cirrus_2",
     "model": "FS504"
+  },
+  {
+    "brand": "Fly",
+    "name": "Cirrus 8",
+    "device": "Cirrus_8",
+    "model": "FS514"
   },
   {
     "brand": "Fly",
@@ -22141,6 +22165,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI G9 Plus",
+    "device": "HWMLA",
+    "model": "HUAWEI MLA-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI G9 Plus",
+    "device": "HWMLA",
+    "model": "HUAWEI MLA-UL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI G9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
     "device": "HWVNS-Q",
     "model": "HUAWEI VNS-AL00"
@@ -27370,12 +27406,6 @@
     "name": "",
     "device": "ku9500",
     "model": "KU9500"
-  },
-  {
-    "brand": "LGE",
-    "name": "",
-    "device": "l1e",
-    "model": "LG-P875"
   },
   {
     "brand": "LGE",
@@ -40243,6 +40273,12 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto G (4) Play",
+    "device": "harpia_n",
+    "model": "Moto G Play"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto G Google Play edition",
     "device": "falcon_umts",
     "model": "XT1032"
@@ -40340,8 +40376,8 @@
   {
     "brand": "Motorola",
     "name": "Moto G4 Play",
-    "device": "harpia_n",
-    "model": "Moto G Play"
+    "device": "harpia",
+    "model": "XT1609"
   },
   {
     "brand": "Motorola",
@@ -59221,6 +59257,12 @@
   },
   {
     "brand": "Sony",
+    "name": "NWZ-ZX1",
+    "device": "icx1240",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
     "name": "SmartWatch 3",
     "device": "tetra",
     "model": "SmartWatch 3"
@@ -62377,6 +62419,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "5023E",
+    "device": "Pixi4PlusPower",
+    "model": "5023E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "5023F",
     "device": "Pixi4PlusPower",
     "model": "5023F"
@@ -62698,6 +62746,12 @@
     "name": "6055B",
     "device": "idol4",
     "model": "6055B"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "6055D",
+    "device": "idol4",
+    "model": "6055D"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -64594,6 +64648,12 @@
     "name": "Alcatel_5056O",
     "device": "Pop355",
     "model": "Alcatel_5056O"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel_5098O",
+    "device": "Pixi4-64GMEX",
+    "model": "Alcatel_5098O"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -77194,6 +77254,12 @@
     "name": "i-mobile IQ II",
     "device": "imobileiq2_sprout",
     "model": "i-mobile IQ II"
+  },
+  {
+    "brand": "i-Mobile",
+    "name": "i-mobile i-STYLE 812 4G",
+    "device": "i_style_812_4G",
+    "model": "i-mobile i-STYLE 812 4G"
   },
   {
     "brand": "i-mobile",
