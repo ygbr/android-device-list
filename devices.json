@@ -8076,6 +8076,54 @@
     "model": "NID_7010"
   },
   {
+    "brand": "DL",
+    "name": "DL 3406",
+    "device": "G02DL",
+    "model": "Tablet DL 3406"
+  },
+  {
+    "brand": "DL",
+    "name": "DL3920",
+    "device": "Tablet_DL_3920",
+    "model": "Tablet_DL_3920"
+  },
+  {
+    "brand": "DL",
+    "name": "DL_3420",
+    "device": "Tablet_DL_3420",
+    "model": "Tablet DL 3420"
+  },
+  {
+    "brand": "DL",
+    "name": "DL_3420",
+    "device": "Tablet_DL_3420",
+    "model": "Tablet_DL_3420"
+  },
+  {
+    "brand": "DL",
+    "name": "DL_3903",
+    "device": "Tablet_DL_3903",
+    "model": "Tablet_DL_3903"
+  },
+  {
+    "brand": "DL",
+    "name": "TabKids Plus",
+    "device": "TabKids_Plus",
+    "model": "Tablet DL 3411"
+  },
+  {
+    "brand": "DL",
+    "name": "X_Quad_Pro",
+    "device": "X_Quad_Pro",
+    "model": "Tablet DL 3410"
+  },
+  {
+    "brand": "DL",
+    "name": "i-Player_KIDS",
+    "device": "Tablet_DL_3910",
+    "model": "Tablet_DL_3910"
+  },
+  {
     "brand": "Danew",
     "name": "DANEW Dslide971DC",
     "device": "Dslide971DC",
@@ -19264,6 +19312,12 @@
     "name": "A-DA",
     "device": "e1853",
     "model": "MY15ADA"
+  },
+  {
+    "brand": "Honda",
+    "name": "A-DA",
+    "device": "vcm30t30",
+    "model": "MY17ADA"
   },
   {
     "brand": "Honda",
@@ -45193,9 +45247,21 @@
   },
   {
     "brand": "Plusone",
+    "name": "Priori 3",
+    "device": "FTJ152A",
+    "model": "FTJ152A"
+  },
+  {
+    "brand": "Plusone",
     "name": "Priori3S",
     "device": "FTJ152B",
     "model": "FTJ152B"
+  },
+  {
+    "brand": "Plusone",
+    "name": "Smart HD",
+    "device": "Smart_HD",
+    "model": "Smart_HD"
   },
   {
     "brand": "Polaris",
@@ -47356,6 +47422,12 @@
     "name": "LS-5506",
     "device": "LS-5506",
     "model": "LS-5506"
+  },
+  {
+    "brand": "Reliance",
+    "name": "RC501L",
+    "device": "RC501L",
+    "model": "RC501L"
   },
   {
     "brand": "Reliance",
