@@ -9571,6 +9571,12 @@
   },
   {
     "brand": "Fly",
+    "name": "Cirrus 6",
+    "device": "Cirrus_6",
+    "model": "Cirrus 6"
+  },
+  {
+    "brand": "Fly",
     "name": "Cirrus 8",
     "device": "Cirrus_8",
     "model": "FS514"
@@ -40609,6 +40615,12 @@
   },
   {
     "brand": "Motorola",
+    "name": "Moto X Pro (China)",
+    "device": "shamu_t",
+    "model": "Moto X Pro"
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto X Pure Edition",
     "device": "clark",
     "model": "XT1575"
@@ -42436,6 +42448,12 @@
     "name": "OBJ SJ1.5",
     "device": "SJ1-5",
     "model": "SJ1-5"
+  },
+  {
+    "brand": "Obi",
+    "name": "Obi MV1",
+    "device": "yam",
+    "model": "OBI MV1"
   },
   {
     "brand": "Obi",
@@ -45232,6 +45250,12 @@
     "name": "FTU152D",
     "device": "FTU152D",
     "model": "FTU152D"
+  },
+  {
+    "brand": "Plusone",
+    "name": "Fun +",
+    "device": "FTU161G",
+    "model": "FTU161G"
   },
   {
     "brand": "Plusone",
@@ -59380,6 +59404,12 @@
     "name": "Xperia  E1 dual",
     "device": "D2114",
     "model": "D2114"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia  M",
+    "device": "C1905",
+    "model": "C1905"
   },
   {
     "brand": "Sony",
