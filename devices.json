@@ -3895,6 +3895,12 @@
   },
   {
     "brand": "Asus",
+    "name": "X008D",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008D"
+  },
+  {
+    "brand": "Asus",
     "name": "X008DA",
     "device": "ASUS_X008",
     "model": "ASUS_X008DA"
@@ -11503,15 +11509,33 @@
   },
   {
     "brand": "Gini",
+    "name": "n7",
+    "device": "n7",
+    "model": "n7"
+  },
+  {
+    "brand": "Gini",
     "name": "s4",
     "device": "s4",
     "model": "s4"
   },
   {
     "brand": "Gini",
+    "name": "s4_pro",
+    "device": "s4_pro",
+    "model": "s4_pro"
+  },
+  {
+    "brand": "Gini",
     "name": "w5",
     "device": "w5",
     "model": "w5"
+  },
+  {
+    "brand": "Gini",
+    "name": "w6",
+    "device": "w6",
+    "model": "w6"
   },
   {
     "brand": "Gionee",
@@ -22783,6 +22807,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAZ",
+    "model": "HUAWEI CAZ-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAZ",
+    "model": "HUAWEI CAZ-AL10"
+  },
+  {
+    "brand": "Huawei",
     "name": "HW-03E",
     "device": "HW-03E",
     "model": "HW-03E"
@@ -24817,6 +24853,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",
+    "device": "hwSCL-Q",
+    "model": "SCL-AL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-AL10"
@@ -24850,6 +24892,36 @@
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
     "device": "hwedison",
     "model": "EDI-DL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+    "device": "hwCHM-H",
+    "model": "CHM-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+    "device": "hwCHM-H",
+    "model": "CHM-TL00H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+    "device": "hwCHM-H",
+    "model": "CHM-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+    "device": "hnCHE-H",
+    "model": "CHE-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+    "device": "hnCHE-H",
+    "model": "CHE-TL00H"
   },
   {
     "brand": "Huawei",
@@ -41143,7 +41215,7 @@
   },
   {
     "brand": "Myphone",
-    "name": "MyPhone my81DTV",
+    "name": "MyPhone my87DTV",
     "device": "MyPhone_my87_DTV",
     "model": "MyPhone my87 DTV"
   },
@@ -46951,6 +47023,18 @@
   },
   {
     "brand": "QMobile",
+    "name": "J7",
+    "device": "J7",
+    "model": "J7"
+  },
+  {
+    "brand": "QMobile",
+    "name": "JS10",
+    "device": "JAZZX_JS10",
+    "model": "JAZZX JS10"
+  },
+  {
+    "brand": "QMobile",
     "name": "JazzX JS7 PRO",
     "device": "JS7_PRO",
     "model": "JazzX JS7 PRO"
@@ -47050,6 +47134,12 @@
     "name": "S6",
     "device": "QMobileS6",
     "model": "QMobile S6"
+  },
+  {
+    "brand": "QMobile",
+    "name": "S6 PLUS",
+    "device": "QMobile_S6_PLUS",
+    "model": "QMobile S6 PLUS"
   },
   {
     "brand": "QMobile",
@@ -62845,6 +62935,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "6055A",
+    "device": "idol4",
+    "model": "6055A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "6055B",
     "device": "idol4",
     "model": "6055B"
@@ -69790,6 +69886,12 @@
     "name": "U FEEL FAB",
     "device": "V3991AN",
     "model": "U FEEL FAB"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL GO",
+    "device": "P4661AN",
+    "model": "U FEEL GO"
   },
   {
     "brand": "Wiko",
