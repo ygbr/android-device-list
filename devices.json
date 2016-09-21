@@ -3085,7 +3085,7 @@
   },
   {
     "brand": "Ark",
-    "name": "ARK Benefit_M8",
+    "name": "ARK Benefit M8",
     "device": "Benefit_M8",
     "model": "Benefit_M8"
   },
@@ -5347,19 +5347,19 @@
   },
   {
     "brand": "BenQ",
+    "name": "Harrier",
+    "device": "Harrier",
+    "model": "Harrier from EE"
+  },
+  {
+    "brand": "BenQ",
     "name": "Harrier Mini",
     "device": "harrier_mini",
     "model": "Harrier Mini from EE"
   },
   {
     "brand": "BenQ",
-    "name": "Harrier from EE",
-    "device": "Harrier",
-    "model": "Harrier from EE"
-  },
-  {
-    "brand": "BenQ",
-    "name": "Harrier_Tab",
+    "name": "Harrier Tab",
     "device": "harrier_tab",
     "model": "Harrier Tab from EE"
   },
@@ -5539,27 +5539,9 @@
   },
   {
     "brand": "Blu",
-    "name": "BLU ENERGY X PLUS 2",
-    "device": "BLU_ENERGY_X_PLUS_2",
-    "model": "BLU ENERGY X PLUS 2"
-  },
-  {
-    "brand": "Blu",
     "name": "BLU LIFE XL",
     "device": "BLU_LIFE_XL",
     "model": "BLU LIFE XL"
-  },
-  {
-    "brand": "Blu",
-    "name": "BLU NEO XL",
-    "device": "BLU_NEO_XL",
-    "model": "BLU NEO XL"
-  },
-  {
-    "brand": "Blu",
-    "name": "BLU STUDIO G",
-    "device": "BLU_STUDIO_G",
-    "model": "BLU STUDIO G"
   },
   {
     "brand": "Blu",
@@ -5599,6 +5581,12 @@
   },
   {
     "brand": "Blu",
+    "name": "DIAMOND M",
+    "device": "BLU_DIAMOND_M",
+    "model": "DIAMOND M"
+  },
+  {
+    "brand": "Blu",
     "name": "Dash 4.5",
     "device": "D730",
     "model": "Dash 4.5"
@@ -5608,12 +5596,6 @@
     "name": "Dash X",
     "device": "BLU_DASH_X",
     "model": "BLU DASH X"
-  },
-  {
-    "brand": "Blu",
-    "name": "Diamond M",
-    "device": "BLU_DIAMOND_M",
-    "model": "DIAMOND M"
   },
   {
     "brand": "Blu",
@@ -5629,19 +5611,25 @@
   },
   {
     "brand": "Blu",
+    "name": "ENERGY DIAMOND MINI",
+    "device": "ENERGY_DIAMOND_MINI",
+    "model": "ENERGY_DIAMOND_MINI"
+  },
+  {
+    "brand": "Blu",
     "name": "ENERGY M",
     "device": "BLU_ENERGY_M",
     "model": "BLU ENERGY M"
   },
   {
     "brand": "Blu",
-    "name": "ENERGY_DIAMOND_MINI",
-    "device": "ENERGY_DIAMOND_MINI",
-    "model": "ENERGY_DIAMOND_MINI"
+    "name": "ENERGY X PLUS 2",
+    "device": "BLU_ENERGY_X_PLUS_2",
+    "model": "BLU ENERGY X PLUS 2"
   },
   {
     "brand": "Blu",
-    "name": "Energy Diamond Mini",
+    "name": "ENERGY_DIAMOND_MINI",
     "device": "ENERGY_DIAMOND_MINI",
     "model": "ENERGY_DIAMOND_MINI"
   },
@@ -5761,6 +5749,12 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO G",
+    "device": "BLU_STUDIO_G",
+    "model": "BLU STUDIO G"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO G HD",
     "device": "Studio_G_HD",
     "model": "BLU Studio G HD"
@@ -5779,6 +5773,12 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO G PLUS HD",
+    "device": "Studio_G_Plus_HD",
+    "model": "Studio G Plus HD"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO G2",
     "device": "BLU_STUDIO_G2",
     "model": "BLU STUDIO G2"
@@ -5788,6 +5788,12 @@
     "name": "STUDIO M HD",
     "device": "BLU_STUDIO_M_HD",
     "model": "STUDIO M HD"
+  },
+  {
+    "brand": "Blu",
+    "name": "STUDIO M LTE",
+    "device": "BLU_STUDIO_M_LTE",
+    "model": "STUDIO M LTE"
   },
   {
     "brand": "Blu",
@@ -5848,18 +5854,6 @@
     "name": "Studio G HD",
     "device": "STUDIO_G_HD",
     "model": "STUDIO_G_HD"
-  },
-  {
-    "brand": "Blu",
-    "name": "Studio G Plus HD",
-    "device": "Studio_G_Plus_HD",
-    "model": "Studio G Plus HD"
-  },
-  {
-    "brand": "Blu",
-    "name": "Studio M LTE",
-    "device": "BLU_STUDIO_M_LTE",
-    "model": "STUDIO M LTE"
   },
   {
     "brand": "Blu",
@@ -6667,7 +6661,7 @@
   },
   {
     "brand": "Click",
-    "name": "Click Tab 7\\xe2\\x80\\x9d",
+    "name": "Click Tab 7\"",
     "device": "I7043G",
     "model": "I7043G"
   },
@@ -8626,6 +8620,12 @@
     "name": "DMX-ST7A",
     "device": "DMX-ST7A",
     "model": "DMX-ST7A"
+  },
+  {
+    "brand": "E-Boda",
+    "name": "Eclipse G500M",
+    "device": "Eclipse_G500M",
+    "model": "Eclipse_G500M"
   },
   {
     "brand": "EBN",
@@ -16555,13 +16555,13 @@
   },
   {
     "brand": "Hipstreet",
-    "name": "Beeline smart 4",
+    "name": "Beeline Smart 4",
     "device": "Beeline_Smart_4",
     "model": "Beeline Smart 4"
   },
   {
     "brand": "Hipstreet",
-    "name": "Beeline_Smart_5",
+    "name": "Beeline Smart 5",
     "device": "Beeline_Smart_5",
     "model": "Beeline Smart 5"
   },
@@ -16687,6 +16687,12 @@
   },
   {
     "brand": "Hipstreet",
+    "name": "LS-5507",
+    "device": "LYF_LS_5507",
+    "model": "LS-5507"
+  },
+  {
+    "brand": "Hipstreet",
     "name": "LS-6001",
     "device": "LS-6001",
     "model": "LS-6001"
@@ -16699,7 +16705,7 @@
   },
   {
     "brand": "Hipstreet",
-    "name": "Nanho_T775",
+    "name": "Nanho T775",
     "device": "Nanho_T775",
     "model": "Nanho_T775"
   },
@@ -21289,6 +21295,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "C8813D",
+    "device": "hwc8813",
+    "model": "HUAWEI C8813D"
+  },
+  {
+    "brand": "Huawei",
     "name": "C8813DQ",
     "device": "hwC8813DQ",
     "model": "HUAWEI C8813DQ"
@@ -22171,6 +22183,24 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI FRD-L02",
+    "device": "HWFRD",
+    "model": "FRD-L02"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI FRD-L09",
+    "device": "HWFRD",
+    "model": "FRD-L09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI FRD-L19",
+    "device": "HWFRD",
+    "model": "FRD-L19"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI G630",
     "device": "hwG630-T00",
     "model": "HUAWEI G630-T00"
@@ -22342,6 +22372,12 @@
     "name": "HUAWEI H871G",
     "device": "hwh871g",
     "model": "HUAWEI H871G"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MLA-L01",
+    "device": "HWMLA",
+    "model": "HUAWEI MLA-L01"
   },
   {
     "brand": "Huawei",
@@ -22960,6 +22996,30 @@
     "name": "Honor Box voice",
     "device": "HWM311",
     "model": "M311"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor V8",
+    "device": "HWKNT",
+    "model": "KNT-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor V8",
+    "device": "HWKNT",
+    "model": "KNT-AL20"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor V8",
+    "device": "HWKNT",
+    "model": "KNT-TL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor V8",
+    "device": "HWKNT",
+    "model": "KNT-UL10"
   },
   {
     "brand": "Huawei",
@@ -24862,6 +24922,12 @@
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
     "device": "HNKIW-Q",
     "model": "KIW-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+    "device": "HNKIW-Q",
+    "model": "KIW-AL20"
   },
   {
     "brand": "Huawei",
@@ -29275,6 +29341,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad X\\xc2\\xae II 10.1",
+    "device": "b5",
+    "model": "LGUK750"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
     "device": "b3",
     "model": "LG-V520"
@@ -31444,6 +31516,12 @@
     "name": "LG Wine Smart Jazz",
     "device": "cf",
     "model": "LG-F610S"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X Screen",
+    "device": "k5",
+    "model": "LGK500J"
   },
   {
     "brand": "LGE",
@@ -41202,6 +41280,18 @@
     "model": "GoTab_GBT10"
   },
   {
+    "brand": "MyPhone (PL)",
+    "name": "myPhone C-Smart IIIS",
+    "device": "C_Smart_IIIS",
+    "model": "C-Smart IIIS"
+  },
+  {
+    "brand": "MyPhone (PL)",
+    "name": "myPhone Luna II",
+    "device": "LUNA_II_OPM",
+    "model": "LUNA_II"
+  },
+  {
     "brand": "Myphone",
     "name": "Cube LTE",
     "device": "CUBE_LTE_PLAY",
@@ -41209,15 +41299,21 @@
   },
   {
     "brand": "Myphone",
-    "name": "MyPhone My92 DTV",
-    "device": "MyPhone_my92_DTV",
-    "model": "MyPhone my92 DTV"
-  },
-  {
-    "brand": "Myphone",
     "name": "MyPhone my87DTV",
     "device": "MyPhone_my87_DTV",
     "model": "MyPhone my87 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my88 DTV",
+    "device": "MyPhone_my88_DTV",
+    "model": "MyPhone my88 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my92 DTV",
+    "device": "MyPhone_my92_DTV",
+    "model": "MyPhone my92 DTV"
   },
   {
     "brand": "Myphone",
@@ -41236,18 +41332,6 @@
     "name": "my86 DTV",
     "device": "MyPhone_my86_DTV",
     "model": "MyPhone_my86_DTV"
-  },
-  {
-    "brand": "Myphone",
-    "name": "myPhone C-Smart IIIS",
-    "device": "C_Smart_IIIS",
-    "model": "C-Smart IIIS"
-  },
-  {
-    "brand": "Myphone",
-    "name": "myPhone Luna II",
-    "device": "LUNA_II_OPM",
-    "model": "LUNA_II"
   },
   {
     "brand": "NAXA",
@@ -41977,6 +42061,18 @@
   },
   {
     "brand": "Neffos",
+    "name": "C5",
+    "device": "C5",
+    "model": "Neffos C5"
+  },
+  {
+    "brand": "Neffos",
+    "name": "C5 Max",
+    "device": "C5_Max",
+    "model": "Neffos C5 Max"
+  },
+  {
+    "brand": "Neffos",
     "name": "C5L",
     "device": "QC601",
     "model": "TP601A"
@@ -42001,25 +42097,13 @@
   },
   {
     "brand": "Neffos",
-    "name": "Neffos C5",
-    "device": "C5",
-    "model": "Neffos C5"
-  },
-  {
-    "brand": "Neffos",
-    "name": "Neffos C5 Max",
-    "device": "C5_Max",
-    "model": "Neffos C5 Max"
-  },
-  {
-    "brand": "Neffos",
-    "name": "Neffos Y5",
+    "name": "Y5",
     "device": "Y5",
     "model": "Neffos Y5"
   },
   {
     "brand": "Neffos",
-    "name": "Neffos Y5L",
+    "name": "Y5L",
     "device": "Y5L",
     "model": "Neffos Y5L"
   },
@@ -42139,7 +42223,7 @@
   },
   {
     "brand": "Njoy",
-    "name": "Chronos_10",
+    "name": "nJoy Chronos 10",
     "device": "Chronos_10",
     "model": "Chronos_10"
   },
@@ -57992,6 +58076,12 @@
   {
     "brand": "Sansui",
     "name": "SANSUI Tab 7\"",
+    "device": "ETAB_I7043G",
+    "model": "ETAB_I7043G"
+  },
+  {
+    "brand": "Sansui",
+    "name": "SANSUI Tab 7\"",
     "device": "ETAB_I7043G_VP3",
     "model": "ETAB_I7043G_VP3"
   },
@@ -58804,6 +58894,12 @@
     "name": "LC-A1H",
     "device": "a1h",
     "model": "LC-A1H"
+  },
+  {
+    "brand": "Sharp",
+    "name": "LC-LE580X",
+    "device": "lc_le580x",
+    "model": "LC-LE580X"
   },
   {
     "brand": "Sharp",
@@ -68563,15 +68659,33 @@
   },
   {
     "brand": "Vestel",
+    "name": "Venus V3 5010",
+    "device": "DynoLight",
+    "model": "Venus_V3_5010"
+  },
+  {
+    "brand": "Vestel",
     "name": "Venus V3 5020",
     "device": "Arya",
     "model": "Venus_V3_5020"
   },
   {
     "brand": "Vestel",
+    "name": "Venus V3 5030",
+    "device": "Dyno",
+    "model": "Venus_V3_5030"
+  },
+  {
+    "brand": "Vestel",
     "name": "Venus V3 5040",
     "device": "Venus_V3_5040",
     "model": "Venus_V3_5040"
+  },
+  {
+    "brand": "Vestel",
+    "name": "Venus V3 5040",
+    "device": "Venus_V3_5045",
+    "model": "Venus_V3_5040_2GB"
   },
   {
     "brand": "Vestel",
@@ -68584,24 +68698,6 @@
     "name": "Venus V3 5570",
     "device": "Venus_V3_5570",
     "model": "Venus_V3_5570"
-  },
-  {
-    "brand": "Vestel",
-    "name": "Venus_V3_5040",
-    "device": "Venus_V3_5045",
-    "model": "Venus_V3_5040_2GB"
-  },
-  {
-    "brand": "Vestel",
-    "name": "venus_v3_5010",
-    "device": "DynoLight",
-    "model": "Venus_V3_5010"
-  },
-  {
-    "brand": "Vestel",
-    "name": "venus_v3_5030",
-    "device": "Dyno",
-    "model": "Venus_V3_5030"
   },
   {
     "brand": "ViewSonic",
