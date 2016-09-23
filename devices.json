@@ -469,6 +469,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer Chromebook R11 (C738T)",
+    "device": "cyan_cheets",
+    "model": "Acer Chromebook R11"
+  },
+  {
+    "brand": "Acer",
     "name": "Aspire A3",
     "device": "aa3-600",
     "model": "AA3-600"
@@ -3340,6 +3346,12 @@
     "name": "ASUS_ Zenfone Max",
     "device": "ASUS_Z010_2",
     "model": "ASUS_Z010DD"
+  },
+  {
+    "brand": "Asus",
+    "name": "Asus Chromebook Flip C100PA",
+    "device": "minnie_cheets",
+    "model": "ASUS Chromebook Flip C100PA"
   },
   {
     "brand": "Asus",
@@ -6943,6 +6955,18 @@
   },
   {
     "brand": "Condor",
+    "name": "PGN522",
+    "device": "PGN522",
+    "model": "PGN522"
+  },
+  {
+    "brand": "Condor",
+    "name": "PGN523",
+    "device": "PGN523",
+    "model": "PGN523"
+  },
+  {
+    "brand": "Condor",
     "name": "PGN605",
     "device": "PGN605",
     "model": "PGN605"
@@ -6970,6 +6994,12 @@
     "name": "PGN609",
     "device": "PGN609",
     "model": "PGN609"
+  },
+  {
+    "brand": "Condor",
+    "name": "PGN611",
+    "device": "PGN611",
+    "model": "PGN611"
   },
   {
     "brand": "Condor",
@@ -19934,12 +19964,6 @@
   {
     "brand": "Huawei",
     "name": "",
-    "device": "hwc8826D",
-    "model": "HUAWEI C8826D"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
     "device": "hwc8850",
     "model": "HUAWEI-C8850"
   },
@@ -20720,12 +20744,6 @@
   {
     "brand": "Huawei",
     "name": "",
-    "device": "hwu8812D",
-    "model": "U8812D"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
     "device": "hwu8815",
     "model": "HUAWEI Ascend G 300"
   },
@@ -20824,18 +20842,6 @@
     "name": "",
     "device": "hwu8825D",
     "model": "HUAWEI U8825D"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
-    "device": "hwu8832D",
-    "model": "U8832D"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
-    "device": "hwu8836D",
-    "model": "U8836D"
   },
   {
     "brand": "Huawei",
@@ -21076,12 +21082,6 @@
     "name": "",
     "device": "hwy210-2010",
     "model": "HUAWEI Y210-2010"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
-    "device": "hwy220t",
-    "model": "HUAWEI Y 220T"
   },
   {
     "brand": "Huawei",
@@ -21394,6 +21394,12 @@
     "name": "C8818",
     "device": "hwC8818",
     "model": "HUAWEI C8818"
+  },
+  {
+    "brand": "Huawei",
+    "name": "C8826D",
+    "device": "hwc8826D",
+    "model": "HUAWEI C8826D"
   },
   {
     "brand": "Huawei",
@@ -22072,6 +22078,12 @@
     "name": "G7500",
     "device": "HWG7500",
     "model": "HUAWEI G7500"
+  },
+  {
+    "brand": "Huawei",
+    "name": "GR5W",
+    "device": "HWH1621-Q",
+    "model": "H1621"
   },
   {
     "brand": "Huawei",
@@ -23055,7 +23067,31 @@
     "brand": "Huawei",
     "name": "Honor 8",
     "device": "HWFRD",
+    "model": "FRD-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 8",
+    "device": "HWFRD",
+    "model": "FRD-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 8",
+    "device": "HWFRD",
+    "model": "FRD-DL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 8",
+    "device": "HWFRD",
     "model": "FRD-L04"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 8",
+    "device": "HWFRD",
+    "model": "FRD-TL00"
   },
   {
     "brand": "Huawei",
@@ -24055,6 +24091,24 @@
   },
   {
     "brand": "Huawei",
+    "name": "U8812D",
+    "device": "hwu8812D",
+    "model": "U8812D"
+  },
+  {
+    "brand": "Huawei",
+    "name": "U8832D",
+    "device": "hwu8832D",
+    "model": "U8832D"
+  },
+  {
+    "brand": "Huawei",
+    "name": "U8836D",
+    "device": "hwu8836D",
+    "model": "U8836D"
+  },
+  {
+    "brand": "Huawei",
     "name": "UNION",
     "device": "hwY538",
     "model": "Y538"
@@ -24163,6 +24217,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "Y220T",
+    "device": "hwy220t",
+    "model": "HUAWEI Y 220T"
+  },
+  {
+    "brand": "Huawei",
     "name": "Y221-U03",
     "device": "HWY221-U",
     "model": "HUAWEI Y221-U03"
@@ -24244,6 +24304,18 @@
     "name": "Y301A2",
     "device": "hwY301A2",
     "model": "Huawei Y301A2"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Y310-5000",
+    "device": "hwy310-5000",
+    "model": "HUAWEI Y310-5000"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Y310-T10",
+    "device": "hwy310-t10",
+    "model": "HUAWEI Y310-T10"
   },
   {
     "brand": "Huawei",
@@ -25516,6 +25588,18 @@
     "name": "Infinix-X521",
     "device": "Infinix-X521-Pro",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X552",
+    "device": "INFINIX-X552",
+    "model": "Infinix-X552"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X552-C1",
+    "device": "INFINIX-X552",
+    "model": "Infinix-X552"
   },
   {
     "brand": "Infinix",
@@ -41464,6 +41548,12 @@
     "name": "myPhone Luna II",
     "device": "LUNA_II_OPM",
     "model": "LUNA_II"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my81 DTV",
+    "device": "MyPhone_my81_DTV",
+    "model": "MyPhone my81 DTV"
   },
   {
     "brand": "Myphone",
@@ -77680,6 +77770,12 @@
     "name": "Aquaris X5",
     "device": "Aquaris_X5",
     "model": "Aquaris X5"
+  },
+  {
+    "brand": "bq",
+    "name": "Aquaris X5 Plus",
+    "device": "Aquaris_X5_Plus",
+    "model": "Aquaris X5 Plus"
   },
   {
     "brand": "bq",
