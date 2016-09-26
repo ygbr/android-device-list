@@ -10074,6 +10074,12 @@
     "model": "IQ4511 TR"
   },
   {
+    "brand": "Fly",
+    "name": "marmite",
+    "device": "marmite",
+    "model": "Wileyfox Swift 2 Plus"
+  },
+  {
     "brand": "Fossil",
     "name": "Fossil Q Founder",
     "device": "grant",
@@ -22393,6 +22399,48 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L05"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "HUAWEI KII-L33"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWKII-Q",
+    "model": "KII-L21"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI GT3",
     "device": "HWNMO-H",
     "model": "HUAWEI NMO-L21"
@@ -22540,6 +22588,12 @@
     "name": "HUAWEI MediaPad T2 10.0 pro",
     "device": "HWFDR",
     "model": "FDR-A03L"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MediaPad T2 7.0",
+    "device": "hwbgo",
+    "model": "BGO-DL09"
   },
   {
     "brand": "Huawei",
@@ -23194,6 +23248,12 @@
     "name": "Ice-Twist",
     "device": "Ice-Twist",
     "model": "Ice-Twist"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Kiwi-2",
+    "device": "HWH710VL-Q",
+    "model": "H1622"
   },
   {
     "brand": "Huawei",
@@ -24976,6 +25036,30 @@
     "name": "eH811",
     "device": "hweH811",
     "model": "eH811"
+  },
+  {
+    "brand": "Huawei",
+    "name": "honor 5X",
+    "device": "HNKIW-Q",
+    "model": "KIW-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "honor 5X",
+    "device": "HNKIW-Q",
+    "model": "KIW-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "honor 5X",
+    "device": "HNKIW-Q",
+    "model": "KIW-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "honor 5X",
+    "device": "HNKIW-Q",
+    "model": "KIW-L24"
   },
   {
     "brand": "Huawei",
@@ -41551,6 +41635,18 @@
   },
   {
     "brand": "Myphone",
+    "name": "MyPhone my28S",
+    "device": "MyPhone_my28S",
+    "model": "MyPhone my28S"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my75 DTV",
+    "device": "MyPhone_my75_DTV",
+    "model": "MyPhone my75 DTV"
+  },
+  {
+    "brand": "Myphone",
     "name": "MyPhone my81 DTV",
     "device": "MyPhone_my81_DTV",
     "model": "MyPhone my81 DTV"
@@ -43456,6 +43552,12 @@
     "name": "OPPO R9k",
     "device": "R9",
     "model": "OPPO R9k"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9k",
+    "device": "R9",
+    "model": "OPPO R9km"
   },
   {
     "brand": "Oppo",
@@ -45544,6 +45646,12 @@
     "name": "W8555",
     "device": "Pride",
     "model": "Philips W8555"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "CyberNavi",
+    "device": "AVIC_CE900",
+    "model": "jupiter"
   },
   {
     "brand": "Pioneer",
@@ -53167,6 +53275,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy On7(2016)",
+    "device": "on7xelte",
+    "model": "SM-G610F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7(2016)",
+    "device": "on7xltechn",
+    "model": "SM-G6100"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Player",
     "device": "YP-GB70",
     "model": "YP-GB70"
@@ -56185,6 +56305,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1(2016)",
+    "device": "gtanotexllte",
+    "model": "SM-P585"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A 10.1(2016)",
+    "device": "gtanotexllte",
+    "model": "SM-P585Y"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab A 7.0",
     "device": "gtexslte",
     "model": "SM-T285"
@@ -56782,6 +56914,12 @@
     "name": "Galaxy Tab S2 9.7",
     "device": "gts210veltechn",
     "model": "SM-T819C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
+    "device": "gts210veltetmo",
+    "model": "SM-T818T"
   },
   {
     "brand": "Samsung",
@@ -60451,6 +60589,12 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia X",
+    "device": "suzu",
+    "model": "F5121"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia X Compact",
     "device": "F5321",
     "model": "F5321"
@@ -60544,6 +60688,18 @@
     "name": "Xperia XA Ultra",
     "device": "F3216",
     "model": "F3216"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XZ",
+    "device": "F8331",
+    "model": "F8331"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XZ",
+    "device": "F8332",
+    "model": "F8332"
   },
   {
     "brand": "Sony",
@@ -62362,6 +62518,12 @@
     "name": "ZVII",
     "device": "ZVII",
     "model": "ZVII"
+  },
+  {
+    "brand": "Symphony",
+    "name": "i20",
+    "device": "i20",
+    "model": "i20"
   },
   {
     "brand": "T-Mobile",
