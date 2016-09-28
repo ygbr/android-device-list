@@ -2605,6 +2605,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Alba 4",
+    "device": "ac40ne",
+    "model": "ALBA 4"
+  },
+  {
+    "brand": "Archos",
     "name": "Alba 4\" Android",
     "device": "ac40dti",
     "model": "Alba 4\" Android"
@@ -2668,6 +2674,12 @@
     "name": "Archos 40 Helium",
     "device": "ac40he",
     "model": "Archos 40 Helium"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 40 Neon",
+    "device": "ac40ne",
+    "model": "Archos 40 Neon"
   },
   {
     "brand": "Archos",
@@ -4468,6 +4480,18 @@
     "name": "Zenfone 3 Deluxe (ZS570KL)",
     "device": "Z016",
     "model": "ASUS_Z016D"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone 3 Deluxe (ZS570KL)",
+    "device": "Z016",
+    "model": "ASUS_Z016DA"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone 3 Deluxe (ZS570KL)",
+    "device": "Z016",
+    "model": "ASUS_Z016S"
   },
   {
     "brand": "Asus",
@@ -9673,12 +9697,6 @@
   },
   {
     "brand": "Fly",
-    "name": "Fly",
-    "device": "porridgek3",
-    "model": "Wileyfox Spark X"
-  },
-  {
-    "brand": "Fly",
     "name": "Fly Cirrus 3",
     "device": "Cirrus_3",
     "model": "FS506"
@@ -10072,12 +10090,6 @@
     "name": "Tornado One",
     "device": "IQ4511_Octa",
     "model": "IQ4511 TR"
-  },
-  {
-    "brand": "Fly",
-    "name": "marmite",
-    "device": "marmite",
-    "model": "Wileyfox Swift 2 Plus"
   },
   {
     "brand": "Fossil",
@@ -18151,6 +18163,12 @@
   },
   {
     "brand": "Hisense",
+    "name": "Hisense U989 Pro",
+    "device": "HS6580MT",
+    "model": "Hisense U989 Pro"
+  },
+  {
+    "brand": "Hisense",
     "name": "I300T",
     "device": "I300T",
     "model": "Hisense I300T"
@@ -22597,6 +22615,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI MediaPad T2 7.0",
+    "device": "hwbgo",
+    "model": "BGO-L03"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI MediaPad X1 7.0",
     "device": "hw7d501l",
     "model": "7D-501u"
@@ -22785,6 +22809,12 @@
     "brand": "Huawei",
     "name": "HUAWEI Y5II",
     "device": "HWCUN-L6735",
+    "model": "HUAWEI CUN-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5II",
+    "device": "HWCUN-L6735",
     "model": "HUAWEI CUN-L21"
   },
   {
@@ -22864,18 +22894,6 @@
     "name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
     "device": "HWLYO-L6735",
     "model": "HUAWEI LYO-L01"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
-    "device": "HWLYO-L6735",
-    "model": "HUAWEI LYO-L21"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
-    "device": "HWLYO-L6735",
-    "model": "LYO-L21"
   },
   {
     "brand": "Huawei",
@@ -23050,6 +23068,18 @@
     "name": "Honor 4A",
     "device": "hnSCL-Q",
     "model": "SCL-TL00H"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 5A",
+    "device": "HWLYO-L6735",
+    "model": "HUAWEI LYO-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Honor 5A",
+    "device": "HWLYO-L6735",
+    "model": "LYO-L21"
   },
   {
     "brand": "Huawei",
@@ -25672,6 +25702,12 @@
     "name": "Infinix-X521",
     "device": "Infinix-X521-Pro",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X521S",
+    "device": "Infinix-X521",
+    "model": "Infinix-X521S"
   },
   {
     "brand": "Infinix",
@@ -36853,6 +36889,30 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo VIBE K6",
+    "device": "K33a48",
+    "model": "Lenovo K33a48"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo VIBE K6",
+    "device": "K33b36",
+    "model": "Lenovo K33b36"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo VIBE K6",
+    "device": "K33b37",
+    "model": "Lenovo K33b37"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo VIBE K6 Power",
+    "device": "K33a42",
+    "model": "Lenovo K33a42"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo VIBE X3 Lite",
     "device": "A7010a48",
     "model": "Lenovo A7010a48"
@@ -36922,6 +36982,18 @@
     "name": "Lenovo X3c70",
     "device": "X3c70",
     "model": "Lenovo X3c70"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo YOGA BOOK",
+    "device": "yeti",
+    "model": "Lenovo YB1-X90F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo YOGA BOOK",
+    "device": "yeti",
+    "model": "Lenovo YB1-X90L"
   },
   {
     "brand": "Lenovo",
@@ -41671,6 +41743,12 @@
   },
   {
     "brand": "Myphone",
+    "name": "MyPhone my96 DTV",
+    "device": "MyPhone_my96_DTV",
+    "model": "MyPhone my96 DTV"
+  },
+  {
+    "brand": "Myphone",
     "name": "UNO",
     "device": "UNO_sprout",
     "model": "MyPhone UNO"
@@ -42586,6 +42664,12 @@
     "name": "COOLPIX S810c",
     "device": "s810c",
     "model": "COOLPIX S810c"
+  },
+  {
+    "brand": "Njoy",
+    "name": "nJoy Arcas 7",
+    "device": "Arcas_7",
+    "model": "nJoy_Arcas_7"
   },
   {
     "brand": "Njoy",
@@ -63907,6 +63991,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "ALCATEL A466BG",
+    "device": "PIXI4_4TF",
+    "model": "A466BG"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "ALCATEL A564C",
     "device": "Yaris5NA",
     "model": "ALCATEL A564C"
@@ -66597,6 +66687,12 @@
     "brand": "TCT (Alcatel)",
     "name": "PIXI4 (3.5)",
     "device": "PIXI4-35",
+    "model": "4017S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI4 (3.5)",
+    "device": "PIXI4-35",
     "model": "4017X"
   },
   {
@@ -66853,6 +66949,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "SHINE LITE",
+    "device": "shine_lite",
+    "model": "5080X"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "SMART 4G 5.5 Enterprise",
     "device": "M812",
     "model": "SMART 4G 5.5 Enterprise"
@@ -67018,6 +67120,12 @@
     "name": "TCL 302U",
     "device": "Festa5_CU",
     "model": "TCL 302U"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "TCL 520",
+    "device": "shine_lite",
+    "model": "TCL 520"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -67678,6 +67786,18 @@
     "name": "alcatel PIXI 4 (5.5)",
     "device": "PIXI4_55_3G",
     "model": "5012D"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "alcatel PIXI 4 (5.5)",
+    "device": "PIXI4_55_3G",
+    "model": "5012F"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "alcatel PIXI 4 (5.5)",
+    "device": "PIXI4_55_3G",
+    "model": "5012G"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -70537,6 +70657,12 @@
   },
   {
     "brand": "Wileyfox",
+    "name": "Spark X",
+    "device": "porridgek3",
+    "model": "Wileyfox Spark X"
+  },
+  {
+    "brand": "Wileyfox",
     "name": "Storm",
     "device": "kipper",
     "model": "Wileyfox Storm"
@@ -70546,6 +70672,18 @@
     "name": "Swift",
     "device": "crackling",
     "model": "Wileyfox Swift"
+  },
+  {
+    "brand": "Wileyfox",
+    "name": "Swift 2 Plus",
+    "device": "marmite",
+    "model": "Swift 2"
+  },
+  {
+    "brand": "Wileyfox",
+    "name": "Swift 2 Plus",
+    "device": "marmite",
+    "model": "Wileyfox Swift 2 Plus"
   },
   {
     "brand": "Wintec",
