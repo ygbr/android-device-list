@@ -5989,6 +5989,12 @@
   },
   {
     "brand": "Boost",
+    "name": "Shaker-Slim",
+    "device": "Shaker-Slim",
+    "model": "Shaker-Slim"
+  },
+  {
+    "brand": "Boost",
     "name": "ShakerBeat",
     "device": "ShakerBeat",
     "model": "ShakerBeat"
@@ -6004,12 +6010,6 @@
     "name": "X4503",
     "device": "X4503",
     "model": "X4503"
-  },
-  {
-    "brand": "Boost",
-    "name": "skaker slim",
-    "device": "Shaker-Slim",
-    "model": "Shaker-Slim"
   },
   {
     "brand": "Borqs",
@@ -8140,6 +8140,12 @@
     "name": "DINOSAUR",
     "device": "x5623_h6013_cubot",
     "model": "CUBOT DINOSAUR"
+  },
+  {
+    "brand": "Cubot",
+    "name": "NOTE S",
+    "device": "CUBOT_NOTE_S",
+    "model": "CUBOT_NOTE_S"
   },
   {
     "brand": "Cubot",
@@ -23584,6 +23590,12 @@
     "name": "MediaPad",
     "device": "hwt1701",
     "model": "T1-701ua"
+  },
+  {
+    "brand": "Huawei",
+    "name": "MediaPad",
+    "device": "hwt1701",
+    "model": "T1-701us"
   },
   {
     "brand": "Huawei",
@@ -62305,6 +62317,12 @@
   },
   {
     "brand": "Southern Telecom",
+    "name": "P909",
+    "device": "P909",
+    "model": "P909"
+  },
+  {
+    "brand": "Southern Telecom",
     "name": "Polaroid L10/P1000",
     "device": "L10",
     "model": "L10"
@@ -70675,13 +70693,13 @@
   },
   {
     "brand": "Wileyfox",
-    "name": "Swift 2 Plus",
+    "name": "Swift 2",
     "device": "marmite",
     "model": "Swift 2"
   },
   {
     "brand": "Wileyfox",
-    "name": "Swift 2 Plus",
+    "name": "Swift 2",
     "device": "marmite",
     "model": "Wileyfox Swift 2 Plus"
   },
@@ -70960,12 +70978,6 @@
     "name": "MI PAD",
     "device": "mocha",
     "model": "MI PAD"
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "MIBOX3",
-    "device": "once",
-    "model": "MIBOX3"
   },
   {
     "brand": "Xiaomi",
