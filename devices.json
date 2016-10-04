@@ -6715,6 +6715,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare J3 Plus",
+    "device": "H620",
+    "model": "Flare_J3_Plus"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare X",
     "device": "Flare_X",
     "model": "Flare_X_V2"
@@ -6742,6 +6748,12 @@
     "name": "One",
     "device": "H940_sprout",
     "model": "H940"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Spin Max",
+    "device": "H650",
+    "model": "Spin Max"
   },
   {
     "brand": "Cherry Mobile",
@@ -51907,6 +51919,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J5 Prime",
+    "device": "on5xelte",
+    "model": "SM-G570F"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J5(2016)",
     "device": "j5x3g",
     "model": "SM-J510H"
@@ -52060,12 +52078,6 @@
     "name": "Galaxy J7(2016)",
     "device": "j7xeltektt",
     "model": "SM-J710K"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy J7(2016)",
-    "device": "j7xlte",
-    "model": "SM-J710FN"
   },
   {
     "brand": "Samsung",
@@ -53648,12 +53660,6 @@
   {
     "brand": "Samsung",
     "name": "Galaxy On5(2016)",
-    "device": "on5xelte",
-    "model": "SM-G570F"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy On5(2016)",
     "device": "on5xelteins",
     "model": "SM-G570F"
   },
@@ -53672,12 +53678,6 @@
   {
     "brand": "Samsung",
     "name": "Galaxy On7",
-    "device": "o7prolte",
-    "model": "SM-G600FY"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy On7",
     "device": "on7elte",
     "model": "SM-G600F"
   },
@@ -53689,9 +53689,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy On7 Pro",
+    "device": "o7prolte",
+    "model": "SM-G600FY"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy On7(2016)",
     "device": "on7xltechn",
     "model": "SM-G6100"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On8",
+    "device": "j7xlte",
+    "model": "SM-J710FN"
   },
   {
     "brand": "Samsung",
