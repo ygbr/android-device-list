@@ -1327,6 +1327,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P41 eMagic",
+    "device": "P41_eMagic",
+    "model": "P41_eMagic_TM"
+  },
+  {
+    "brand": "AllView",
     "name": "P5 Energy",
     "device": "P5_Energy",
     "model": "P5_Energy"
@@ -1558,6 +1564,12 @@
     "name": "V2 Viper X plus",
     "device": "V2_Viper_X_plus",
     "model": "V2_Viper_X_plus"
+  },
+  {
+    "brand": "AllView",
+    "name": "V2 Viper Xe",
+    "device": "V2_Viper_Xe",
+    "model": "V2_Viper_Xe"
   },
   {
     "brand": "AllView",
@@ -34494,6 +34506,12 @@
     "model": "Le X520"
   },
   {
+    "brand": "Leeco",
+    "name": "X Serials(X43 Pro, X55, X65)",
+    "device": "DemeterUHD",
+    "model": "X4-55"
+  },
+  {
     "brand": "Lenovo",
     "name": "",
     "device": "18382AU",
@@ -37714,6 +37732,12 @@
     "name": "LifeWatch V , FGL-00004",
     "device": "hp6577_cts",
     "model": "LifeWatch V"
+  },
+  {
+    "brand": "LinkNet",
+    "name": "SH960C-LN",
+    "device": "SH960C-LN",
+    "model": "SH960C-LN"
   },
   {
     "brand": "LinkNet",
@@ -41833,12 +41857,6 @@
   },
   {
     "brand": "Motorola Solutions",
-    "name": "Moto E with 4G LTE (2nd Gen)",
-    "device": "surnia_umts",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "brand": "Motorola Solutions",
     "name": "TC55CH",
     "device": "TC55CH",
     "model": "TC55CH"
@@ -41971,6 +41989,12 @@
   },
   {
     "brand": "Myphone",
+    "name": "MyPhone my28S DTV",
+    "device": "MyPhone_my28S_DTV",
+    "model": "MyPhone my28S DTV"
+  },
+  {
+    "brand": "Myphone",
     "name": "MyPhone my72 DTV",
     "device": "MyPhone_my72_DTV",
     "model": "MyPhone my72 DTV"
@@ -41980,6 +42004,12 @@
     "name": "MyPhone my75 DTV",
     "device": "MyPhone_my75_DTV",
     "model": "MyPhone my75 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my76 DTV",
+    "device": "MyPhonemy76DTV",
+    "model": "MyPhone_my76 DTV"
   },
   {
     "brand": "Myphone",
@@ -49556,6 +49586,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy A8(2016)",
+    "device": "a8xelte",
+    "model": "SM-A810YZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A8(2016)",
     "device": "a8xelteskt",
     "model": "SM-A810S"
   },
@@ -51925,6 +51961,24 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J5 Prime",
+    "device": "on5xelte",
+    "model": "SM-G570M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5 Prime",
+    "device": "on5xelte",
+    "model": "SM-G570Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J5 Prime",
+    "device": "on5xelteins",
+    "model": "SM-G570F"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J5(2016)",
     "device": "j5x3g",
     "model": "SM-J510H"
@@ -52024,6 +52078,18 @@
     "name": "Galaxy J7 Prime",
     "device": "on7xelte",
     "model": "SM-G610F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7 Prime",
+    "device": "on7xelte",
+    "model": "SM-G610M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7 Prime",
+    "device": "on7xelte",
+    "model": "SM-G610Y"
   },
   {
     "brand": "Samsung",
@@ -53660,8 +53726,8 @@
   {
     "brand": "Samsung",
     "name": "Galaxy On5(2016)",
-    "device": "on5xelteins",
-    "model": "SM-G570F"
+    "device": "on5xlltechn",
+    "model": "SM-G5510"
   },
   {
     "brand": "Samsung",
