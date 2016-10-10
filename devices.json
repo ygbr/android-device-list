@@ -1285,6 +1285,12 @@
   },
   {
     "brand": "AllView",
+    "name": "E3 Jump",
+    "device": "E3_Jump",
+    "model": "E3_Jump"
+  },
+  {
+    "brand": "AllView",
     "name": "E3 Living",
     "device": "E3_Living",
     "model": "E3_Living"
@@ -2449,6 +2455,18 @@
   },
   {
     "brand": "Archos",
+    "name": "55 Cobalt Plus",
+    "device": "ac55cop",
+    "model": "Archos 55 Cobalt Plus"
+  },
+  {
+    "brand": "Archos",
+    "name": "55 Cobalt Plus",
+    "device": "ac55cop",
+    "model": "Archos 55 Cobalt plus"
+  },
+  {
+    "brand": "Archos",
     "name": "55b Platinum",
     "device": "ac55bpl",
     "model": "Archos 55B Platinum"
@@ -2707,6 +2725,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 101XS3",
+    "device": "ac101xs3",
+    "model": "Archos 101XS3"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 101b Copper",
     "device": "ac101bcv",
     "model": "Archos 101b Copper"
@@ -2731,9 +2755,21 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 101c Copper",
+    "device": "ac101ccv",
+    "model": "Archos 101c Copper"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 101c Neon",
     "device": "ac101cne",
     "model": "Archos 101c Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 101e Neon",
+    "device": "ac101enev2",
+    "model": "Archos 101e Neon"
   },
   {
     "brand": "Archos",
@@ -2803,6 +2839,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 50 Power",
+    "device": "ac50po",
+    "model": "Archos 50 Power"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 50 d Helium",
     "device": "ac50dhe",
     "model": "AC50DHE"
@@ -2824,6 +2866,18 @@
     "name": "Archos 50e Neon",
     "device": "ac50ene",
     "model": "Archos 50e Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 55 Diamond Selfie",
+    "device": "ac55diselfie",
+    "model": "Archos 55 diamond Selfie"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 55 Helium",
+    "device": "ac55he",
+    "model": "Archos 55 Helium"
   },
   {
     "brand": "Archos",
@@ -2971,9 +3025,21 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 97c Platinum",
+    "device": "ac97cpl",
+    "model": "Archos 97c Platinum"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos ArcBook",
     "device": "a101db",
     "model": "Archos 101 DB"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos Diamond 2 plus",
+    "device": "ac55di2plus",
+    "model": "Archos 55 Diamond 2 Plus"
   },
   {
     "brand": "Archos",
@@ -3034,6 +3100,12 @@
     "name": "Auchan Selecline 10",
     "device": "SELECLINE10",
     "model": "Selecline 10"
+  },
+  {
+    "brand": "Archos",
+    "name": "BUSH SPIRA B3 5.5",
+    "device": "ac55cop",
+    "model": "BUSH SPIRA B3 5.5"
   },
   {
     "brand": "Archos",
@@ -4402,6 +4474,12 @@
     "name": "ZenFone3",
     "device": "ASUS_Z017D_1",
     "model": "ASUS_Z017D"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone3",
+    "device": "ASUS_Z017D_1",
+    "model": "ASUS_Z017DA"
   },
   {
     "brand": "Asus",
@@ -5869,6 +5947,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Life Max",
+    "device": "Life_Max",
+    "model": "Life Max"
+  },
+  {
+    "brand": "Blu",
     "name": "NEO ENERGY MINI",
     "device": "BLU_NEO_ENERGY_MINI",
     "model": "BLU NEO ENERGY MINI"
@@ -6049,6 +6133,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Studio C HD",
+    "device": "Studio_C_HD",
+    "model": "Studio C HD"
+  },
+  {
+    "brand": "Blu",
     "name": "Studio G HD",
     "device": "STUDIO_G_HD",
     "model": "STUDIO_G_HD"
@@ -6070,6 +6160,12 @@
     "name": "Studio X Mini",
     "device": "BLU_STUDIO_X_MINI",
     "model": "BLU STUDIO X MINI"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio XL 2",
+    "device": "Studio_XL_2",
+    "model": "Studio XL 2"
   },
   {
     "brand": "Blu",
@@ -6226,6 +6322,12 @@
     "name": "BUSH SPIRA D3 5.5",
     "device": "ac55diplus",
     "model": "BUSH SPIRA D3 5.5"
+  },
+  {
+    "brand": "Bush",
+    "name": "BUSH SPIRA E3X 5.5",
+    "device": "ac55di2plus",
+    "model": "BUSH SPIRA E3X 5.5"
   },
   {
     "brand": "Bush",
@@ -7585,6 +7687,18 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Cool C1",
+    "device": "cool_c1",
+    "model": "C106"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Cool C1",
+    "device": "cool_c1",
+    "model": "C106-9"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolmini",
     "device": "Coolmini",
     "model": "Coolmini"
@@ -7600,6 +7714,18 @@
     "name": "Coolpad 3320A",
     "device": "cp3320a",
     "model": "Coolpad 3320A"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad 3503I",
+    "device": "CP3503I",
+    "model": "Coolpad 3503I"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad 3503I",
+    "device": "CP3503I",
+    "model": "Coolpad CP3503I"
   },
   {
     "brand": "Coolpad",
@@ -7855,6 +7981,12 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Coolpad 8722_S00",
+    "device": "CP8722_S00",
+    "model": "Coolpad E570"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolpad 8729",
     "device": "Coolpad8729",
     "model": "Coolpad 8729"
@@ -7951,9 +8083,21 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Coolpad C103",
+    "device": "C103",
+    "model": "C103"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolpad CK2-01",
     "device": "CK2-01",
     "model": "CK2-01"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad CK3-01",
+    "device": "CK3-01",
+    "model": "CK3-01"
   },
   {
     "brand": "Coolpad",
@@ -7966,6 +8110,12 @@
     "name": "Coolpad Flo",
     "device": "7560T",
     "model": "Coolpad Flo"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad K2L_S00",
+    "device": "K2L_S00",
+    "model": "Coolpad E580"
   },
   {
     "brand": "Coolpad",
@@ -8308,6 +8458,12 @@
     "name": "ivvi i3-01",
     "device": "i3-01",
     "model": "ivvi i3-01"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "ivvi i3P-02",
+    "device": "i3P-02",
+    "model": "ivvi i3P-02"
   },
   {
     "brand": "Crosscall",
@@ -12265,9 +12421,21 @@
   },
   {
     "brand": "Google",
+    "name": "Pixel",
+    "device": "sailfish",
+    "model": "Pixel"
+  },
+  {
+    "brand": "Google",
     "name": "Pixel C",
     "device": "dragon",
     "model": "Pixel C"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel XL",
+    "device": "marlin",
+    "model": "Pixel XL"
   },
   {
     "brand": "Google",
@@ -37351,6 +37519,24 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo YT3-X90L/YOGA3 Tablet Pro",
+    "device": "YT3",
+    "model": "Lenovo YT3-X90L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo YT3-X90X/YOGA3 Tablet Pro",
+    "device": "YT3",
+    "model": "Lenovo YT3-X90X"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo YT3-X90Y/YOGA3 Tablet Pro",
+    "device": "YT3",
+    "model": "Lenovo YT3-X90Y"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Yoga TAB3 Plus",
     "device": "YT-X703F",
     "model": "Lenovo YT-X703F"
@@ -37762,6 +37948,24 @@
     "name": "FieldBook E1",
     "device": "FieldBook_E1",
     "model": "FieldBook_E1"
+  },
+  {
+    "brand": "Logic Instrument",
+    "name": "Fieldbook F1",
+    "device": "lifbf1",
+    "model": "Logic Instrument Fieldbook F1"
+  },
+  {
+    "brand": "Logic Instrument",
+    "name": "Fieldbook F53",
+    "device": "lifbf53",
+    "model": "Logic Instrument Fieldbook F53"
+  },
+  {
+    "brand": "Logic Instrument",
+    "name": "Fieldbook K80",
+    "device": "lifbk80",
+    "model": "Logic Instrument Fieldbook K80"
   },
   {
     "brand": "Logicom",
@@ -43470,6 +43674,12 @@
     "model": "DP-X1"
   },
   {
+    "brand": "Onkyo",
+    "name": "DP-X1A",
+    "device": "Rai_Zin2R_64",
+    "model": "DP-X1A"
+  },
+  {
     "brand": "OpenPeak",
     "name": "",
     "device": "CIUS-7",
@@ -45666,6 +45876,18 @@
     "model": "OT-310"
   },
   {
+    "brand": "Pavapro",
+    "name": "PavaPro7bk",
+    "device": "Pavapro7bk",
+    "model": "Pavapro7bk"
+  },
+  {
+    "brand": "Pavapro",
+    "name": "Pavapro10",
+    "device": "Pavapro10bk",
+    "model": "Pavapro10bk"
+  },
+  {
     "brand": "Pegatron",
     "name": "",
     "device": "Duke3G",
@@ -46084,6 +46306,12 @@
     "name": "XDP-100R",
     "device": "Fu_Zin_32",
     "model": "XDP-100R"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "XDP-300R",
+    "device": "Fu_Zin2R_32",
+    "model": "XDP-300R"
   },
   {
     "brand": "Plaisio",
@@ -48679,9 +48907,27 @@
   },
   {
     "brand": "STK(Santok)",
+    "name": "Storm 2e Pluz",
+    "device": "Storm_2e_Pluz",
+    "model": "Storm 2e Pluz"
+  },
+  {
+    "brand": "STK(Santok)",
     "name": "Storm 3",
     "device": "W230",
     "model": "STK Storm 3"
+  },
+  {
+    "brand": "STK(Santok)",
+    "name": "Sync 5e",
+    "device": "STK_Sync_5e",
+    "model": "STK_Sync_5e"
+  },
+  {
+    "brand": "STK(Santok)",
+    "name": "Sync 5z",
+    "device": "STK_Sync_5z",
+    "model": "STK Sync 5z"
   },
   {
     "brand": "STOREX",
@@ -72892,6 +73138,12 @@
     "name": "A1P",
     "device": "ailsa",
     "model": "A1P"
+  },
+  {
+    "brand": "ZTE",
+    "name": "A1R",
+    "device": "billy",
+    "model": "A1"
   },
   {
     "brand": "ZTE",
