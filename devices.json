@@ -19694,7 +19694,19 @@
   {
     "brand": "Hisense",
     "name": "VIDAA_TV",
+    "device": "Hi3751v620",
+    "model": "VIDAA_TV"
+  },
+  {
+    "brand": "Hisense",
+    "name": "VIDAA_TV",
     "device": "MSD6A828",
+    "model": "VIDAA_TV"
+  },
+  {
+    "brand": "Hisense",
+    "name": "VIDAA_TV",
+    "device": "MSD6A938",
     "model": "VIDAA_TV"
   },
   {
@@ -36811,6 +36823,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo P2",
+    "device": "P2a42",
+    "model": "Lenovo P2a42"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo P2",
+    "device": "kuntao",
+    "model": "Lenovo P2c72"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo P70",
     "device": "P70-A",
     "model": "Lenovo P70-A"
@@ -37543,6 +37567,18 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Yoga TAB3 Plus",
+    "device": "YT-X703L",
+    "model": "Lenovo YT-X703L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Yoga TAB3 Plus",
+    "device": "YT-X703X",
+    "model": "Lenovo YT-X703X"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo YogaTablet2 -1050F",
     "device": "YT2",
     "model": "YOGA Tablet 2-1050F"
@@ -37666,6 +37702,18 @@
     "name": "Moto E3 Power",
     "device": "taido_row",
     "model": "XT1706"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Motorola M",
+    "device": "XT1663",
+    "model": "XT1663"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Motorola Moto M",
+    "device": "kungfu_m",
+    "model": "XT1662"
   },
   {
     "brand": "Lenovo",
@@ -51949,6 +51997,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J1 Mini Prime",
+    "device": "j1minive3g",
+    "model": "SM-J106H"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J1(2016)",
     "device": "j1x3g",
     "model": "SM-J120H"
@@ -59065,6 +59119,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "J1 Mini Prime",
+    "device": "j1minivelte",
+    "model": "SM-J106F"
+  },
+  {
+    "brand": "Samsung",
     "name": "Moment",
     "device": "SPH-M900",
     "model": "SPH-M900"
@@ -63232,6 +63292,12 @@
     "name": "Roar A50",
     "device": "Roar_A50_sprout",
     "model": "Roar_A50"
+  },
+  {
+    "brand": "Symphony",
+    "name": "SYMPHONY R100",
+    "device": "R100",
+    "model": "Symphony R100"
   },
   {
     "brand": "Symphony",
@@ -71635,6 +71701,12 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "MIBOX3",
+    "device": "once",
+    "model": "MIBOX3"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "MIBOXPRO",
     "device": "kungfupanda",
     "model": "MiBOX_PRO"
@@ -75832,6 +75904,12 @@
     "name": "ZTE BV0720T",
     "device": "P650A30",
     "model": "ZTE BV0720T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A210",
+    "device": "ZTE_Blade_A210",
+    "model": "ZTE BLADE A210"
   },
   {
     "brand": "ZTE",
