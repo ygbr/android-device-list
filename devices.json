@@ -2353,9 +2353,21 @@
   },
   {
     "brand": "Archos",
+    "name": "45c Titanium",
+    "device": "ac45cti",
+    "model": "Archos 45c Titanium"
+  },
+  {
+    "brand": "Archos",
     "name": "45d Platinum",
     "device": "ac45dpl",
     "model": "Archos 45d Platinum"
+  },
+  {
+    "brand": "Archos",
+    "name": "50 Cobalt",
+    "device": "ac50co",
+    "model": "Archos 50 Cobalt"
   },
   {
     "brand": "Archos",
@@ -2419,6 +2431,12 @@
   },
   {
     "brand": "Archos",
+    "name": "50b Oxygen",
+    "device": "a50box",
+    "model": "Archos 50b Oxygen"
+  },
+  {
+    "brand": "Archos",
     "name": "50b Platinum",
     "device": "ac50bpl",
     "model": "Archos 50b Platinum"
@@ -2434,6 +2452,12 @@
     "name": "50c Oxygen",
     "device": "a50cox",
     "model": "Archos 50c Oxygen"
+  },
+  {
+    "brand": "Archos",
+    "name": "50c Platinum",
+    "device": "ac50cpl",
+    "model": "Archos 50c Platinum"
   },
   {
     "brand": "Archos",
@@ -2677,6 +2701,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Alba 10\"",
+    "device": "ac101cpl",
+    "model": "Alba 10\""
+  },
+  {
+    "brand": "Archos",
     "name": "Alba 4",
     "device": "ac40ne",
     "model": "ALBA 4"
@@ -2692,6 +2722,18 @@
     "name": "Alba 5",
     "device": "ac50dne",
     "model": "ALBA 5"
+  },
+  {
+    "brand": "Archos",
+    "name": "Alba 7''",
+    "device": "ac70plv4",
+    "model": "Alba 7\""
+  },
+  {
+    "brand": "Archos",
+    "name": "Alba 8",
+    "device": "ac80cplv2",
+    "model": "Alba 8\""
   },
   {
     "brand": "Archos",
@@ -2716,6 +2758,12 @@
     "name": "Archos 101 Xenon",
     "device": "ac101xev2",
     "model": "Archos 101 Xenon v2"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 101 Xenon Lite",
+    "device": "ac101xel",
+    "model": "Archos 101 Xenon Lite"
   },
   {
     "brand": "Archos",
@@ -2764,6 +2812,18 @@
     "name": "Archos 101c Neon",
     "device": "ac101cne",
     "model": "Archos 101c Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 101c Platinum",
+    "device": "ac101cpl",
+    "model": "Archos 101c Platinum"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 101d Platinum v2",
+    "device": "ac101cplv2",
+    "model": "Archos 101d Platinum v2"
   },
   {
     "brand": "Archos",
@@ -2935,15 +2995,39 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 70 Platinum v2",
+    "device": "ac70plv4",
+    "model": "Archos 70 Platinum v2"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 70 Xenon Color",
     "device": "ac70xec",
     "model": "Archos 70 Xenon Color"
   },
   {
     "brand": "Archos",
+    "name": "Archos 70 platinum",
+    "device": "ac70plv3",
+    "model": "Archos 70 Platinum v3"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 70b Cobalt",
     "device": "a70bco",
     "model": "Archos 70b Cobalt"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 70b Copper",
+    "device": "ac70bcv",
+    "model": "Archos 70b Copper"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 70b Helium",
+    "device": "ac70bhe",
+    "model": "Archos 70b Helium"
   },
   {
     "brand": "Archos",
@@ -2962,6 +3046,12 @@
     "name": "Archos 70c Titanium",
     "device": "ac70cti",
     "model": "Archos 70c Titanium"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 70c Xenon",
+    "device": "ac70cxe",
+    "model": "Archos 70c Xenon"
   },
   {
     "brand": "Archos",
@@ -3004,6 +3094,12 @@
     "name": "Archos 80b xenon",
     "device": "ac80bxe",
     "model": "Archos 80b Xenon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 80c Xenon",
+    "device": "ac80cxe",
+    "model": "Archos 80c Xenon"
   },
   {
     "brand": "Archos",
@@ -3112,6 +3208,12 @@
     "name": "BUSH SPIRA D3 5",
     "device": "ac50dox",
     "model": "BUSH SPIRA D3 5"
+  },
+  {
+    "brand": "Archos",
+    "name": "Bush 10''",
+    "device": "ac101dplv2",
+    "model": "Bush 10\" Android"
   },
   {
     "brand": "Archos",
@@ -3304,6 +3406,12 @@
     "name": "TV Connect",
     "device": "LUDO",
     "model": "ARCHOS LUDOG10"
+  },
+  {
+    "brand": "Archos",
+    "name": "alba 10",
+    "device": "ac101cplv2",
+    "model": "Alba 10\""
   },
   {
     "brand": "Ark",
@@ -3586,6 +3694,12 @@
     "name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
     "device": "P00C_M",
     "model": "P00C"
+  },
+  {
+    "brand": "Asus",
+    "name": "Commercial tablet 8\\xe2\\x80\\x9d (R800M)",
+    "device": "P00A_M",
+    "model": "P00A"
   },
   {
     "brand": "Asus",
@@ -4315,6 +4429,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone 3 Deluxe",
+    "device": "Z016",
+    "model": "ASUS_Z016S"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone 4 (A400CG)",
     "device": "ASUS_T00I",
     "model": "ASUS_T00I"
@@ -4534,6 +4654,12 @@
     "name": "ZenPad 3 8.0",
     "device": "P008_2",
     "model": "P008"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenPad 3S 10 LTE (Z500KL)",
+    "device": "ASUS_P00I",
+    "model": "ASUS_P00I"
   },
   {
     "brand": "Asus",
@@ -6328,6 +6454,12 @@
     "name": "BUSH SPIRA E3X 5.5",
     "device": "ac55di2plus",
     "model": "BUSH SPIRA E3X 5.5"
+  },
+  {
+    "brand": "Bush",
+    "name": "Bush 5 android",
+    "device": "ac50cpl",
+    "model": "Bush 5 Android"
   },
   {
     "brand": "Bush",
@@ -9628,6 +9760,12 @@
     "name": "EssentielB Smart'TAB 9001",
     "device": "fiber-smart",
     "model": "Smart'TAB 9001"
+  },
+  {
+    "brand": "Estar",
+    "name": "eSTAR GRAND HD Quad Core",
+    "device": "MID1198",
+    "model": "eSTAR GRAND HD Quad core"
   },
   {
     "brand": "Etuline",
@@ -13708,6 +13846,12 @@
     "name": "HTC Desire 10 lifestyle",
     "device": "htc_a56djuhl",
     "model": "HTC_D10u"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 10 lifestyle",
+    "device": "htc_a56djul",
+    "model": "HTC Desire 10 lifestyle"
   },
   {
     "brand": "HTC",
@@ -25938,6 +26082,12 @@
     "model": "IUNI N1"
   },
   {
+    "brand": "IView",
+    "name": "IVIEW 769TPC",
+    "device": "tulip-d86v",
+    "model": "769TPC"
+  },
+  {
     "brand": "Ice Phone",
     "name": "Ice Phone Mini",
     "device": "ice_phone_mini",
@@ -33997,27 +34147,27 @@
   },
   {
     "brand": "LGU+",
-    "name": "LAP250U",
+    "name": "U+ tv UHD",
+    "device": "tvg2",
+    "model": "ST940I-UP"
+  },
+  {
+    "brand": "LGU+",
+    "name": "U+ tv woofer",
     "device": "hg2",
     "model": "LAP250U"
   },
   {
     "brand": "LGU+",
-    "name": "ST940I-UP",
-    "device": "tvg2",
-    "model": "ST940I-UP"
+    "name": "U+ tv woofer",
+    "device": "hg2_iot",
+    "model": "LAP255U"
   },
   {
     "brand": "LGU+",
     "name": "WA-U420D",
     "device": "WA-U420D",
     "model": "WA-U420D"
-  },
-  {
-    "brand": "LGU+",
-    "name": "tvG woofer",
-    "device": "hg2_iot",
-    "model": "LAP255U"
   },
   {
     "brand": "LGUplus",
@@ -37279,6 +37429,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TAB3 8 Plus",
+    "device": "TB-8703R",
+    "model": "Lenovo TB-8703R"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TAB3 X70L",
     "device": "TB3-X70L",
     "model": "Lenovo TB3-X70L"
@@ -37312,6 +37468,18 @@
     "name": "Lenovo TB2-X30M",
     "device": "TB2-X30M",
     "model": "Lenovo TB2-X30M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB3 8 Plus",
+    "device": "TB-8703F",
+    "model": "Lenovo TB-8703F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB3 8 Plus",
+    "device": "TB-8703N",
+    "model": "Lenovo TB-8703N"
   },
   {
     "brand": "Lenovo",
@@ -37558,6 +37726,12 @@
     "name": "Lenovo YT3-X90Y/YOGA3 Tablet Pro",
     "device": "YT3",
     "model": "Lenovo YT3-X90Y"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo YT3-X90Z/YOGA3 Tablet Pro",
+    "device": "YT3",
+    "model": "Lenovo YT3-X90Z"
   },
   {
     "brand": "Lenovo",
@@ -43057,6 +43231,12 @@
   },
   {
     "brand": "Navon",
+    "name": "D455",
+    "device": "D455",
+    "model": "D455"
+  },
+  {
+    "brand": "Navon",
     "name": "D504",
     "device": "D504",
     "model": "D504"
@@ -43228,6 +43408,12 @@
     "name": "COOLPIX S810c",
     "device": "s810c",
     "model": "COOLPIX S810c"
+  },
+  {
+    "brand": "Nixon",
+    "name": "The Mission",
+    "device": "sculpin",
+    "model": "The Mission"
   },
   {
     "brand": "Njoy",
@@ -46335,6 +46521,12 @@
     "brand": "Pioneer",
     "name": "CyberNavi",
     "device": "AVIC_CL900",
+    "model": "jupiter"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "CyberNavi",
+    "device": "AVIC_CZ700",
     "model": "jupiter"
   },
   {
@@ -52279,6 +52471,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J5 Prime",
+    "device": "on5xltechn",
+    "model": "SM-G5700"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J5(2016)",
     "device": "j5x3g",
     "model": "SM-J510H"
@@ -52390,6 +52588,12 @@
     "name": "Galaxy J7 Prime",
     "device": "on7xelte",
     "model": "SM-G610Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7 Prime",
+    "device": "on7xltechn",
+    "model": "SM-G6100"
   },
   {
     "brand": "Samsung",
@@ -71701,12 +71905,6 @@
   },
   {
     "brand": "Xiaomi",
-    "name": "MIBOX3",
-    "device": "once",
-    "model": "MIBOX3"
-  },
-  {
-    "brand": "Xiaomi",
     "name": "MIBOXPRO",
     "device": "kungfupanda",
     "model": "MiBOX_PRO"
@@ -71740,6 +71938,12 @@
     "name": "Mi 5",
     "device": "gemini",
     "model": "MI 5"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi Box",
+    "device": "once",
+    "model": "MIBOX3"
   },
   {
     "brand": "Xiaomi",
