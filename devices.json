@@ -1387,6 +1387,12 @@
   },
   {
     "brand": "AllView",
+    "name": "P6  Plus",
+    "device": "P6_plus",
+    "model": "P6_plus"
+  },
+  {
+    "brand": "AllView",
     "name": "P6 Energy",
     "device": "P6_Energy",
     "model": "P6_Energy_TM"
@@ -3649,6 +3655,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ASUS ZenWatch 2",
+    "device": "wren",
+    "model": "ASUS ZenWatch 2"
+  },
+  {
+    "brand": "Asus",
     "name": "ASUSPRO Tablet (M1000C)",
     "device": "P023_M",
     "model": "P023"
@@ -4261,6 +4273,12 @@
   },
   {
     "brand": "Asus",
+    "name": "X008DA",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DA"
+  },
+  {
+    "brand": "Asus",
     "name": "X008DB",
     "device": "ASUS_X008",
     "model": "ASUS_X008DB"
@@ -4270,6 +4288,12 @@
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
+  },
+  {
+    "brand": "Asus",
+    "name": "X00DD",
+    "device": "ASUS_X00DD",
+    "model": "ASUS_X00DD"
   },
   {
     "brand": "Asus",
@@ -4861,6 +4885,18 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone 3 Laser",
+    "device": "Z01B_1",
+    "model": "ASUS_Z01BDC"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone 3 Laser",
+    "device": "Z01B_1",
+    "model": "ASUS_Z01BS"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone GO",
     "device": "ASUS_X013D_1",
     "model": "ASUS_X013DA"
@@ -5098,6 +5134,12 @@
     "name": "Q6T7INK",
     "device": "Q6T7INK",
     "model": "Q6T7INK"
+  },
+  {
+    "brand": "Auchan",
+    "name": "Q7S5IN4G",
+    "device": "Q7S5IN4G",
+    "model": "Q7S5IN4G"
   },
   {
     "brand": "Auchan",
@@ -8251,6 +8293,12 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Coolpad R106",
+    "device": "cpy90_g00",
+    "model": "Coolpad R106"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolpad R108",
     "device": "R108",
     "model": "Coolpad R108"
@@ -8620,6 +8668,12 @@
     "name": "DINOSAUR",
     "device": "x5623_h6013_cubot",
     "model": "CUBOT DINOSAUR"
+  },
+  {
+    "brand": "Cubot",
+    "name": "MAX",
+    "device": "x6069_cubot_5365u",
+    "model": "CUBOT MAX"
   },
   {
     "brand": "Cubot",
@@ -22075,6 +22129,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "Copper Plus",
+    "device": "HWH1611-Q",
+    "model": "H1611"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Copper Plus",
+    "device": "HWH1611-Q",
+    "model": "HUAWEI H1611"
+  },
+  {
+    "brand": "Huawei",
     "name": "D2",
     "device": "hwD2-6070",
     "model": "HUAWEI D2-6070"
@@ -22795,6 +22861,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI CAN-L01",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L01"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI CAN-L11",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L11"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI CUN-AL00",
     "device": "HWCUN-L6735",
     "model": "CUN-AL00"
@@ -23494,6 +23572,12 @@
     "name": "HUAWEI Y6II",
     "device": "HWCAM-H",
     "model": "HUAWEI CAM-U22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6II",
+    "device": "HWCAM-Q",
+    "model": "CAM-L32"
   },
   {
     "brand": "Huawei",
@@ -42691,6 +42775,18 @@
   },
   {
     "brand": "NEC",
+    "name": "LifeTouch L D000-000035-001",
+    "device": "D000000035",
+    "model": "NEC-STR"
+  },
+  {
+    "brand": "NEC",
+    "name": "LifeTouch L D000-000035-002",
+    "device": "D000000035",
+    "model": "NEC-STR"
+  },
+  {
+    "brand": "NEC",
     "name": "LifeTouch Note",
     "device": "D000000010N",
     "model": "D000-000010-N"
@@ -43240,6 +43336,18 @@
     "name": "D504",
     "device": "D504",
     "model": "D504"
+  },
+  {
+    "brand": "Navon",
+    "name": "T452",
+    "device": "T452",
+    "model": "T452"
+  },
+  {
+    "brand": "Navon",
+    "name": "T503",
+    "device": "T503",
+    "model": "T503"
   },
   {
     "brand": "Ncredible",
@@ -56851,6 +56959,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy TAB A PLUS 10.1",
+    "device": "gtaxlqltespr",
+    "model": "SM-T587P"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy TAB3 Lite",
     "device": "goyairis3g",
     "model": "SM-T116IR"
@@ -61702,6 +61816,18 @@
     "name": "Xperia XZ",
     "device": "F8332",
     "model": "F8332"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XZ",
+    "device": "SO-01J",
+    "model": "SO-01J"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia XZ",
+    "device": "SOV34",
+    "model": "SOV34"
   },
   {
     "brand": "Sony",
@@ -70380,6 +70506,18 @@
     "model": "IR8Q"
   },
   {
+    "brand": "Visiontouch",
+    "name": "Inspire",
+    "device": "VisionTouchInspire",
+    "model": "Vision Touch Inspire"
+  },
+  {
+    "brand": "Visiontouch",
+    "name": "Life",
+    "device": "VisionTouchLife",
+    "model": "VisionTouchLife"
+  },
+  {
     "brand": "Visual Land",
     "name": "Prestige Elite10QI",
     "device": "Elite10QI",
@@ -70744,6 +70882,18 @@
     "name": "vivo Y51A",
     "device": "PD1510",
     "model": "vivo Y51A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y55",
+    "device": "1603",
+    "model": "vivo 1603"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y55A",
+    "device": "PD1613",
+    "model": "vivo Y55"
   },
   {
     "brand": "Vivo",
