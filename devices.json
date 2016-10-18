@@ -2714,6 +2714,12 @@
   {
     "brand": "Archos",
     "name": "Alba 4",
+    "device": "ac40he",
+    "model": "Alba 4.0\" Smartphone"
+  },
+  {
+    "brand": "Archos",
+    "name": "Alba 4",
     "device": "ac40ne",
     "model": "ALBA 4"
   },
@@ -2743,6 +2749,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Alba 8''",
+    "device": "ac80cplv2_16G",
+    "model": "Alba 8\""
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 101 Copper",
     "device": "ac101cv",
     "model": "Archos 101 Copper"
@@ -2752,6 +2764,12 @@
     "name": "Archos 101 Helium",
     "device": "ac101he",
     "model": "Archos 101 Helium"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 101 Helium Lite",
+    "device": "ac101hel",
+    "model": "Archos 101 Helium Lite"
   },
   {
     "brand": "Archos",
@@ -2809,6 +2827,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 101b Xenon",
+    "device": "ac101bxev2",
+    "model": "Archos 101b Xenon v2"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 101c Copper",
     "device": "ac101ccv",
     "model": "Archos 101c Copper"
@@ -2833,6 +2857,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 101d Platinum v3",
+    "device": "ac101dplv3",
+    "model": "Archos 101d Platinum v3"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 101e Neon",
     "device": "ac101enev2",
     "model": "Archos 101e Neon"
@@ -2842,6 +2872,12 @@
     "name": "Archos 101e neon",
     "device": "ac101ene",
     "model": "Archos 101e Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 121 Neon",
+    "device": "ac121ne",
+    "model": "Archos 121 Neon"
   },
   {
     "brand": "Archos",
@@ -2890,6 +2926,18 @@
     "name": "Archos 45b Neon",
     "device": "ac45dpl",
     "model": "Archos 45b Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 45b Platinum",
+    "device": "ac45bpl",
+    "model": "Archos 45b Platinum"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 45c Helium",
+    "device": "ac45che",
+    "model": "Archos 45c Helium"
   },
   {
     "brand": "Archos",
@@ -2989,6 +3037,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 70 Neon Plus",
+    "device": "ac70nep",
+    "model": "Archos 70 Neon Plus"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 70 Oxygen",
     "device": "ac70ox",
     "model": "Archos 70 Oxygen"
@@ -3034,6 +3088,12 @@
     "name": "Archos 70b Helium",
     "device": "ac70bhe",
     "model": "Archos 70b Helium"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 70b Neon",
+    "device": "ac70bne",
+    "model": "Archos 70b Neon"
   },
   {
     "brand": "Archos",
@@ -3091,9 +3151,27 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 80 Platinum",
+    "device": "ac80cplv2_16G",
+    "model": "Archos 80 Platinum"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 80 Platinum v2",
+    "device": "ac80dplv2",
+    "model": "Archos 80 Platinum v2"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 80b Helium",
     "device": "ac80bhe",
     "model": "Archos 80b Helium"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 80b Helium",
+    "device": "ac80bhev2",
+    "model": "Archos 80b Helium v2"
   },
   {
     "brand": "Archos",
@@ -3283,6 +3361,18 @@
   },
   {
     "brand": "Archos",
+    "name": "Bush 8\"",
+    "device": "ac80bhe",
+    "model": "Bush 8\" LTE Android"
+  },
+  {
+    "brand": "Archos",
+    "name": "Bush 8''",
+    "device": "ac80dpl",
+    "model": "Bush 8 Android"
+  },
+  {
+    "brand": "Archos",
     "name": "Bush 8.0 MyTablet",
     "device": "ac80cpl",
     "model": "Bush 8.0 MyTablet"
@@ -3307,6 +3397,18 @@
   },
   {
     "brand": "Archos",
+    "name": "Bush Spira B1 10.1''",
+    "device": "ac101dplv3",
+    "model": "Bush Spira B1 10.1\""
+  },
+  {
+    "brand": "Archos",
+    "name": "Bush Spira B1 8''",
+    "device": "ac80dplv2",
+    "model": "Bush Spira B1 8\""
+  },
+  {
+    "brand": "Archos",
     "name": "Bush Spira B2 8 tablet",
     "device": "ac80ox",
     "model": "Bush Spira B2 8 tablet"
@@ -3319,9 +3421,33 @@
   },
   {
     "brand": "Archos",
+    "name": "Diamond Plus",
+    "device": "ac55diplus",
+    "model": "Archos 55 Diamond Plus"
+  },
+  {
+    "brand": "Archos",
+    "name": "Diamond Plus",
+    "device": "ac55diplus",
+    "model": "Archos Diamond Plus"
+  },
+  {
+    "brand": "Archos",
+    "name": "Diamond S",
+    "device": "ac50dis",
+    "model": "Archos Diamond S"
+  },
+  {
+    "brand": "Archos",
     "name": "FamilyPad 2",
     "device": "A133FP2",
     "model": "ARCHOS FAMILYPAD 2"
+  },
+  {
+    "brand": "Archos",
+    "name": "Fieldbook G1",
+    "device": "LIFBG1",
+    "model": "Logic Fieldbook G1"
   },
   {
     "brand": "Archos",
@@ -3358,6 +3484,18 @@
     "name": "QiLive 101",
     "device": "aqilive101",
     "model": "QILIVE 101"
+  },
+  {
+    "brand": "Archos",
+    "name": "Qilive 45 - 4G",
+    "device": "ql45lte",
+    "model": "Qilive 45 - 4G"
+  },
+  {
+    "brand": "Archos",
+    "name": "Qilive 50 QC",
+    "device": "ql50qc",
+    "model": "Qilive 50 QC"
   },
   {
     "brand": "Archos",
@@ -6514,6 +6652,12 @@
     "name": "Bush Spira B2 7 tablet",
     "device": "ac70ox",
     "model": "Bush Spira B2 7 tablet"
+  },
+  {
+    "brand": "Bush",
+    "name": "Bush Spira E2X 5''",
+    "device": "ac50dis",
+    "model": "Bush Spira E2X 5\" Smartphone"
   },
   {
     "brand": "Bush",
@@ -22880,6 +23024,24 @@
   {
     "brand": "Huawei",
     "name": "HUAWEI ECO",
+    "device": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI ECO",
+    "device": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L13"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI ECO",
+    "device": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI ECO",
     "device": "HWLUA-U6582",
     "model": "HUAWEI LUA-U03"
   },
@@ -22996,6 +23158,12 @@
     "name": "HUAWEI GR3",
     "device": "HWTAG-L6753",
     "model": "HUAWEI TAG-L01"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR3",
+    "device": "HWTAG-L6753",
+    "model": "HUAWEI TAG-L03"
   },
   {
     "brand": "Huawei",
@@ -23366,6 +23534,12 @@
   {
     "brand": "Huawei",
     "name": "HUAWEI Y3II",
+    "device": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3II",
     "device": "HWLUA-U6582",
     "model": "HUAWEI LUA-U02"
   },
@@ -23449,6 +23623,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI Y5II",
+    "device": "HWCUN-U6582",
+    "model": "HUAWEI CUN-U29"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI Y6 Elite",
     "device": "HWLYO-L6735",
     "model": "HUAWEI LYO-L02"
@@ -23500,6 +23680,12 @@
     "name": "HUAWEI Y6 Pro",
     "device": "HWTIT-L8916",
     "model": "HUAWEI TIT-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y6 Pro",
+    "device": "HWTIT-U6582",
+    "model": "HUAWEI TIT-U02"
   },
   {
     "brand": "Huawei",
@@ -52360,6 +52546,12 @@
     "name": "Galaxy J2",
     "device": "j2ltedtv",
     "model": "SM-J200BT"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J2 Prime",
+    "device": "grandpplte",
+    "model": "SM-G532G"
   },
   {
     "brand": "Samsung",
