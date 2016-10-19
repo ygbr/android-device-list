@@ -4423,6 +4423,12 @@
   },
   {
     "brand": "Asus",
+    "name": "X008DB",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DB"
+  },
+  {
+    "brand": "Asus",
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
@@ -12580,6 +12586,12 @@
     "name": "M6 Lite",
     "device": "GIONEE_WBL7361",
     "model": "M6 lite"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6 Plus",
+    "device": "GIONEE_BBL7516A",
+    "model": "GN8002"
   },
   {
     "brand": "Gionee",
@@ -26353,6 +26365,12 @@
   },
   {
     "brand": "IView",
+    "name": "IVIEW 1070TPC",
+    "device": "tulip-d100",
+    "model": "1070TPC"
+  },
+  {
+    "brand": "IView",
     "name": "IVIEW 769TPC",
     "device": "tulip-d86v",
     "model": "769TPC"
@@ -27328,6 +27346,12 @@
     "name": "it1556",
     "device": "itel_it1556",
     "model": "itel it1556"
+  },
+  {
+    "brand": "Itel",
+    "name": "it1556 Plus",
+    "device": "itel_it1556Plus",
+    "model": "itel it1556 Plus"
   },
   {
     "brand": "Itel",
@@ -42697,6 +42721,12 @@
   },
   {
     "brand": "Myphone",
+    "name": "MyPhone my73 DTV",
+    "device": "MyPhone_my73_DTV",
+    "model": "MyPhone my73 DTV"
+  },
+  {
+    "brand": "Myphone",
     "name": "MyPhone my75 DTV",
     "device": "MyPhone_my75_DTV",
     "model": "MyPhone my75 DTV"
@@ -42706,6 +42736,12 @@
     "name": "MyPhone my76 DTV",
     "device": "MyPhonemy76DTV",
     "model": "MyPhone_my76 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my77 DTV",
+    "device": "MyPhone_my77_DTV",
+    "model": "MyPhone my77 DTV"
   },
   {
     "brand": "Myphone",
@@ -71896,6 +71932,12 @@
     "name": "U FEEL",
     "device": "P6609BCD",
     "model": "U FEEL"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL FAB",
+    "device": "V3991AN",
+    "model": "SUGAR Y8"
   },
   {
     "brand": "Wiko",
