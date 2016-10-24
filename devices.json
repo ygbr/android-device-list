@@ -4429,6 +4429,12 @@
   },
   {
     "brand": "Asus",
+    "name": "X008DC",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DC"
+  },
+  {
+    "brand": "Asus",
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
@@ -6091,6 +6097,18 @@
   },
   {
     "brand": "BlackBerry",
+    "name": "DTEK60 by BlackBerry",
+    "device": "argon",
+    "model": "BBA100-1"
+  },
+  {
+    "brand": "BlackBerry",
+    "name": "DTEK60 by BlackBerry",
+    "device": "argon",
+    "model": "BBA100-2"
+  },
+  {
+    "brand": "BlackBerry",
     "name": "PRIV by BlackBerry",
     "device": "venice",
     "model": "STV100-1"
@@ -6361,6 +6379,12 @@
   },
   {
     "brand": "Blu",
+    "name": "STUDIO G MAX",
+    "device": "Studio_G_Max",
+    "model": "Studio G Max"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO G PLUS",
     "device": "Studio_G_Plus",
     "model": "BLU STUDIO G PLUS"
@@ -6490,6 +6514,12 @@
     "name": "VIVO 5R",
     "device": "BLU_Vivo_5R",
     "model": "Vivo 5R"
+  },
+  {
+    "brand": "Blu",
+    "name": "VIVO 6",
+    "device": "BLU_Vivo_6",
+    "model": "Vivo 6"
   },
   {
     "brand": "Blu",
@@ -9996,6 +10026,18 @@
     "model": "EVERCOSS A65"
   },
   {
+    "brand": "Evercoss",
+    "name": "R50A",
+    "device": "R50A",
+    "model": "R50A"
+  },
+  {
+    "brand": "Evercoss",
+    "name": "V55C",
+    "device": "V55C",
+    "model": "V55C"
+  },
+  {
     "brand": "Every",
     "name": "E701",
     "device": "E701",
@@ -12652,6 +12694,12 @@
     "name": "P7 Max",
     "device": "GIONEE_WBL5708",
     "model": "P7 Max"
+  },
+  {
+    "brand": "Gionee",
+    "name": "P8W",
+    "device": "GIONEE_WBW5620",
+    "model": "P8W"
   },
   {
     "brand": "Gionee",
@@ -16786,6 +16834,12 @@
     "name": "CDP7TAB4C8",
     "device": "CDP7TAB4C8",
     "model": "CDP7TAB4C8"
+  },
+  {
+    "brand": "Haier",
+    "name": "CEDTAB70616W8",
+    "device": "CEDTAB70616W8",
+    "model": "CEDTAB70616W8"
   },
   {
     "brand": "Haier",
@@ -24169,6 +24223,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "M3",
+    "device": "hwbeethoven",
+    "model": "BTV-DL09"
+  },
+  {
+    "brand": "Huawei",
+    "name": "M3",
+    "device": "hwbeethoven",
+    "model": "BTV-W09"
+  },
+  {
+    "brand": "Huawei",
     "name": "M310",
     "device": "hwsingleboxm310w",
     "model": "M310"
@@ -24754,6 +24820,12 @@
     "name": "Prism II",
     "device": "hwu8686",
     "model": "Prism II"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Q22",
+    "device": "HWQ22",
+    "model": "Q22"
   },
   {
     "brand": "Huawei",
@@ -26083,6 +26155,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+    "device": "HWBLN-H",
+    "model": "BLN-AL10"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
     "device": "hwCHM-H",
     "model": "CHM-TL00"
@@ -26230,6 +26308,12 @@
     "name": "Rush",
     "device": "Hurricane",
     "model": "Rush"
+  },
+  {
+    "brand": "Hurricane",
+    "name": "Sprint",
+    "device": "Sprint",
+    "model": "Sprint"
   },
   {
     "brand": "Hurricane",
@@ -39414,6 +39498,12 @@
     "model": "Meitu M4"
   },
   {
+    "brand": "Meitu",
+    "name": "Meitu V4",
+    "device": "V4",
+    "model": "Meitu V4"
+  },
+  {
     "brand": "Memorex",
     "name": "MTAB-09541AB",
     "device": "MTAB-09541AB",
@@ -40474,6 +40564,12 @@
     "name": "M5",
     "device": "MINT-M5",
     "model": "M5"
+  },
+  {
+    "brand": "Miophone",
+    "name": "Mio Phone",
+    "device": "MioPhone2016",
+    "model": "Mio Phone 2016"
   },
   {
     "brand": "Mito",
@@ -43660,6 +43756,12 @@
     "name": "M-MP7NB3G",
     "device": "7_Plus_HD3G",
     "model": "M-MP7NB3G"
+  },
+  {
+    "brand": "Nextbook",
+    "name": "NX16A10132S",
+    "device": "NX16A10132S",
+    "model": "NX16A10132S"
   },
   {
     "brand": "Nextbook",
@@ -49909,6 +50011,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "G TAB A PLUS 10.1",
+    "device": "gtanotexllte",
+    "model": "SM-P587"
+  },
+  {
+    "brand": "Samsung",
     "name": "GALAXY Camera",
     "device": "gd1",
     "model": "EK-GC100"
@@ -52521,7 +52629,25 @@
     "brand": "Samsung",
     "name": "Galaxy J1 Mini Prime",
     "device": "j1minive3g",
+    "model": "SM-J106B"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1 Mini Prime",
+    "device": "j1minive3g",
     "model": "SM-J106H"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1 Mini Prime",
+    "device": "j1minive3gxtc",
+    "model": "SM-J106B"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J1 Mini Prime",
+    "device": "j1minivelte",
+    "model": "SM-J106M"
   },
   {
     "brand": "Samsung",
@@ -54568,6 +54694,12 @@
     "name": "Galaxy On5(2016)",
     "device": "on5xlltechn",
     "model": "SM-G5510"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On5(2016)",
+    "device": "on5xltechn",
+    "model": "SM-G5700"
   },
   {
     "brand": "Samsung",
@@ -57187,12 +57319,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy TAB A PLUS 10.1",
-    "device": "gtaxlqltespr",
-    "model": "SM-T587P"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy TAB3 Lite",
     "device": "goyairis3g",
     "model": "SM-T116IR"
@@ -58850,8 +58976,26 @@
   {
     "brand": "Samsung",
     "name": "Galaxy TabA Plus 10.1",
+    "device": "gtanotexllte",
+    "model": "SM-P585M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
+    "device": "gtanotexlltechn",
+    "model": "SM-P588C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
     "device": "gtanotexlltekx",
     "model": "SM-P585N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
+    "device": "gtaxlqltespr",
+    "model": "SM-T587P"
   },
   {
     "brand": "Samsung",
@@ -59626,6 +59770,18 @@
     "name": "Gem",
     "device": "SCH-I100",
     "model": "SCH-I100"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Grand Prime Plus",
+    "device": "grandpplte",
+    "model": "SM-G532F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Grand Prime Plus",
+    "device": "grandpplte",
+    "model": "SM-G532M"
   },
   {
     "brand": "Samsung",
@@ -60556,6 +60712,12 @@
     "name": "GALAPAGOS SoftBank 005SH",
     "device": "SBM005SH",
     "model": "SBM005SH"
+  },
+  {
+    "brand": "Sharp",
+    "name": "HC-16TT1",
+    "device": "HCTT1",
+    "model": "HCTT1"
   },
   {
     "brand": "Sharp",
@@ -71719,9 +71881,21 @@
   },
   {
     "brand": "Wiko",
+    "name": "LENNY3 MAX",
+    "device": "V3802AN",
+    "model": "LENNY3 MAX"
+  },
+  {
+    "brand": "Wiko",
     "name": "MACARON",
     "device": "l8401_international",
     "model": "MACARON"
+  },
+  {
+    "brand": "Wiko",
+    "name": "P4903JP",
+    "device": "P4903JP",
+    "model": "P4903JP"
   },
   {
     "brand": "Wiko",
@@ -71881,6 +72055,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "SUGAR F7 mini",
+    "device": "p7203",
+    "model": "SUGAR F7 mini"
+  },
+  {
+    "brand": "Wiko",
     "name": "SUNNY",
     "device": "T2504AN",
     "model": "SUNNY"
@@ -71895,6 +72075,12 @@
     "brand": "Wiko",
     "name": "SUNNY",
     "device": "V2504AN",
+    "model": "SUNNY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "SUNNY",
+    "device": "v2508",
     "model": "SUNNY"
   },
   {
@@ -72010,6 +72196,12 @@
     "name": "Swift 2",
     "device": "marmite",
     "model": "Wileyfox Swift 2 Plus"
+  },
+  {
+    "brand": "Wink",
+    "name": "Wink City S",
+    "device": "Wink_City_S",
+    "model": "Wink_City_S"
   },
   {
     "brand": "Wintec",
@@ -72322,6 +72514,12 @@
     "name": "Mi 5",
     "device": "gemini",
     "model": "MI 5"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi 5s",
+    "device": "capricorn",
+    "model": "MI 5s"
   },
   {
     "brand": "Xiaomi",
