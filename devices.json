@@ -1051,6 +1051,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Z6",
+    "device": "acer_t09",
+    "model": "T09"
+  },
+  {
+    "brand": "Acer",
     "name": "Liquid Z630",
     "device": "acer_t03",
     "model": "T03"
@@ -3841,6 +3847,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Commercial tablet 10\\xe2\\x80\\x9d (M1000M)",
+    "device": "P00C_M",
+    "model": "P00C"
+  },
+  {
+    "brand": "Asus",
     "name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
     "device": "P00C_M",
     "model": "P00C"
@@ -5095,6 +5107,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone Go (ASUS_X003)",
+    "device": "ASUS_X003",
+    "model": "ASUS_X003"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone Go (ASUS_X005)",
     "device": "ASUS_X005",
     "model": "ASUS_X005"
@@ -5182,6 +5200,12 @@
     "name": "Zenpad 8.0 (Z380KL)",
     "device": "P024_1",
     "model": "P024"
+  },
+  {
+    "brand": "Asus",
+    "name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500KLC)",
+    "device": "ASUS_X003",
+    "model": "ASUS_X003"
   },
   {
     "brand": "Asus",
@@ -7321,6 +7345,18 @@
   },
   {
     "brand": "Clementoni",
+    "name": "Clempad 6.0",
+    "device": "Clempad_6",
+    "model": "Clempad_6"
+  },
+  {
+    "brand": "Clementoni",
+    "name": "Clempad 6.0 XL",
+    "device": "Clempad_6_XL",
+    "model": "Clempad_6_XL"
+  },
+  {
+    "brand": "Clementoni",
     "name": "Clempad Call",
     "device": "CLEMPADCALL",
     "model": "CLEMPADCALL"
@@ -7336,6 +7372,24 @@
     "name": "Clempad HR Plus",
     "device": "Clempad_HR_Plus",
     "model": "Clempad_HR_Plus"
+  },
+  {
+    "brand": "Clementoni",
+    "name": "Clempad_6_S",
+    "device": "Clempad_6_S",
+    "model": "Clempad_6_S"
+  },
+  {
+    "brand": "Clementoni",
+    "name": "Clemphone",
+    "device": "ClemPhone",
+    "model": "ClemPhone"
+  },
+  {
+    "brand": "Clementoni",
+    "name": "My First Clempad 6.0",
+    "device": "MFC_6",
+    "model": "MFC_6"
   },
   {
     "brand": "Clementoni",
@@ -7522,6 +7576,12 @@
     "name": "Condor TGW102L",
     "device": "TGW102L",
     "model": "TGW102L"
+  },
+  {
+    "brand": "Condor",
+    "name": "Condor TGW706",
+    "device": "TGW706",
+    "model": "TGW706"
   },
   {
     "brand": "Condor",
@@ -8061,6 +8121,12 @@
     "brand": "Coolpad",
     "name": "Cool C1",
     "device": "cool_c1",
+    "model": "C106-7"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Cool C1",
+    "device": "cool_c1",
     "model": "C106-9"
   },
   {
@@ -8452,6 +8518,12 @@
     "name": "Coolpad C103",
     "device": "C103",
     "model": "C103"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Coolpad C106-8",
+    "device": "cool_c1",
+    "model": "C106-8"
   },
   {
     "brand": "Coolpad",
@@ -9583,6 +9655,12 @@
   },
   {
     "brand": "ESI Enterprises",
+    "name": "EPIK Learning Tab Jr.",
+    "device": "ELT0702",
+    "model": "ELT0702"
+  },
+  {
+    "brand": "ESI Enterprises",
     "name": "EPIK_ELT0703",
     "device": "ELT0703",
     "model": "ELT0703"
@@ -10006,6 +10084,12 @@
     "name": "EssentielB Smart'TAB 9001",
     "device": "fiber-smart",
     "model": "Smart'TAB 9001"
+  },
+  {
+    "brand": "Estar",
+    "name": "eSTAR GO! HD Quad core 3G",
+    "device": "MID7438G",
+    "model": "eSTAR GO HD Quad core 3G"
   },
   {
     "brand": "Estar",
@@ -10822,6 +10906,12 @@
     "name": "Nimbus 7",
     "device": "Nimbus_7",
     "model": "FS505"
+  },
+  {
+    "brand": "Fly",
+    "name": "Nimbus 9",
+    "device": "Nimbus_9",
+    "model": "Nimbus 9"
   },
   {
     "brand": "Fly",
@@ -12403,6 +12493,24 @@
   },
   {
     "brand": "Gionee",
+    "name": "F100B",
+    "device": "GIONEE_GBL7370",
+    "model": "F100B"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100L",
+    "device": "GIONEE_GBL7370",
+    "model": "F100L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100S",
+    "device": "GIONEE_GBL7370",
+    "model": "F100S"
+  },
+  {
+    "brand": "Gionee",
     "name": "F103",
     "device": "GiONEE_GBL7319",
     "model": "F103"
@@ -12634,6 +12742,18 @@
     "name": "M5L",
     "device": "M5",
     "model": "M5L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6",
+    "device": "GiONEE_BBL7515A",
+    "model": "GN8003"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6",
+    "device": "GiONEE_BBL7515A",
+    "model": "M6"
   },
   {
     "brand": "Gionee",
@@ -20340,12 +20460,6 @@
     "model": "MY15ADA"
   },
   {
-    "brand": "Honda",
-    "name": "Unit Assy AVN",
-    "device": "h16",
-    "model": "SiRFSoC Android"
-  },
-  {
     "brand": "Honeywell",
     "name": "70eL00",
     "device": "dblack",
@@ -20391,6 +20505,12 @@
     "brand": "Honeywell",
     "name": "CT50",
     "device": "CT50LFN-CS16S",
+    "model": "CT50"
+  },
+  {
+    "brand": "Honeywell",
+    "name": "CT50",
+    "device": "CT50LUN-CS15S",
     "model": "CT50"
   },
   {
@@ -22279,12 +22399,6 @@
   },
   {
     "brand": "Huawei",
-    "name": "CHC-U01",
-    "device": "hwCHC-H",
-    "model": "CHC-U01"
-  },
-  {
-    "brand": "Huawei",
     "name": "CHC-U03",
     "device": "hwCHC-H",
     "model": "CHC-U03"
@@ -22372,6 +22486,12 @@
     "name": "Che2-UL00",
     "device": "hwChe2",
     "model": "Che2-UL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Cherry Mini",
+    "device": "hwCHC-H",
+    "model": "CHC-U01"
   },
   {
     "brand": "Huawei",
@@ -24483,6 +24603,24 @@
     "brand": "Huawei",
     "name": "Mate 8",
     "device": "HWNXT",
+    "model": "NXT-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
+    "model": "NXT-CL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
+    "model": "NXT-DL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
     "model": "NXT-L09"
   },
   {
@@ -24490,6 +24628,12 @@
     "name": "Mate 8",
     "device": "HWNXT",
     "model": "NXT-L29"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 8",
+    "device": "HWNXT",
+    "model": "NXT-TL00"
   },
   {
     "brand": "Huawei",
@@ -26470,6 +26614,12 @@
     "name": "Ultra Latitude",
     "device": "Ultra_Latitude",
     "model": "Ultra Latitude"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Ultra Storm",
+    "device": "Ultra_Storm",
+    "model": "Ultra Storm"
   },
   {
     "brand": "Hyundai",
@@ -39672,6 +39822,12 @@
     "model": "Meitu V4"
   },
   {
+    "brand": "Meitu",
+    "name": "Meitu V4s",
+    "device": "V4s",
+    "model": "Meitu V4s"
+  },
+  {
     "brand": "Memorex",
     "name": "MTAB-09541AB",
     "device": "MTAB-09541AB",
@@ -42961,6 +43117,12 @@
   },
   {
     "brand": "MyPhone (PL)",
+    "name": "myPhone C-Smart Glam",
+    "device": "C-Smart_Glam_JMP",
+    "model": "C-Smart_Glam"
+  },
+  {
+    "brand": "MyPhone (PL)",
     "name": "myPhone C-Smart IIIS",
     "device": "C_Smart_IIIS",
     "model": "C-Smart IIIS"
@@ -43840,6 +44002,12 @@
     "name": "M505",
     "device": "M505_4G",
     "model": "M505_4G"
+  },
+  {
+    "brand": "Navon",
+    "name": "S450",
+    "device": "S450",
+    "model": "S450"
   },
   {
     "brand": "Navon",
@@ -48007,6 +48175,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "Tablet Y700",
+    "device": "Y700",
+    "model": "Positivo BGH Y700"
+  },
+  {
+    "brand": "Positivo",
     "name": "Y1000",
     "device": "Y1000",
     "model": "Y1000"
@@ -50692,6 +50866,12 @@
     "name": "Galaxy A8",
     "device": "a8ltechn",
     "model": "SM-A800X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A8(2016)",
+    "device": "a8xelte",
+    "model": "SM-A810F"
   },
   {
     "brand": "Samsung",
@@ -54874,6 +55054,12 @@
     "name": "Galaxy On5",
     "device": "on5ltetmo",
     "model": "SM-G550T2"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On5(2016)",
+    "device": "on5xfltechn",
+    "model": "SM-G5520"
   },
   {
     "brand": "Samsung",
@@ -69727,6 +69913,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO W5",
+    "device": "TECNO-W5",
+    "model": "TECNO-W5"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-A7S",
     "device": "TECNO-A7S",
     "model": "TECNO-A7S"
@@ -69844,6 +70036,12 @@
     "name": "TECNO-PHANTOM5",
     "device": "TECNO-PHANTOM5",
     "model": "TECNO-PHANTOM5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-W2",
+    "device": "TECNO_W2",
+    "model": "TECNO W2"
   },
   {
     "brand": "Tecno",
@@ -72424,6 +72622,12 @@
     "name": "Wink City S",
     "device": "Wink_City_S",
     "model": "Wink_City_S"
+  },
+  {
+    "brand": "Wink",
+    "name": "Wink Share SE",
+    "device": "Wink_Share_SE",
+    "model": "Wink_Share_SE"
   },
   {
     "brand": "Wintec",
