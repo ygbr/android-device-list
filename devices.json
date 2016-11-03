@@ -17113,6 +17113,12 @@
   },
   {
     "brand": "Haier",
+    "name": "HM-I557-FL",
+    "device": "HM-I557-FL",
+    "model": "HM-I557-FL"
+  },
+  {
+    "brand": "Haier",
     "name": "HM-N501-FL",
     "device": "HM-N501-FL",
     "model": "HM-N501-FL"
@@ -17146,6 +17152,12 @@
     "name": "HT-I860",
     "device": "HT-I860",
     "model": "HT-I860"
+  },
+  {
+    "brand": "Haier",
+    "name": "HW-I509-W",
+    "device": "HM-I509-W",
+    "model": "FORZA"
   },
   {
     "brand": "Haier",
@@ -17506,6 +17518,12 @@
     "name": "HSG1351",
     "device": "rk3368_32",
     "model": "HSG1351"
+  },
+  {
+    "brand": "HannSpree",
+    "name": "HSG1360",
+    "device": "HANNSPAD",
+    "model": "HSG1360"
   },
   {
     "brand": "Harris",
@@ -41041,6 +41059,12 @@
   },
   {
     "brand": "Mobicell",
+    "name": "TRIP",
+    "device": "TRIP",
+    "model": "TRIP"
+  },
+  {
+    "brand": "Mobicell",
     "name": "Trendy",
     "device": "TREDNY",
     "model": "TREDNY"
@@ -43783,6 +43807,12 @@
   },
   {
     "brand": "NGM Italia SRL",
+    "name": "E553",
+    "device": "E553",
+    "model": "E553"
+  },
+  {
+    "brand": "NGM Italia SRL",
     "name": "Endurance",
     "device": "ForwardEndurance",
     "model": "ForwardEndurance"
@@ -46189,6 +46219,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "P85",
+    "device": "P85",
+    "model": "Panasonic P85"
+  },
+  {
+    "brand": "Panasonic",
     "name": "P88",
     "device": "P88",
     "model": "P88"
@@ -47773,6 +47809,12 @@
   },
   {
     "brand": "Positivo",
+    "name": "Positivo BGH Y700",
+    "device": "Y700",
+    "model": "Positivo BGH Y700"
+  },
+  {
+    "brand": "Positivo",
     "name": "Positivo Mini",
     "device": "mini",
     "model": "Positivo Mini"
@@ -48172,12 +48214,6 @@
     "name": "S480",
     "device": "S480",
     "model": "S480"
-  },
-  {
-    "brand": "Positivo",
-    "name": "Tablet Y700",
-    "device": "Y700",
-    "model": "Positivo BGH Y700"
   },
   {
     "brand": "Positivo",
@@ -53080,6 +53116,12 @@
     "name": "Galaxy J2 Prime",
     "device": "grandpplte",
     "model": "SM-G532G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J2 Prime",
+    "device": "grandpplte",
+    "model": "SM-G532M"
   },
   {
     "brand": "Samsung",
@@ -60157,12 +60199,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Grand Prime Plus",
-    "device": "grandpplte",
-    "model": "SM-G532M"
-  },
-  {
-    "brand": "Samsung",
     "name": "Hennessy",
     "device": "hennessy3gduosctc",
     "model": "SCH-W789"
@@ -61552,6 +61588,12 @@
     "name": "SIRIN LABS SOLARIN",
     "device": "solarin",
     "model": "Solarin"
+  },
+  {
+    "brand": "SkyLife",
+    "name": "Skylife UHD2",
+    "device": "IC1110",
+    "model": "IC1110"
   },
   {
     "brand": "Smartab",
@@ -64435,6 +64477,12 @@
   },
   {
     "brand": "Symphony",
+    "name": "Symphony_P7",
+    "device": "Symphony_P7",
+    "model": "P7"
+  },
+  {
+    "brand": "Symphony",
     "name": "V100",
     "device": "V100",
     "model": "V100"
@@ -64456,6 +64504,12 @@
     "name": "i20",
     "device": "i20",
     "model": "i20"
+  },
+  {
+    "brand": "Symphony",
+    "name": "i50",
+    "device": "i50",
+    "model": "i50"
   },
   {
     "brand": "T-Mobile",
@@ -70186,6 +70240,12 @@
     "name": "VP73_Telefunken",
     "device": "Telefunken",
     "model": "VP73_Telefunken"
+  },
+  {
+    "brand": "Telenor",
+    "name": "Infinity_i",
+    "device": "TELENOR_Infinity_i",
+    "model": "Infinity i"
   },
   {
     "brand": "Telenor",
