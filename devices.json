@@ -4621,7 +4621,13 @@
   },
   {
     "brand": "Asus",
-    "name": "ZenFone 3 Deluxe",
+    "name": "ZenFone 3 Deluxe (ZS570KL)",
+    "device": "Z016",
+    "model": "ASUS_Z016DA"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Deluxe (ZS570KL)",
     "device": "Z016",
     "model": "ASUS_Z016S"
   },
@@ -4720,6 +4726,12 @@
     "name": "ZenFone Go",
     "device": "ASUS_X013D_2",
     "model": "ASUS_X013DB"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone Go (ZB552KL)",
+    "device": "ASUS_X007D",
+    "model": "ASUS_X007D"
   },
   {
     "brand": "Asus",
@@ -4999,12 +5011,6 @@
   },
   {
     "brand": "Asus",
-    "name": "Zenfone",
-    "device": "ASUS_X007D",
-    "model": "ASUS_X007D"
-  },
-  {
-    "brand": "Asus",
     "name": "Zenfone 3",
     "device": "ASUS_Z012D",
     "model": "ASUS_Z012D"
@@ -5026,12 +5032,6 @@
     "name": "Zenfone 3 Deluxe (ZS570KL)",
     "device": "Z016",
     "model": "ASUS_Z016D"
-  },
-  {
-    "brand": "Asus",
-    "name": "Zenfone 3 Deluxe (ZS570KL)",
-    "device": "Z016",
-    "model": "ASUS_Z016DA"
   },
   {
     "brand": "Asus",
@@ -6162,6 +6162,18 @@
     "model": "STV100-4"
   },
   {
+    "brand": "Blackview",
+    "name": "Blackview A8 MAX",
+    "device": "A8_MAX",
+    "model": "A8 MAX"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Blackview BV6000",
+    "device": "Blackview",
+    "model": "BV6000"
+  },
+  {
     "brand": "Blaupunkt",
     "name": "Endeavour101",
     "device": "Blaupunkt",
@@ -6172,6 +6184,12 @@
     "name": "ADVANCE 4.0 L2",
     "device": "BLU_ADVANCE_4_0_L2",
     "model": "BLU ADVANCE 4.0 L2"
+  },
+  {
+    "brand": "Blu",
+    "name": "Advance 4.0M",
+    "device": "Advance_4_0M",
+    "model": "Advance 4.0M"
   },
   {
     "brand": "Blu",
@@ -39468,6 +39486,12 @@
     "model": "London"
   },
   {
+    "brand": "Maxcom",
+    "name": "MS514",
+    "device": "MS514",
+    "model": "MS514"
+  },
+  {
     "brand": "Mecer",
     "name": "101P51C",
     "device": "101P51C",
@@ -40906,6 +40930,12 @@
     "name": "M5",
     "device": "MINT-M5",
     "model": "M5"
+  },
+  {
+    "brand": "Mio Tab",
+    "name": "MioTab",
+    "device": "MioTab2016",
+    "model": "MioTab 2016"
   },
   {
     "brand": "Miophone",
@@ -58790,6 +58820,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab S2 9.7",
+    "device": "gts210veltecan",
+    "model": "SM-T818W"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
     "device": "gts210veltechn",
     "model": "SM-T819C"
   },
@@ -59404,6 +59440,12 @@
     "name": "Galaxy TabA Plus 10.1",
     "device": "gtanotexlltekx",
     "model": "SM-P585N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
+    "device": "gtanotexlwifichn",
+    "model": "SM-P583"
   },
   {
     "brand": "Samsung",
@@ -64408,6 +64450,12 @@
     "name": "TAB-A03",
     "device": "TAB-A03",
     "model": "TAB-A03-SD"
+  },
+  {
+    "brand": "Stylis",
+    "name": "FUNDA",
+    "device": "ETAB_I1041G",
+    "model": "ETAB I1041G"
   },
   {
     "brand": "Stylis",
@@ -71274,6 +71322,12 @@
     "model": "Venus_V3_5570"
   },
   {
+    "brand": "Vestel",
+    "name": "Venus V3 5580",
+    "device": "Orsa",
+    "model": "Venus_V3_5580"
+  },
+  {
     "brand": "ViewSonic",
     "name": "",
     "device": "v350",
@@ -72979,6 +73033,18 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "MIX",
+    "device": "lithium",
+    "model": "MIX"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MIX",
+    "device": "lithium",
+    "model": "lithium"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Mi 3",
     "device": "pisces",
     "model": "MI 3"
@@ -73018,6 +73084,12 @@
     "name": "Mi Note",
     "device": "virgo",
     "model": "MI NOTE LTE"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi Note2",
+    "device": "scorpio",
+    "model": "Mi Note 2"
   },
   {
     "brand": "Xiaomi",
