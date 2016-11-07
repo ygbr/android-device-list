@@ -1495,6 +1495,18 @@
   },
   {
     "brand": "AllView",
+    "name": "P9 Energy",
+    "device": "P9_Energy",
+    "model": "P9_Energy"
+  },
+  {
+    "brand": "AllView",
+    "name": "P9 Energy Lite",
+    "device": "P9_Energy_Lite",
+    "model": "P9_Energy_Lite"
+  },
+  {
+    "brand": "AllView",
     "name": "P9 Energy mini",
     "device": "P9_Energy_mini",
     "model": "P9_Energy_mini"
@@ -1570,6 +1582,12 @@
     "name": "V2 Viper I4G",
     "device": "V2_Viper_I4G",
     "model": "V2_Viper_I4G"
+  },
+  {
+    "brand": "AllView",
+    "name": "V2 Viper S",
+    "device": "V2_Viper_S",
+    "model": "V2_Viper_S"
   },
   {
     "brand": "AllView",
@@ -4411,48 +4429,6 @@
   },
   {
     "brand": "Asus",
-    "name": "X008D",
-    "device": "ASUS_X008",
-    "model": "ASUS_X008D"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008D",
-    "device": "ASUS_X008_1",
-    "model": "ASUS_X008D"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008DA",
-    "device": "ASUS_X008",
-    "model": "ASUS_X008DA"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008DA",
-    "device": "ASUS_X008_1",
-    "model": "ASUS_X008DA"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008DB",
-    "device": "ASUS_X008",
-    "model": "ASUS_X008DB"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008DB",
-    "device": "ASUS_X008_1",
-    "model": "ASUS_X008DB"
-  },
-  {
-    "brand": "Asus",
-    "name": "X008DC",
-    "device": "ASUS_X008_1",
-    "model": "ASUS_X008DC"
-  },
-  {
-    "brand": "Asus",
     "name": "X00AD_2",
     "device": "ASUS_X00AD_2",
     "model": "ASUS_X00AD"
@@ -4615,7 +4591,7 @@
   },
   {
     "brand": "Asus",
-    "name": "ZenFone 3 Deluxe",
+    "name": "ZenFone 3 Deluxe (ZS550KL)",
     "device": "ASUS_Z01F_1",
     "model": "ASUS_Z01FD"
   },
@@ -4630,6 +4606,48 @@
     "name": "ZenFone 3 Deluxe (ZS570KL)",
     "device": "Z016",
     "model": "ASUS_Z016S"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008D"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008DA"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008",
+    "model": "ASUS_X008DB"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008D"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DA"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DB"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone 3 Max (ZC520TL)",
+    "device": "ASUS_X008_1",
+    "model": "ASUS_X008DC"
   },
   {
     "brand": "Asus",
@@ -6367,6 +6385,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Neo X2",
+    "device": "Neo_X2",
+    "model": "Neo X2"
+  },
+  {
+    "brand": "Blu",
     "name": "PURE XL",
     "device": "BLU_PURE_XL",
     "model": "PURE XL"
@@ -6460,6 +6484,12 @@
     "name": "STUDIO M LTE",
     "device": "BLU_STUDIO_M_LTE",
     "model": "STUDIO M LTE"
+  },
+  {
+    "brand": "Blu",
+    "name": "STUDIO MAX",
+    "device": "Studio_Max",
+    "model": "Studio Max"
   },
   {
     "brand": "Blu",
@@ -7222,6 +7252,12 @@
     "name": "Cherry W900 LTE",
     "device": "al7",
     "model": "W900 LTE"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "FB100",
+    "device": "FB100",
+    "model": "FB100"
   },
   {
     "brand": "Cherry Mobile",
@@ -17593,6 +17629,12 @@
   },
   {
     "brand": "HighScreen",
+    "name": "PowerIceMax",
+    "device": "PowerIceMax",
+    "model": "Power Ice Max"
+  },
+  {
+    "brand": "HighScreen",
     "name": "PowerRageEvo",
     "device": "PowerRageEvo",
     "model": "Power Rage Evo"
@@ -20494,6 +20536,12 @@
     "name": "Spirior",
     "device": "koelsch",
     "model": "MY15ADA"
+  },
+  {
+    "brand": "Honda",
+    "name": "Unit Assy AVN",
+    "device": "h16",
+    "model": "SiRFSoC Android"
   },
   {
     "brand": "Honeywell",
@@ -27370,6 +27418,12 @@
     "name": "L55",
     "device": "L55",
     "model": "L55"
+  },
+  {
+    "brand": "Innjoo",
+    "name": "Max3 LTE",
+    "device": "Max3_LTE",
+    "model": "Max3_LTE"
   },
   {
     "brand": "Insignia",
@@ -34773,6 +34827,12 @@
     "brand": "LGE",
     "name": "V20",
     "device": "elsa",
+    "model": "LGV34"
+  },
+  {
+    "brand": "LGE",
+    "name": "V20",
+    "device": "elsa",
     "model": "VS995"
   },
   {
@@ -38181,6 +38241,18 @@
     "brand": "Lenovo",
     "name": "Lenovo TB2-X30F",
     "device": "TB2-X30F",
+    "model": "Lenovo TB2-X30F_JLC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB2-X30F",
+    "device": "TB2-X30F",
+    "model": "Lenovo TB2-X30F_SCP"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB2-X30F",
+    "device": "TB2-X30F",
     "model": "Lenovo TB2-X30F_UK"
   },
   {
@@ -41124,6 +41196,12 @@
     "model": "MTC SMART Sprint 4G"
   },
   {
+    "brand": "MobileTeleSystem",
+    "name": "Smart Surf2 4G",
+    "device": "SMART_Surf2_4G",
+    "model": "SMART Surf2 4G"
+  },
+  {
     "brand": "Mobily",
     "name": "MDB342X",
     "device": "qnbml",
@@ -43264,6 +43342,12 @@
     "name": "MyPhone my93 DTV",
     "device": "MyPhone_my93_DTV",
     "model": "MyPhone my93 DTV"
+  },
+  {
+    "brand": "Myphone",
+    "name": "MyPhone my95 DTV",
+    "device": "MyPhone_my95_DTV",
+    "model": "MyPhone my95 DTV"
   },
   {
     "brand": "Myphone",
@@ -72657,6 +72741,12 @@
     "brand": "Wiko",
     "name": "U FEEL FAB",
     "device": "V3991AN",
+    "model": "SUGAR Y7 MAX"
+  },
+  {
+    "brand": "Wiko",
+    "name": "U FEEL FAB",
+    "device": "V3991AN",
     "model": "SUGAR Y8"
   },
   {
@@ -80008,6 +80098,12 @@
     "name": "Zilo",
     "device": "Zilo",
     "model": "Zilo"
+  },
+  {
+    "brand": "Zopo",
+    "name": "PRO1",
+    "device": "Benten_PRO1",
+    "model": "PRO1"
   },
   {
     "brand": "Zuk",
