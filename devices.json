@@ -7261,6 +7261,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare 5",
+    "device": "X630",
+    "model": "Flare_5"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare J3",
     "device": "H680",
     "model": "Flare_J3"
@@ -9448,6 +9454,12 @@
     "name": "825A",
     "device": "825A",
     "model": "Doro Liberto 825"
+  },
+  {
+    "brand": "Doro",
+    "name": "DSB0010",
+    "device": "DSB0010",
+    "model": "Doro 8030"
   },
   {
     "brand": "Doro",
@@ -49870,6 +49882,12 @@
     "name": "FGAD",
     "device": "FGAD",
     "model": "FGAD"
+  },
+  {
+    "brand": "Ruggear",
+    "name": "IMO S",
+    "device": "IMO_S",
+    "model": "IMO_S"
   },
   {
     "brand": "SAKAISIO",
