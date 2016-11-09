@@ -6643,6 +6643,12 @@
   },
   {
     "brand": "Boost",
+    "name": "Boost Pulse Power",
+    "device": "Power",
+    "model": "Power"
+  },
+  {
+    "brand": "Boost",
     "name": "Moova Shuffle",
     "device": "MoovaShuffle",
     "model": "MoovaShuffle"
@@ -10963,6 +10969,12 @@
   },
   {
     "brand": "Fly",
+    "name": "Nimbus 10",
+    "device": "Nimbus_10",
+    "model": "FS512"
+  },
+  {
+    "brand": "Fly",
     "name": "Nimbus 12",
     "device": "Nimbus_12",
     "model": "FS510"
@@ -13657,6 +13669,12 @@
   },
   {
     "brand": "HTC",
+    "name": "Desire 626",
+    "device": "htc_a32ul_emea",
+    "model": "HTC Desire 626"
+  },
+  {
+    "brand": "HTC",
     "name": "Desire 820",
     "device": "htc_a51ul",
     "model": "HTC 0PFJ4"
@@ -15904,6 +15922,18 @@
     "name": "HTC One A9",
     "device": "htc_hiaewhl",
     "model": "2PQ93"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One A9s",
+    "device": "htc_e36_ml_ul",
+    "model": "HTC 2PWD2"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One A9s",
+    "device": "htc_e36_ml_ul",
+    "model": "HTC One A9s"
   },
   {
     "brand": "HTC",
@@ -26851,6 +26881,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "HOT 4 PRO",
+    "device": "X556",
+    "model": "Infinix HOT 4 Pro"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT NOTE",
     "device": "Infinix-X551",
     "model": "Infinix-X551"
@@ -26944,6 +26980,12 @@
     "name": "Infinix HOT 4 Lite",
     "device": "X557-Lite",
     "model": "Infinix HOT 4 Lite"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 4 Pro",
+    "device": "X556",
+    "model": "Infinix HOT 4 Pro"
   },
   {
     "brand": "Infinix",
@@ -27751,6 +27793,12 @@
   },
   {
     "brand": "Itel",
+    "name": "it1512",
+    "device": "it1512",
+    "model": "it1512"
+  },
+  {
+    "brand": "Itel",
     "name": "it1516 Plus",
     "device": "itel_it1516Plus",
     "model": "itel it1516 Plus"
@@ -27826,6 +27874,12 @@
     "name": "itel it1703",
     "device": "itel_it1703",
     "model": "itel it1703"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel-it1520",
+    "device": "itel-it1520",
+    "model": "itel-it1520"
   },
   {
     "brand": "Itel",
@@ -34951,7 +35005,7 @@
   },
   {
     "brand": "LGU+",
-    "name": "U+ tv woofer",
+    "name": "U+ tv woofer 1.5",
     "device": "hg2_iot",
     "model": "LAP255U"
   },
@@ -45343,6 +45397,18 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO R9s Plus",
+    "device": "R9sPlus",
+    "model": "OPPO R9s Plust"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9s Plus",
+    "device": "R9sPlus",
+    "model": "OPPO R9sPlus"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Ulike2",
     "device": "Ulike2",
     "model": "U705T"
@@ -46156,6 +46222,12 @@
     "name": "Eluga Icon 2",
     "device": "ELUGA_Icon2",
     "model": "Panasonic ELUGA Icon 2"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "Eluga Klik",
+    "device": "Eluga_Klik",
+    "model": "Eluga Klik"
   },
   {
     "brand": "Panasonic",
@@ -60642,6 +60714,12 @@
     "model": "ST5000"
   },
   {
+    "brand": "Senseit",
+    "name": "SENSEIT_A109",
+    "device": "SENSEIT_A109",
+    "model": "SENSEIT_A109"
+  },
+  {
     "brand": "Sharp",
     "name": "",
     "device": "SH7218T",
@@ -70099,6 +70177,24 @@
   },
   {
     "brand": "Tecno",
+    "name": "Phantom6",
+    "device": "Phantom6",
+    "model": "Phantom6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom6 plus",
+    "device": "Phantom6-Plus",
+    "model": "Phantom6-Plus"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom6S",
+    "device": "Phantom6",
+    "model": "Phantom6S"
+  },
+  {
+    "brand": "Tecno",
     "name": "PhonePad 7 II",
     "device": "PP7E-DLA1",
     "model": "TECNO PP7E-DLA1"
@@ -71653,6 +71749,24 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo 1601",
+    "device": "1601",
+    "model": "vivo 1601"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo PD1612",
+    "device": "PD1612",
+    "model": "vivo PD1612"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo PD1612",
+    "device": "PD1612",
+    "model": "vivo Y67"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo V1",
     "device": "V1",
     "model": "vivo V1"
@@ -72465,6 +72579,12 @@
     "brand": "Wiko",
     "name": "JERRY",
     "device": "V2802AN",
+    "model": "JERRY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "JERRY",
+    "device": "v2806",
     "model": "JERRY"
   },
   {
