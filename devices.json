@@ -5029,6 +5029,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenWatch 3",
+    "device": "swift",
+    "model": "ASUS ZenWatch 3"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone 3",
     "device": "ASUS_Z012D",
     "model": "ASUS_Z012D"
@@ -26887,6 +26893,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "HOT 4 PRO",
+    "device": "X556",
+    "model": "Infinix_X556_LTE"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT NOTE",
     "device": "Infinix-X551",
     "model": "Infinix-X551"
@@ -26896,6 +26908,12 @@
     "name": "INFINIX-X521",
     "device": "Infinix-X521",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521",
+    "model": "Infinix-X521-LTE"
   },
   {
     "brand": "Infinix",
@@ -27004,6 +27022,12 @@
     "name": "Infinix NOTE 3 Pro",
     "device": "X601-LTE",
     "model": "Infinix NOTE 3 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 3 Pro",
+    "device": "X601-LTE",
+    "model": "Infinix_X601_LTE"
   },
   {
     "brand": "Infinix",
@@ -33148,6 +33172,12 @@
     "name": "LG Tribute 5",
     "device": "m1",
     "model": "LGLS675"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG U",
+    "device": "bbg",
+    "model": "LG-F820L"
   },
   {
     "brand": "LGE",
@@ -40364,6 +40394,18 @@
   {
     "brand": "Micromax",
     "name": "Bolt",
+    "device": "Q341",
+    "model": "Micromax Q341"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
+    "device": "Q346",
+    "model": "Micromax Q346"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Bolt",
     "device": "Q381",
     "model": "Micromax Q381"
   },
@@ -40543,6 +40585,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas 5 Lite",
+    "device": "Q463",
+    "model": "Micromax Q463"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas 6",
     "device": "E485",
     "model": "Micromax E485"
@@ -40606,6 +40654,12 @@
     "name": "Canvas Fire",
     "device": "A104",
     "model": "Micromax A104"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Fire 4G",
+    "device": "Q462",
+    "model": "Micromax Q462"
   },
   {
     "brand": "Micromax",
@@ -40844,6 +40898,12 @@
   {
     "brand": "Micromax",
     "name": "Canvas Tab",
+    "device": "P681",
+    "model": "Micromax P681"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Tab",
     "device": "P690",
     "model": "Micromax P690"
   },
@@ -40888,6 +40948,12 @@
     "name": "Canvas Unite 4",
     "device": "Q427",
     "model": "Micromax Q427"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Unite 4 Pro",
+    "device": "Q465",
+    "model": "Micromax Q465"
   },
   {
     "brand": "Micromax",
@@ -46237,6 +46303,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga Ray",
+    "device": "ELUGA_Ray",
+    "model": "ELUGA Ray"
+  },
+  {
+    "brand": "Panasonic",
     "name": "Eluga Tapp",
     "device": "Eluga_TAPP",
     "model": "Panasonic ELUGA Tapp"
@@ -47553,6 +47625,18 @@
     "brand": "Pioneer",
     "name": "CyberNavi",
     "device": "AVIC_CZ900",
+    "model": "jupiter"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "Navigation",
+    "device": "NVF_0068ZY",
+    "model": "jupiter"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "Navigation",
+    "device": "NVF_0168ZY",
     "model": "jupiter"
   },
   {
@@ -49555,9 +49639,21 @@
   },
   {
     "brand": "QMobile",
+    "name": "X32",
+    "device": "X32_new",
+    "model": "QMobile X32"
+  },
+  {
+    "brand": "QMobile",
     "name": "X700 PRO",
     "device": "X700_PRO",
     "model": "QMobile X700 PRO"
+  },
+  {
+    "brand": "QMobile",
+    "name": "X700 PRO II",
+    "device": "X700_PRO_II",
+    "model": "QMobile X700 PRO II"
   },
   {
     "brand": "QMobile",
@@ -49594,6 +49690,12 @@
     "name": "Z9 Plus",
     "device": "WBL7511QM",
     "model": "Z9 Plus"
+  },
+  {
+    "brand": "QMobile",
+    "name": "i2 POWER",
+    "device": "i2_POWER",
+    "model": "QMobile i2 POWER"
   },
   {
     "brand": "QOOQ",
@@ -58994,6 +59096,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab S2 9.7",
+    "device": "gts210velteatt",
+    "model": "SAMSUNG-SM-T818A"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S2 9.7",
     "device": "gts210veltecan",
     "model": "SM-T818W"
   },
@@ -60412,6 +60520,18 @@
     "name": "Grand Prime Plus",
     "device": "grandpplte",
     "model": "SM-G532F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Grand Prime Plus",
+    "device": "grandpplte",
+    "model": "SM-G532G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Grand Prime Plus",
+    "device": "grandppltedtv",
+    "model": "SM-G532MT"
   },
   {
     "brand": "Samsung",
@@ -61933,7 +62053,7 @@
   },
   {
     "brand": "Smartron",
-    "name": "t-phone",
+    "name": "tphone",
     "device": "rimo01a",
     "model": "T5511"
   },
@@ -72223,6 +72343,12 @@
   },
   {
     "brand": "Vonino",
+    "name": "Jax X A6",
+    "device": "Jax_X",
+    "model": "Jax X"
+  },
+  {
+    "brand": "Vonino",
     "name": "MusicPAD",
     "device": "MusicPAD",
     "model": "MusicPAD"
@@ -72271,9 +72397,21 @@
   },
   {
     "brand": "Vonino",
+    "name": "ZUN XO",
+    "device": "Zun_XO",
+    "model": "ZUN XO"
+  },
+  {
+    "brand": "Vonino",
     "name": "Zun X",
     "device": "Zun_X",
     "model": "Zun X"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Zun XS",
+    "device": "Zun_XS",
+    "model": "Zun XS"
   },
   {
     "brand": "Vulcan",
@@ -73462,6 +73600,12 @@
     "name": "Yureka",
     "device": "YUREKA",
     "model": "YUREKA"
+  },
+  {
+    "brand": "YU",
+    "name": "Yureka Note",
+    "device": "YU6000",
+    "model": "YU 6000"
   },
   {
     "brand": "Yes",
@@ -74854,6 +74998,12 @@
     "name": "Amazing_X3s",
     "device": "Amazing_X3s",
     "model": "Amazing_X3s"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Amazing_X3s_16G",
+    "device": "Amazing_X3s",
+    "model": "Amazing_X3s_16G"
   },
   {
     "brand": "ZTE",
@@ -76573,6 +76723,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Tempo",
+    "device": "xray45",
+    "model": "N9131"
+  },
+  {
+    "brand": "ZTE",
     "name": "Turk Telekom TT175",
     "device": "ZTE_Blade_V580",
     "model": "Blade V580"
@@ -77263,6 +77419,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE B2017G",
+    "device": "msm8952_64",
+    "model": "ZTE B2017G"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE B790",
     "device": "roamer2",
     "model": "ZTE B790"
@@ -77374,6 +77536,12 @@
     "name": "ZTE BLADE A910",
     "device": "P635A31",
     "model": "ZTE BLADE A910"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE B112",
+    "device": "P635A60",
+    "model": "ZTE BLADE B112"
   },
   {
     "brand": "ZTE",
