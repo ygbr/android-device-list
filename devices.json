@@ -22052,12 +22052,6 @@
   {
     "brand": "Huawei",
     "name": "",
-    "device": "hwu9000",
-    "model": "HUAWEI-U9000"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
     "device": "hwu9200",
     "model": "U9200"
   },
@@ -22855,6 +22849,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "G606-T00",
+    "device": "HWG606-T00",
+    "model": "HUAWEI G606-T00"
+  },
+  {
+    "brand": "Huawei",
     "name": "G610",
     "device": "hwG610-T00",
     "model": "HUAWEI G610-T00"
@@ -23368,18 +23368,6 @@
     "name": "HUAWEI C199s",
     "device": "hwC199s",
     "model": "HUAWEI C199s"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI CAN-L01",
-    "device": "HWCAN",
-    "model": "HUAWEI CAN-L01"
-  },
-  {
-    "brand": "Huawei",
-    "name": "HUAWEI CAN-L11",
-    "device": "HWCAN",
-    "model": "HUAWEI CAN-L11"
   },
   {
     "brand": "Huawei",
@@ -24154,6 +24142,42 @@
     "name": "HUAWEI Y6\\xe2\\x85\\xa1Compact",
     "device": "HWLYO-L6735",
     "model": "HUAWEI LYO-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L01"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L02"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L11"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L12"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova",
+    "device": "HWCAN",
+    "model": "HUAWEI CAN-L13"
   },
   {
     "brand": "Huawei",
@@ -25462,6 +25486,12 @@
     "name": "U8836D",
     "device": "hwu8836D",
     "model": "U8836D"
+  },
+  {
+    "brand": "Huawei",
+    "name": "U9000",
+    "device": "hwu9000",
+    "model": "HUAWEI-U9000"
   },
   {
     "brand": "Huawei",
@@ -38938,6 +38968,12 @@
     "name": "ThinkVision28",
     "device": "ThinkVision28",
     "model": "ThinkVision28"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Thinkpad Stack projector",
+    "device": "pj_stack_acc",
+    "model": "M123"
   },
   {
     "brand": "Lenovo",
@@ -64729,6 +64765,12 @@
   },
   {
     "brand": "Sprint",
+    "name": "HTC Bolt",
+    "device": "htc_acawhl",
+    "model": "2PYB2"
+  },
+  {
+    "brand": "Sprint",
     "name": "Slate 8 Tablet",
     "device": "NKS_AQT80",
     "model": "AQT80"
@@ -71230,6 +71272,12 @@
     "name": "UVP-X",
     "device": "grizzlies_telefi4xp",
     "model": "UVP-X"
+  },
+  {
+    "brand": "V7",
+    "name": "Zyro",
+    "device": "zyro",
+    "model": "V7 Zyro"
   },
   {
     "brand": "VAIO",
