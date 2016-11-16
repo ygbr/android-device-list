@@ -5347,6 +5347,12 @@
   },
   {
     "brand": "Auchan",
+    "name": "Q7T10INP",
+    "device": "Q7T10INP",
+    "model": "Q7T10INP"
+  },
+  {
+    "brand": "Auchan",
     "name": "Q7T7INK",
     "device": "Q7T7INK",
     "model": "Q7T7INK"
@@ -38551,6 +38557,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo YB1-X90L/YOGA BOOK",
+    "device": "yeti",
+    "model": "Lenovo YB1-X90L"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo YOGA BOOK",
     "device": "yeti",
     "model": "Lenovo YB1-X90F"
@@ -44323,6 +44335,12 @@
   },
   {
     "brand": "Navon",
+    "name": "T400",
+    "device": "T400",
+    "model": "T400"
+  },
+  {
+    "brand": "Navon",
     "name": "T452",
     "device": "T452",
     "model": "T452"
@@ -49690,6 +49708,12 @@
     "name": "X700 PRO II",
     "device": "X700_PRO_II",
     "model": "QMobile X700 PRO II"
+  },
+  {
+    "brand": "QMobile",
+    "name": "X700 PRO Lite",
+    "device": "X700_PRO_Lite",
+    "model": "QMobile X700 PRO Lite"
   },
   {
     "brand": "QMobile",
@@ -61741,6 +61765,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "LCD-xxFOC36A",
+    "device": "Lcd_foc36a",
+    "model": "LCD_FOC36A"
+  },
+  {
+    "brand": "Sharp",
     "name": "LYNX 3D SH-03C",
     "device": "SH03C",
     "model": "SH-03C"
@@ -64480,6 +64510,12 @@
     "name": "Smart Tab 1004XS",
     "device": "SmartTab_1004_XS",
     "model": "SmartTab_1004_XS"
+  },
+  {
+    "brand": "Sourcing Creation",
+    "name": "Smart' Tab 1006",
+    "device": "M16Q1A",
+    "model": "SmartTab1006"
   },
   {
     "brand": "Sourcing Creation",
@@ -72415,7 +72451,19 @@
   },
   {
     "brand": "Vonino",
+    "name": "Pluri M7 A6",
+    "device": "Pluri_M7",
+    "model": "Pluri_M7"
+  },
+  {
+    "brand": "Vonino",
     "name": "Pluri Q8",
+    "device": "Pluri_Q8",
+    "model": "Pluri_Q8"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Pluri Q8 A6",
     "device": "Pluri_Q8",
     "model": "Pluri_Q8"
   },
@@ -72445,13 +72493,19 @@
   },
   {
     "brand": "Vonino",
-    "name": "ZUN XO",
+    "name": "ZUN XO A6",
     "device": "Zun_XO",
     "model": "ZUN XO"
   },
   {
     "brand": "Vonino",
     "name": "Zun X",
+    "device": "Zun_X",
+    "model": "Zun X"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Zun X A6",
     "device": "Zun_X",
     "model": "Zun X"
   },
@@ -73540,6 +73594,24 @@
     "name": "Redmi 3S",
     "device": "land",
     "model": "Redmi 3S"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 4",
+    "device": "markw",
+    "model": "Redmi 4"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 4",
+    "device": "prada",
+    "model": "Redmi 4"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 4A",
+    "device": "rolex",
+    "model": "Redmi 4A"
   },
   {
     "brand": "Xiaomi",
