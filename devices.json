@@ -26515,6 +26515,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6S",
+    "device": "HWDIG-L8940",
+    "model": "DIG-AL00"
+  },
+  {
+    "brand": "Huawei",
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",
     "device": "hwSCL-Q",
     "model": "SCL-AL00"
@@ -35751,6 +35757,12 @@
     "brand": "Leeco",
     "name": "LePro3",
     "device": "le_zl1",
+    "model": "LEX725"
+  },
+  {
+    "brand": "Leeco",
+    "name": "LePro3",
+    "device": "le_zl1",
     "model": "LEX727"
   },
   {
@@ -44395,6 +44407,12 @@
   },
   {
     "brand": "Neffos",
+    "name": "Neffos Y50",
+    "device": "Y50",
+    "model": "Neffos Y50"
+  },
+  {
+    "brand": "Neffos",
     "name": "Y5",
     "device": "Y5",
     "model": "Neffos Y5"
@@ -50773,12 +50791,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "G TAB A PLUS 10.1",
-    "device": "gtanotexllte",
-    "model": "SM-P587"
-  },
-  {
-    "brand": "Samsung",
     "name": "GALAXY Camera",
     "device": "gd1",
     "model": "EK-GC100"
@@ -51940,6 +51952,12 @@
     "name": "Galaxy C7",
     "device": "c7ltechn",
     "model": "SM-C700X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy C9 Pro",
+    "device": "c9ltechn",
+    "model": "SM-C9000"
   },
   {
     "brand": "Samsung",
@@ -59774,6 +59792,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy TabA Plus 10.1",
+    "device": "gtanotexllte",
+    "model": "SM-P587"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabA Plus 10.1",
     "device": "gtanotexlltechn",
     "model": "SM-P588C"
   },
@@ -59938,6 +59962,12 @@
     "name": "Galaxy TabS 8.4",
     "device": "klimtwifikx",
     "model": "SM-T700"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy TabS2 9.7",
+    "device": "gts210veltevzw",
+    "model": "SM-T818V"
   },
   {
     "brand": "Samsung",
@@ -70621,6 +70651,12 @@
   },
   {
     "brand": "Tele2",
+    "name": "Tele2 Midi 1.1",
+    "device": "Tele2_Midi_1_1",
+    "model": "Tele2_Midi_1_1"
+  },
+  {
+    "brand": "Tele2",
     "name": "Tele2 Mini",
     "device": "Tele2_Mini",
     "model": "Tele2_Mini"
@@ -72466,6 +72502,12 @@
     "name": "Pluri Q8 A6",
     "device": "Pluri_Q8",
     "model": "Pluri_Q8"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Xavy T7 A6",
+    "device": "Xavy_T7",
+    "model": "Xavy_T7"
   },
   {
     "brand": "Vonino",
