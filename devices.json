@@ -2437,6 +2437,12 @@
   },
   {
     "brand": "Archos",
+    "name": "50 Saphir",
+    "device": "ac50sa",
+    "model": "Archos 50 Saphir"
+  },
+  {
+    "brand": "Archos",
     "name": "50 Titanium",
     "device": "a50ti",
     "model": "Archos 50 Titanium"
@@ -3007,6 +3013,12 @@
   },
   {
     "brand": "Archos",
+    "name": "Archos 50f Helium",
+    "device": "ac50fhe",
+    "model": "Archos 50f Helium"
+  },
+  {
+    "brand": "Archos",
     "name": "Archos 55 Diamond Selfie",
     "device": "ac55diselfie",
     "model": "Archos 55 diamond Selfie"
@@ -3076,6 +3088,12 @@
     "name": "Archos 70 Platinum",
     "device": "ac70pl",
     "model": "Archos 70 Platinum"
+  },
+  {
+    "brand": "Archos",
+    "name": "Archos 70 Platinum 3G",
+    "device": "ac70pl3g",
+    "model": "Archos 70 Platinum 3G"
   },
   {
     "brand": "Archos",
@@ -3418,6 +3436,12 @@
     "name": "Bush Mytablet 2",
     "device": "a80bu",
     "model": "Bush Mytablet 2"
+  },
+  {
+    "brand": "Archos",
+    "name": "Bush Spira B1 10.1",
+    "device": "ac101dplv3a6",
+    "model": "Bush Spira B1 10.1\""
   },
   {
     "brand": "Archos",
@@ -6226,6 +6250,12 @@
     "name": "BLU LIFE XL",
     "device": "BLU_LIFE_XL",
     "model": "BLU LIFE XL"
+  },
+  {
+    "brand": "Blu",
+    "name": "BLU Studio J5",
+    "device": "Studio_J5",
+    "model": "Studio J5"
   },
   {
     "brand": "Blu",
@@ -14212,6 +14242,12 @@
     "name": "HTC Butterfly s 9060",
     "device": "dlpdug",
     "model": "HTC 9060"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC D10i",
+    "device": "htc_a56dj_pro_dugl",
+    "model": "HTC_D10i"
   },
   {
     "brand": "HTC",
@@ -23947,6 +23983,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-L11"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI Y536-A1",
     "device": "hwY536A1",
     "model": "HUAWEI Y536A1"
@@ -25939,6 +25981,12 @@
   },
   {
     "brand": "Huawei",
+    "name": "Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-L03"
+  },
+  {
+    "brand": "Huawei",
     "name": "Y500-T00",
     "device": "HWY500-T00",
     "model": "HUAWEI Y500-T00"
@@ -26572,6 +26620,18 @@
     "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
     "device": "HWBLN-H",
     "model": "BLN-AL10"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+    "device": "HWBLN-H",
+    "model": "BLN-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+    "device": "HWBLN-H",
+    "model": "BLN-TL10"
   },
   {
     "brand": "Huawei",
@@ -28408,6 +28468,12 @@
     "name": "Sparkle V",
     "device": "Sparkle_V_sprout",
     "model": "Sparkle V"
+  },
+  {
+    "brand": "Karbonn",
+    "name": "Titanium Vista 4G",
+    "device": "TitaniumVista4G",
+    "model": "Titanium Vista 4G"
   },
   {
     "brand": "Kennex",
@@ -38845,6 +38911,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "NEC  PC-TE507FAW",
+    "device": "TE507FAW",
+    "model": "PC-TE507FAW"
+  },
+  {
+    "brand": "Lenovo",
     "name": "P780",
     "device": "P780",
     "model": "Lenovo P780"
@@ -44568,6 +44640,12 @@
     "model": "Kali_8"
   },
   {
+    "brand": "Njoy",
+    "name": "nJoy Turnus 8",
+    "device": "Turnus_8",
+    "model": "nJoy_Turnus_8"
+  },
+  {
     "brand": "Nobis",
     "name": "NB07",
     "device": "NB07",
@@ -44638,6 +44716,12 @@
     "name": "NUU A1",
     "device": "NUU_A1",
     "model": "NUU_A1"
+  },
+  {
+    "brand": "Nuu",
+    "name": "NUU A3",
+    "device": "NUU_A3",
+    "model": "NUU_A3"
   },
   {
     "brand": "Nuu",
@@ -73498,6 +73582,12 @@
     "name": "MI 4s",
     "device": "aqua",
     "model": "MI 4S"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MI 5s Plus",
+    "device": "natrium",
+    "model": "MI 5s Plus"
   },
   {
     "brand": "Xiaomi",
