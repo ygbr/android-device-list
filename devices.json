@@ -9397,6 +9397,12 @@
   },
   {
     "brand": "Diginnos",
+    "name": "DG-Q08M",
+    "device": "DG-Q08M",
+    "model": "DG-Q08M"
+  },
+  {
+    "brand": "Diginnos",
     "name": "Diginnos DG-D07S/GP",
     "device": "DG-D07SGP",
     "model": "DG-D07SGP"
@@ -9442,6 +9448,12 @@
     "name": "TAB-740_G",
     "device": "TAB-740_G",
     "model": "TAB-740_G"
+  },
+  {
+    "brand": "Dish",
+    "name": "AirTV Player",
+    "device": "uiw4010ech",
+    "model": "AirTV Player"
   },
   {
     "brand": "Ditecma",
@@ -14386,6 +14398,12 @@
     "name": "HTC Desire 10 lifestyle",
     "device": "htc_a56djul",
     "model": "HTC Desire 10 lifestyle"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 10 pro",
+    "device": "htc_a56dj_pro_dugl",
+    "model": "HTC Desire 10 pro"
   },
   {
     "brand": "HTC",
@@ -38059,6 +38077,24 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo PHAB2 Pro",
+    "device": "PB2PRO",
+    "model": "Lenovo PB2-690M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo PHAB2 Pro",
+    "device": "PB2PRO",
+    "model": "Lenovo PB2-690N"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo PHAB2 Pro",
+    "device": "PB2PRO",
+    "model": "Lenovo PB2-690Y"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo S1",
     "device": "S1a40",
     "model": "Lenovo S1a40"
@@ -38497,6 +38533,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TB3 8 Plus",
+    "device": "TB-8703X",
+    "model": "Lenovo TB-8703X"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TB3-601LV",
     "device": "601LV",
     "model": "601LV"
@@ -38914,6 +38956,12 @@
     "name": "NEC  PC-TE507FAW",
     "device": "TE507FAW",
     "model": "PC-TE507FAW"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "NEC PC-TS508FAM",
+    "device": "PC-TS508FAM",
+    "model": "NEC PC-TS508FAM"
   },
   {
     "brand": "Lenovo",
@@ -60933,6 +60981,12 @@
     "brand": "Sansui",
     "name": "SANSUI Tab 7\"",
     "device": "ETAB_I7043G",
+    "model": "ETAB I7043G"
+  },
+  {
+    "brand": "Sansui",
+    "name": "SANSUI Tab 7\"",
+    "device": "ETAB_I7043G",
     "model": "ETAB_I7043G"
   },
   {
@@ -61486,6 +61540,12 @@
     "name": "AQUOS U SHV35",
     "device": "SHV35",
     "model": "SHV35"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS U SHV37",
+    "device": "FSP",
+    "model": "SHV37"
   },
   {
     "brand": "Sharp",
@@ -75178,6 +75238,12 @@
     "name": "A1P",
     "device": "ailsa",
     "model": "A1P"
+  },
+  {
+    "brand": "ZTE",
+    "name": "A1R",
+    "device": "billy",
+    "model": "A1"
   },
   {
     "brand": "ZTE",
