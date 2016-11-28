@@ -5365,9 +5365,21 @@
   },
   {
     "brand": "Auchan",
+    "name": "Q7S55IN4G",
+    "device": "Q7S55IN4G",
+    "model": "Q7S55IN4G"
+  },
+  {
+    "brand": "Auchan",
     "name": "Q7S5IN4G",
     "device": "Q7S5IN4G",
     "model": "Q7S5IN4G"
+  },
+  {
+    "brand": "Auchan",
+    "name": "Q7S5IN4GP",
+    "device": "Q7S5IN4GP",
+    "model": "Q7S5IN4GP"
   },
   {
     "brand": "Auchan",
@@ -5470,6 +5482,12 @@
     "name": "S5S5IN4G",
     "device": "S5S5IN4G",
     "model": "S5S5IN4G"
+  },
+  {
+    "brand": "Auchan",
+    "name": "S6S4IN3G",
+    "device": "S6S4IN3G",
+    "model": "S6S4IN3G"
   },
   {
     "brand": "Auchan",
@@ -6214,6 +6232,12 @@
     "name": "PRIV by BlackBerry",
     "device": "venice",
     "model": "STV100-4"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Blackview A5",
+    "device": "A5",
+    "model": "A5"
   },
   {
     "brand": "Blackview",
@@ -7327,6 +7351,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare J7",
+    "device": "Flare_J7",
+    "model": "Flare J7"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare X",
     "device": "Flare_X",
     "model": "Flare_X_V2"
@@ -8239,6 +8269,12 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Cool C1",
+    "device": "cool_c1",
+    "model": "C107-9"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Coolmini",
     "device": "Coolmini",
     "model": "Coolmini"
@@ -9040,6 +9076,12 @@
     "name": "DINOSAUR",
     "device": "x5623_h6013_cubot",
     "model": "CUBOT DINOSAUR"
+  },
+  {
+    "brand": "Cubot",
+    "name": "ECHO",
+    "device": "CUBOT_ECHO",
+    "model": "CUBOT ECHO"
   },
   {
     "brand": "Cubot",
@@ -11611,6 +11653,12 @@
   },
   {
     "brand": "Fujitsu",
+    "name": "F-01J",
+    "device": "F01J",
+    "model": "F-01J"
+  },
+  {
+    "brand": "Fujitsu",
     "name": "F-02F",
     "device": "F02F",
     "model": "F-02F"
@@ -14062,6 +14110,12 @@
     "name": "HTC 10",
     "device": "htc_pmewl",
     "model": "HTC6545LVW"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10 evo",
+    "device": "htc_acauhl",
+    "model": "HTC_M10f"
   },
   {
     "brand": "HTC",
@@ -23612,6 +23666,30 @@
   {
     "brand": "Huawei",
     "name": "HUAWEI GR5",
+    "device": "HWBLN-H",
+    "model": "BLL-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWBLN-H",
+    "model": "BLL-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWBLN-H",
+    "model": "HUAWEI BLL-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
+    "device": "HWBLN-H",
+    "model": "HUAWEI BLL-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI GR5",
     "device": "HWKII-Q",
     "model": "HUAWEI KII-L03"
   },
@@ -23692,6 +23770,18 @@
     "name": "HUAWEI H871G",
     "device": "hwh871g",
     "model": "HUAWEI H871G"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Mat",
+    "device": "HWBLN-H",
+    "model": "BLL-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Mat",
+    "device": "HWBLN-H",
+    "model": "HUAWEI BLL-L23"
   },
   {
     "brand": "Huawei",
@@ -26479,6 +26569,18 @@
   },
   {
     "brand": "Huawei",
+    "name": "honor 6x",
+    "device": "HWBLN-H",
+    "model": "BLN-L21"
+  },
+  {
+    "brand": "Huawei",
+    "name": "honor 6x",
+    "device": "HWBLN-H",
+    "model": "BLN-L22"
+  },
+  {
+    "brand": "Huawei",
     "name": "hw204HW",
     "device": "hw204HW",
     "model": "204HW"
@@ -26584,6 +26686,12 @@
     "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6S",
     "device": "HWDIG-L8940",
     "model": "DIG-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6S",
+    "device": "HWDIG-L8940",
+    "model": "DIG-TL10"
   },
   {
     "brand": "Huawei",
@@ -44689,6 +44797,12 @@
   },
   {
     "brand": "Njoy",
+    "name": "nJoy Tityos 10",
+    "device": "Tityos_10",
+    "model": "nJoy_Tityos_10"
+  },
+  {
+    "brand": "Njoy",
     "name": "nJoy Turnus 8",
     "device": "Turnus_8",
     "model": "nJoy_Turnus_8"
@@ -47896,6 +48010,12 @@
     "name": "I4G",
     "device": "I4G",
     "model": "TURBOX_I4G"
+  },
+  {
+    "brand": "Plaisio",
+    "name": "Lithium Ion",
+    "device": "Turbo-X_e3",
+    "model": "Turbo-X_e3"
   },
   {
     "brand": "Plaisio",
@@ -55664,6 +55784,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy On7(2016)",
+    "device": "on7xeltektt",
+    "model": "SM-G610K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7(2016)",
     "device": "on7xltechn",
     "model": "SM-G6100"
   },
@@ -60958,6 +61084,12 @@
     "name": "W2016",
     "device": "royceltectc",
     "model": "SM-W2016"
+  },
+  {
+    "brand": "Samsung",
+    "name": "W2017",
+    "device": "veyronltectc",
+    "model": "SM-W2017"
   },
   {
     "brand": "Samsung",
@@ -70285,6 +70417,18 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Xess mini",
+    "device": "Xess-mini",
+    "model": "TCL Xess miniC15BA"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "Xess-mini",
+    "device": "Xess-mini",
+    "model": "TCL Xess C15BA"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "alcatel PIXI 4 (5.5)",
     "device": "PIXI4_55_3G",
     "model": "5012D"
@@ -72295,6 +72439,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo X9",
+    "device": "PD1616",
+    "model": "vivo X9"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo Xplay5A",
     "device": "PD1522A",
     "model": "vivo PD1522A"
@@ -73383,6 +73533,12 @@
     "brand": "Wileyfox",
     "name": "Swift 2",
     "device": "marmite",
+    "model": "Swift 2 X"
+  },
+  {
+    "brand": "Wileyfox",
+    "name": "Swift 2",
+    "device": "marmite",
     "model": "Wileyfox Swift 2 Plus"
   },
   {
@@ -73790,13 +73946,13 @@
   {
     "brand": "Xiaomi",
     "name": "Redmi 4",
-    "device": "markw",
+    "device": "prada",
     "model": "Redmi 4"
   },
   {
     "brand": "Xiaomi",
-    "name": "Redmi 4",
-    "device": "prada",
+    "name": "Redmi 4 Pro",
+    "device": "markw",
     "model": "Redmi 4"
   },
   {
@@ -80650,6 +80806,12 @@
     "name": "TC55",
     "device": "TC55",
     "model": "TC55"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC75x",
+    "device": "TC75x",
+    "model": "TC75x"
   },
   {
     "brand": "Zebra",
