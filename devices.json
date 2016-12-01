@@ -1057,6 +1057,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Z6 Plus",
+    "device": "acer_t11",
+    "model": "T11"
+  },
+  {
+    "brand": "Acer",
     "name": "Liquid Z630",
     "device": "acer_t03",
     "model": "T03"
@@ -1456,6 +1462,12 @@
     "name": "P7 PRO",
     "device": "P7_PRO",
     "model": "P7_PRO"
+  },
+  {
+    "brand": "AllView",
+    "name": "P7 PRO_TM",
+    "device": "P7_PRO",
+    "model": "P7_PRO_TM"
   },
   {
     "brand": "AllView",
@@ -6271,9 +6283,21 @@
   },
   {
     "brand": "Blu",
+    "name": "BLU Dash XL",
+    "device": "Dash_XL",
+    "model": "Dash XL"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU LIFE XL",
     "device": "BLU_LIFE_XL",
     "model": "BLU LIFE XL"
+  },
+  {
+    "brand": "Blu",
+    "name": "BLU R1 HD",
+    "device": "BLU_R1_HD",
+    "model": "BLU R1 HD"
   },
   {
     "brand": "Blu",
@@ -7015,6 +7039,18 @@
   },
   {
     "brand": "Casper",
+    "name": "VIA_S17",
+    "device": "VIA_S17",
+    "model": "VIA_S17"
+  },
+  {
+    "brand": "Casper",
+    "name": "VIA_S18",
+    "device": "VIA_S18",
+    "model": "VIA_S18"
+  },
+  {
+    "brand": "Casper",
     "name": "VIA_T41",
     "device": "VIA_T41",
     "model": "VIA_T41"
@@ -7354,6 +7390,12 @@
     "name": "Flare J7",
     "device": "Flare_J7",
     "model": "Flare J7"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Flare S5 Lite DTV",
+    "device": "FlareS5LiteDTV",
+    "model": "FlareS5LiteDTV"
   },
   {
     "brand": "Cherry Mobile",
@@ -15043,6 +15085,12 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC Desire 650",
+    "device": "htc_a17uhl",
+    "model": "HTC_D650h"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC Desire 700 dual sim",
     "device": "cp5dug",
     "model": "HTC Desire 700 dual sim"
@@ -16042,6 +16090,18 @@
     "name": "HTC One A9",
     "device": "htc_hiaewhl",
     "model": "2PQ93"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One A9s",
+    "device": "htc_e36_ml_uhl",
+    "model": "HTC 2PWD1"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One A9s",
+    "device": "htc_e36_ml_uhl",
+    "model": "HTC One A9s"
   },
   {
     "brand": "HTC",
@@ -27154,6 +27214,12 @@
     "name": "INFINIX-X521",
     "device": "Infinix-X521-Pro",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521-Pro",
+    "model": "Infinix_X521_LTE"
   },
   {
     "brand": "Infinix",
@@ -38629,6 +38695,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo TB2-X30M",
+    "device": "TB2-X30M",
+    "model": "Lenovo TB2-X30M_PRC_YZ_A"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo TB3 8 Plus",
     "device": "TB-8703F",
     "model": "Lenovo TB-8703F"
@@ -43686,6 +43758,12 @@
     "model": "LUNA_II"
   },
   {
+    "brand": "MyPhone (PL)",
+    "name": "myPhone Q-Smart Elite",
+    "device": "Q-Smart_Elite_JMP",
+    "model": "Q-Smart_Elite"
+  },
+  {
     "brand": "Myphone",
     "name": "MyPhone my28S",
     "device": "MyPhone_my28S",
@@ -45505,6 +45583,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "A51",
+    "device": "A51",
+    "model": "Lava A51"
+  },
+  {
+    "brand": "Oppo",
     "name": "A51f",
     "device": "A51",
     "model": "A51f"
@@ -46468,6 +46552,12 @@
     "name": "ELUGA",
     "device": "pana2_4o",
     "model": "dL1"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "ELUGA I3 Mega",
+    "device": "Eluga_I3_Mega",
+    "model": "ELUGA I3 Mega"
   },
   {
     "brand": "Panasonic",
@@ -49879,6 +49969,18 @@
   },
   {
     "brand": "QMobile",
+    "name": "Qmobile E1",
+    "device": "QMobile_E1",
+    "model": "E1"
+  },
+  {
+    "brand": "QMobile",
+    "name": "Qmobile E1",
+    "device": "QMobile_E1",
+    "model": "QMobile E1"
+  },
+  {
+    "brand": "QMobile",
     "name": "Qmobile L20",
     "device": "L20",
     "model": "QMobile L20"
@@ -50026,6 +50128,18 @@
     "name": "i2 POWER",
     "device": "i2_POWER",
     "model": "QMobile i2 POWER"
+  },
+  {
+    "brand": "QMobile",
+    "name": "i2 PRO",
+    "device": "i2_PRO",
+    "model": "QMobile i2 PRO"
+  },
+  {
+    "brand": "QMobile",
+    "name": "i7i PRO",
+    "device": "i7i_PRO",
+    "model": "QMobile i7i PRO"
   },
   {
     "brand": "QOOQ",
@@ -55790,6 +55904,18 @@
   {
     "brand": "Samsung",
     "name": "Galaxy On7(2016)",
+    "device": "on7xeltelgt",
+    "model": "SM-G610L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7(2016)",
+    "device": "on7xelteskt",
+    "model": "SM-G610S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy On7(2016)",
     "device": "on7xltechn",
     "model": "SM-G6100"
   },
@@ -61315,6 +61441,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS L SHV37",
+    "device": "FSP_u",
+    "model": "SHV37_u"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS M1",
     "device": "MS1",
     "model": "FS8001"
@@ -62167,6 +62299,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "SH-M04",
+    "device": "SH-M04",
+    "model": "SH-M04"
+  },
+  {
+    "brand": "Sharp",
     "name": "SH80F",
     "device": "SH80F",
     "model": "SH80F"
@@ -62236,6 +62374,12 @@
     "name": "SoftBank AQUOS PHONE Xx 203SH",
     "device": "SBM203SH",
     "model": "SBM203SH"
+  },
+  {
+    "brand": "Sharp",
+    "name": "Star Wars mobile",
+    "device": "SW001SH",
+    "model": "SW001SH"
   },
   {
     "brand": "Sharp",
@@ -62332,6 +62476,12 @@
     "name": "A16C3H",
     "device": "A16C3H",
     "model": "Andromax A16C3H"
+  },
+  {
+    "brand": "Smartfren",
+    "name": "A26C4H",
+    "device": "A26C4H",
+    "model": "Andromax A26C4H"
   },
   {
     "brand": "Smartfren",
@@ -68413,7 +68563,7 @@
   },
   {
     "brand": "TCT (Alcatel)",
-    "name": "IODL 4S",
+    "name": "IDOL 4S",
     "device": "idol4s",
     "model": "6070O"
   },
@@ -70346,6 +70496,12 @@
   {
     "brand": "TCT (Alcatel)",
     "name": "TCL_Xess_P17AA",
+    "device": "Xess",
+    "model": "TCL Xess P17AA"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "TCL_Xess_P17AA_OS",
     "device": "Xess",
     "model": "TCL Xess P17AA"
   },
@@ -73021,6 +73177,12 @@
   },
   {
     "brand": "Walton",
+    "name": "Primo S5",
+    "device": "Primo_S5",
+    "model": "Primo_S5"
+  },
+  {
+    "brand": "Walton",
     "name": "Primo X4",
     "device": "WALTON_Primo_X4",
     "model": "Primo X4"
@@ -75520,6 +75682,24 @@
     "name": "B760E",
     "device": "ztemt85_bx_kk",
     "model": "B760H"
+  },
+  {
+    "brand": "ZTE",
+    "name": "B860AV2",
+    "device": "p200_2G",
+    "model": "B860AV2"
+  },
+  {
+    "brand": "ZTE",
+    "name": "B860H",
+    "device": "B860H_V1",
+    "model": "B860H"
+  },
+  {
+    "brand": "ZTE",
+    "name": "B860H",
+    "device": "B860H_V1",
+    "model": "B860H V1.0"
   },
   {
     "brand": "ZTE",
