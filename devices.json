@@ -7483,6 +7483,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare S5 Plus",
+    "device": "Flare_S5_Plus",
+    "model": "Flare S5 Plus"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare X",
     "device": "Flare_X",
     "model": "Flare_X_V2"
@@ -12091,6 +12097,12 @@
   },
   {
     "brand": "Fujitsu",
+    "name": "arrows M03",
+    "device": "M03",
+    "model": "arrowsM03"
+  },
+  {
+    "brand": "Fujitsu",
     "name": "arrows M357",
     "device": "M357",
     "model": "M357"
@@ -14307,6 +14319,12 @@
     "brand": "HTC",
     "name": "HTC 10 evo",
     "device": "htc_acauhl",
+    "model": "HTC 10 evo"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC 10 evo",
+    "device": "htc_acauhl",
     "model": "HTC_M10f"
   },
   {
@@ -15490,6 +15508,12 @@
     "name": "HTC Desire 828",
     "device": "htc_a51bml_tuhl",
     "model": "HTC Desire 828"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 828",
+    "device": "htc_a51bml_tuhl",
+    "model": "HTC_D828g"
   },
   {
     "brand": "HTC",
@@ -27637,6 +27661,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix-X521G1",
+    "device": "Infinix-X521-Pro",
+    "model": "Infinix_X521"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix-X521S",
     "device": "Infinix-X521",
     "model": "Infinix-X521S"
@@ -31660,6 +31690,18 @@
     "name": "LG G Pad II 8.3",
     "device": "altev2",
     "model": "LG-P815L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G Pad III 10.1 FHD LTE",
+    "device": "b5",
+    "model": "LG-P755L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG G Pad III 10.1 FHD LTE",
+    "device": "b5",
+    "model": "LG-V755"
   },
   {
     "brand": "LGE",
@@ -35953,6 +35995,12 @@
   },
   {
     "brand": "Lava",
+    "name": "A73",
+    "device": "A73",
+    "model": "A73"
+  },
+  {
+    "brand": "Lava",
     "name": "A76Plus",
     "device": "A76Plus",
     "model": "A76Plus"
@@ -36031,6 +36079,12 @@
   },
   {
     "brand": "Lava",
+    "name": "Lava X28",
+    "device": "X28",
+    "model": "X28"
+  },
+  {
+    "brand": "Lava",
     "name": "Lava X38",
     "device": "X38",
     "model": "X38"
@@ -36040,6 +36094,12 @@
     "name": "Lava X38 2GB",
     "device": "X382GB",
     "model": "X38 2GB"
+  },
+  {
+    "brand": "Lava",
+    "name": "Lava X41",
+    "device": "X41",
+    "model": "X41"
   },
   {
     "brand": "Lava",
@@ -36124,6 +36184,12 @@
     "name": "X46",
     "device": "LX46",
     "model": "X46"
+  },
+  {
+    "brand": "Lava",
+    "name": "X50 Plus",
+    "device": "X50_Plus",
+    "model": "X50 Plus"
   },
   {
     "brand": "Lava",
@@ -44059,6 +44125,12 @@
   },
   {
     "brand": "Multilaser",
+    "name": "MS70",
+    "device": "MS70",
+    "model": "MS70"
+  },
+  {
+    "brand": "Multilaser",
     "name": "Ms5",
     "device": "MTL-MS5",
     "model": "MS5"
@@ -47095,6 +47167,12 @@
   },
   {
     "brand": "Panasonic",
+    "name": "Eluga Ray X",
+    "device": "ELUGA_Ray_X",
+    "model": "ELUGA Ray X"
+  },
+  {
+    "brand": "Panasonic",
     "name": "Eluga Tapp",
     "device": "Eluga_TAPP",
     "model": "Panasonic ELUGA Tapp"
@@ -47157,6 +47235,24 @@
     "brand": "Panasonic",
     "name": "FZ-N1",
     "device": "FZ-N1VUC",
+    "model": "FZ-N1"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "FZ-N1",
+    "device": "FZ-N1VUCCL",
+    "model": "FZ-N1"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "FZ-N1",
+    "device": "FZ-N1VUCF",
+    "model": "FZ-N1"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "FZ-N1",
+    "device": "FZ-N1VUF",
     "model": "FZ-N1"
   },
   {
@@ -48322,6 +48418,12 @@
     "name": "Philips X586",
     "device": "Philips_X586",
     "model": "Philips_X586"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips X818",
+    "device": "X818_EE",
+    "model": "Philips X818"
   },
   {
     "brand": "Philips",
@@ -81598,6 +81700,12 @@
     "name": "TC55",
     "device": "TC55",
     "model": "TC55"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC70x",
+    "device": "TC70x",
+    "model": "TC70x"
   },
   {
     "brand": "Zebra",
