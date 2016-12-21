@@ -3643,6 +3643,12 @@
   },
   {
     "brand": "Ark",
+    "name": "ARK Benefit M505",
+    "device": "Benefit_M505",
+    "model": "Benefit_M505"
+  },
+  {
+    "brand": "Ark",
     "name": "ARK Benefit M8",
     "device": "Benefit_M8",
     "model": "Benefit_M8"
@@ -5095,6 +5101,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenbo",
+    "device": "ASUS_ZENBO",
+    "model": "Zenbo"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone 3",
     "device": "ASUS_Z012D",
     "model": "ASUS_Z012D"
@@ -6300,6 +6312,12 @@
     "model": "BV6000"
   },
   {
+    "brand": "Blackview",
+    "name": "Blackview E7S",
+    "device": "E7s",
+    "model": "E7s"
+  },
+  {
     "brand": "Blaupunkt",
     "name": "Endeavour101",
     "device": "Blaupunkt",
@@ -6370,6 +6388,12 @@
     "name": "BLU VIVO XL2",
     "device": "BLU_Vivo_XL2",
     "model": "Vivo XL2"
+  },
+  {
+    "brand": "Blu",
+    "name": "BLU Vivo 5 Mini",
+    "device": "Vivo_5_Mini",
+    "model": "Vivo 5 Mini"
   },
   {
     "brand": "Blu",
@@ -6565,6 +6589,12 @@
   },
   {
     "brand": "Blu",
+    "name": "R1 PLUS",
+    "device": "R1_PLUS",
+    "model": "R1 PLUS"
+  },
+  {
+    "brand": "Blu",
     "name": "STUDIO 7.0 LTE",
     "device": "blu_s0010tw",
     "model": "BLU STUDIO 7.0 LTE"
@@ -6736,6 +6766,12 @@
     "name": "Studio XL 2",
     "device": "Studio_XL_2",
     "model": "Studio XL 2"
+  },
+  {
+    "brand": "Blu",
+    "name": "Tank Xtreme 5.0",
+    "device": "Tank_Xtreme_5_0",
+    "model": "Tank Xtreme 5.0"
   },
   {
     "brand": "Blu",
@@ -9256,6 +9292,12 @@
     "name": "ECHO",
     "device": "CUBOT_ECHO",
     "model": "CUBOT ECHO"
+  },
+  {
+    "brand": "Cubot",
+    "name": "MANITO",
+    "device": "CUBOT_MANITO",
+    "model": "CUBOT_MANITO"
   },
   {
     "brand": "Cubot",
@@ -24261,6 +24303,12 @@
     "brand": "Huawei",
     "name": "HUAWEI P9 lite smart",
     "device": "HWDIG-L8940",
+    "model": "DIG-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI P9 lite smart",
+    "device": "HWDIG-L8940",
     "model": "DIG-L23"
   },
   {
@@ -24394,6 +24442,12 @@
     "name": "HUAWEI Y5 2017",
     "device": "HWMYA-L6737",
     "model": "MYA-L11"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-U6580",
+    "model": "MYA-U29"
   },
   {
     "brand": "Huawei",
@@ -25252,6 +25306,12 @@
     "name": "Mate 9",
     "device": "HWMHA",
     "model": "MHA-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Mate 9",
+    "device": "HWMHA",
+    "model": "MHA-TL00"
   },
   {
     "brand": "Huawei",
@@ -27670,6 +27730,12 @@
     "name": "Infinix-X521S",
     "device": "Infinix-X521",
     "model": "Infinix-X521S"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X521S",
+    "device": "Infinix-X521",
+    "model": "Infinix_X521S"
   },
   {
     "brand": "Infinix",
@@ -36385,6 +36451,12 @@
   },
   {
     "brand": "Leeco",
+    "name": "Le Pro3",
+    "device": "le_zl1",
+    "model": "LEX727"
+  },
+  {
+    "brand": "Leeco",
     "name": "Le S3",
     "device": "le_s2_na",
     "model": "Le X522"
@@ -41935,6 +42007,12 @@
   },
   {
     "brand": "Mobicell",
+    "name": "4U",
+    "device": "4U",
+    "model": "4U"
+  },
+  {
+    "brand": "Mobicell",
     "name": "Air",
     "device": "Mobicel_Air",
     "model": "Air"
@@ -44176,6 +44254,12 @@
     "name": "myPhone Luna II",
     "device": "LUNA_II_OPM",
     "model": "LUNA_II"
+  },
+  {
+    "brand": "MyPhone (PL)",
+    "name": "myPhone MAGNUS",
+    "device": "MAGNUS_JMP",
+    "model": "MAGNUS"
   },
   {
     "brand": "MyPhone (PL)",
@@ -51835,6 +51919,12 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A3 (2017)",
+    "device": "a3y17lte",
+    "model": "SM-A320Y"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A3(2016)",
     "device": "a3xelte",
     "model": "SM-A310F"
@@ -53944,6 +54034,12 @@
     "name": "Galaxy Grand Prime",
     "device": "fortunaltezt",
     "model": "SM-G530Y"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Grand Prime",
+    "device": "fortunave3g",
+    "model": "SM-G530H"
   },
   {
     "brand": "Samsung",
@@ -60406,12 +60502,6 @@
     "name": "Galaxy Tab3 Lite",
     "device": "goyawifi",
     "model": "SM-T110"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab3 Lite 7.0",
-    "device": "fortunave3g",
-    "model": "SM-G530H"
   },
   {
     "brand": "Samsung",
@@ -71773,6 +71863,12 @@
   },
   {
     "brand": "Tele2",
+    "name": "Tele 2 Maxi LTE",
+    "device": "Tele2_Maxi_LTE",
+    "model": "Tele2_Maxi_LTE"
+  },
+  {
+    "brand": "Tele2",
     "name": "Tele2 Midi",
     "device": "Tele2_Midi",
     "model": "Tele2"
@@ -72631,15 +72727,15 @@
   },
   {
     "brand": "Vestel",
-    "name": "55UA8990",
-    "device": "MB300",
-    "model": "SmartTV"
-  },
-  {
-    "brand": "Vestel",
     "name": "Farabi",
     "device": "frb3g",
     "model": "Farabi"
+  },
+  {
+    "brand": "Vestel",
+    "name": "MB300",
+    "device": "MB300",
+    "model": "SmartTV"
   },
   {
     "brand": "Vestel",
@@ -73297,6 +73393,18 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo X9Plus",
+    "device": "PD1619",
+    "model": "vivo X9Plus"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X9i",
+    "device": "PD1624",
+    "model": "vivo X9i"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo Xplay5A",
     "device": "PD1522A",
     "model": "vivo PD1522A"
@@ -73420,6 +73528,12 @@
     "name": "vivo Y55A",
     "device": "PD1613",
     "model": "vivo Y55"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y66",
+    "device": "PD1621",
+    "model": "vivo Y66"
   },
   {
     "brand": "Vivo",
@@ -73669,14 +73783,14 @@
   },
   {
     "brand": "Vonino",
-    "name": "Xylo X",
-    "device": "Xylo",
+    "name": "Xylo X A6",
+    "device": "Xylo_X",
     "model": "Xylo X"
   },
   {
     "brand": "Vonino",
-    "name": "Xylo X A6",
-    "device": "Xylo_X",
+    "name": "Xylo_X_TM",
+    "device": "Xylo",
     "model": "Xylo X"
   },
   {
@@ -82162,6 +82276,18 @@
     "name": "CMP798",
     "device": "CMP798",
     "model": "CMP798"
+  },
+  {
+    "brand": "iCraig",
+    "name": "CMP821",
+    "device": "CMP821",
+    "model": "CMP821"
+  },
+  {
+    "brand": "iCraig",
+    "name": "CMP823",
+    "device": "CMP823",
+    "model": "CMP823"
   },
   {
     "brand": "iCraig",
