@@ -1081,6 +1081,12 @@
   },
   {
     "brand": "Acer",
+    "name": "Liquid Z6E",
+    "device": "acer_t10",
+    "model": "T10"
+  },
+  {
+    "brand": "Acer",
     "name": "Liquid Zest",
     "device": "acer_t06",
     "model": "T06"
@@ -1192,6 +1198,54 @@
     "name": "Z120",
     "device": "Z2",
     "model": "Z120"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "E1C",
+    "device": "ADVAN_E1C_3G",
+    "model": "E1C_3G"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "I55A",
+    "device": "I55A",
+    "model": "I55A"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "I7D",
+    "device": "ADVAN_I7D",
+    "model": "I7D"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "S4Z",
+    "device": "ADVAN_S4Z",
+    "model": "S4Z"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "S7C",
+    "device": "ADVAN_S7C",
+    "model": "S7C"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "T2K",
+    "device": "T2K",
+    "model": "T2K"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "X7 Pro",
+    "device": "ADVAN_7008",
+    "model": "7008"
+  },
+  {
+    "brand": "Advan digital",
+    "name": "i7A",
+    "device": "ADVAN_i7A",
+    "model": "i7A"
   },
   {
     "brand": "Affix",
@@ -1444,6 +1498,12 @@
     "name": "P6 Energy Lite",
     "device": "P6_Energy_Lite",
     "model": "P6_Energy_Lite_TM"
+  },
+  {
+    "brand": "AllView",
+    "name": "P6 Energy mini",
+    "device": "P6_Energy_mini",
+    "model": "P6_Energy_mini"
   },
   {
     "brand": "AllView",
@@ -1846,6 +1906,12 @@
     "name": "X3Soul",
     "device": "X3_Soul",
     "model": "X3_Soul"
+  },
+  {
+    "brand": "AllView",
+    "name": "X4 Soul",
+    "device": "X4_Soul",
+    "model": "X4_Soul"
   },
   {
     "brand": "Allfine",
@@ -2542,6 +2608,12 @@
     "name": "50c Neon",
     "device": "ac50cne",
     "model": "ARCHOS 50c Neon"
+  },
+  {
+    "brand": "Archos",
+    "name": "50c Neon",
+    "device": "ac50cne",
+    "model": "Archos 50c Neon"
   },
   {
     "brand": "Archos",
@@ -4531,12 +4603,6 @@
   },
   {
     "brand": "Asus",
-    "name": "X00DD",
-    "device": "ASUS_X00DD",
-    "model": "ASUS_X00DD"
-  },
-  {
-    "brand": "Asus",
     "name": "ZenFone 2 (ZE500CL)",
     "device": "ASUS_Z00D",
     "model": "ASUS ZenFone 2"
@@ -4771,6 +4837,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone 3(ZC551KL)",
+    "device": "Z01B_1",
+    "model": "ASUS_Z01BDA"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone 4 (A400CG)",
     "device": "ASUS_T00I",
     "model": "ASUS_T00I"
@@ -4867,6 +4939,12 @@
   },
   {
     "brand": "Asus",
+    "name": "ZenFone Go (ZB501KL)",
+    "device": "ASUS_A007",
+    "model": "ASUS_A007"
+  },
+  {
+    "brand": "Asus",
     "name": "ZenFone Go (ZB552KL)",
     "device": "ASUS_X007D",
     "model": "ASUS_X007D"
@@ -4930,6 +5008,12 @@
     "name": "ZenFone3",
     "device": "ASUS_Z012D",
     "model": "ASUS_Z012D"
+  },
+  {
+    "brand": "Asus",
+    "name": "ZenFone3",
+    "device": "ASUS_Z012D",
+    "model": "ASUS_Z012DA"
   },
   {
     "brand": "Asus",
@@ -5284,6 +5368,12 @@
     "name": "Zenfone Go (ASUS_Z00VD)",
     "device": "ASUS_Z00VD",
     "model": "ASUS_Z00VD"
+  },
+  {
+    "brand": "Asus",
+    "name": "Zenfone MAX",
+    "device": "ASUS_X00G_1",
+    "model": "ASUS_X00GD"
   },
   {
     "brand": "Asus",
@@ -5692,6 +5782,12 @@
     "name": "Bphone",
     "device": "Bphone",
     "model": "Bphone B1116"
+  },
+  {
+    "brand": "BMobile",
+    "name": "AX1010",
+    "device": "Bmobile_AX1010",
+    "model": "AX1010"
   },
   {
     "brand": "BMobile",
@@ -6367,6 +6463,12 @@
   },
   {
     "brand": "Blackview",
+    "name": "Blackview BV6000s",
+    "device": "BV6000S",
+    "model": "BV6000S"
+  },
+  {
+    "brand": "Blackview",
     "name": "Blackview E7S",
     "device": "E7s",
     "model": "E7s"
@@ -6829,6 +6931,12 @@
   },
   {
     "brand": "Blu",
+    "name": "Tank Xtreme 4.0",
+    "device": "Tank_Xtreme_4_0",
+    "model": "Tank Xtreme 4.0"
+  },
+  {
+    "brand": "Blu",
     "name": "Tank Xtreme 5.0",
     "device": "Tank_Xtreme_5_0",
     "model": "Tank Xtreme 5.0"
@@ -7069,6 +7177,12 @@
   },
   {
     "brand": "CCC",
+    "name": "AirStick",
+    "device": "ts201",
+    "model": "AirStick"
+  },
+  {
+    "brand": "CCC",
     "name": "LifeStick",
     "device": "ts201",
     "model": "LifeStick"
@@ -7126,6 +7240,12 @@
     "name": "M3s",
     "device": "M3s",
     "model": "M3s"
+  },
+  {
+    "brand": "CZ Electronics",
+    "name": "M5CR",
+    "device": "M5CR",
+    "model": "M5CR"
   },
   {
     "brand": "CZ Electronics",
@@ -7312,6 +7432,12 @@
     "name": "Summit",
     "device": "Cell_C",
     "model": "Summit"
+  },
+  {
+    "brand": "Cell_C",
+    "name": "WIZ",
+    "device": "Wiz",
+    "model": "Wiz"
   },
   {
     "brand": "Cell_C",
@@ -7588,6 +7714,12 @@
     "name": "Flare J7",
     "device": "Flare_J7",
     "model": "Flare J7"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Flare S5",
+    "device": "Flare_S5",
+    "model": "Flare S5"
   },
   {
     "brand": "Cherry Mobile",
@@ -9373,6 +9505,12 @@
   },
   {
     "brand": "Crosscall",
+    "name": "L636",
+    "device": "HS8952QC",
+    "model": "TREKKER-X3"
+  },
+  {
+    "brand": "Crosscall",
     "name": "ODYSSEY",
     "device": "ODYSSEY3G",
     "model": "ODYSSEY"
@@ -9840,6 +9978,12 @@
     "model": "TR10CD1"
   },
   {
+    "brand": "Doogee",
+    "name": "X5  MAX",
+    "device": "X5max",
+    "model": "X5max"
+  },
+  {
     "brand": "Dopo",
     "name": "DOPO EM63 Tablet",
     "device": "EM63",
@@ -10014,6 +10158,24 @@
     "model": "DMX-ST7A"
   },
   {
+    "brand": "Dtac",
+    "name": "dtac Phone M2",
+    "device": "dtacPhoneM2",
+    "model": "dtacPhoneM2"
+  },
+  {
+    "brand": "Dtac",
+    "name": "dtac Phone S2",
+    "device": "dtacPhoneS2",
+    "model": "dtac_Phone_S2"
+  },
+  {
+    "brand": "Dtac",
+    "name": "dtac Phone T2",
+    "device": "dtacPhoneT2",
+    "model": "dtacPhoneT2"
+  },
+  {
     "brand": "E-Boda",
     "name": "Eclipse G400M",
     "device": "Eclipse_G400M",
@@ -10177,6 +10339,12 @@
   },
   {
     "brand": "ESI Enterprises",
+    "name": "Monster M7 Tablet",
+    "device": "MONSTERM7",
+    "model": "M7"
+  },
+  {
+    "brand": "ESI Enterprises",
     "name": "Trinity T101",
     "device": "Trinity_T101",
     "model": "Trinity T101"
@@ -10270,6 +10438,12 @@
     "name": "EGQ178",
     "device": "EGQ178",
     "model": "EGQ178"
+  },
+  {
+    "brand": "Ematic",
+    "name": "EGQ180",
+    "device": "EGQ180",
+    "model": "EGQ180"
   },
   {
     "brand": "Ematic",
@@ -10609,6 +10783,12 @@
   },
   {
     "brand": "Estar",
+    "name": "eSTAR BEAUTY 2 HD Quad core",
+    "device": "MID7378",
+    "model": "eSTAR BEAUTY 2 HD Quad core"
+  },
+  {
+    "brand": "Estar",
     "name": "eSTAR GO! HD Quad core 3G",
     "device": "MID7438G",
     "model": "eSTAR GO HD Quad core 3G"
@@ -10648,6 +10828,12 @@
     "name": "One X",
     "device": "A65_sprout",
     "model": "EVERCOSS A65"
+  },
+  {
+    "brand": "Evercoss",
+    "name": "R6",
+    "device": "R6",
+    "model": "R6"
   },
   {
     "brand": "Evercoss",
@@ -11022,6 +11208,12 @@
     "model": "SP5045V"
   },
   {
+    "brand": "Flnet",
+    "name": "BandOTT",
+    "device": "ba101",
+    "model": "ba101"
+  },
+  {
     "brand": "Fly",
     "name": "Cirrus 2",
     "device": "Cirrus_2",
@@ -11032,6 +11224,12 @@
     "name": "Cirrus 6",
     "device": "Cirrus_6",
     "model": "Cirrus 6"
+  },
+  {
+    "brand": "Fly",
+    "name": "Cirrus 6",
+    "device": "Cirrus_6",
+    "model": "FS508"
   },
   {
     "brand": "Fly",
@@ -11440,6 +11638,12 @@
     "name": "Nimbus 10",
     "device": "Nimbus_10",
     "model": "FS512"
+  },
+  {
+    "brand": "Fly",
+    "name": "Nimbus 11",
+    "device": "Nimbus_11",
+    "model": "FS455"
   },
   {
     "brand": "Fly",
@@ -12654,6 +12858,12 @@
     "model": "General Mobile 4G Dual"
   },
   {
+    "brand": "General Mobile",
+    "name": "General Mobile 5",
+    "device": "gm5_s_sprout",
+    "model": "GM 5"
+  },
+  {
     "brand": "GeneralMobile",
     "name": "E-Tab10",
     "device": "blue_eye",
@@ -13048,6 +13258,12 @@
     "name": "w6",
     "device": "w6",
     "model": "w6"
+  },
+  {
+    "brand": "Ginzzu",
+    "name": "SMART Race 4G",
+    "device": "x2605b_fm45_mtc",
+    "model": "SMART Race 4G"
   },
   {
     "brand": "Gionee",
@@ -13558,6 +13774,18 @@
     "name": "Galaxy S4 Google Play edition",
     "device": "jgedlte",
     "model": "GT-I9505G"
+  },
+  {
+    "brand": "Google",
+    "name": "Google Chromebook Pixel (2015)",
+    "device": "samus_cheets",
+    "model": "Google Chromebook Pixel (2015)"
+  },
+  {
+    "brand": "Google",
+    "name": "Pik TV Media Box",
+    "device": "HMB2213PW22TS",
+    "model": "HMB2213PW22TS"
   },
   {
     "brand": "Google",
@@ -14170,6 +14398,12 @@
     "name": "Desire 530",
     "device": "htc_a16ul",
     "model": "HTC 2PST2"
+  },
+  {
+    "brand": "HTC",
+    "name": "Desire 530",
+    "device": "htc_a16ul",
+    "model": "HTC Desire 530"
   },
   {
     "brand": "HTC",
@@ -16905,6 +17139,18 @@
     "brand": "HTC",
     "name": "HTC One X10",
     "device": "htc_e66_dugl",
+    "model": "HTC 2PXH2"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One X10",
+    "device": "htc_e66_dugl",
+    "model": "HTC One X10"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC One X10",
+    "device": "htc_e66_dugl",
     "model": "HTC_X10u"
   },
   {
@@ -17725,6 +17971,12 @@
   },
   {
     "brand": "Haier",
+    "name": "CDP8TAB16SD",
+    "device": "CDP8TAB16SD",
+    "model": "CDP8TAB16SD"
+  },
+  {
+    "brand": "Haier",
     "name": "CEDTAB70616W8",
     "device": "CEDTAB70616W8",
     "model": "CEDTAB70616W8"
@@ -17839,6 +18091,12 @@
   },
   {
     "brand": "Haier",
+    "name": "G55",
+    "device": "G55",
+    "model": "G55"
+  },
+  {
+    "brand": "Haier",
     "name": "G700",
     "device": "G700",
     "model": "G700"
@@ -17947,6 +18205,12 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier T52P",
+    "device": "T52P",
+    "model": "Haier T52P"
+  },
+  {
+    "brand": "Haier",
     "name": "HomeSurf742_AT7003",
     "device": "HomeSurf742_AT7003",
     "model": "HomeSurf742_AT7003"
@@ -17980,6 +18244,12 @@
     "name": "Konnect_350",
     "device": "Konnect_350",
     "model": "Konnect_350"
+  },
+  {
+    "brand": "Haier",
+    "name": "L11",
+    "device": "HM-G152-FL",
+    "model": "HM-G152-FL"
   },
   {
     "brand": "Haier",
@@ -20047,6 +20317,12 @@
   },
   {
     "brand": "Hisense",
+    "name": "L730",
+    "device": "HS8937QC",
+    "model": "STARADDICT 6"
+  },
+  {
+    "brand": "Hisense",
     "name": "LED32G180",
     "device": "hisenseLED32G180",
     "model": "LED32G180"
@@ -21160,6 +21436,12 @@
     "name": "l691",
     "device": "msm8226",
     "model": "HS-L691"
+  },
+  {
+    "brand": "Hisense",
+    "name": "l830",
+    "device": "HS8937QC",
+    "model": "STARXTREM 6"
   },
   {
     "brand": "Hisense",
@@ -24675,6 +24957,30 @@
     "brand": "Huawei",
     "name": "HUAWEI Y3III",
     "device": "HWCRO-L6737M",
+    "model": "CRO-L02"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-L6737M",
+    "model": "CRO-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-L6737M",
+    "model": "CRO-L22"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-L6737M",
+    "model": "CRO-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-L6737M",
     "model": "HUAWEI CRO-L02"
   },
   {
@@ -24694,6 +25000,18 @@
     "name": "HUAWEI Y3III",
     "device": "HWCRO-L6737M",
     "model": "HUAWEI CRO-L23"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-U6580M",
+    "model": "CRO-U00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y3III",
+    "device": "HWCRO-U6580M",
+    "model": "CRO-U23"
   },
   {
     "brand": "Huawei",
@@ -24724,6 +25042,18 @@
     "name": "HUAWEI Y5",
     "device": "HWY560-U",
     "model": "HUAWEI Y560-U03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-AL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-AL10"
   },
   {
     "brand": "Huawei",
@@ -24760,6 +25090,18 @@
     "name": "HUAWEI Y5 2017",
     "device": "HWMYA-L6737",
     "model": "MYA-L41"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-TL00"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI Y5 2017",
+    "device": "HWMYA-L6737",
+    "model": "MYA-TL10"
   },
   {
     "brand": "Huawei",
@@ -25077,7 +25419,31 @@
     "brand": "Huawei",
     "name": "HUAWEI nova plus",
     "device": "HWMLA",
+    "model": "MLA-L02"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova plus",
+    "device": "HWMLA",
+    "model": "MLA-L03"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova plus",
+    "device": "HWMLA",
     "model": "MLA-L11"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova plus",
+    "device": "HWMLA",
+    "model": "MLA-L12"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI nova plus",
+    "device": "HWMLA",
+    "model": "MLA-L13"
   },
   {
     "brand": "Huawei",
@@ -25342,6 +25708,12 @@
     "name": "Huawei P9 Lite PREMIUM",
     "device": "HWVNS-Q",
     "model": "HUAWEI VNS-L52"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Huawei-ascend-5w",
+    "device": "HWH1621-Q",
+    "model": "H1623"
   },
   {
     "brand": "Huawei",
@@ -27691,6 +28063,12 @@
   },
   {
     "brand": "Hurricane",
+    "name": "Vibe",
+    "device": "Vibe",
+    "model": "VIBE"
+  },
+  {
+    "brand": "Hurricane",
     "name": "Volt",
     "device": "Hurricane",
     "model": "Volt"
@@ -27748,6 +28126,12 @@
     "name": "Ultra Latitude",
     "device": "Ultra_Latitude",
     "model": "Ultra Latitude"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Ultra Live II",
+    "device": "HYUNDAI_Ultra_Live_II",
+    "model": "Ultra Live II"
   },
   {
     "brand": "Hyundai",
@@ -27852,6 +28236,12 @@
     "model": "Ice-Phone Mini"
   },
   {
+    "brand": "Icon",
+    "name": "ICON Portal_10i",
+    "device": "Portal_10i",
+    "model": "NTMC17"
+  },
+  {
     "brand": "Ilike",
     "name": "X3_PRO_SLIM",
     "device": "X3_PRO_SLIM",
@@ -27950,6 +28340,12 @@
   {
     "brand": "Infinix",
     "name": "INFINIX-X521",
+    "device": "Infinix-X521",
+    "model": "Infinix_X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
     "device": "Infinix-X521-3G",
     "model": "Infinix-X521"
   },
@@ -27958,6 +28354,12 @@
     "name": "INFINIX-X521",
     "device": "Infinix-X521-Pro",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "INFINIX-X521",
+    "device": "Infinix-X521-Pro",
+    "model": "Infinix_X521"
   },
   {
     "brand": "Infinix",
@@ -28033,6 +28435,12 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 4",
+    "device": "X557-Lite",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix HOT 4 Lite",
     "device": "X557-Lite",
     "model": "Infinix HOT 4 Lite"
@@ -28078,6 +28486,12 @@
     "name": "Infinix-X521",
     "device": "Infinix-X521",
     "model": "Infinix-X521"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix-X521",
+    "device": "Infinix-X521",
+    "model": "Infinix_X521"
   },
   {
     "brand": "Infinix",
@@ -28201,9 +28615,21 @@
   },
   {
     "brand": "Infinix",
+    "name": "X557F1",
+    "device": "X557-Lite",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
     "name": "Zero 2",
     "device": "Infinix_X509",
     "model": "Infinix X509"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Zero 4 Plus",
+    "device": "X602",
+    "model": "Infinix Zero 4 Plus"
   },
   {
     "brand": "Infocus",
@@ -28597,6 +29023,12 @@
   },
   {
     "brand": "Innjoo",
+    "name": "Halo2 LTE",
+    "device": "Halo2_LTE",
+    "model": "Halo2 LTE"
+  },
+  {
+    "brand": "Innjoo",
     "name": "Max3 LTE",
     "device": "Max3_LTE",
     "model": "Max3_LTE"
@@ -28855,6 +29287,12 @@
   },
   {
     "brand": "Intex",
+    "name": "INTEX_AQUA_4.0_4G",
+    "device": "INTEX_AQUA_4_4G",
+    "model": "INTEX_AQUA_4.0_4G"
+  },
+  {
+    "brand": "Intex",
     "name": "Intex Aqua Power 4G",
     "device": "Intex_Aqua_Power_4G",
     "model": "Aqua Power 4G"
@@ -28876,6 +29314,12 @@
     "name": "TZ55",
     "device": "TZ55",
     "model": "TZ55"
+  },
+  {
+    "brand": "Itel",
+    "name": "S31",
+    "device": "S31",
+    "model": "itel S31"
   },
   {
     "brand": "Itel",
@@ -29479,6 +29923,12 @@
   },
   {
     "brand": "Karbonn",
+    "name": "Aura Note 4G",
+    "device": "AuraNote4G",
+    "model": "Aura Note 4G"
+  },
+  {
+    "brand": "Karbonn",
     "name": "Aura Power",
     "device": "Aura_Power",
     "model": "Aura_Power"
@@ -29728,6 +30178,12 @@
     "name": "DuraForce PRO",
     "device": "E6820",
     "model": "KYOCERA-E6820"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "DuraForce PRO",
+    "device": "E6830",
+    "model": "E6830"
   },
   {
     "brand": "Kyocera",
@@ -30883,6 +31339,12 @@
   },
   {
     "brand": "LGE",
+    "name": "B6",
+    "device": "b6",
+    "model": "LGT02"
+  },
+  {
+    "brand": "LGE",
     "name": "DM-01G",
     "device": "DM-01G",
     "model": "DM-01G"
@@ -31840,6 +32302,12 @@
     "name": "LG AKA",
     "device": "aka",
     "model": "LG-H788n"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Aristo",
+    "device": "lv3",
+    "model": "LGMS210"
   },
   {
     "brand": "LGE",
@@ -32983,6 +33451,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG K4",
+    "device": "lv1",
+    "model": "LG-M160"
+  },
+  {
+    "brand": "LGE",
     "name": "LG K4 LTE",
     "device": "me1",
     "model": "LG-K120"
@@ -33046,6 +33520,12 @@
     "name": "LG K8",
     "device": "mm1v",
     "model": "LG-K350"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K8 (2017)",
+    "device": "lv3n",
+    "model": "LG-M200"
   },
   {
     "brand": "LGE",
@@ -34273,6 +34753,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG Stylo 2 Plus",
+    "device": "ph2n",
+    "model": "LGMS550"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Stylus 2",
     "device": "ph1",
     "model": "LG-F720K"
@@ -34324,12 +34810,6 @@
     "name": "LG Stylus2 Plus",
     "device": "ph2n",
     "model": "LG-K535n"
-  },
-  {
-    "brand": "LGE",
-    "name": "LG Stylus2 Plus",
-    "device": "ph2n",
-    "model": "LGMS550"
   },
   {
     "brand": "LGE",
@@ -34612,6 +35092,24 @@
     "name": "LG X screen",
     "device": "k5n",
     "model": "LG-K500n"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X300",
+    "device": "lv3n",
+    "model": "LGM-K120K"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X300",
+    "device": "lv3n",
+    "model": "LGM-K120L"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG X300",
+    "device": "lv3n",
+    "model": "LGM-K120S"
   },
   {
     "brand": "LGE",
@@ -36661,6 +37159,12 @@
   },
   {
     "brand": "Lava",
+    "name": "Lava iris 880",
+    "device": "iris880",
+    "model": "iris880"
+  },
+  {
+    "brand": "Lava",
     "name": "P7",
     "device": "P7",
     "model": "P7"
@@ -36886,6 +37390,12 @@
     "name": "Le1",
     "device": "Le1",
     "model": "x600"
+  },
+  {
+    "brand": "LeTV",
+    "name": "LeTV uMax85",
+    "device": "DemeterDV",
+    "model": "uMax85"
   },
   {
     "brand": "LeTV",
@@ -39615,6 +40125,12 @@
     "brand": "Lenovo",
     "name": "Lenovo TB2-X30F",
     "device": "TB2-X30F",
+    "model": "Lenovo TB2-X30F_HFT"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo TB2-X30F",
+    "device": "TB2-X30F",
     "model": "Lenovo TB2-X30F_JLC"
   },
   {
@@ -40315,6 +40831,12 @@
   },
   {
     "brand": "Lexibook",
+    "name": "LexiTab 10\"",
+    "device": "MFC512",
+    "model": "MFC512FR"
+  },
+  {
+    "brand": "Lexibook",
     "name": "LexiTab 10''",
     "device": "mfc511",
     "model": "MFC511DE"
@@ -40330,6 +40852,12 @@
     "name": "LexiTab 10''",
     "device": "mfc511",
     "model": "MFC511FR"
+  },
+  {
+    "brand": "Lexibook",
+    "name": "LexiTab 7\"",
+    "device": "MFC147",
+    "model": "MFC147FR"
   },
   {
     "brand": "Lexibook",
@@ -40669,6 +41197,18 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-4508",
+    "device": "C-451",
+    "model": "LS-4508"
+  },
+  {
+    "brand": "Lyf",
+    "name": "LS-4512",
+    "device": "LS-4512",
+    "model": "LS-4512"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-5002",
     "device": "LS-5002",
     "model": "LS-5002"
@@ -40735,6 +41275,12 @@
   },
   {
     "brand": "Lyf",
+    "name": "LS-5504",
+    "device": "zx55q05_64",
+    "model": "LS-5504"
+  },
+  {
+    "brand": "Lyf",
     "name": "LS-6001",
     "device": "LS-6001",
     "model": "LS-6001"
@@ -40744,6 +41290,12 @@
     "name": "LT-8001",
     "device": "LT-8001",
     "model": "LT-8001"
+  },
+  {
+    "brand": "Lyf",
+    "name": "LT-8001 IRIS",
+    "device": "LT-8001-IRIS",
+    "model": "LT-8001 IRIS"
   },
   {
     "brand": "M4tel",
@@ -42205,6 +42757,18 @@
   },
   {
     "brand": "Micromax",
+    "name": "Canvas Space 2",
+    "device": "Q480",
+    "model": "Micromax Q480"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Space 2+",
+    "device": "Q479",
+    "model": "Micromax Q479"
+  },
+  {
+    "brand": "Micromax",
     "name": "Canvas Spark",
     "device": "Q380",
     "model": "Micromax Q380"
@@ -42226,6 +42790,12 @@
     "name": "Canvas Spark 3",
     "device": "Q385",
     "model": "Micromax Q385"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Spark 4G",
+    "device": "Q4201",
+    "model": "Micromax Q4201"
   },
   {
     "brand": "Micromax",
@@ -42268,6 +42838,12 @@
     "name": "Canvas Tab",
     "device": "P70221",
     "model": "P70221"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Canvas Tab",
+    "device": "P802",
+    "model": "MicromaxP802"
   },
   {
     "brand": "Micromax",
@@ -42445,9 +43021,45 @@
   },
   {
     "brand": "Micromax",
+    "name": "Vdeo 1",
+    "device": "Q4001",
+    "model": "Micromax Q4001"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Vdeo 2",
+    "device": "Q4101_Ru",
+    "model": "Micromax Q4101"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Vdeo 4",
+    "device": "Q4251",
+    "model": "Micromax Q4251"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Vdeo 5",
+    "device": "Q4220",
+    "model": "Micromax Q4220"
+  },
+  {
+    "brand": "Micromax",
     "name": "Xpress 2",
     "device": "E313",
     "model": "Micromax E313"
+  },
+  {
+    "brand": "Micromax",
+    "name": "YUNIQUE",
+    "device": "YUNIQUE",
+    "model": "YU4711"
+  },
+  {
+    "brand": "Micromax",
+    "name": "Yuphoria",
+    "device": "YUPHORIA",
+    "model": "YU5010"
   },
   {
     "brand": "Micromax",
@@ -42478,6 +43090,12 @@
     "name": "M5",
     "device": "MINT-M5",
     "model": "M5"
+  },
+  {
+    "brand": "Mint",
+    "name": "Mint Clover",
+    "device": "M4CR",
+    "model": "M4CR"
   },
   {
     "brand": "Mio Tab",
@@ -42664,6 +43282,18 @@
     "name": "Trendy",
     "device": "TRENDY",
     "model": "TRENDY"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "U2",
+    "device": "U2",
+    "model": "U2"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "ZOOM",
+    "device": "ZOOM",
+    "model": "ZOOM"
   },
   {
     "brand": "MobileTeleSystem",
@@ -44677,6 +45307,12 @@
   },
   {
     "brand": "Multilaser",
+    "name": "MS40s",
+    "device": "MS40S",
+    "model": "MS40S"
+  },
+  {
+    "brand": "Multilaser",
     "name": "MS45",
     "device": "MS45",
     "model": "MS45"
@@ -45564,6 +46200,12 @@
     "model": "ForwardRuby"
   },
   {
+    "brand": "NGM Italia SRL",
+    "name": "Smart5",
+    "device": "Smart5",
+    "model": "Smart5"
+  },
+  {
     "brand": "NVIDIA",
     "name": "SHIELD Android TV",
     "device": "foster",
@@ -45574,6 +46216,12 @@
     "name": "SHIELD Android TV",
     "device": "foster",
     "model": "SHIELD Console"
+  },
+  {
+    "brand": "NVIDIA",
+    "name": "SHIELD TV",
+    "device": "darcy",
+    "model": "SHIELD Android TV"
   },
   {
     "brand": "NVidia",
@@ -45811,6 +46459,12 @@
   },
   {
     "brand": "Nextbook",
+    "name": "NX16A8116K",
+    "device": "NX16A8116K",
+    "model": "NX16A8116K"
+  },
+  {
+    "brand": "Nextbook",
     "name": "NX700QC",
     "device": "nxm7100lvd_wm",
     "model": "NX700QC"
@@ -45966,6 +46620,12 @@
     "model": "N1"
   },
   {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "D1C",
+    "model": "TA-1000"
+  },
+  {
     "brand": "Nubia",
     "name": "NX401",
     "device": "NX40X",
@@ -45994,6 +46654,12 @@
     "name": "NUU A3",
     "device": "NUU_A3",
     "model": "NUU_A3"
+  },
+  {
+    "brand": "Nuu",
+    "name": "NUU A3L",
+    "device": "NUU_A3L",
+    "model": "NUU_A3L"
   },
   {
     "brand": "Nuu",
@@ -46693,9 +47359,21 @@
   },
   {
     "brand": "Oppo",
+    "name": "A59",
+    "device": "A59",
+    "model": "OPPO A59"
+  },
+  {
+    "brand": "Oppo",
     "name": "A59t",
     "device": "A59",
     "model": "OPPO A59t"
+  },
+  {
+    "brand": "Oppo",
+    "name": "CPH1605",
+    "device": "CPH1605",
+    "model": "CPH1605"
   },
   {
     "brand": "Oppo",
@@ -46825,6 +47503,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A33w",
+    "device": "A33w",
+    "model": "A33w"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO A37",
     "device": "A37",
     "model": "OPPO A37"
@@ -46834,6 +47518,12 @@
     "name": "OPPO A37",
     "device": "A37",
     "model": "OPPO A37m"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A37f",
+    "device": "A37f",
+    "model": "A37f"
   },
   {
     "brand": "Oppo",
@@ -46882,6 +47572,12 @@
     "name": "OPPO A57",
     "device": "A57",
     "model": "OPPO A57"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A57",
+    "device": "A57",
+    "model": "OPPO A57t"
   },
   {
     "brand": "Oppo",
@@ -46969,6 +47665,18 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO R9PlusA",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plusm A"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9PlusA",
+    "device": "R9PlusA",
+    "model": "OPPO R9 Plustm A"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO R9k",
     "device": "R9",
     "model": "OPPO R9k"
@@ -46981,9 +47689,33 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO R9s",
+    "device": "CPH1607",
+    "model": "CPH1607"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9s",
+    "device": "CPH1607",
+    "model": "CPH1607fw"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9s",
+    "device": "R9s",
+    "model": "OPPO R9s"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO R9s Plus",
     "device": "CPH1611",
     "model": "CPH1611"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9s Plus",
+    "device": "R9sPlus",
+    "model": "OPPO R9s Plus"
   },
   {
     "brand": "Oppo",
@@ -46996,6 +47728,12 @@
     "name": "OPPO R9s Plus",
     "device": "R9sPlus",
     "model": "OPPO R9sPlus"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO R9st",
+    "device": "R9s",
+    "model": "OPPO R9st"
   },
   {
     "brand": "Oppo",
@@ -47092,6 +47830,12 @@
     "name": "R7005",
     "device": "R3",
     "model": "R7005"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R7Plusf",
+    "device": "R7Plusm",
+    "model": "R7plusf"
   },
   {
     "brand": "Oppo",
@@ -47317,6 +48061,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "R9Plus",
+    "device": "X9079",
+    "model": "X9079"
+  },
+  {
+    "brand": "Oppo",
     "name": "R9PlusmA",
     "device": "R9PlusA",
     "model": "OPPO R9 Plusm A"
@@ -47341,9 +48091,21 @@
   },
   {
     "brand": "Oppo",
+    "name": "R9s",
+    "device": "R9s",
+    "model": "OPPO R9s"
+  },
+  {
+    "brand": "Oppo",
     "name": "R9sk",
     "device": "R9sk",
     "model": "OPPO R9sk"
+  },
+  {
+    "brand": "Oppo",
+    "name": "R9st",
+    "device": "R9s",
+    "model": "OPPO R9st"
   },
   {
     "brand": "Oppo",
@@ -47503,6 +48265,12 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange Neva 80",
+    "device": "Orange_Neva_80",
+    "model": "Orange Neva 80"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange Nura",
     "device": "M812",
     "model": "Orange Nura"
@@ -47512,6 +48280,12 @@
     "name": "Orange Rise 30",
     "device": "Pixi3-4",
     "model": "Orange Rise 30"
+  },
+  {
+    "brand": "Orange",
+    "name": "Orange Rise 40",
+    "device": "ZTE_BLADE_A110",
+    "model": "Orange Rise 40"
   },
   {
     "brand": "Orange",
@@ -47722,6 +48496,12 @@
     "name": "ELUGA P",
     "device": "P-03E",
     "model": "P-03E"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "ELUGA PURE",
+    "device": "ELUGA_Pure",
+    "model": "Panasonic_ELUGA_Pure"
   },
   {
     "brand": "Panasonic",
@@ -48937,6 +49717,12 @@
   },
   {
     "brand": "Philips",
+    "name": "C7",
+    "device": "C7",
+    "model": "C7"
+  },
+  {
+    "brand": "Philips",
     "name": "FHD Ultra Slim LED TV Powered by Android",
     "device": "QM16XE_F",
     "model": "QM164E"
@@ -49141,6 +49927,12 @@
   },
   {
     "brand": "Philips",
+    "name": "Philips V526",
+    "device": "Philips_V526",
+    "model": "Philips V526"
+  },
+  {
+    "brand": "Philips",
     "name": "Philips W8510",
     "device": "Topaz",
     "model": "Philips W8510"
@@ -49300,6 +50092,12 @@
     "name": "XDP-300R",
     "device": "Fu_Zin2R_32",
     "model": "XDP-300R"
+  },
+  {
+    "brand": "Plaisio",
+    "name": "A2",
+    "device": "Turbo-X_A2",
+    "model": "Turbo-X_A2"
   },
   {
     "brand": "Plaisio",
@@ -50149,12 +50947,6 @@
   },
   {
     "brand": "Positivo",
-    "name": "Quantum FLY",
-    "device": "Q7",
-    "model": "Quantum Fly"
-  },
-  {
-    "brand": "Positivo",
     "name": "Quantum Go",
     "device": "Q1",
     "model": "Quantum Go"
@@ -50221,12 +51013,6 @@
   },
   {
     "brand": "Positivo",
-    "name": "Ypy",
-    "device": "YPY_L700",
-    "model": "Positivo BGH Ypy L700"
-  },
-  {
-    "brand": "Positivo",
     "name": "Ypy AB10DP",
     "device": "YPY_AB10DP",
     "model": "YPY_AB10DP"
@@ -50242,12 +51028,6 @@
     "name": "Ypy AB7K",
     "device": "YPY_AB7K",
     "model": "YPY_AB7K"
-  },
-  {
-    "brand": "Positivo",
-    "name": "Ypy Kids",
-    "device": "YPY_L700",
-    "model": "Positivo BGH Ypy L700 Kids"
   },
   {
     "brand": "Positivo",
@@ -50326,6 +51106,18 @@
     "name": "quattro",
     "device": "X435",
     "model": "quattro"
+  },
+  {
+    "brand": "Positivo BGH",
+    "name": "Ypy",
+    "device": "YPY_L700",
+    "model": "Positivo BGH Ypy L700"
+  },
+  {
+    "brand": "Positivo BGH",
+    "name": "Ypy Kids",
+    "device": "YPY_L700",
+    "model": "Positivo BGH Ypy L700 Kids"
   },
   {
     "brand": "Prestige",
@@ -50905,6 +51697,12 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PSP3528DUO",
+    "device": "IM50B1G",
+    "model": "PSP3528DUO"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PSP3530DUO",
     "device": "DW53B01G",
     "model": "PSP3530DUO"
@@ -50914,6 +51712,12 @@
     "name": "PSP3531DUO",
     "device": "DW53B01G",
     "model": "PSP3531DUO"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PSP3537DUO",
+    "device": "GF50B2G",
+    "model": "PSP3537DUO"
   },
   {
     "brand": "Prestigio",
@@ -51271,6 +52075,12 @@
   },
   {
     "brand": "QMobile",
+    "name": "KING KONG MAX",
+    "device": "KING_KONG_MAX",
+    "model": "KING KONG MAX"
+  },
+  {
+    "brand": "QMobile",
     "name": "LT650",
     "device": "LT650",
     "model": "LT650"
@@ -51292,6 +52102,12 @@
     "name": "LT700 PRO",
     "device": "LT700_PRO",
     "model": "LT700 PRO"
+  },
+  {
+    "brand": "QMobile",
+    "name": "M350 Pro",
+    "device": "M350_Pro",
+    "model": "M350 Pro"
   },
   {
     "brand": "QMobile",
@@ -51400,6 +52216,12 @@
     "name": "S6S",
     "device": "QMobile_S6S",
     "model": "QMobile S6S"
+  },
+  {
+    "brand": "QMobile",
+    "name": "S9",
+    "device": "S9",
+    "model": "S9"
   },
   {
     "brand": "QMobile",
@@ -51592,6 +52414,12 @@
     "name": "VSD220",
     "device": "VSD220",
     "model": "VSD220"
+  },
+  {
+    "brand": "Quantum",
+    "name": "Quantum FLY",
+    "device": "Q7",
+    "model": "Quantum Fly"
   },
   {
     "brand": "RAINBOW",
@@ -52693,6 +53521,24 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A3(2017)",
+    "device": "a3y17lte",
+    "model": "SM-A320F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A3(2017)",
+    "device": "a3y17lte",
+    "model": "SM-A320FL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A3(2017)",
+    "device": "a3y17lte",
+    "model": "SM-A320X"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A5",
     "device": "a53g",
     "model": "SM-A500H"
@@ -52864,6 +53710,36 @@
     "name": "Galaxy A5(2016)",
     "device": "a5xltechn",
     "model": "SM-A510XZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A5(2017)",
+    "device": "a5y17lte",
+    "model": "SM-A520F"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A5(2017)",
+    "device": "a5y17lte",
+    "model": "SM-A520X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A5(2017)",
+    "device": "a5y17ltektt",
+    "model": "SM-A520K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A5(2017)",
+    "device": "a5y17ltelgt",
+    "model": "SM-A520L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A5(2017)",
+    "device": "a5y17lteskt",
+    "model": "SM-A520S"
   },
   {
     "brand": "Samsung",
@@ -53704,6 +54580,12 @@
     "name": "Galaxy C7",
     "device": "c7ltechn",
     "model": "SM-C700X"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy C7",
+    "device": "c7proltechn",
+    "model": "SM-C701X"
   },
   {
     "brand": "Samsung",
@@ -57116,6 +57998,18 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Note7",
+    "device": "SC-01J",
+    "model": "SC-01J"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "SCV34",
+    "model": "SCV34"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
     "device": "gracelte",
     "model": "SM-N930F"
   },
@@ -57170,6 +58064,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Note7",
+    "device": "graceqltedcm",
+    "model": "SGH-N037"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
     "device": "graceqltelra",
     "model": "SM-N930R6"
   },
@@ -57190,6 +58090,12 @@
     "name": "Galaxy Note7",
     "device": "graceqltetmo",
     "model": "SM-N930T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note7",
+    "device": "graceqlteue",
+    "model": "SM-N930U"
   },
   {
     "brand": "Samsung",
@@ -63241,6 +64147,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS Xx3 mini",
+    "device": "SG603SH",
+    "model": "603SH"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS ZETA SH-01G",
     "device": "SH-01G",
     "model": "SH-01G"
@@ -63334,6 +64246,12 @@
     "name": "Disney Mobile on docomo DM-01H",
     "device": "DM-01H",
     "model": "DM-01H"
+  },
+  {
+    "brand": "Sharp",
+    "name": "Disney Mobile on docomo DM-01J",
+    "device": "DM-01J",
+    "model": "DM-01J"
   },
   {
     "brand": "Sharp",
@@ -66397,6 +67315,12 @@
   },
   {
     "brand": "Sourcing Creation",
+    "name": "Smart TAB 1005",
+    "device": "M16Q1C",
+    "model": "SmartTab1005"
+  },
+  {
+    "brand": "Sourcing Creation",
     "name": "Smart Tab 1004XS",
     "device": "SmartTab_1004_XS",
     "model": "SmartTab_1004_XS"
@@ -66457,6 +67381,12 @@
   },
   {
     "brand": "Southern Telecom",
+    "name": "A400",
+    "device": "A400",
+    "model": "A400"
+  },
+  {
+    "brand": "Southern Telecom",
     "name": "A5",
     "device": "A5",
     "model": "A5"
@@ -66466,6 +67396,12 @@
     "name": "A500",
     "device": "Polaroid_Phone",
     "model": "a500"
+  },
+  {
+    "brand": "Southern Telecom",
+    "name": "A600",
+    "device": "A600",
+    "model": "A600"
   },
   {
     "brand": "Southern Telecom",
@@ -66732,6 +67668,24 @@
     "model": "eZeeTab7D15-M"
   },
   {
+    "brand": "Stream",
+    "name": "FIXION",
+    "device": "HS8937QC",
+    "model": "FIXION"
+  },
+  {
+    "brand": "Stream",
+    "name": "Iron Pro",
+    "device": "IRON_Pro",
+    "model": "IRON Pro"
+  },
+  {
+    "brand": "Stream",
+    "name": "PERLA",
+    "device": "PERLA",
+    "model": "PERLA"
+  },
+  {
     "brand": "Sts-tottori",
     "name": "TAB-A03",
     "device": "TAB-A03",
@@ -66823,9 +67777,21 @@
   },
   {
     "brand": "Symphony",
+    "name": "SYMPHONY V34",
+    "device": "V34",
+    "model": "V34"
+  },
+  {
+    "brand": "Symphony",
     "name": "SYMPHONY V75",
     "device": "V75",
     "model": "V75"
+  },
+  {
+    "brand": "Symphony",
+    "name": "SYMPHONY ZVIII",
+    "device": "ZVIII",
+    "model": "ZVIII"
   },
   {
     "brand": "Symphony",
@@ -66862,6 +67828,12 @@
     "name": "i20",
     "device": "i20",
     "model": "i20"
+  },
+  {
+    "brand": "Symphony",
+    "name": "i25",
+    "device": "Symphonyi25",
+    "model": "i25"
   },
   {
     "brand": "Symphony",
@@ -67543,9 +68515,27 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "4055J",
+    "device": "U3",
+    "model": "4055J"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "4060W",
     "device": "Pixi445",
     "model": "4060W"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "4114E",
+    "device": "Pixi3-4",
+    "model": "4114E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5017B",
+    "device": "Pixi3454GSPR",
+    "model": "5017B"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -67696,6 +68686,12 @@
     "name": "5056N",
     "device": "POP455C",
     "model": "5056N"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "5056T",
+    "device": "POP455C",
+    "model": "5056T"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -67966,6 +68962,12 @@
     "name": "7045Y",
     "device": "RIO5",
     "model": "7045Y"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "7070I",
+    "device": "POP4-6_4G",
+    "model": "7070I"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -68257,6 +69259,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "9203A",
+    "device": "Pixi5-7_3G",
+    "model": "9203A"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "A450TL",
     "device": "ALTO45_TF",
     "model": "A450TL"
@@ -68293,9 +69301,21 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "A571VL",
+    "device": "Pixi445TFVZW",
+    "model": "A571VL"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "A572BG",
     "device": "Pop445",
     "model": "A572BG"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "A573VC",
+    "device": "Pixi445EVDO",
+    "model": "A573VC"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -68314,6 +69334,12 @@
     "name": "A622GL",
     "device": "Pixi3554GEVDO",
     "model": "A622GL"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "A622VL",
+    "device": "Pixi3554GEVDO",
+    "model": "A622VL"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -70237,6 +71263,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "LCATEL ONETOUCH PIXI 3 (4.5)",
+    "device": "PIXI3_45_4G",
+    "model": "DIGICEL DL810"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "M812C",
     "device": "M812",
     "model": "M812C"
@@ -70978,6 +72010,12 @@
     "name": "PIXI3(4)",
     "device": "Pixi3-4",
     "model": "4014E"
+  },
+  {
+    "brand": "TCT (Alcatel)",
+    "name": "PIXI3(4)",
+    "device": "Pixi3-4",
+    "model": "ONE_TOUCH_PIXI3"
   },
   {
     "brand": "TCT (Alcatel)",
@@ -72193,6 +73231,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "alcatel U5",
+    "device": "BUZZ6T4G",
+    "model": "5044O"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "freebit PandA_m14",
     "device": "YARIS_55",
     "model": "freebit PandA_m14"
@@ -72481,6 +73525,12 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO N9S",
+    "device": "N9S",
+    "model": "TECNO-N9S"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO W5",
     "device": "TECNO-W5",
     "model": "TECNO-W5"
@@ -72601,9 +73651,21 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO-N8R",
+    "device": "N8R",
+    "model": "TECNO-N8R"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO-N8S",
     "device": "TECNO-N8S",
     "model": "TECNO-N8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-N9",
+    "device": "N9",
+    "model": "TECNO-N9"
   },
   {
     "brand": "Tecno",
@@ -72727,6 +73789,12 @@
   },
   {
     "brand": "Tele2",
+    "name": "Tele2 Mini 1.1",
+    "device": "Tele2_Mini_1_1",
+    "model": "Tele2_Mini_1.1"
+  },
+  {
+    "brand": "Tele2",
     "name": "Tele2fon V4",
     "device": "Tele2fon_v4",
     "model": "Tele2fon v4"
@@ -72787,6 +73855,18 @@
   },
   {
     "brand": "Telenor",
+    "name": "Infinity_a",
+    "device": "Telenor_Infinity_a",
+    "model": "Infinity_a"
+  },
+  {
+    "brand": "Telenor",
+    "name": "Infinity_e",
+    "device": "Telenor_Infinity_e",
+    "model": "Infinity_e"
+  },
+  {
+    "brand": "Telenor",
     "name": "Infinity_i",
     "device": "TELENOR_Infinity_i",
     "model": "Infinity i"
@@ -72802,6 +73882,12 @@
     "name": "Telenor Smart4G",
     "device": "Telenor_Smart_4G",
     "model": "Telenor_Smart_4G"
+  },
+  {
+    "brand": "TellyTablet",
+    "name": "VM_MD_001",
+    "device": "VM_MD_001",
+    "model": "VM_MD_001"
   },
   {
     "brand": "Tesco",
@@ -72832,6 +73918,12 @@
     "name": "hudl 2",
     "device": "HTF8A4",
     "model": "Hudl 2"
+  },
+  {
+    "brand": "Tetratab",
+    "name": "TF10EA2",
+    "device": "TF10EA2_Medical_1",
+    "model": "CASEBOOK_3"
   },
   {
     "brand": "Thinpad",
@@ -73273,6 +74365,12 @@
   },
   {
     "brand": "Trimble Navigation",
+    "name": "TDI 600",
+    "device": "ulmo_pro",
+    "model": "TDI 600"
+  },
+  {
+    "brand": "Trimble Navigation",
     "name": "Trimble ConnectedTablet",
     "device": "MS5",
     "model": "MS5"
@@ -73327,9 +74425,27 @@
   },
   {
     "brand": "True",
+    "name": "SMART 4G Octa 5.5",
+    "device": "M636T",
+    "model": "SMART 4G Octa 5.5"
+  },
+  {
+    "brand": "True",
     "name": "SMART TAB 4G M1",
     "device": "SMART_TAB_4G_M1",
     "model": "SMART TAB 4G M1"
+  },
+  {
+    "brand": "True",
+    "name": "TRUE SMART 4G M1",
+    "device": "SMART_4G_M1",
+    "model": "SMART 4G M1"
+  },
+  {
+    "brand": "True",
+    "name": "TRUE SMART 4G M1 Plus",
+    "device": "SMART_4G_M1_Plus",
+    "model": "SMART 4G M1 Plus"
   },
   {
     "brand": "Tunisie Telecom",
@@ -73470,6 +74586,12 @@
     "model": "V.35"
   },
   {
+    "brand": "VT",
+    "name": "MB300",
+    "device": "MB300",
+    "model": "SmartTV"
+  },
+  {
     "brand": "Vaxcare",
     "name": "VAX114",
     "device": "VAX114",
@@ -73600,12 +74722,6 @@
     "name": "Farabi",
     "device": "frb3g",
     "model": "Farabi"
-  },
-  {
-    "brand": "Vestel",
-    "name": "MB300",
-    "device": "MB300",
-    "model": "SmartTV"
   },
   {
     "brand": "Vestel",
@@ -73939,6 +75055,12 @@
   },
   {
     "brand": "ViewSonic",
+    "name": "ViewPad I7M",
+    "device": "VIEWPAD",
+    "model": "VIEWPAD I7M"
+  },
+  {
+    "brand": "ViewSonic",
     "name": "ViewPad IR7Q",
     "device": "IR7Q",
     "model": "IR7Q"
@@ -74095,6 +75217,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo X5Max",
+    "device": "X5Max",
+    "model": "vivo X5Max"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo  X7",
     "device": "PD1602",
     "model": "vivo X7"
@@ -74104,6 +75232,12 @@
     "name": "vivo 1601",
     "device": "1601",
     "model": "vivo 1601"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo 1609",
+    "device": "1609",
+    "model": "vivo 1609"
   },
   {
     "brand": "Vivo",
@@ -74419,6 +75553,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo Y67",
+    "device": "PD1612",
+    "model": "vivo Y67"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo Y937",
     "device": "PD1503",
     "model": "vivo Y937"
@@ -74571,6 +75711,12 @@
     "brand": "Vodafone",
     "name": "Vodafone Smart ultra 7",
     "device": "VFD700",
+    "model": "Maxis VFD700"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone Smart ultra 7",
+    "device": "VFD700",
     "model": "VFD 700"
   },
   {
@@ -74662,6 +75808,18 @@
     "name": "Pluri Q8 A6",
     "device": "Pluri_Q8",
     "model": "Pluri_Q8"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Volt S",
+    "device": "Volt_S",
+    "model": "Volt S"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Volt_X",
+    "device": "Volt_X",
+    "model": "Volt_X"
   },
   {
     "brand": "Vonino",
@@ -75308,8 +76466,20 @@
   {
     "brand": "Wiko",
     "name": "SUNNY",
+    "device": "V2508AN01D",
+    "model": "SUNNY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "SUNNY",
     "device": "v2508",
     "model": "SUNNY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "SUNNY MAX",
+    "device": "v2520",
+    "model": "SUNNY MAX"
   },
   {
     "brand": "Wiko",
@@ -75327,6 +76497,12 @@
     "brand": "Wiko",
     "name": "TOMMY",
     "device": "P4901AC",
+    "model": "TOMMY"
+  },
+  {
+    "brand": "Wiko",
+    "name": "TOMMY",
+    "device": "P4903LA",
     "model": "TOMMY"
   },
   {
@@ -75892,6 +77068,18 @@
     "name": "Redmi Note 3",
     "device": "kenzo",
     "model": "Redmi Note 3"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 4",
+    "device": "mido",
+    "model": "Redmi Note 4"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 4",
+    "device": "mido",
+    "model": "Redmi Note 4X"
   },
   {
     "brand": "Xiaomi",
@@ -77335,6 +78523,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "AXON 7 mini",
+    "device": "msm8952_64",
+    "model": "AXON 7 mini"
+  },
+  {
+    "brand": "ZTE",
     "name": "AXON WATCH",
     "device": "rolex",
     "model": "AXON WATCH"
@@ -77494,6 +78688,18 @@
     "name": "BLADE A510",
     "device": "P635A50",
     "model": "Blade A510"
+  },
+  {
+    "brand": "ZTE",
+    "name": "BLADE A610",
+    "device": "ZTE_BLADE_A610",
+    "model": "BLADE A610"
+  },
+  {
+    "brand": "ZTE",
+    "name": "BLADE A910",
+    "device": "P635A31",
+    "model": "BLADE A910"
   },
   {
     "brand": "ZTE",
@@ -77722,6 +78928,18 @@
     "name": "Blade A475",
     "device": "ZTE_Blade_A475",
     "model": "ZTE Blade L4 Pro"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade A510",
+    "device": "P635A50",
+    "model": "Blade A510"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Blade A510",
+    "device": "ZTE_BLADE_A601",
+    "model": "ZTE BLADE A601"
   },
   {
     "brand": "ZTE",
@@ -77956,6 +79174,12 @@
     "name": "ConeXis A1",
     "device": "ZTE_BLADE_L110",
     "model": "ConeXis A1"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ConeXis X1",
+    "device": "P809F52",
+    "model": "ConeXis X1"
   },
   {
     "brand": "ZTE",
@@ -78739,6 +79963,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "NX549J",
+    "device": "NX549J",
+    "model": "NX549J"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX601J",
     "device": "NX601J",
     "model": "NX601J"
@@ -78772,12 +80002,6 @@
     "name": "Orange Monte Carlo",
     "device": "skate",
     "model": "Orange Monte Carlo"
-  },
-  {
-    "brand": "ZTE",
-    "name": "Orange Neva 80",
-    "device": "Orange_Neva_80",
-    "model": "Orange Neva 80"
   },
   {
     "brand": "ZTE",
@@ -79669,6 +80893,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z833",
+    "device": "camellia",
+    "model": "Z833"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z850",
     "device": "sif",
     "model": "Z850"
@@ -79684,6 +80914,18 @@
     "name": "Z862VL",
     "device": "captain",
     "model": "Z862VL"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z916BL",
+    "device": "red",
+    "model": "Z916BL"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z917VL",
+    "device": "fortune",
+    "model": "Z917VL"
   },
   {
     "brand": "ZTE",
@@ -79714,6 +80956,12 @@
     "name": "Z955L",
     "device": "leo",
     "model": "Z955L"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z956",
+    "device": "financier",
+    "model": "Z956"
   },
   {
     "brand": "ZTE",
@@ -79786,6 +81034,12 @@
     "name": "Z998",
     "device": "coeus",
     "model": "Z998"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZPAD",
+    "device": "gevjon",
+    "model": "K90U"
   },
   {
     "brand": "ZTE",
@@ -79885,6 +81139,24 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BA611C",
+    "device": "P635N40",
+    "model": "ZTE BA611C"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA611T",
+    "device": "P635T40",
+    "model": "ZTE BA611T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BA611T",
+    "device": "V_P635T40",
+    "model": "ZTE BA611T"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BA910",
     "device": "P653N31",
     "model": "ZTE BA910"
@@ -79945,6 +81217,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE A610C",
+    "device": "P635F50",
+    "model": "ZTE BLADE A610C"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A910",
     "device": "P635A31",
     "model": "ZTE BLADE A910"
@@ -79993,6 +81271,18 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE L111",
+    "device": "ZTE_BLADE_L110",
+    "model": "ZTE BLADE L111"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE L5 PLUS",
+    "device": "P680A20",
+    "model": "ZTE BLADE L5 PLUS"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE V0710",
     "device": "ZTE_BLADE_V0710",
     "model": "ZTE BLADE V0710"
@@ -80002,6 +81292,12 @@
     "name": "ZTE BLADE V0720",
     "device": "ZTE_BLADE_V0720",
     "model": "ZTE BLADE V0720"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE V0730",
+    "device": "ZTE_BLADE_V0730",
+    "model": "ZTE BLADE V0730"
   },
   {
     "brand": "ZTE",
@@ -80020,6 +81316,12 @@
     "name": "ZTE BLADE V7 LITE",
     "device": "ZTE_BLADE_V0720",
     "model": "ZTE BLADE V7 LITE"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE V7 PLUS",
+    "device": "P653A11",
+    "model": "ZTE BLADE V7 PLUS"
   },
   {
     "brand": "ZTE",
@@ -80050,6 +81352,12 @@
     "name": "ZTE BV0720T",
     "device": "P650A30",
     "model": "ZTE BV0720T"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BV0730",
+    "device": "P650A31",
+    "model": "ZTE BV0730"
   },
   {
     "brand": "ZTE",
@@ -80146,6 +81454,12 @@
     "name": "ZTE Blade A476",
     "device": "ZTE_Blade_A476",
     "model": "ZTE Blade A476"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A511",
+    "device": "ZTE_Blade_A511",
+    "model": "ZTE Blade A511"
   },
   {
     "brand": "ZTE",
@@ -80593,9 +81907,27 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Bland A610",
+    "device": "ZTE_BLADE_A610",
+    "model": "ZTE BLADE A610"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Bland A610",
+    "device": "ZTE_BLADE_A610",
+    "model": "ZTE Blade A610"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE C2016",
     "device": "orchid",
     "model": "ZTE C2016"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE C2017",
+    "device": "alice",
+    "model": "ZTE C2017"
   },
   {
     "brand": "ZTE",
@@ -82453,6 +83785,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Z10",
+    "device": "P817E52",
+    "model": "ZTE Z10"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Z932L",
     "device": "warplte",
     "model": "Z932L"
@@ -82462,6 +83800,12 @@
     "name": "ZTE Z932L",
     "device": "warplte",
     "model": "ZTE Z932L"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Zmax 3",
+    "device": "dandelion",
+    "model": "Z978"
   },
   {
     "brand": "ZTE",
@@ -82957,6 +84301,12 @@
   },
   {
     "brand": "bq",
+    "name": "Aquaris M10 4G",
+    "device": "FREEZERLTE",
+    "model": "Aquaris M10 4G"
+  },
+  {
+    "brand": "bq",
     "name": "Aquaris M10 FHD",
     "device": "Aquaris_M10_FHD",
     "model": "Aquaris M10 FHD"
@@ -82996,6 +84346,12 @@
     "name": "Aquaris U Plus",
     "device": "tenshi",
     "model": "Aquaris U Plus"
+  },
+  {
+    "brand": "bq",
+    "name": "Aquaris U lite",
+    "device": "chaozulite",
+    "model": "Aquaris U Lite"
   },
   {
     "brand": "bq",
