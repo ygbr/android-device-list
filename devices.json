@@ -5461,6 +5461,12 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone AR",
+    "device": "ASUS_A002",
+    "model": "ASUS_A002"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone GO",
     "device": "ASUS_X013D_1",
     "model": "ASUS_X013DA"
@@ -7762,6 +7768,12 @@
     "name": "Smart Outdoor Watch WSD-F10",
     "device": "koi",
     "model": "CASIO WSD-F10"
+  },
+  {
+    "brand": "Casio",
+    "name": "WSD-F20",
+    "device": "ayu",
+    "model": "CASIO WSD-F20S"
   },
   {
     "brand": "Casper",
@@ -12423,6 +12435,12 @@
     "brand": "Fossil",
     "name": "Q Wander / Q Founder / Bradshaw / Dylan",
     "device": "gar",
+    "model": "Bradshaw"
+  },
+  {
+    "brand": "Fossil",
+    "name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "device": "gar",
     "model": "Q Marshal"
   },
   {
@@ -14131,6 +14149,12 @@
   },
   {
     "brand": "Gionee",
+    "name": "F106L",
+    "device": "GIONEE_SW17G03",
+    "model": "F106L"
+  },
+  {
+    "brand": "Gionee",
     "name": "F301",
     "device": "F301",
     "model": "F301"
@@ -14299,6 +14323,12 @@
   },
   {
     "brand": "Gionee",
+    "name": "M2017",
+    "device": "GIONEE_GBL8918",
+    "model": "M2017"
+  },
+  {
+    "brand": "Gionee",
     "name": "M2mini",
     "device": "GiONEE_WBW5612",
     "model": "M2mini"
@@ -14398,6 +14428,18 @@
     "name": "M6 mirror",
     "device": "GIONEE_WBL7372",
     "model": "M6 mirror"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6SLPlus",
+    "device": "GIONEE_G1602A",
+    "model": "M6SLPlus"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6SPlus",
+    "device": "GIONEE_G1602A",
+    "model": "M6SPlus"
   },
   {
     "brand": "Gionee",
@@ -15823,12 +15865,6 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC D10i",
-    "device": "htc_a56dj_pro_dugl",
-    "model": "HTC_D10i"
-  },
-  {
-    "brand": "HTC",
     "name": "HTC D10w",
     "device": "htc_a56dj_pro_dtwl",
     "model": "HTC D10w"
@@ -15949,12 +15985,6 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC Desire 10",
-    "device": "htc_a56dj_pro_dugl",
-    "model": "HTC Desire 10 pro"
-  },
-  {
-    "brand": "HTC",
     "name": "HTC Desire 10 lifestyle",
     "device": "htc_a56djdugl",
     "model": "HTC Desire 10 lifestyle"
@@ -15988,6 +16018,12 @@
     "name": "HTC Desire 10 pro",
     "device": "htc_a56dj_pro_dugl",
     "model": "HTC Desire 10 pro"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 10 pro",
+    "device": "htc_a56dj_pro_dugl",
+    "model": "HTC_D10i"
   },
   {
     "brand": "HTC",
@@ -23276,12 +23312,6 @@
   {
     "brand": "Huawei",
     "name": "",
-    "device": "hws7930u",
-    "model": "MediaPad 7 Lite"
-  },
-  {
-    "brand": "Huawei",
-    "name": "",
     "device": "hws7930w",
     "model": "MediaPad 7 Lite"
   },
@@ -25747,6 +25777,30 @@
   },
   {
     "brand": "Huawei",
+    "name": "HUAWEI MediaPad 7 Lite",
+    "device": "hws7930u",
+    "model": "MediaPad 7 Lite"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MediaPad 7 Lite Quad",
+    "device": "hws7961w",
+    "model": "Telpad QS"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MediaPad 7 Lite Quad",
+    "device": "hws7961w",
+    "model": "Telpad Quad S"
+  },
+  {
+    "brand": "Huawei",
+    "name": "HUAWEI MediaPad 7 Vogue",
+    "device": "hws7601us",
+    "model": "MediaPad 7 Vogue"
+  },
+  {
+    "brand": "Huawei",
     "name": "HUAWEI MediaPad 7 Youth2",
     "device": "hws7721u",
     "model": "MediaPad 7 Youth 2"
@@ -26809,6 +26863,24 @@
   },
   {
     "brand": "Huawei",
+    "name": "Huawei MediaPad T2 10.0 Pro",
+    "device": "hwfdr",
+    "model": "605HW"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Huawei MediaPad T2 10.0 Pro",
+    "device": "hwfdr",
+    "model": "606HW"
+  },
+  {
+    "brand": "Huawei",
+    "name": "Huawei MediaPad T2 10.0 Pro",
+    "device": "hwfdr",
+    "model": "FDR-A05L"
+  },
+  {
+    "brand": "Huawei",
     "name": "Huawei P9 Lite PREMIUM",
     "device": "HWVNS-Q",
     "model": "HUAWEI VNS-L52"
@@ -27266,12 +27338,6 @@
   {
     "brand": "Huawei",
     "name": "MediaPad7",
-    "device": "hws7601us",
-    "model": "MediaPad 7 Vogue"
-  },
-  {
-    "brand": "Huawei",
-    "name": "MediaPad7",
     "device": "hws7601w",
     "model": "MediaPad 7 Vogue"
   },
@@ -27694,18 +27760,6 @@
     "name": "S7",
     "device": "hws7951w",
     "model": "Telpad Dual S"
-  },
-  {
-    "brand": "Huawei",
-    "name": "S7",
-    "device": "hws7961w",
-    "model": "Telpad QS"
-  },
-  {
-    "brand": "Huawei",
-    "name": "S7",
-    "device": "hws7961w",
-    "model": "Telpad Quad S"
   },
   {
     "brand": "Huawei",
@@ -33439,6 +33493,12 @@
   },
   {
     "brand": "LGE",
+    "name": "K20 V",
+    "device": "lv517",
+    "model": "VS501"
+  },
+  {
+    "brand": "LGE",
     "name": "K4 (2017)",
     "device": "lv1",
     "model": "LGL57BL"
@@ -34825,6 +34885,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG GRACE\\xe2\\x84\\xa2 LTE",
+    "device": "lv517",
+    "model": "LGL59BL"
+  },
+  {
+    "brand": "LGE",
     "name": "LG Gentle",
     "device": "cfm",
     "model": "LG-F660L"
@@ -34928,7 +34994,19 @@
   {
     "brand": "LGE",
     "name": "LG K10 (2017)",
+    "device": "lv517",
+    "model": "LG-M257PR"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K10 (2017)",
     "device": "mlv5",
+    "model": "LG-M250"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K10 (2017)",
+    "device": "mlv5n",
     "model": "LG-M250"
   },
   {
@@ -34942,6 +35020,18 @@
     "name": "LG K10 LTE",
     "device": "m253n",
     "model": "LG-K430"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K20 Plus",
+    "device": "lv517",
+    "model": "LG-TP260"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K20 Plus",
+    "device": "lv517",
+    "model": "LGMP260"
   },
   {
     "brand": "LGE",
@@ -35008,6 +35098,12 @@
     "name": "LG K4/K7 (2017)",
     "device": "mlv1",
     "model": "LG-X230"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG K4/K7 (2017)",
+    "device": "mlv1",
+    "model": "LG-X230YK"
   },
   {
     "brand": "LGE",
@@ -55284,6 +55380,12 @@
     "model": "IMO_S"
   },
   {
+    "brand": "Ruggear",
+    "name": "RG730",
+    "device": "rg730",
+    "model": "RugGear RG730"
+  },
+  {
     "brand": "SAKAISIO",
     "name": "SAKAISIO FP-U320-711-WIFI",
     "device": "U320-WF",
@@ -67117,6 +67219,12 @@
   },
   {
     "brand": "Sharp",
+    "name": "LCD-40SF466A",
+    "device": "Lcd_40foc466a",
+    "model": "LCD_40FOC466A"
+  },
+  {
+    "brand": "Sharp",
     "name": "LCD-45SF460A",
     "device": "Lcd_45foc46a",
     "model": "LCD_45FOC46A"
@@ -67336,6 +67444,12 @@
     "name": "SHARP Z2",
     "device": "TSP",
     "model": "FS8002"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP Z3",
+    "device": "VN3N",
+    "model": "FS8009"
   },
   {
     "brand": "Sharp",
@@ -70540,6 +70654,12 @@
     "name": "JP SA COUTO, S.A. _MG070A2T",
     "device": "TA71CA5_1",
     "model": "TA71CA5"
+  },
+  {
+    "brand": "TAG Heuer",
+    "name": "TAG Heuer Connected",
+    "device": "anthracite",
+    "model": "TAG Heuer"
   },
   {
     "brand": "TAG Heuer",
@@ -78403,6 +78523,12 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo 1601",
+    "device": "1601",
+    "model": "vivo 1713"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo 1609",
     "device": "1609",
     "model": "vivo 1609"
@@ -78670,6 +78796,12 @@
     "name": "vivo Y31L",
     "device": "Y31L",
     "model": "vivo Y31L"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y31i",
+    "device": "Y31i",
+    "model": "vivo 1707"
   },
   {
     "brand": "Vivo",
@@ -80158,6 +80290,12 @@
     "name": "MI PAD",
     "device": "mocha",
     "model": "MI PAD"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MIBOX3",
+    "device": "once",
+    "model": "MIBOX3"
   },
   {
     "brand": "Xiaomi",
