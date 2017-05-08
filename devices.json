@@ -8491,6 +8491,12 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Flare P1 Plus",
+    "device": "Flare_P1_Plus",
+    "model": "Flare P1 Plus"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Flare S5",
     "device": "Flare_S5",
     "model": "Flare S5"
@@ -12757,6 +12763,12 @@
   },
   {
     "brand": "Fly",
+    "name": "Nimbus 15",
+    "device": "Nimbus_15",
+    "model": "FS457"
+  },
+  {
+    "brand": "Fly",
     "name": "Nimbus 7",
     "device": "Nimbus_7",
     "model": "FS505"
@@ -14452,6 +14464,12 @@
     "name": "A1",
     "device": "GIONEE_SWW1609",
     "model": "GIONEE A1"
+  },
+  {
+    "brand": "Gionee",
+    "name": "A1 Plus",
+    "device": "GIONEE_SWW1617",
+    "model": "A1 Plus"
   },
   {
     "brand": "Gionee",
@@ -31327,6 +31345,12 @@
   },
   {
     "brand": "Intex",
+    "name": "INTEX ELYT E7",
+    "device": "INTEX_ELYT_E7",
+    "model": "INTEX ELYT E7"
+  },
+  {
+    "brand": "Intex",
     "name": "INTEX_AQUA_4.0_4G",
     "device": "INTEX_AQUA_4_4G",
     "model": "INTEX_AQUA_4.0_4G"
@@ -41419,6 +41443,12 @@
   },
   {
     "brand": "Lenovo",
+    "name": "LAVIE Tab E",
+    "device": "X704F",
+    "model": "PC-TE510HAW"
+  },
+  {
+    "brand": "Lenovo",
     "name": "LIFETAB E10310",
     "device": "LIFETAB_E10310",
     "model": "LIFETAB_E10310"
@@ -43468,6 +43498,18 @@
     "name": "LenovoTAB2 A7-30DC",
     "device": "A7-30HC",
     "model": "Lenovo TAB 2 A7-30DC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "LenovoTB-X304F/Lenovo TAB4",
+    "device": "X304F",
+    "model": "Lenovo TB-X304F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "LenovoTB-X704F/Lenovo TAB4 10 Plus",
+    "device": "X704F",
+    "model": "Lenovo TB-X704F"
   },
   {
     "brand": "Lenovo",
@@ -46798,6 +46840,12 @@
     "name": "Monster M10",
     "device": "M10",
     "model": "M10"
+  },
+  {
+    "brand": "Montblanc",
+    "name": "SUMMIT",
+    "device": "lionfish",
+    "model": "MB SUMMIT"
   },
   {
     "brand": "Motorola",
@@ -50221,6 +50269,12 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia 3",
+    "device": "NE1",
+    "model": "TA-1020"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia 5",
     "device": "ND1",
     "model": "TA-1024"
@@ -50320,6 +50374,12 @@
     "name": "NUU X4",
     "device": "X4",
     "model": "X4"
+  },
+  {
+    "brand": "Nuu",
+    "name": "NUU X5",
+    "device": "NUU_X5",
+    "model": "NUU_X5"
   },
   {
     "brand": "Nuu",
@@ -60607,6 +60667,18 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy J7 Pro",
+    "device": "j7y17lte",
+    "model": "SM-J730G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J7 Pro",
+    "device": "j7y17lte",
+    "model": "SM-J730GM"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy J7(2015)",
     "device": "j7ltespr",
     "model": "SM-J700P"
@@ -69220,6 +69292,12 @@
     "name": "Smartfren AndromaxNC36B1H",
     "device": "NC36B1H",
     "model": "Smartfren Andromax NC36B1H"
+  },
+  {
+    "brand": "Smartron",
+    "name": "Srtphone",
+    "device": "rimo02a",
+    "model": "T5524"
   },
   {
     "brand": "Smartron",
@@ -80878,6 +80956,12 @@
     "name": "Jax_X_TM",
     "device": "JAX",
     "model": "Jax X"
+  },
+  {
+    "brand": "Vonino",
+    "name": "Magnet M1_A7",
+    "device": "Magnet_M1_A7",
+    "model": "Magnet M1"
   },
   {
     "brand": "Vonino",
