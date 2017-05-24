@@ -46,6 +46,7 @@
   "Azumi",
   "BKAV",
   "BMobile",
+  "BQru",
   "BYD",
   "Bang & Olufsen",
   "Barnes and Noble",
@@ -129,6 +130,7 @@
   "Dish",
   "Ditecma",
   "Ditigron",
+  "Docomo",
   "Doogee",
   "Dopo",
   "Doppio",
@@ -161,6 +163,7 @@
   "EveryPad2",
   "Eviant",
   "Evolio",
+  "Evolveo",
   "Explay",
   "FBC",
   "FaceVsion",
@@ -486,6 +489,7 @@
   "Spectralink",
   "Spice",
   "Sprint",
+  "StarMobile",
   "Storex",
   "Stream",
   "Sts-tottori",
@@ -620,5 +624,6 @@
   "pendo",
   "sugar_aums",
   "tecmobile",
-  "ucall"
+  "ucall",
+  "videocon"
 ]
