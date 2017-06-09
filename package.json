@@ -10,8 +10,7 @@
     "test": "ava && npm run jscs && npm run lint",
     "jscs": "jscs index.js build.js",
     "lint": "eslint index.js build.js",
-    "build": "node ./build.js",
-    "release": "npm test && npmversion -i patch --nogit-tag --git-push"
+    "build": "node ./build.js"
   },
   "author": "Peter Bakondy",
   "license": "MIT",
@@ -24,11 +23,11 @@
     "list"
   ],
   "devDependencies": {
-    "ava": "^0.18.2",
-    "axios": "^0.15.3",
+    "ava": "^0.19.1",
+    "axios": "^0.16.2",
     "babyparse": "^0.4.6",
-    "eslint": "^3.17.0",
-    "iconv-lite": "^0.4.15",
+    "eslint": "^3.19.0",
+    "iconv-lite": "^0.4.17",
     "jscs": "^3.0.7"
   },
   "repository": {
