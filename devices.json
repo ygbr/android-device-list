@@ -6498,6 +6498,12 @@
     "model": "BQru-5202"
   },
   {
+    "brand": "BQru",
+    "name": "BQru-5060",
+    "device": "BQru-5060",
+    "model": "BQru-5060"
+  },
+  {
     "brand": "BYD",
     "name": "DynaVox T10",
     "device": "T10",
@@ -11208,6 +11214,12 @@
     "model": "SL513"
   },
   {
+    "brand": "Doppio",
+    "name": "U500",
+    "device": "U500",
+    "model": "U500"
+  },
+  {
     "brand": "Doro",
     "name": "825A",
     "device": "825A",
@@ -14677,6 +14689,12 @@
   },
   {
     "brand": "Gini",
+    "name": "n8",
+    "device": "Gini_n8",
+    "model": "Gini n8"
+  },
+  {
+    "brand": "Gini",
     "name": "s4",
     "device": "s4",
     "model": "s4"
@@ -15288,6 +15306,12 @@
     "model": "W909"
   },
   {
+    "brand": "Gionee",
+    "name": "X1S",
+    "device": "GIONEE_SWW1627",
+    "model": "X1S"
+  },
+  {
     "brand": "GoClever",
     "name": "INSIGNIA 550i",
     "device": "INSIGNIA_550i",
@@ -15496,6 +15520,12 @@
     "name": "A770_XL7",
     "device": "A770_XL7",
     "model": "A770_XL7"
+  },
+  {
+    "brand": "Gtel",
+    "name": "X5plus",
+    "device": "Gtel_X5plus",
+    "model": "Gtel X5plus"
   },
   {
     "brand": "HANNSpree",
@@ -19809,6 +19839,12 @@
     "brand": "Haier",
     "name": "G7",
     "device": "HM-G552-FL",
+    "model": "G7"
+  },
+  {
+    "brand": "Haier",
+    "name": "G7",
+    "device": "HM-G552-FL",
     "model": "HM-G552-FL"
   },
   {
@@ -21850,6 +21886,12 @@
     "name": "Hisense F10",
     "device": "HS6737MT",
     "model": "Hisense F10"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense F10",
+    "device": "HS6737MT",
+    "model": "RIVIERA F10"
   },
   {
     "brand": "Hisense",
@@ -31033,6 +31075,12 @@
   },
   {
     "brand": "Infocus",
+    "name": "IF9001",
+    "device": "AA2",
+    "model": "IF9001"
+  },
+  {
+    "brand": "Infocus",
     "name": "IN610",
     "device": "MG2",
     "model": "IN610"
@@ -32614,6 +32662,12 @@
     "name": "Kapsys SmartVision2",
     "device": "r889",
     "model": "KAP11000"
+  },
+  {
+    "brand": "Karbonn",
+    "name": "A40 Indian",
+    "device": "A40_Indian",
+    "model": "A40 Indian"
   },
   {
     "brand": "Karbonn",
@@ -35605,6 +35659,12 @@
   },
   {
     "brand": "LGE",
+    "name": "LG G Pad IV 8.0",
+    "device": "tf840",
+    "model": "LG-V533"
+  },
+  {
+    "brand": "LGE",
     "name": "LG G Pad X 8.0",
     "device": "b3",
     "model": "LG-V521"
@@ -37822,6 +37882,12 @@
     "name": "LG Stylo 2 Plus",
     "device": "ph2n",
     "model": "LGMS550"
+  },
+  {
+    "brand": "LGE",
+    "name": "LG Stylo 3 Plus",
+    "device": "sf340n",
+    "model": "LG-M470"
   },
   {
     "brand": "LGE",
@@ -46849,6 +46915,12 @@
   },
   {
     "brand": "Micromax",
+    "name": "Micromax Bharat 2",
+    "device": "Q402",
+    "model": "Micromax Q402"
+  },
+  {
+    "brand": "Micromax",
     "name": "Micromax Bolt",
     "device": "A064",
     "model": "Micromax A064"
@@ -47224,6 +47296,12 @@
     "name": "SHIFT",
     "device": "SHIFT",
     "model": "SHIFT"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "SWITCH",
+    "device": "SWITCH",
+    "model": "SWITCH"
   },
   {
     "brand": "Mobicell",
@@ -51151,6 +51229,12 @@
   },
   {
     "brand": "Nuvision",
+    "name": "TM101A730M",
+    "device": "TM101AM",
+    "model": "TM101A730M"
+  },
+  {
+    "brand": "Nuvision",
     "name": "TM106A510L",
     "device": "TM106A510L",
     "model": "TM106A510L"
@@ -51202,6 +51286,12 @@
     "name": "TM800A550L",
     "device": "TM800A550L",
     "model": "TM800A550L"
+  },
+  {
+    "brand": "Nuvision",
+    "name": "TM800A730M",
+    "device": "TM800AM",
+    "model": "TM800A730M"
   },
   {
     "brand": "Nyx mobile",
@@ -55639,6 +55729,18 @@
   },
   {
     "brand": "Positivo",
+    "name": "Twist Mini",
+    "device": "S430B",
+    "model": "Twist Mini"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Twist XL",
+    "device": "S555",
+    "model": "Twist XL"
+  },
+  {
+    "brand": "Positivo",
     "name": "Y1000",
     "device": "Y1000",
     "model": "Y1000"
@@ -56815,6 +56917,18 @@
   },
   {
     "brand": "QMobile",
+    "name": "LT500 PRO",
+    "device": "QMobile_LT500_PRO",
+    "model": "LT500 PRO"
+  },
+  {
+    "brand": "QMobile",
+    "name": "LT600 PRO",
+    "device": "QMobile_LT600_PRO",
+    "model": "QMobile_LT600_PRO"
+  },
+  {
+    "brand": "QMobile",
     "name": "LT650",
     "device": "LT650",
     "model": "LT650"
@@ -57169,6 +57283,12 @@
   },
   {
     "brand": "Quantum",
+    "name": "Go 2",
+    "device": "Q19",
+    "model": "GO 2"
+  },
+  {
+    "brand": "Quantum",
     "name": "MUV UP",
     "device": "Q13",
     "model": "Quantum MUV UP"
@@ -57226,6 +57346,24 @@
     "name": "Twist Neo",
     "device": "S501",
     "model": "twist neo"
+  },
+  {
+    "brand": "Quantum",
+    "name": "You",
+    "device": "Q17",
+    "model": "Quantum You"
+  },
+  {
+    "brand": "Quantum",
+    "name": "You",
+    "device": "Q17",
+    "model": "You"
+  },
+  {
+    "brand": "Quantum",
+    "name": "You L",
+    "device": "Q11",
+    "model": "You L"
   },
   {
     "brand": "RAINBOW",
@@ -57286,6 +57424,12 @@
     "name": "7 Mercury",
     "device": "RCT6673W43M",
     "model": "RCT6673W43M"
+  },
+  {
+    "brand": "RCA",
+    "name": "7 Voyager",
+    "device": "RCT6873W42",
+    "model": "RCT6873W42"
   },
   {
     "brand": "RCA",
@@ -57370,6 +57514,12 @@
     "name": "RCA RCT6691W3",
     "device": "RCT6691W3",
     "model": "RCT6691W3"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA RCT6973W43",
+    "device": "RCT6973W43",
+    "model": "RCT6973W43"
   },
   {
     "brand": "RCA",
@@ -61160,6 +61310,12 @@
   {
     "brand": "Samsung",
     "name": "Galaxy J3 Pop",
+    "device": "j3popeltetfntmo",
+    "model": "SM-S337TL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3 Pop",
     "device": "j3popeltetmo",
     "model": "SM-J327T"
   },
@@ -61174,6 +61330,12 @@
     "name": "Galaxy J3 Pop",
     "device": "j3popltetfnvzw",
     "model": "SM-S327VL"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy J3 Pop",
+    "device": "j3poplteusc",
+    "model": "SM-J327R4"
   },
   {
     "brand": "Samsung",
@@ -67138,6 +67300,12 @@
     "name": "Galaxy Tab S3",
     "device": "gts3lltekx",
     "model": "SM-T825N0"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S3",
+    "device": "gts3llteusc",
+    "model": "SM-T827R4"
   },
   {
     "brand": "Samsung",
@@ -76765,6 +76933,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "Alcatel_9026S",
+    "device": "Pixi5-10_4G",
+    "model": "Alcatel 9026S"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "Alcatel_one_touch_918_Orange",
     "device": "one_touch_918_gsm",
     "model": "Alcatel_one_touch_918_Orange"
@@ -79207,6 +79381,12 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "tbd",
+    "device": "Mickey6TFUMTS",
+    "model": "A576BL"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "tmn smarta8",
     "device": "ONE_TOUCH_991D_gsm",
     "model": "moche smart a8"
@@ -79558,6 +79738,12 @@
     "name": "TECNO S1",
     "device": "TECNO-S1",
     "model": "TECNO S1M"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO S6S",
+    "device": "TECNO-S6S",
+    "model": "TECNO S6S"
   },
   {
     "brand": "Tecno",
@@ -79984,6 +80170,18 @@
     "name": "VP73_Telefunken",
     "device": "Telefunken",
     "model": "VP73_Telefunken"
+  },
+  {
+    "brand": "Telenor",
+    "name": "Infinity a2",
+    "device": "b3680",
+    "model": "Infinity_a2"
+  },
+  {
+    "brand": "Telenor",
+    "name": "Infinity e2",
+    "device": "i6379",
+    "model": "Infinity_e2"
   },
   {
     "brand": "Telenor",
@@ -80857,13 +81055,25 @@
   },
   {
     "brand": "Verizon Wireless",
+    "name": "Ellipsis 8 HD",
+    "device": "QTASUN1",
+    "model": "QTASUN1"
+  },
+  {
+    "brand": "Verizon Wireless",
+    "name": "Ellipsis 8 HD",
+    "device": "QTASUN1",
+    "model": "QTASUN2"
+  },
+  {
+    "brand": "Verizon Wireless",
     "name": "Ellipsis \\xc2\\xae 10 HD",
     "device": "QTAXIA1",
     "model": "QTAXIA1"
   },
   {
     "brand": "Verizon Wireless",
-    "name": "Gizo Tab",
+    "name": "Gizmo Tab",
     "device": "QTASUN2",
     "model": "QTASUN2"
   },
@@ -80874,22 +81084,16 @@
     "model": "QTAQZ3KID"
   },
   {
-    "brand": "Verizon Wireless",
-    "name": "TBD",
-    "device": "QTASUN1",
-    "model": "QTASUN1"
-  },
-  {
-    "brand": "Verizon Wireless",
-    "name": "TBD",
-    "device": "QTASUN1",
-    "model": "QTASUN2"
-  },
-  {
     "brand": "Verssed",
     "name": "FW8977-ED",
     "device": "FW8977-ED",
     "model": "FW8977-ED"
+  },
+  {
+    "brand": "Vertex",
+    "name": "Impress Saturn",
+    "device": "Impress_Saturn",
+    "model": "Impress_Saturn"
   },
   {
     "brand": "Vertu",
@@ -81064,6 +81268,12 @@
     "name": "V TAB 7025",
     "device": "V_TAB_7025",
     "model": "V_TAB_7025"
+  },
+  {
+    "brand": "Vestel",
+    "name": "V TAB 7810",
+    "device": "V_TAB_7810",
+    "model": "V_TAB_7810"
   },
   {
     "brand": "Vestel",
@@ -82219,6 +82429,12 @@
   },
   {
     "brand": "Vonino",
+    "name": "Pluri B7",
+    "device": "Pluri_B7",
+    "model": "Pluri B7"
+  },
+  {
+    "brand": "Vonino",
     "name": "Pluri M7",
     "device": "Pluri_M7",
     "model": "Pluri_M7"
@@ -82693,6 +82909,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "JERRY2",
+    "device": "v2610",
+    "model": "JERRY2"
+  },
+  {
+    "brand": "Wiko",
     "name": "JIMMY",
     "device": "s4300ae",
     "model": "JIMMY"
@@ -82987,6 +83209,12 @@
   },
   {
     "brand": "Wiko",
+    "name": "SUNNY2",
+    "device": "v2510",
+    "model": "SUNNY2"
+  },
+  {
+    "brand": "Wiko",
     "name": "SUNSET",
     "device": "s4011",
     "model": "SUNSET"
@@ -83013,6 +83241,12 @@
     "brand": "Wiko",
     "name": "TOMMY2",
     "device": "V3931AC",
+    "model": "TOMMY2"
+  },
+  {
+    "brand": "Wiko",
+    "name": "TOMMY2",
+    "device": "V3933AC",
     "model": "TOMMY2"
   },
   {
@@ -83092,6 +83326,12 @@
     "name": "WAX",
     "device": "s8515",
     "model": "WAX"
+  },
+  {
+    "brand": "Wiko",
+    "name": "WIM Lite",
+    "device": "p6901",
+    "model": "WIM Lite"
   },
   {
     "brand": "Wileyfox",
@@ -85789,6 +86029,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade X Max",
+    "device": "stollen",
+    "model": "Z983"
+  },
+  {
+    "brand": "ZTE",
     "name": "Bolton",
     "device": "florist",
     "model": "Z986DL"
@@ -85864,6 +86110,12 @@
     "name": "Dialog Q143L",
     "device": "frosty",
     "model": "Dialog Q143L"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Extreme E8",
+    "device": "P635A31",
+    "model": "Extreme E8"
   },
   {
     "brand": "ZTE",
@@ -87703,6 +87955,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z957",
+    "device": "financier",
+    "model": "Z957"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z958",
     "device": "lol",
     "model": "Z958"
@@ -87973,6 +88231,12 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE A320",
+    "device": "P809F20",
+    "model": "ZTE BLADE A320"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A506",
     "device": "P809F52",
     "model": "ZTE BLADE A506"
@@ -87994,6 +88258,12 @@
     "name": "ZTE BLADE A520",
     "device": "P637F10",
     "model": "ZTE BLADE A520"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE BLADE A521",
+    "device": "P809F10",
+    "model": "ZTE BLADE A521"
   },
   {
     "brand": "ZTE",
