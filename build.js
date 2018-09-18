@@ -104,7 +104,7 @@ function cleanup ( str ) {
   if ( !str ) {
     return str;
   }
-  return str.replace( /\\\'/g, '\'' ).replace( /\\t/g, '' ).trim();
+  return str.replace( /\\'/g, '\'' ).replace( /\\t/g, '' ).trim();
 }
 
 
